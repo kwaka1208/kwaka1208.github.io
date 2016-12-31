@@ -1,0 +1,33 @@
+---
+id: 237
+title: PDFの活用を(世の中Officeユーザーばかりじゃない!!)
+date: 2013-01-07T17:50:30+00:00
+author: kwaka1208
+layout: post
+guid: http://kwaka1208.net/?p=237
+permalink: /we-need-common-format/
+image:
+  - ""
+seo_follow:
+  - 'false'
+seo_noindex:
+  - 'false'
+attitude_sidebarlayout:
+  - default
+categories:
+  - voice
+---
+<img src="http://kwaka1208.net/wp-content/uploads/2012/12/small_2631535001.jpg" alt="Resume" width="240" height="240" class="alignnone size-full wp-image-238" />
+photo credit: Olivier Charavel via <a href="http://photopin.com">photopin</a><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+
+自分の今の状況が状況なこともあって ;-) 色んな書類の様式をダウンロードして使うことがあるのですが、それらは大体Microsoft OfficeのWordかExcelのデータ。
+
+自分、Macユーザーなのでそれは非常に困ります。なんとかファイルを開くことは出来ますが、レイアウトは崩れまくりなので、印刷して使うことも出来ない。
+
+自分の場合は、VMWare Fusion + Windows7の環境も入れているので、Windowsで編集するなり一旦PDFにしてMacで開いてもレイアウトが崩れないようにすることはできるのですが、純粋にMacユーザーな方は困りますよね。
+
+WindowsでもMacでも完全に同じものが再現できる文書作成環境ってのが理想ではあるんだけど、それは難しいのでせめてPDFという選択肢も用意して欲しいと切に願います。こういうのも担当されてる方のリテラシーによるので
+
+というわけで、就職活動をされているMacユーザーの方のためにMac用ワープロソフト"Pages"用とPDF版の履歴書の様式を公開します。一応JIS規格として市販されている履歴書から採寸して項目も合わせているので、PCで作成した履歴書も受け付ける企業には提出できると思います。自由にお使いください。
+
+<a href="https://www.dropbox.com/sh/vjcb8q34llu7m1p/-etr3HZ6eL">様式のダウンロードページへ</a>
