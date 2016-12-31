@@ -3,14 +3,14 @@ title: "crossroads"
 title2: "" # default: ""
 description: "作り手と使い手を繋ぐ"
 keywords: "UX, IU, Interface, CoderDojo, Scratch"
-url: http://kwaka1208.github.io # site url
+url: http://kwaka1208.net # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-36921937-1
 repo: http://github.com/kwaka1208/kwaka1208.github.io
 twitter_username: "kwaka1208"
-comments: true 
+comments: false 
 
 # Build settings
 permalink   : /:year/:title/
@@ -28,10 +28,10 @@ sass:
 # Author settings
 author:
   name     : "Wakabayashi, Kenichi"
-  job      : "R&D Software Engineer"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
+  job      : "Software Engineer"
+  bio      : ""
   thumb    : /assets/images/author.png
-  url      : http://kwaka1208.github.io
+  url      : http://kwaka1208.net
   github   : http://github.com/kwaka1208
   twitter  : http://twitter.com/kwaka1208
   facebook : https://www.facebook.com/kwaka1208
@@ -40,7 +40,7 @@ author:
 # social settings
 og_locale: "ja_JP"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "@kwaka1208"
 
 gems:
   - bourbon
