@@ -20,7 +20,7 @@ tags:
   - 容量
   - 違い
 ---
-<img class="alignnone size-full wp-image-1184" alt="desk" src="http://kwaka1208.net/wp-content/uploads/2014/02/medium_4278899378.jpg" width="500" height="353" />
+<img class="alignnone size-full wp-image-1184" alt="desk" src="/assets/images/2014/02/medium_4278899378.jpg" width="500" height="353" />
 
 パソコンを買う時によく見る用語で「ハードディスク」とか「メモリ」という言葉がありますが、どちらも「何ギガバイト」と表現されるので、違いがよくわからない方も多いようです。
 

@@ -41,18 +41,18 @@ Googleアカウントに対する二段階認証を設定することで本人�
 <a href="https://accounts.google.com/b/0/IssuedAuthSubTokens?hl=ja">Googleのアカウント情報画面</a>
 
 最初に、"接続済みのサイト、アプリケーション、サービス"という項目があって、その下に、"<span class="emphasis">アプリケーション固有のパスワード</span>"という項目があります。以下のような画面です。(画像をクリックすると大きな画像が表示されます。)
-<a href="http://kwaka1208.net/wp-content/uploads/2012/12/uniqpass1.png"><img class="sample-image" src="http://kwaka1208.net/wp-content/uploads/2012/12/uniqpass1-620x226.png" alt="アプリケーション固有のパスワード" width="620" height="226" /></a>
+<a href="/assets/images/2012/12/uniqpass1.png"><img class="sample-image" src="/assets/images/2012/12/uniqpass1-620x226.png" alt="アプリケーション固有のパスワード" width="620" height="226" /></a>
 
 <h3>2.アプリケーションの名前を入力する</h3>
 "<span class="emphasis">ステップ 1/2: 新しいアプリケーション固有のパスワードを生成する</span>"欄の中に名前を入れるところがあります。この中に利用するアプリケーションの名前を入力してください。
 
 例えば、iPhoneのメールアプリを使いたいのであれば、"iPhoneのメールアプリ"と入力し、"パスワードを生成"ボタンを押します。
-<a href="http://kwaka1208.net/wp-content/uploads/2012/12/uniqpass2.png"><img class="sample-image" src="http://kwaka1208.net/wp-content/uploads/2012/12/uniqpass2.png" alt="アプリケーションの名前入力" width="400" height="72" /></a>
+<a href="/assets/images/2012/12/uniqpass2.png"><img class="sample-image" src="/assets/images/2012/12/uniqpass2.png" alt="アプリケーションの名前入力" width="400" height="72" /></a>
 
 <h3>3.生成されたパスワードを入力する</h3>
 パスワードの生成ボタンを押すと、以下のような画面が表示されますので、表示されたパスワードをiPhoneのメール設定のGmailのパスワードとして入力してください。以下の例でいうと、"bsgzxvhtuvznhssm"となります、途中のスペースは無視します。
 
-<img class="sample-image" src="http://kwaka1208.net/wp-content/uploads/2012/12/uniqpass3.png" alt="パスワード表示" width="400" height="159" />
+<img class="sample-image" src="/assets/images/2012/12/uniqpass3.png" alt="パスワード表示" width="400" height="159" />
 
 このパスワードは今回限りのパスワードで、一度アプリケーションに入力してしまうと再入力する必要はありませんので、メモする必要はありませんし覚える必要もありません。パスワードを入力して正しく動作することが確認できたら、"完了"ボタンを押してしまって構いません。
 
@@ -63,7 +63,7 @@ Googleアカウントに対する二段階認証を設定することで本人�
 おそらくここで生成されたパスワードを自分が利用する全てのアプリケーションで利用することも可能かもしれません。(私自身は試したことがないので、この点はよくわかりません)しかし、面倒でもアプリごとにパスワードを生成することをおすすめします。
 
 生成したパスワードは再表示させることは出来ませんが、すべてGoogleのアカウントとセットで管理されています。設定画面の一番下に、これまでどのアプリケーションにパスワードが生成されたかが表示されています。
-<img class="sample-image" src="http://kwaka1208.net/wp-content/uploads/2012/12/uniqpass4.png" alt="発行済パスワードのリスト" width="493" height="78" />
+<img class="sample-image" src="/assets/images/2012/12/uniqpass4.png" alt="発行済パスワードのリスト" width="493" height="78" />
 
 各項目の右側に"無効にする"というリンクがありますが、これをクリックすると生成したパスワードが使えなくなり、このパスワードで認証しているアプリは認証エラーになります。つまりメールアプリ用のパスワードを"無効にする"とメールが受信出来なくなるのです。
 

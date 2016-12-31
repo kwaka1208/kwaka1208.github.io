@@ -17,7 +17,7 @@ tags:
   - Web
   - 奈良
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/10/CoderDojoNara.jpg" alt="CoderDojoNara" width="500" height="375" class="alignnone size-full wp-image-1491" />
+<img src="/assets/images/2014/10/CoderDojoNara.jpg" alt="CoderDojoNara" width="500" height="375" class="alignnone size-full wp-image-1491" />
 <p>
 本日、奈良で初めてのCoderDojo「CoderDojo奈良」をスタートしました。「CoderDojo」とは、子ども達にプログラミングやWeb制作を学ぶ場を提供する、アイルランド発祥の世界的な活動です。
 </p>

@@ -11,12 +11,12 @@ attitude_sidebarlayout:
 categories:
   - voice
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/03/small_2799064377.jpg" alt="天狗" width="240" height="160" class="alignnone size-full wp-image-392" />
+<img src="/assets/images/2013/03/small_2799064377.jpg" alt="天狗" width="240" height="160" class="alignnone size-full wp-image-392" />
 photo credit: <a href="http://www.flickr.com/photos/st-stev/2799064377/">St Stev</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
 
 以前、Facebookでもチラっと書いたのですが、もう少しこの意図を説明します。
 
-<img src="http://kwaka1208.net/wp-content/uploads/2013/03/fb0303.png" alt="fb0303" width="581" height="140" class="alignnone size-full wp-image-391" />
+<img src="/assets/images/2013/03/fb0303.png" alt="fb0303" width="581" height="140" class="alignnone size-full wp-image-391" />
 
 <hr>
 <h2>「お客様」という想像上の生き物</h2>

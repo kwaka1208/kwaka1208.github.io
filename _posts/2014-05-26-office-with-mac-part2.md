@@ -18,7 +18,7 @@ tags:
   - Microsoft
   - Office
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/05/medium_3248317574-300x199.jpg" alt="Mac" width="300" height="199" class="alignnone size-medium wp-image-1324" />
+<img src="/assets/images/2014/05/medium_3248317574-300x199.jpg" alt="Mac" width="300" height="199" class="alignnone size-medium wp-image-1324" />
 <p>以前、「<a href="http://kwaka1208.net/office-with-mac/">"MacでOfficeを使う"</a>」と題して、Macで利用できるOfficeアプリを紹介し「Microsoft Office Online」をおすすめとしていましたが、今はすっかり「Google Drive」に乗り換え、Googleのドキュメントやスプレッドシートを主に利用しています。</p>
 <p>乗り換えに至った決定的なポイントはスプレッドシートで、「シートの複製ができる」でした。「Microsoft Office Online」ではシートの複製が出来ないのが厳しい。</p>
 <p>私個人のOfficeアプリの主な用途は「収支管理」、いわゆる「お小遣い帳」です。一か月分を一つのシートで管理しているのですが、「Microsoft Office Online」だと前月のシートをコピーして新しい月のシートをつくることができない、ファイル単位で複製してファイル単位で管理していくしかないのです。</p>

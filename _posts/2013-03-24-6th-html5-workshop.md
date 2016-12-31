@@ -9,7 +9,7 @@ permalink: /6th-html5-workshop/
 categories:
   - voice
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/03/562914_10200652689901097_537976344_n.jpg" alt="第6回HTML5など勉強会" width="300" height="221" class="alignnone size-full wp-image-398" />
+<img src="/assets/images/2013/03/562914_10200652689901097_537976344_n.jpg" alt="第6回HTML5など勉強会" width="300" height="221" class="alignnone size-full wp-image-398" />
 
 3月23日(土)に開催されたHTML5-WEST.jp主催の「<a href="http://atnd.org/events/37124">第6回HTMLなど勉強会</a>」に参加してきました。今回のテーマは、以下の4つです。(ちなみに東京で行われているのは「HTML5とか勉強会」こちらは「HTML5など勉強会」パクりではなくインスパイアだそうです^_^;)
 <ul>

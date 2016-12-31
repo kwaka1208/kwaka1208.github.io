@@ -18,7 +18,7 @@ tags:
   - 英語
 ---
 <p>
-<img src="http://kwaka1208.net/wp-content/uploads/2015/03/code.jpg" alt="code" width="500" height="500" class="alignnone size-full wp-image-1607" />
+<img src="/assets/images/2015/03/code.jpg" alt="code" width="500" height="500" class="alignnone size-full wp-image-1607" />
 credit: <a href="http://www.flickr.com/photos/57794886@N00/6170448143/" target="_blank">toolmantim</a> via <a href="http://findcc.net" target="_blank">FindCC</a>
 </p>
 <p>

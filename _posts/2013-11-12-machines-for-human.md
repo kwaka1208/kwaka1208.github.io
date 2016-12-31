@@ -16,7 +16,7 @@ tags:
   - 鉄道
   - 駅
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/11/medium_6870614936.jpg" alt="ticket" width="500" height="332" class="alignnone size-full wp-image-546" />
+<img src="/assets/images/2013/11/medium_6870614936.jpg" alt="ticket" width="500" height="332" class="alignnone size-full wp-image-546" />
 photo credit: <a href="http://www.flickr.com/photos/sigfridlundberg/6870614936/">Sigfrid Lundberg</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-sa/2.0/">cc</a>
 
 機械に囲まれて暮らしている現代、使いにくい機械がたくさんあります。

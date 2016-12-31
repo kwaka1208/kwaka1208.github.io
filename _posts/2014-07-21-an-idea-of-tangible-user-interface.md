@@ -17,7 +17,7 @@ tags:
   - ユーザーインターフェース
   - 触れる
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/07/tansible.jpg" alt="tansible" width="500" height="334" class="alignnone size-full wp-image-1381" />
+<img src="/assets/images/2014/07/tansible.jpg" alt="tansible" width="500" height="334" class="alignnone size-full wp-image-1381" />
 
 <p>前回、DVDやLightningケーブルのように、記録面や接点が露出しているデリケートなメディアを嫌がる自分は、新種のデジタルディバイドなのかな？　ということを書きましたが、今回はその続きです。</p>
 <p>取り扱いしにくいメディアがある一方で、その心配のないメディアの答えは既に出ていて、それが「ネット配信」であったり、ハードディスクのような「大容量メディア」だったりします。「ネット配信」だったらそもそも物理的なメディアが存在しませんし、「大容量メディア」は取り出すことがないので、うっかり壊してしまう心配はありません。</p>

@@ -18,7 +18,7 @@ tags:
   - 序列
   - 活性化
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/05/people.jpg" alt="People" width="500" height="350" class="alignnone size-full wp-image-1332" />
+<img src="/assets/images/2014/05/people.jpg" alt="People" width="500" height="350" class="alignnone size-full wp-image-1332" />
 <p>私たちが生活する上で、会社、学校、地域など様々な場面で組織として活動することがあります。</p>
 <p>最近では、勉強会や各種イベントなどIT系のユーザー活動が活発で、私自身も出来るだけ多くのコミュニティに参加し、自分も勉強しながら、逆に私が伝えられることを少しでも提供出来ればと考えています。</p>
 <p>それらのコミュニティで、共通の課題として挙がるのが「活性化」。</p>

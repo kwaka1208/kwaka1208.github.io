@@ -13,7 +13,7 @@ tags:
   - オプション
   - 解約
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/03/small_549050685.jpg" alt="option" width="240" height="180" class="alignnone size-full wp-image-384" />
+<img src="/assets/images/2013/03/small_549050685.jpg" alt="option" width="240" height="180" class="alignnone size-full wp-image-384" />
 photo credit: <a href="http://www.flickr.com/photos/clangboomsteam/549050685/">clang boom steam</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
 
 SoftBankでiPhoneを契約するといくつかのオプションがデフォルトでついてきます。これらは「最初からつけないでください」という選択肢が無く「無料期間があるので、不要であればその期間内に解除してください。無料期間を過ぎると料金が発生します」ということになります。

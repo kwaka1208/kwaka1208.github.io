@@ -17,7 +17,7 @@ tags:
   - 変更
   - 対話
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/02/GREEN_TU20140125500.png" alt="変更か修正か" width="500" height="333" class="alignnone size-full wp-image-1179" />
+<img src="/assets/images/2014/02/GREEN_TU20140125500.png" alt="変更か修正か" width="500" height="333" class="alignnone size-full wp-image-1179" />
 
 よりよいモノづくりのためには、作り手の中での対話も重要。ここがいい加減だと、使い手不在のモノづくりになってしまうことがよくあります。
 

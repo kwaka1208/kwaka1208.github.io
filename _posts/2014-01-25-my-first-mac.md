@@ -16,7 +16,7 @@ tags:
   - Mac
   - Macintosh
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/01/macintosh.jpg" alt="Macintosh" width="440" height="307" class="alignnone size-full wp-image-1124" />
+<img src="/assets/images/2014/01/macintosh.jpg" alt="Macintosh" width="440" height="307" class="alignnone size-full wp-image-1124" />
 
 Macintoshが30周年記念ということで、自分のMacintoshとの出会いをちょっと書いてみたいと思います。
 

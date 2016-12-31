@@ -42,7 +42,7 @@ tags:
 お湯を出す目的では使いにくくしているわけですが、うっかり押してやけどをする心配がない、小さな子どものいる家庭でも安心して使える「優れたインターフェース」のひとつであると言えます。
 
 象印のポットの取扱説明書からの引用です
-<img src="http://kwaka1208.net/wp-content/uploads/2012/12/pot.png">
+<img src="/assets/images/2012/12/pot.png">
 
 <h2>モードと上手くつきあう</h2>
 モードはなければない方がいい。でも、機能が多くなればモードが増えるのは避けられない。
@@ -51,5 +51,5 @@ tags:
 
 #人にやさしいIT
 
-<img src="http://kwaka1208.net/wp-content/uploads/2014/02/medium_3870552476.jpg" alt="ダンボーと風船" width="352" height="500" class="alignnone size-full wp-image-1174" />
+<img src="/assets/images/2014/02/medium_3870552476.jpg" alt="ダンボーと風船" width="352" height="500" class="alignnone size-full wp-image-1174" />
 photo credit: <a href="http://www.flickr.com/photos/beatkueng/3870552476/">'PixelPlacebo'</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>

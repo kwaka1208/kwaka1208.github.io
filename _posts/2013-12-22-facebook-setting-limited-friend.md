@@ -16,7 +16,7 @@ tags:
   - 制限付き友達
   - 設定
 ---
-<img class="alignnone size-full wp-image-623" alt="privacy" src="http://kwaka1208.net/wp-content/uploads/2013/12/medium_4638981545.jpg" width="500" height="281" />
+<img class="alignnone size-full wp-image-623" alt="privacy" src="/assets/images/2013/12/medium_4638981545.jpg" width="500" height="281" />
 photo credit: <a href="http://www.flickr.com/photos/opensourceway/4638981545/">opensourceway</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-sa/2.0/">cc</a>
 
 これも一時よく聞かれたのですが、下書きのまま塩漬けになってました。 ^_^;
@@ -39,10 +39,10 @@ PCのブラウザでFacebookを利用している方の場合の設定手順で�
 するとその方のページが表示され、そこには「友達」というボタンが表示されているはずです。
 このボタンを押すと、以下のメニューが出てきますので「他のリストに追加...」を押してください。
 
-<img class="alignnone size-full wp-image-609" alt="友達メニュー" src="http://kwaka1208.net/wp-content/uploads/2013/12/friend-menu.png" width="227" height="282" />
+<img class="alignnone size-full wp-image-609" alt="友達メニュー" src="/assets/images/2013/12/friend-menu.png" width="227" height="282" />
 メニューに表示される項目が増え、下から2番目に「制限」という項目が表示されますので、これを選択してください。
 
-<img class="alignnone size-full wp-image-610" alt="友達メニュー詳細" src="http://kwaka1208.net/wp-content/uploads/2013/12/friend-menu2.png" width="205" height="53" />
+<img class="alignnone size-full wp-image-610" alt="友達メニュー詳細" src="/assets/images/2013/12/friend-menu2.png" width="205" height="53" />
 
 以上で、完了です。
 <h2>スマートフォンのブラウザの場合</h2>
@@ -52,11 +52,11 @@ PCのブラウザでFacebookを利用している方の場合の設定手順で�
 するとその方のページが表示され、そこには「友達」というボタンが表示されているはずです。
 このボタンを押すと、以下のメニューが出てきますので「もっと見る...」を押してください。
 
-<img class="alignnone size-full wp-image-543" alt="スマートフォンのブラウザで制限設定する場合の画面" src="http://kwaka1208.net/wp-content/uploads/2013/11/smartphone.png" width="244" height="275" />
+<img class="alignnone size-full wp-image-543" alt="スマートフォンのブラウザで制限設定する場合の画面" src="/assets/images/2013/11/smartphone.png" width="244" height="275" />
 
 メニューに表示される項目が増え、下から2番目に「制限」という項目が表示されますので、これを選択してください。
 
-<img class="alignnone size-full wp-image-613" alt="制限付き友達メニュー" src="http://kwaka1208.net/wp-content/uploads/2013/12/friend-menu3.png" width="205" height="79" />
+<img class="alignnone size-full wp-image-613" alt="制限付き友達メニュー" src="/assets/images/2013/12/friend-menu3.png" width="205" height="79" />
 
 以上で、完了です。
 <h2>スマートフォンアプリの場合</h2>
@@ -64,7 +64,7 @@ PCのブラウザでFacebookを利用している方の場合の設定手順で�
 非表示にしたい方の投稿を表示して、名前の部分をタップしてください。
 すると下のようなポップアップ画面が表示されますので、「友達リストを編集」を選択してください。
 
-<img class="alignnone size-full wp-image-614" alt="友達制限メニュー" src="http://kwaka1208.net/wp-content/uploads/2013/12/friend-menu4.png" width="300" height="145" />
+<img class="alignnone size-full wp-image-614" alt="友達制限メニュー" src="/assets/images/2013/12/friend-menu4.png" width="300" height="145" />
 
 「友達リストを編集」ボタンを押すと、友達グループのメニューが表示されますので、一番下の「制限」をタップしてください。
 

@@ -15,7 +15,7 @@ tags:
   - ボランティア
   - 神戸ITフェスティバル
 ---
-<a href="http://kobe-it-fes.org" title="神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -"><img src="http://kwaka1208.net/wp-content/uploads/2013/12/banner_640x280-620x271.jpg" alt="神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -" width="620" height="271" class="alignnone size-medium wp-image-572" /></a>
+<a href="http://kobe-it-fes.org" title="神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -"><img src="/assets/images/2013/12/banner_640x280-620x271.jpg" alt="神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -" width="620" height="271" class="alignnone size-medium wp-image-572" /></a>
 
 2013年12月13日(金)と14日(土)、<a href="http://kiito.jp">デザイン・クリエイティブセンター神戸(KIITO)</a>で行われた<a href="http://kobe-it-fes.org">神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -</a>に行ってきました。
 
@@ -27,7 +27,7 @@ tags:
 自分は、受付とご当地アイドルの<a href="http://www.kobe-pop.com/">KOBerrieS♪</a>の警護を担当することになったのですが、そうなると当然セッショや展示をゆっくり観る時間は無いのですが、関心があった「<a href="http://kobe-it-fes.org/kif2013/event/entry-63.html">スーパーIT高校生Tehuと語る、やってみたくなるスゴいIT 〜最近技術発達してきてるし、アレやりたいよね〜</a>」だけ聴かせていただきました。
 Tehuさんとは、少し話をする機会があったのですが、単にITに強い高校生というだけでなく、色んな考えを持っていてとても高校生とは思えなかったです。
 
-<img src="http://kwaka1208.net/wp-content/uploads/2013/12/super-it.jpg" alt="スーパーIT高校生と村岡さんのセッション" width="500" height="320" class="alignnone size-full wp-image-585" />
+<img src="/assets/images/2013/12/super-it.jpg" alt="スーパーIT高校生と村岡さんのセッション" width="500" height="320" class="alignnone size-full wp-image-585" />
 
 その後、<a href="http://www.kobe-pop.com/">KOBerrieS♪</a>が来てからはそちらに付きっきり(といっても、ついて回っただけなんですが)。「熱狂的なファンが押し寄せてくるかもしれないので、注意してくださいね！」と聞かされていたので「えらいことを引き受けたもんだ」と思いましたが、大きなトラブルもなく杞憂に終わりました。
 
@@ -35,7 +35,7 @@ Tehuさんとは、少し話をする機会があったのですが、単にIT�
 
 特にステージングが凄かった。会場のステージは組み立て可動式のステージで、パフォーマンスをするにはやや小さかったのですが、彼女らはきちんと端から端まで全部使ってパフォーマンスしてましたよ。いつか落ちるんじゃないかと思うぐらい、ギリギリの所に立ったり駆け抜けたりするので、気が気じゃありませんでしたよ。
 
-<a href="http://kwaka1208.net/wp-content/uploads/2013/12/2013-12-14-14.58.47.jpg"><img src="http://kwaka1208.net/wp-content/uploads/2013/12/2013-12-14-14.58.47.jpg" alt="ゆるキャラとご当地アイドル" width="500" height="375" class="alignnone size-full wp-image-579" /></a>
+<a href="/assets/images/2013/12/2013-12-14-14.58.47.jpg"><img src="/assets/images/2013/12/2013-12-14-14.58.47.jpg" alt="ゆるキャラとご当地アイドル" width="500" height="375" class="alignnone size-full wp-image-579" /></a>
 
 <hr>
 <h2>大変だけど、スタッフにしか分からない楽しさもある</h2>

@@ -20,7 +20,7 @@ tags:
   - 取扱説明書
   - 整理
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2012/12/small__3287986172.jpg" alt="book stack" width="320" height="320" class="alignnone size-full wp-image-139" />
+<img src="/assets/images/2012/12/small__3287986172.jpg" alt="book stack" width="320" height="320" class="alignnone size-full wp-image-139" />
 
 photo credit: <a href="http://www.flickr.com/photos/osiatynska/3287986172/">osiatynska</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
 今日、自宅の整理をしていて気がついたので、家庭でのITの活用方法として一つご紹介。

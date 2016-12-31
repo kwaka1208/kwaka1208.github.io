@@ -16,7 +16,7 @@ tags:
   - ボランティア
   - 災害
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/09/medium_14088231730.jpg" alt="help" width="500" height="302" class="alignnone size-full wp-image-1405" />
+<img src="/assets/images/2014/09/medium_14088231730.jpg" alt="help" width="500" height="302" class="alignnone size-full wp-image-1405" />
 <p>9月1日の「防災の日」にちなんで、というわけではないのですが、災害発生時におけるIT系コミュニティの役割について、自分自身の考え方を書いてみます。</p>
 <p>現在も西日本の各地では、豪雨による土砂災害の復旧活動が行われています。この数年というもの、大規模な救援活動が必要な災害の発生が続き、各地で市民の救援活動が立ち上がるたびに感じるのが、「平時からのコミュニティの必要性」です。</p>
 <p>FacebookやTwitterなどのSNSの普及により、例えばグループやハッシュタグ機能を利用した情報のグループ化で、多くの人が同じ情報を一度に受け取れるようになりました。災害発生時の情報流通がより簡単になったのです。</p>

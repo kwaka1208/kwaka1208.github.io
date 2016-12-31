@@ -15,7 +15,7 @@ tags:
   - シェア
   - 使い方
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/01/small__4561580590.jpg" alt="伝える" width="320" height="213" class="alignnone size-full wp-image-1012" />
+<img src="/assets/images/2014/01/small__4561580590.jpg" alt="伝える" width="320" height="213" class="alignnone size-full wp-image-1012" />
 photo credit: <a href="http://www.flickr.com/photos/calleephoto/4561580590/">KaylaKandzorra</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>
 
 Facebookで「シェア」というボタンをみたことがあると思います。これは、メールで言う「転送」みたいなもので、その投稿や写真やリンクを自分の書き込みとして転送することで、自分の友達にも紹介することができるのです。

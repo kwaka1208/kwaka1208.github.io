@@ -16,7 +16,7 @@ tags:
   - User Interface
   - ユーザーインターフェース
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/02/slide-to-unlock.png" alt="Slide to unlock" width="400" height="113" class="alignnone size-full wp-image-357" />
+<img src="/assets/images/2013/02/slide-to-unlock.png" alt="Slide to unlock" width="400" height="113" class="alignnone size-full wp-image-357" />
 
 iPhoneを電源ON(スリープ解除と書くのが正しいか?)した時って、画面上のボタンをスライド操作することでロック解除されますよね、これは初代iPhoneから採用されている操作ですが、どうしてスライド操作でロック解除になっているのでしょうか?
 

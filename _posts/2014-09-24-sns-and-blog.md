@@ -17,7 +17,7 @@ tags:
   - Twitter
   - 記録
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/09/diary.jpg" alt="diary" width="500" height="333" class="alignnone size-full wp-image-1418" />
+<img src="/assets/images/2014/09/diary.jpg" alt="diary" width="500" height="333" class="alignnone size-full wp-image-1418" />
 <p>
 以前からことあるごとに述べてきたことなのですが、先日ある方と会話した時に同じ意見だったので、改めて書きます。
 結論としては、「FacebookやTwitterのようなソーシャルメディアは、記録向きではないので自分の想いや考え方を書くのであれば、blogに書いた方がいい。FacebookやTwitterにはそのリンクを流せばいい」ということです。

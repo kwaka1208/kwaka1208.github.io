@@ -15,7 +15,7 @@ tags:
   - 情報セキュリティ
   - 機密性
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/07/small__74046939.jpg" alt="security" width="240" height="320" class="alignnone size-full wp-image-474" />
+<img src="/assets/images/2013/07/small__74046939.jpg" alt="security" width="240" height="320" class="alignnone size-full wp-image-474" />
 
 photo credit: <a href="http://www.flickr.com/photos/fensterbme/74046939/">fensterbme</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
 

@@ -16,7 +16,7 @@ tags:
   - タブレット
   - 年賀状
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/11/small_2167028703.jpg" alt="年賀状" width="240" height="240" class="alignnone size-full wp-image-553" />
+<img src="/assets/images/2013/11/small_2167028703.jpg" alt="年賀状" width="240" height="240" class="alignnone size-full wp-image-553" />
 photo credit: <a href="http://www.flickr.com/photos/midorisyu/2167028703/">midorisyu</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>
 
 11月も終わりが近づき、そろそろ年賀状を書き始める時期になりました。

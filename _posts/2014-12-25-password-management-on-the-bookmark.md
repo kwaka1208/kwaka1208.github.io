@@ -20,7 +20,7 @@ tags:
 ---
 <p>
 Firefoxのブックマークには、サイトごとに説明が入力できるのをご存知ですか？メニューの「すべてのブックマークを表示」を選択するとブックマークのウィンドウが表示されますが、この中のひとつをクリックすると以下のような画面が出てきます。
-<img src="http://kwaka1208.net/wp-content/uploads/2014/12/property-1024x240.png" alt="property" width="700" height="164" class="alignnone size-large wp-image-1504" />
+<img src="/assets/images/2014/12/property-1024x240.png" alt="property" width="700" height="164" class="alignnone size-large wp-image-1504" />
 </p>
 <p>
 このように、ブックマークに入っている各サイトごとに説明を書くことができるので、ここにそのサイトにアクセスするためのIDとパスワードを思い出すためのヒントを書いておくと、パスワードを忘れた時のヘルプになります。個人のファイルとはいえ、平文で保存されるので、パスワードそのものを書くのはやめておいた方がいいでしょう。

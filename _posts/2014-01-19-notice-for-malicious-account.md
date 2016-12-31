@@ -47,5 +47,5 @@ IDを変え、アイコンを変え、プロフィールの説明を変えれば
 
 このようにして、知らず知らずのうちに不正な商売の片棒を担がされていることにもなりかねないので、Twitterといえども身元不明な怪しいアカウントのフォローやRTは控えましょう。
 
-<img src="http://kwaka1208.net/wp-content/uploads/2014/01/medium_6102173905.jpg" alt="悪意のあるアカウントにご注意！" width="500" height="333" class="alignnone size-full wp-image-1047" />
+<img src="/assets/images/2014/01/medium_6102173905.jpg" alt="悪意のあるアカウントにご注意！" width="500" height="333" class="alignnone size-full wp-image-1047" />
 photo credit: <a href="http://www.flickr.com/photos/emiliano-iko/6102173905/">i k o</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>

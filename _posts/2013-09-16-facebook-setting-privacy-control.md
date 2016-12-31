@@ -14,7 +14,7 @@ tags:
   - 使い方
   - 設定
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/09/FB-f-Logo__blue_100.png" alt="Facebook" width="100" height="100" class="alignnone size-full wp-image-497" />
+<img src="/assets/images/2013/09/FB-f-Logo__blue_100.png" alt="Facebook" width="100" height="100" class="alignnone size-full wp-image-497" />
 
 最近、私の知り合い関係でもFacebook利用者が多くなりよく質問を受けることがあります。その中でもプライバシーに関する質問が多くありますので、あまり知られていないけれど知っておくべきプライバシーに関する設定についてまとめておきたいと思います。
 
@@ -39,10 +39,10 @@ Facebook等のSNSはある意味そういうことを公開することで繋が
 「ウォール」とはあなた自身が書き込みを行う場所です。つまり、あなたのウォールを開くとどこにはあなた自身が過去に書き込んだことのすべてが一覧で出てきます。Facebookの画面で左上に自分の名前が表示されていますが、ここをクリック/タップした時に表示される画面があなたのウォールです。
 
 PCの場合は、左上の自分の名前をクリックしてください。
-<img src="http://kwaka1208.net/wp-content/uploads/2013/09/pc.png" alt="ウォール" width="400" height="129" class="alignnone size-full wp-image-493" />
+<img src="/assets/images/2013/09/pc.png" alt="ウォール" width="400" height="129" class="alignnone size-full wp-image-493" />
 
 スマートフォンの場合は、左上の三本線のアイコンをタップすると左側にメニューが表示されますので、その一番の上の自分の名前です。
-<img src="http://kwaka1208.net/wp-content/uploads/2013/09/sp.png" alt="スマートフォン" width="400" height="138" class="alignnone size-full wp-image-494" />
+<img src="/assets/images/2013/09/sp.png" alt="スマートフォン" width="400" height="138" class="alignnone size-full wp-image-494" />
 
 通常、自分のウォールへ書き込むのは自分自身ですが実は他の人も自分のウォールに書き込むことが出来ます。そして、書き込んだのが誰であれウォールに書き込まれた内容はそのウォールの持ち主の友達には読めるのです。
 
@@ -83,4 +83,4 @@ PCの場合は、左上の自分の名前をクリックしてください。
 
 設定画面へはFacebookのトップ画面から移動するのですが、ここでは分かりやすいように設定画面へ直接進めるリンクを用意しました。普段スマートフォン用アプリでFacebookを使っておられる方もここではブラウザでのアクセスとなりますので、以下のアイコンから現在操作している機器のアイコンを選んでください。Facebookへのログインすると設定画面が表示されます。
 
-<a href="https://m.facebook.com/privacy/touch/timeline_and_tagging/"><img src="http://kwaka1208.net/wp-content/uploads/2013/09/i-phone.png" alt="Smartphone" width="128" height="128" class="alignnone size-full wp-image-491" /></a><a href="https://www.facebook.com/settings?tab=timeline"><img src="http://kwaka1208.net/wp-content/uploads/2013/09/computer.png" alt="Computer" width="128" height="128" class="alignnone size-full wp-image-492" /></a>
+<a href="https://m.facebook.com/privacy/touch/timeline_and_tagging/"><img src="/assets/images/2013/09/i-phone.png" alt="Smartphone" width="128" height="128" class="alignnone size-full wp-image-491" /></a><a href="https://www.facebook.com/settings?tab=timeline"><img src="/assets/images/2013/09/computer.png" alt="Computer" width="128" height="128" class="alignnone size-full wp-image-492" /></a>

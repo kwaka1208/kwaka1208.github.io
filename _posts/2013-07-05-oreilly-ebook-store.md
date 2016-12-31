@@ -9,7 +9,7 @@ permalink: /oreilly-ebook-store/
 categories:
   - voice
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/07/PHP.gif" alt="PHP" width="180" height="236" class="alignnone size-full wp-image-466" />
+<img src="/assets/images/2013/07/PHP.gif" alt="PHP" width="180" height="236" class="alignnone size-full wp-image-466" />
 
 わけあってO'Reillyの「<a href="http://www.oreilly.co.jp/books/9784873113425/">プログラミング PHP 第2版</a>」を買おうとしていたのですが、「紙の本だと場所をとる」「電子書籍板はPDFしかない」ということであれこれ悩んだ結果、原書の"<a href="http://shop.oreilly.com/product/0636920012443.do">Programming PHP, 3rd Edition</a>"を購入しました。
 
@@ -25,4 +25,4 @@ PDFだと文字だけ綺麗に拡大が出来ないので、やはりmobiとかe
 
 全ての書籍データがDRMフリー、デバイスを選ばずに読める、全ての電子書籍がこうなったら電子書籍ってもっと普及すると思うんですけどね。O'Reillyの決断には敬意を表します(｀_´)ゞ
 
-<img src="http://kwaka1208.net/wp-content/uploads/2013/07/oreilly.gif" alt="O&#039;Reilly" width="293" height="98" class="alignnone size-full wp-image-465" />
+<img src="/assets/images/2013/07/oreilly.gif" alt="O&#039;Reilly" width="293" height="98" class="alignnone size-full wp-image-465" />

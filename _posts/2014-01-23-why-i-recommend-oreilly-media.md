@@ -23,7 +23,7 @@ tags:
   - 英語
   - 電子書籍
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/07/oreilly.gif" alt="oreilly OReilly Ebook Store" width="293" height="98" class="alignnone size-full wp-image-465" title="OReilly Ebook Store" />
+<img src="/assets/images/2013/07/oreilly.gif" alt="oreilly OReilly Ebook Store" width="293" height="98" class="alignnone size-full wp-image-465" title="OReilly Ebook Store" />
 
 以前もちらっと書いたことがあるのですが、O'Reillyの電子書籍を買うなら、日本よりアメリカの本家<a href="http://shop.oreilly.com/">O'Reilly Media</a>で買うのが絶対良いと思っています。その理由、今回はしっかりと紹介させていただきます！
 <h2>対応フォーマットが豊富</h2>
@@ -50,7 +50,7 @@ tags:
 
 <h2>Dropboxとの同期や"Send to Kindle"に対応</h2>
 <a href="http://shop.oreilly.com/">O'Reilly Media</a>では、電子書籍を購入する時に自分のアカウントを作成するのですが、そのアカウントとDropboxを連携させることができます。また、自分のアカウントページから"Send to Kindle"で自分のKindleのアドレスへ書籍を送ることもできますので、購入してすぐクラウド経由で書籍を自分の機器に入れることができます。外出先で購入したものが、自宅のMacやPCにも自動でダウンロードされる、これは本当に便利です！
-<img src="http://kwaka1208.net/wp-content/uploads/2014/01/dropbox.png" alt="Dropbox" width="171" height="171" class="alignnone size-full wp-image-1107"/>
+<img src="/assets/images/2014/01/dropbox.png" alt="Dropbox" width="171" height="171" class="alignnone size-full wp-image-1107"/>
 
 <h2>全編英語！</h2>
 当たり前ですけど、全書籍英語です。「え〜、それってよくないじゃん！」とか言わない。

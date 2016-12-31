@@ -44,7 +44,7 @@ tags:
 <h2>モードを利用したユーザーインターフェースの例</h2>
 一方で、世の中にはあえてモードを利用者に切り替えさせることで誤操作を防ぐことができているユーザーインターフェースもあります。その例として、電気ポットのお湯を注ぐ時の「ロック解除」ボタンです。
 
-[caption id="attachment_104" align="alignnone" width="238"]<img src="http://kwaka1208.net/wp-content/uploads/2012/12/pot.png" alt="象印のポットの取扱説明書からの引用です" width="238" height="292" class="size-full wp-image-104" /> 象印のポットの取扱説明書からの引用です[/caption]
+[caption id="attachment_104" align="alignnone" width="238"]<img src="/assets/images/2012/12/pot.png" alt="象印のポットの取扱説明書からの引用です" width="238" height="292" class="size-full wp-image-104" /> 象印のポットの取扱説明書からの引用です[/caption]
 
 電気ポットの場合、うっかり「給湯」ボタンを押してしまって火傷することを防ぐために、「ロック解除」というモード切替操作をしなければお湯が出ないようにしているのです。これはモード切替をうまくユーザーインターフェースに取り入れた例です。
 <hr>

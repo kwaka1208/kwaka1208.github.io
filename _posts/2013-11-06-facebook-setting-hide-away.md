@@ -31,15 +31,15 @@ PCもしくはスマートフォンのブラウザでFacebookを利用してい�
 このボタンを押すと、以下の画面が出てきますので「ニュースフィードに表示」を押してチェックマークをはずしてください。また表示を戻したくなった時は、逆にチェックマークを入れればOKです。
 
 PCの場合
-<img src="http://kwaka1208.net/wp-content/uploads/2013/11/pc.png" alt="PCで非表示設定する場合の画面" width="244" height="323" class="alignnone size-full wp-image-541" />
+<img src="/assets/images/2013/11/pc.png" alt="PCで非表示設定する場合の画面" width="244" height="323" class="alignnone size-full wp-image-541" />
 
 スマートフォンの場合
-<img src="http://kwaka1208.net/wp-content/uploads/2013/11/smartphone.png" alt="スマートフォンのブラウザで非表示設定する場合の画面" width="244" height="275" class="alignnone size-full wp-image-543" />
+<img src="/assets/images/2013/11/smartphone.png" alt="スマートフォンのブラウザで非表示設定する場合の画面" width="244" height="275" class="alignnone size-full wp-image-543" />
 
 <h2>スマートフォンアプリの場合</h2>
 スマートフォンアプリでFacebookを利用されている方の場合は、手順が異なります。
 非表示にしたい方の投稿を表示して、名前の右側にある下向きの"<"をタップします。すると、下の画面のようなメニューが出ますので、「この投稿者のすべての投稿を非表示」を押せばOKです。(画面はあくまでもサンプルで、この投稿を非表示にしたいわけではありません ;-) )
 
-<img src="http://kwaka1208.net/wp-content/uploads/2013/11/app.png" alt="スマートフォンアプリから非表示設定する場合" width="244" height="372" class="alignnone size-full wp-image-544" />
+<img src="/assets/images/2013/11/app.png" alt="スマートフォンアプリから非表示設定する場合" width="244" height="372" class="alignnone size-full wp-image-544" />
 
 あまりこの設定が必要になる状況は好ましくないのですが、どうしても必要だと思ったら試してみてください。 ;-)

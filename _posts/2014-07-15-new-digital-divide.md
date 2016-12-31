@@ -12,7 +12,7 @@ image: /wp-content/uploads/2014/07/medium_1455076844.jpg
 categories:
   - voice
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/07/medium_1455076844.jpg" alt="DVD" width="500" height="321" class="alignnone size-full wp-image-1377" />
+<img src="/assets/images/2014/07/medium_1455076844.jpg" alt="DVD" width="500" height="321" class="alignnone size-full wp-image-1377" />
 <p>少し古い話で恐縮ですが、今年の春頃にiPhoneのコネクタが現在のLightningからmicro USBに変わるという噂がネット上で流れていました。
 
 <a href="http://buzzap.jp/news/20140314-iphone-micro-usb/">さらばLightning？ iPhoneの充電規格もmicroUSBに統一へ</a>

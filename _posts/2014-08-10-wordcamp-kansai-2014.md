@@ -19,7 +19,7 @@ tags:
   - 実行委員会
   - 関西
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/07/WordCampKansai2014.jpg" alt="WordCamp Kansai 2014" width="500" height="375" class="alignnone size-full wp-image-1386" />
+<img src="/assets/images/2014/07/WordCampKansai2014.jpg" alt="WordCamp Kansai 2014" width="500" height="375" class="alignnone size-full wp-image-1386" />
 ※これは、スタッフTシャツとスタッフの方が作られたオリジナルバンダナです。
 <p>もう2ヶ月前になりますが、2014年6月7日(土)と8日(日)に開催された「WordCamp Kansai 2014」に、実行委員として参加しました。本当は、もっと細かいことを色々書こうと思っていたのですが、時間が経っていることもあり、自分に向けた記録として簡単に残したいと思います。</p>
 <p>今回感じたことは、やはり既に出来上がっているコミュニティに入っていくことの難しさです。WordPressのコミュニティは、WordBenchというコミュニティイベントを母体になっているのですが、そもそもそこに参加したことが無い私は、今回の実行委員会にも顔見知りはひとりしかいない（その方もそれまではそんなに話したことがなかった）という状況でした。</p>

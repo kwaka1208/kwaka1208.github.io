@@ -12,7 +12,7 @@ tags:
   - エンジニア
   - デザイナー
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/10/small__3474867233.jpg" alt="shake hands" width="320" height="240" class="alignnone size-full wp-image-536" />
+<img src="/assets/images/2013/10/small__3474867233.jpg" alt="shake hands" width="320" height="240" class="alignnone size-full wp-image-536" />
 
 photo credit: <a href="http://www.flickr.com/photos/screenpunk/3474867233/">screenpunk</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
 

@@ -16,7 +16,7 @@ tags:
   - 組み合わせ
 ---
 <p>
-<img src="http://kwaka1208.net/wp-content/uploads/2015/04/7755784678_2bdca437fb.jpg" alt="look!" width="500" height="335" class="alignnone size-full wp-image-1624" />
+<img src="/assets/images/2015/04/7755784678_2bdca437fb.jpg" alt="look!" width="500" height="335" class="alignnone size-full wp-image-1624" />
 photo credit: <a href="http://www.flickr.com/photos/50523792@N03/7755784678"></a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by/2.0/">(license)</a>
 </p>
 <p>

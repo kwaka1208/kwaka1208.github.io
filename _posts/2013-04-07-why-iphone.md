@@ -13,7 +13,7 @@ tags:
   - User Interface
   - ユーザーインターフェース
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/04/iPhone.jpg" alt="iPhone" width="377" height="268" class="alignnone size-full wp-image-428" />
+<img src="/assets/images/2013/04/iPhone.jpg" alt="iPhone" width="377" height="268" class="alignnone size-full wp-image-428" />
 
 Samsungが新しいGalaxyを発表した直後にAppleがiPhoneの良さをアピールする"<a href="http://www.apple.com/jp/iphone/why-iphone/">iPhoneか、その他大勢か。<strike>iPhoneが好きになる理由。</strike>(公開後タイトルが変わったようです)</a>"(英語では"<a href="http://www.apple.com/iphone/why-iphone/">Why you'll love an iPhone</a>")を公開して何かと話題になっていますが、自分もiPhoneを好きになる理由を一つ挙げてみたいと思います。
 <hr>

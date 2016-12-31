@@ -17,7 +17,7 @@ tags:
   - 自己満足
   - 顧客視点
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/01/medium_2895754066.jpg" alt="さんま" width="500" height="332" class="alignnone size-full wp-image-1054" />
+<img src="/assets/images/2014/01/medium_2895754066.jpg" alt="さんま" width="500" height="332" class="alignnone size-full wp-image-1054" />
 photo credit: <a href="http://www.flickr.com/photos/ymorimo/2895754066/">ymorimo</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
 
 突然ですが、古典落語の「目黒のさんま」をご存知ですか？

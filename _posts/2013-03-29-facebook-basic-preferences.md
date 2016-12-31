@@ -13,7 +13,7 @@ tags:
   - 使い方
   - 基本設定
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/03/other_beginner04.png" alt="beginner" width="200" height="200" class="alignnone size-full wp-image-419" />
+<img src="/assets/images/2013/03/other_beginner04.png" alt="beginner" width="200" height="200" class="alignnone size-full wp-image-419" />
 
 Facebookにはたくさんの設定項目がありますが、Facebookを始めたばかりという方にはそれぞれどんな意味を持つのかよくわからないものが多いと思います。「Facebook入門」みたいな本を買ってもどこを見たらいいのかよくわからないことが多いですしね ;-)
 
@@ -29,7 +29,7 @@ Facebookを利用する上での基本的なセキュリティの設定です。
 
 「メールによるログイン通知」をチェックしておくと、どこかの機器で初めてログイン操作をした時にメールで通知してくれます。自分がログインした時にも通知が来るのですが自分がログイン操作していない時にこの通知が来たとすると、パスワードが漏洩して可能性があることがわかります。普通はありませんが念のため設定しておきましょうというレベルです。
 
-<img src="http://kwaka1208.net/wp-content/uploads/2013/03/secyrity.png" alt="secyrity" width="300" height="475" class="alignnone size-full wp-image-415" />
+<img src="/assets/images/2013/03/secyrity.png" alt="secyrity" width="300" height="475" class="alignnone size-full wp-image-415" />
 
 では下のリンクから設定画面へ行って実際に設定してください。設定が終わったらブラウザの「戻る」ボタンでまたこの画面に戻ってきて次の設定へ進んでください。
 <a href="https://m.facebook.com/settings/security/">「セキュリティ設定」の設定画面へ行く</a>
@@ -37,7 +37,7 @@ Facebookを利用する上での基本的なセキュリティの設定です。
 <h2>つながりの設定</h2>
 自分のプロフィールや書き込んだものを誰が見ることを許可するか?という設定です。とりあえず「今後の投稿の共有範囲」を「友達」にしておけば十分です。それ以外に「生年月日」などを他の人に見られたくないということであればそれらを変えてもいいでしょう。
 
-<img src="http://kwaka1208.net/wp-content/uploads/2013/03/connection01.png" alt="connection01" width="300" height="475" class="alignnone size-full wp-image-416" />
+<img src="/assets/images/2013/03/connection01.png" alt="connection01" width="300" height="475" class="alignnone size-full wp-image-416" />
 
 では下のリンクから設定画面へ行って実際に設定してください。設定が終わったらブラウザの「戻る」ボタンでまたこの画面に戻ってきて次の設定へ進んでください。
 <a href="https://m.facebook.com/privacy/touch/basic/">「つながりの設定」の設定画面へ行く</a>
@@ -47,7 +47,7 @@ Facebookを利用する上での基本的なセキュリティの設定です。
 
 「重要なアップデートと概要メールのみ受け取る」にチェックを入れておけばOKです。
 
-<img src="http://kwaka1208.net/wp-content/uploads/2013/03/mail.png" alt="mail" width="300" height="475" class="alignnone size-full wp-image-417" />
+<img src="/assets/images/2013/03/mail.png" alt="mail" width="300" height="475" class="alignnone size-full wp-image-417" />
 
 この設定画面へのリンクは最後に書いておきます。
 

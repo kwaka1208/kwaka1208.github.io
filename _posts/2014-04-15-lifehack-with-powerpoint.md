@@ -19,7 +19,7 @@ tags:
   - ファイルシステム
   - 管理
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/04/medium_748083829.jpg" alt="Power Point" width="500" height="375" class="alignnone size-full wp-image-1278" />
+<img src="/assets/images/2014/04/medium_748083829.jpg" alt="Power Point" width="500" height="375" class="alignnone size-full wp-image-1278" />
 <p>実は私、先日の某記者会見で出た「パワポで画像管理」にとっても反応してしています。
 「パワポで画像管理するのか？（苦笑）」「パワポって何？」と様々な反応が飛び交っているようですが、騒動の中身とは全然関係なく、また皮肉でも何でもなく、情報管理の手法としてそういうやり方を実践している方もいるのか！という意味で、非常に興味深くみています。</p>
 

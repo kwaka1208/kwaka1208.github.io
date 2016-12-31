@@ -9,7 +9,7 @@ permalink: /search-technology-actually-its-recording-technology/
 categories:
   - voice
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2012/12/medium_3019398315.jpg" alt="tidy" width="500" height="350" class="alignnone size-full wp-image-124" />
+<img src="/assets/images/2012/12/medium_3019398315.jpg" alt="tidy" width="500" height="350" class="alignnone size-full wp-image-124" />
 photo credit: <a href="http://www.flickr.com/photos/kasaa/3019398315/">Kasaa</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
 
 この世の中、なんでもかんでも検索でみつかっちゃう世の中ですよね。「探す技術」ってのが進んでるんだなぁと思われるかもしれませんが、僕は「残す技術」が進化してるんだと思います。

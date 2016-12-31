@@ -32,6 +32,6 @@ tags:
 今は答えがでなくても、いつかインスピレーションが降ってきて、そこかしこにあるガラクタ思考や想いの切れ端たちが「ガシャン」「ガシャン」と組み上がっていく、そんな体験をしてみてください。そのために、毎日色んなことを考えたり、色んなものに注目してみてください。
 </p>
 <p>
-<img src="http://kwaka1208.net/wp-content/uploads/2015/03/idea.jpg" alt="idea" width="500" height="334" class="alignnone size-full wp-image-1594" />
+<img src="/assets/images/2015/03/idea.jpg" alt="idea" width="500" height="334" class="alignnone size-full wp-image-1594" />
 photo credit: <a href="http://www.flickr.com/photos/87128770@N00/6320911129">1111_Thinking Blue_019</a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by/2.0/">(license)</a>
 </p>

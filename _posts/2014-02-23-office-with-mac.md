@@ -38,7 +38,7 @@ Macを買うかどうか検討している方の相談を受けた時、ほぼ10
 
 <hr>
 <h2>Pages/Numbers/KeyNote</h2>
-<img src="http://kwaka1208.net/wp-content/uploads/2014/02/iWorks.png" alt="iWorks" width="300" height="104" class="alignnone size-full wp-image-1209" />
+<img src="/assets/images/2014/02/iWorks.png" alt="iWorks" width="300" height="104" class="alignnone size-full wp-image-1209" />
 Appleが販売しているOfficeアプリで、Mac App Storeで購入可能です。
 2013年10月1日以降にMacを購入した方なら無料でMac App Storeからダウンロードして利用できます。
 もちろん、それ以前に購入された方も有償ではありますが購入することができます。
@@ -50,18 +50,18 @@ Appleが販売しているOfficeアプリで、Mac App Storeで購入可能で�
 Online版なら、外出先のMacやWindows PCからも利用することができるメリットがあります。
 <hr>
 <h2>Microsoft Office</h2>
-<a href="http://office.microsoft.com/ja-jp/"><img src="http://kwaka1208.net/wp-content/uploads/2014/02/micosoftoffice.png" alt="Microsoft Office" width="300" height="99" class="alignnone size-full wp-image-1210" /></a>
+<a href="http://office.microsoft.com/ja-jp/"><img src="/assets/images/2014/02/micosoftoffice.png" alt="Microsoft Office" width="300" height="99" class="alignnone size-full wp-image-1210" /></a>
 こちらがいわゆる「Office」です。こちらもインストールして使うアプリ版とWebブラウザで使える<a href="https://office.com/">Online版</a>があります。アプリ版については、Windows版との互換性の高さを謳っていますが、それでもレイアウト崩れは避けられないようです。Online版については、まだちゃんと確認出来ていないのですが、Windows版の最新である「Office2013」とほぼ同じ機能が使えるようで、画面や操作感も「Office2013」と全く同じと言って差し支えないと思います。
 <hr>
 <h2>Open Office</h2>
-<a href="http://www.openoffice.org/ja/"><img src="http://kwaka1208.net/wp-content/uploads/2014/02/OOo.png" alt="Open Office" width="300" height="93" class="alignnone size-full wp-image-1212" /></a>
+<a href="http://www.openoffice.org/ja/"><img src="/assets/images/2014/02/OOo.png" alt="Open Office" width="300" height="93" class="alignnone size-full wp-image-1212" /></a>
 フリーのOfficeソフトの代表です。他のOfficeアプリとの決定的な違いはデータベースアプリ(Microsoft Officeで言うところのAccessに相当)が使える点です。
 Microsoft Officeでも、Accessの使えるバージョンは値段が跳ね上がりますので、個人でデータベースアプリを使えるレベルにあるのは、今のところOpen Officeだけと言えるでしょう。
 
 Open Officeにブラウザで使えるOnline版の提供はありません。
 <hr>
 <h2>Google docs(Google Drive)</h2>
-<a href="http://docs.google.com/?hl=ja"><img src="http://kwaka1208.net/wp-content/uploads/2014/02/GoogleDocs.png" alt="Google Docs" width="150" height="150" class="alignnone size-full wp-image-1216" /></a>
+<a href="http://docs.google.com/?hl=ja"><img src="/assets/images/2014/02/GoogleDocs.png" alt="Google Docs" width="150" height="150" class="alignnone size-full wp-image-1216" /></a>
 以前は、「Google docs」の名前で提供されていたブラウザから利用するOnline版Officeで、今は共有Driveサービスの「Google Drive」の一部として提供されています。
 こちらはOpen Officeと反対にインストールして使うアプリ版の提供はありません。
 <hr>
@@ -84,6 +84,6 @@ Open Officeにブラウザで使えるOnline版の提供はありません。
 
 以上、Macユーザーな私がMicrosoft推しなエントリーを書くことになるとは思いませんでしたが、それぐらい「<a href="https://office.com/">Microsoft Office Online</a>」はよくできていると思います。
 
-<img src="http://kwaka1208.net/wp-content/uploads/2014/02/office.png" alt="Microsoft Office Online" width="300" height="228" class="alignnone size-full wp-image-1236" />
+<img src="/assets/images/2014/02/office.png" alt="Microsoft Office Online" width="300" height="228" class="alignnone size-full wp-image-1236" />
 
 (この記事には、後日談があります。「<a href="http://kwaka1208.net/office-with-mac-part2/">続：MacでOfficeを使う </a>」)

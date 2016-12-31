@@ -16,7 +16,7 @@ tags:
   - トイレ
   - ユーザーインターフェース
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/02/toilet.jpg" alt="toilet" width="500" height="313" class="alignnone size-full wp-image-1241" />
+<img src="/assets/images/2014/02/toilet.jpg" alt="toilet" width="500" height="313" class="alignnone size-full wp-image-1241" />
 
 ITの話ではないですけど、日常にあるユーザーインターフェースの話ということで。
 

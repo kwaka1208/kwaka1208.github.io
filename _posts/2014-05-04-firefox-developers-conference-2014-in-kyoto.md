@@ -16,7 +16,7 @@ tags:
   - Firefox OS
   - mozilla
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/05/2014-04-19-16.17.46.jpg" alt="Firefox Deveopers Conference 2014 in Kyoto" width="500" height="667" class="alignnone size-full wp-image-1297" />
+<img src="/assets/images/2014/05/2014-04-19-16.17.46.jpg" alt="Firefox Deveopers Conference 2014 in Kyoto" width="500" height="667" class="alignnone size-full wp-image-1297" />
 
 2週間前になりますが、4月19日(土)に京都で開催されていた<a href="http://www.mozilla.jp/events/devcon/2014/kyoto/">Firefox Developers Conference</a>(略して、FxDevCon)に行ってきました。
 

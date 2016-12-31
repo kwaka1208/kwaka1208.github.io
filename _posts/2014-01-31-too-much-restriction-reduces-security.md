@@ -19,7 +19,7 @@ tags:
   - パスワード
   - ポリシー
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/01/medium_2175038829.jpg" alt="password have to be changed" width="500" height="298" class="alignnone size-full wp-image-1157" />
+<img src="/assets/images/2014/01/medium_2175038829.jpg" alt="password have to be changed" width="500" height="298" class="alignnone size-full wp-image-1157" />
 
 主に企業、それも大企業に多いお話。
 

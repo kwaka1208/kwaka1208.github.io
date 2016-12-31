@@ -18,7 +18,7 @@ tags:
   - 解除
   - 設定
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2013/09/FB-f-Logo__blue_100.png" alt="Facebook" width="100" height="100" class="alignnone size-full wp-image-497" />
+<img src="/assets/images/2013/09/FB-f-Logo__blue_100.png" alt="Facebook" width="100" height="100" class="alignnone size-full wp-image-497" />
 
 3回目にして既にFacebookをやめる方法です ;-)
 「Facebookを始めてみたもののやっぱりやめたい」と思う事もないはず、ですがこの手のサービスは辞め方が分からないことが多いです(やめてもらいたく無いからですが)

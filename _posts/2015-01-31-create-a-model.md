@@ -16,7 +16,7 @@ tags:
   - Innovation
 ---
 <p>
-<img src="http://kwaka1208.net/wp-content/uploads/2015/01/walkman.jpg" alt="walkman" width="500" height="333" class="alignnone size-full wp-image-1555" />
+<img src="/assets/images/2015/01/walkman.jpg" alt="walkman" width="500" height="333" class="alignnone size-full wp-image-1555" />
 </p>
 <p>
 あちらこちらで使われるようになって、一般的になった「イノベーション」という言葉。このところ「イノベーション」の安売りが始まった感がしています。

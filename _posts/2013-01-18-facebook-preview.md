@@ -27,7 +27,7 @@ Mac/PCからFacebookにアクセスして右上の鍵のアイコン(歯車の�
 
 一番下に"自分のタイムラインがどのように表示されるかを確認する プレビュー"というのが出てきます。ここまでの操作で以下の画面が見えているはず。
 
-<img src="http://kwaka1208.net/wp-content/uploads/2013/01/preview.png" alt="Facebook Preview" width="372" height="469" class="alignnone size-full wp-image-292" />
+<img src="/assets/images/2013/01/preview.png" alt="Facebook Preview" width="372" height="469" class="alignnone size-full wp-image-292" />
 
 この"プレビュー"をクリックすると、自分のタイムライン画面に切りかわって他の人からどう見えているのかを確認することができます。特定の人を指定して、その人はどう見えているのか?というのも分かります。これは、特定の人だけ公開しないようにしている場合にちゃんと非公開になっているのかを確認出来るんです。
 

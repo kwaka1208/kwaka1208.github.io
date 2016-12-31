@@ -17,13 +17,13 @@ tags:
   - Web
   - 奈良
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/12/2014.12.21-CoderDojoNara.jpg" alt="2014.12.21-CoderDojoNara" width="500" height="375" class="alignnone size-full wp-image-1494" />
+<img src="/assets/images/2014/12/2014.12.21-CoderDojoNara.jpg" alt="2014.12.21-CoderDojoNara" width="500" height="375" class="alignnone size-full wp-image-1494" />
 <p>
 12月21日、2回目のCoderDojo奈良を開催しました。今回は、忍者8名(定員7名でしたが、最後にご家族で参加されたので8名になりました)、メンターも9名と大勢でワイワイやりました。ほとんどの忍者はScratchでプログラミングをやっていますが、Webをやってる1名がかなり濃いコンテンツを持っていて、いつもそのネタで盛り上がっています(笑)。
 </p>
 <p>
 更に今回は、初めてメンターとして参加してくださった方が、「Ichigojam」という小さなパソコンを持ってきて見せてくださいました。
-<img src="http://kwaka1208.net/wp-content/uploads/2014/12/Ichigojam.jpg" alt="Ichigojam" width="500" height="375" class="alignnone size-full wp-image-1496" />
+<img src="/assets/images/2014/12/Ichigojam.jpg" alt="Ichigojam" width="500" height="375" class="alignnone size-full wp-image-1496" />
 この配線むき出しの小さな基板がパソコンです。これを自分で組み立てて動かすと、Basicという簡単な言語でプログラミングが楽しめます。画面上の表示を変えるだけじゃなくて、LEDを点灯させたり頑張れば機械を動かしたりもできる。ロボットに関心のある忍者とかには挑戦させてあげたいテーマです。どちらかというと、メンターのみなさんの方が関心高そうでしたけどね。 ;)
 </p>
 <p>

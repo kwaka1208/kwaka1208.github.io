@@ -16,7 +16,7 @@ tags:
   - 発信
   - 表現
 ---
-<img src="http://kwaka1208.net/wp-content/uploads/2014/06/decide.jpg" alt="decide" width="500" height="339" class="alignnone size-full wp-image-1358" />
+<img src="/assets/images/2014/06/decide.jpg" alt="decide" width="500" height="339" class="alignnone size-full wp-image-1358" />
 <p>自分の考え方やものの見方を発信していこうと、2012年12月にこのblogを立ち上げて少しずつ記事を書いていましたが、そんな時に「デジクリに書きませんか？」ということでお声がけいただき、2013年の9月から現在までの約10ヶ月、通算40回弱の記事を「<a href="http://dgcr.com/">日刊デジタルクリエイターズ</a>」で書いてきました。</p>
 <p>自分が物書きをしようと思った理由はいくつかあるのですが、その中でも「作る人と使う人」のように立場の異なる人同士の対話をもっと促進したい、ということが大きな目標のひとつ。</p>
 <p>立場の異なる人の組み合わせは、他にも「エンジニアとデザイナー」「上司と部下」「発注者と受注者」「売る人と買う人」などIT業界の中だけでも、さまざまな組み合わせがあります。</p>

@@ -27,7 +27,7 @@ tags:
 が、よくみると自分の考えていたものと少し違っていたので、その点を含め自分のアイデアを紹介したいと思います。
 <hr>
 まず、片手での拡大縮小操作の方法について簡単に説明します。
-<img src="http://kwaka1208.net/wp-content/uploads/2012/12/1.png" alt="片手で画面拡大縮小" width="300" height="450" class="alignnone size-full wp-image-83" />
+<img src="/assets/images/2012/12/1.png" alt="片手で画面拡大縮小" width="300" height="450" class="alignnone size-full wp-image-83" />
 <ul>
 	<li>画面上の拡大したい場所を2回タップ(ダブルタップ)します。この時2回目のタップ操作の後、指を画面につけたままにします。上の画像で言うと青い●の部分での操作になります。</li>
 	<li>次に拡大なら画面上の指を上へスライドします上へのスライド操作が拡大になります、下へスライドすると画面は縮小されます。スワイプではなくて、スライド操作なので指は画面から放さないで、そのまま上下に動かします。</li>
@@ -44,7 +44,7 @@ tags:
 <hr>
 次に、私が考えている操作方法を説明します。
 
-<img src="http://kwaka1208.net/wp-content/uploads/2012/12/2.png" alt="片手で画面拡大・縮小" width="300" height="450" class="alignnone size-full wp-image-86" />
+<img src="/assets/images/2012/12/2.png" alt="片手で画面拡大・縮小" width="300" height="450" class="alignnone size-full wp-image-86" />
 <ul>
 	<li>最初の操作は同じです、画面上の拡大したい場所を2回タップ(ダブルタップ)して、2回目のタップ操作の後、指を画面につけたままにします。</li>
 	<li>次に拡大なら指を上へ、縮小なら下へ指をスライドします。この時、上下にスライドした量で拡大・縮小の速度が変わります。上の画像の例で言うと、指をAまで動かした時にはゆっくりと拡大し、Bまで動かすと速く拡大するということです。</li>
