@@ -21,3 +21,14 @@ categories:
 オープンソース、オープンデータにもっと具体的に関わりたい。これは以前から思っていることなのですが、まだ実現できていないので今年こそは。小さなことでもいいので。
 
 そんなことを考えている2017年の始まりです。今年もよろしくお願いします。
+
+## 追伸
+昨年、CoderDojo Japanの公式ブックに著者のひとりとして執筆に加わらせていただきました。子ども向けプログラミングの本ですが、大人の方にも楽しんでいただける内容になっていますので、よろしければ是非。
+
+ ![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/2017/01/scratch_dojo.jpg)
+
+CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場
+  - [紙版](http://amzn.asia/4HpMwO9)
+  - [Kindle版](http://amzn.asia/e4R06Wx)
+  - [iBooks版](https://itunes.apple.com/jp/book/coderdojo-japan-gong-shibukku/id1189875071?l=en&mt=11)
+ 
