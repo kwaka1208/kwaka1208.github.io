@@ -28,7 +28,8 @@ categories:
  ![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/2017/01/scratch_dojo.jpg)
 
 CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場
-  - [紙版](http://amzn.asia/4HpMwO9)
-  - [Kindle版](http://amzn.asia/e4R06Wx)
-  - [iBooks版](https://itunes.apple.com/jp/book/coderdojo-japan-gong-shibukku/id1189875071?l=en&mt=11)
+
+- [紙版](http://amzn.asia/4HpMwO9)
+- [Kindle版](http://amzn.asia/e4R06Wx)
+- [iBooks版](https://itunes.apple.com/jp/book/coderdojo-japan-gong-shibukku/id1189875071?l=en&mt=11)
  
