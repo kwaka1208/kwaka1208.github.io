@@ -19,7 +19,7 @@ tags:
   - 想い出
   - 記録
 ---
-<img src="/assets/images/2014/05/log.jpg" alt="memory" width="500" height="411" class="alignnone size-full wp-image-1303" />
+![memory](/assets/images/2014/05/log.jpg)
 ## 記録を残すということ
 インターネットを使った個人の情報発信の方法として、いわゆるホームページに始まって、blogが登場し、最近はソーシャルネットワークへの主流が変化してきました。
 
@@ -71,6 +71,6 @@ WordPressでblogをやっている方から、仕事でWordPressを使われる�
 日時：6月7日（土）8日（日）</ br>
 会場：グランフロント大阪 ナレッジキャピタルカンファレンスルーム TowerC</ br>
 参加費：2,000円</ br>
-[[caption id="attachment_1270" align="alignnone" width="250"]<img src="/assets/images/2014/04/bnr-250x250.gif" alt="WordCamp Kansai 2014" width="250" height="250" class="size-full wp-image-1270" /> WordCamp Kansai 2014[/caption]](http://2014.kansai.wordcamp.org/)
+[[caption id="attachment_1270" align="alignnone" width="250"]![WordCamp Kansai 2014](/assets/images/2014/04/bnr-250x250.gif) WordCamp Kansai 2014[/caption]](http://2014.kansai.wordcamp.org/)
 </p>
 photo credit: [chiaralily](http://www.flickr.com/photos/chiaralily/4653058104/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

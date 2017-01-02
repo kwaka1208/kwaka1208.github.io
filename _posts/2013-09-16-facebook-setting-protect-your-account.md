@@ -16,7 +16,7 @@ tags:
   - 使い方
   - 設定
 ---
-<img src="/assets/images/2013/09/FB-f-Logo__blue_100.png" alt="Facebook" width="100" height="100" class="alignnone size-full wp-image-497" />
+![Facebook](/assets/images/2013/09/FB-f-Logo__blue_100.png)
 
 Facebook設定の2回目は「自分のアカウントを守る」がテーマです。自分のFacebookのアカウントが乗っ取られ、他の誰かに操作されるような状態になれば自分の情報を読み取られたり、自分とは関係の書き込みがされたり、場合によっては自分のFacebook友達に迷惑をかけることがありますので、乗っ取られないよう、万が一乗っ取られてもすぐに対処できるようにしておきましょう。
 

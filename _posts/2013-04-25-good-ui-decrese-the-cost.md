@@ -13,7 +13,7 @@ tags:
   - コスト
   - ユーザーインターフェース
 ---
-<img src="/assets/images/2013/04/money.jpg" alt="money" width="320" height="320" class="alignnone size-full wp-image-448" />
+![money](/assets/images/2013/04/money.jpg)
 
 私は、ソフトウェアエンジニアとして特にユーザビリティということにこだわってモノづくりをしてきました。特にiPhone登場以降、ユーザーインターフェースとかユーザビリティということに注目が集まるようになりましたが、それでもまだユーザビリティを重視しないプロジェクトも多いように思います。
 

@@ -13,7 +13,7 @@ tags:
   - ユーザーインターフェース
   - 対応付け
 ---
-<img src="/assets/images/2013/01/small_338663263.jpg" alt="elevator" width="240" height="159" class="alignnone size-full wp-image-321" />
+![elevator](/assets/images/2013/01/small_338663263.jpg)
 photo credit: [palmasco](http://www.flickr.com/photos/palmasco/338663263/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 エレベーターの開閉ボタン、私もよく押し間違えたり、どっちを押していいのか一瞬判断できなくなることがあります。この操作性の改善に関して自分の考え方を書こうと思っていたのですが、最近同じテーマの記事がいくつか出ていたのでこのタイミングに乗じて書いてみます。
@@ -33,7 +33,7 @@ photo credit: [palmasco](http://www.flickr.com/photos/palmasco/338663263/) via [
 ## 誤解の原因はアイコン
 このボタンが誤解される最大の原因はアイコンにある、と考えています。
 
-<img src="/assets/images/2013/01/direction.jpg" alt="開閉の向き" width="267" height="140" class="alignnone size-full wp-image-313" />
+![開閉の向き](/assets/images/2013/01/direction.jpg)
 
 このアイコンが示したいものとして、真ん中の棒はドアが閉まった時に合わさる位置であり、▲の向きでドアの動く方向を示しているものと思われます。方向を表しているという意味では理解できるのにとっさにそれが判断出来ないのは、このアイコンから受ける印象ではないかと考えています。
 
@@ -60,14 +60,14 @@ photo credit: [palmasco](http://www.flickr.com/photos/palmasco/338663263/) via [
 
 です。身近にあるものに例えていうと、左右方向にだけ動くゲーム機のジョイスティックのようなものです。
 
-<img src="/assets/images/2013/01/PlayStation_3_SIXAXIS_controller-300x210.png" alt="ゲーム機のアナログコントローラ" width="300" height="210" class="alignnone size-medium wp-image-319" />
+![ゲーム機のアナログコントローラ](/assets/images/2013/01/PlayStation_3_SIXAXIS_controller-300x210.png)
 
 Play Stationのアナログコントローラーを左右方向だけ動くようにし、左右だけなので縦方向に平たい形にしたらいいかな。その方が操作しやすそう。
 
 これが、ドアの左側についていた場合は左に押すと"閉じる"、右に押すと"開く"になります。ドアの右側についていた場合はその逆。これで操作する方向とドアが動く方向が一致するのでかなり分かりやすくなるのではないでしょうか。
 もうちょっとイラストっぽくしたかったですけど、↓こういうことです。
 
-<img src="/assets/images/2013/01/aab5144b87e0251a9d176abf21c1eacb.png" alt="開閉操作レバー" width="500" height="241" class="alignnone size-full wp-image-327" />
+![開閉操作レバー](/assets/images/2013/01/aab5144b87e0251a9d176abf21c1eacb.png)
 
 操作する対象がレバー一つだけなので、混乱も少ないかなと思います。
 

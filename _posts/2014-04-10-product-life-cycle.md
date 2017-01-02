@@ -18,7 +18,7 @@ tags:
   - 寿命
   - 製品
 ---
-<img src="/assets/images/2014/04/medium_2772087916.jpg" alt="closed" width="500" height="343" class="alignnone size-full wp-image-1273" />
+![closed](/assets/images/2014/04/medium_2772087916.jpg)
 
 日本時間の2014年4月9日、Windows XPのサポートが終了しました。
 

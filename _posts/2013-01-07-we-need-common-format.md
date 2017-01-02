@@ -17,7 +17,7 @@ attitude_sidebarlayout:
 categories:
   - voice
 ---
-<img src="/assets/images/2012/12/small_2631535001.jpg" alt="Resume" width="240" height="240" class="alignnone size-full wp-image-238" />
+![Resume](/assets/images/2012/12/small_2631535001.jpg)
 photo credit: Olivier Charavel via [photopin](http://photopin.com)[cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 自分の今の状況が状況なこともあって ;-) 色んな書類の様式をダウンロードして使うことがあるのですが、それらは大体Microsoft OfficeのWordかExcelのデータ。

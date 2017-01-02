@@ -16,7 +16,7 @@ tags:
   - コンビニ
   - プリンタ
 ---
-<img src="/assets/images/2013/12/medium_2794943066.jpg" alt="コンビニエンスストア" width="500" height="428" class="alignnone size-full wp-image-561" />
+![コンビニエンスストア](/assets/images/2013/12/medium_2794943066.jpg)
 
 photo credit: [NCinDC](http://www.flickr.com/photos/ncindc/2794943066/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nd/2.0/)
 

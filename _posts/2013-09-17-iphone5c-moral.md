@@ -36,5 +36,5 @@ http://www.youtube.com/watch?v=heV0CNzC9OI
 
 綺麗なドレスを着てプロのメイクをしてもらった花嫁が、スポットライトを浴び美しいBGMともに登場する瞬間を待つように。決して控え室を覗き見するようなことはせずに礼儀正しく待ちたいのです。
 
-<img src="/assets/images/2013/09/medium_457901905.jpg" alt="bride" width="335" height="500" class="alignnone size-full wp-image-486" />
+![bride](/assets/images/2013/09/medium_457901905.jpg)
 photo credit: [Extra Medium](http://www.flickr.com/photos/johnmueller/457901905/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

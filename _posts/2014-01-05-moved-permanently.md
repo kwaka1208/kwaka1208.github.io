@@ -16,7 +16,7 @@ tags:
   - サーバー
   - スキルアップ
 ---
-<img src="/assets/images/2014/01/medium_66531124.jpg" alt="server" width="500" height="375" class="alignnone size-full wp-image-1017" />
+![server](/assets/images/2014/01/medium_66531124.jpg)
 
 約8年間使っていたレンタルサーバーから、VPS(バーチャルプライベートサーバー)への引っ越しを行いました。といっても、アクセスしてみた感じではわからないと思います。
 

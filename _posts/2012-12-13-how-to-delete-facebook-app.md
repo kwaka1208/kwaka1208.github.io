@@ -34,14 +34,14 @@ Facebookで覚えのない友達リクエストしてるとか、クーポンを
 
 <ol>
 	<li>Mac/PCの右上のメニュー"ホーム"からアカウント設定を選んでください。<br />
-<img src="/assets/images/2012/12/s1.png" alt="アカウント設定" width="207" height="260" class="alignnone size-full wp-image-20" /></li>
+![アカウント設定](/assets/images/2012/12/s1.png)</li>
 
 
 	<li>左側に"アプリ"というのがでますのでこれを選択します。<br />
-<img src="/assets/images/2012/12/s2.png" alt="アプリ" width="197" height="344" class="alignnone size-full wp-image-21" /></li>
+![アプリ](/assets/images/2012/12/s2.png)</li>
 
 	<li>この画面の中で身に覚えの無いアプリがあれば片っ端から×を押して削除してください。<br />
-<img src="/assets/images/2012/12/s3.png" alt="アプリ一覧" width="500" height="262" class="alignnone size-full wp-image-22" /></li>
+![アプリ一覧](/assets/images/2012/12/s3.png)</li>
 </ol>
 
 以上で、大抵は解決するはずです。

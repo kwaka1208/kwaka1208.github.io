@@ -45,7 +45,7 @@ tags:
 （ロック画面の通知センターとコントロールセンターのバー表示は、それぞれが「ロック画面からアクセス可能」に設定されている時だけ表示されます）
 
 ロック画面に表示されるバー
-<img src="/assets/images/2013/10/iOS7-lock.png" alt="iOS7 Lock画面" width="300" height="533" class="alignnone size-full wp-image-526" />
+![iOS7 Lock画面](/assets/images/2013/10/iOS7-lock.png)
 
 ## 気付きが減らされたロック画面のカメラボタン
 ロック画面上のカメラボタンは、気付きが減らされた例です。iOS6まではカメラアイコンの上下に、横線が二本ずつ表示されていました。この横線がスライドスイッチに付けられた溝に似ていて、スライドさせられるような操作のための「手がかり」を与えてくれていたのですが、iOS7ではなくなってしまったため、初めて見た方に「スライドできそうだ」という「気付き」を与えられなくなってしまいました。
@@ -53,10 +53,10 @@ tags:
 iOS6でも7でも、カメラアイコンをタッチすると画面がぴょこんと上に飛び上がり下のカメラ画面が見えるので、そういう意味での手がかりは残っています。
 
 iOS6のロック画面カメラボタン
-<img src="/assets/images/2013/10/iOS6-camera.png" alt="iOS6 カメラボタン" width="300" height="90" class="alignnone size-full wp-image-522" />
+![iOS6 カメラボタン](/assets/images/2013/10/iOS6-camera.png)
 
 iOS7のロック画面カメラボタン
-<img src="/assets/images/2013/10/iOS7-camera.png" alt="iOS7 カメラボタン" width="300" height="96" class="alignnone size-full wp-image-525" />
+![iOS7 カメラボタン](/assets/images/2013/10/iOS7-camera.png)
 
 
 ## 気付きが弱くなった戻るボタン
@@ -73,10 +73,10 @@ iOS6までは階層移動すると前の画面は左側へスライドして消�
 戻るボタンの形状も、くの字の線とラベルの組み合わせだけになってしまったため、画面全体の中の印象としてはやや弱くなっているように思います。先に述べた例に比べれば実害は少ないですが、iOS6よりは「気付き」が弱くなっているのではないでしょうか。
 
 iOS6の戻るボタン
-<img src="/assets/images/2013/10/iOS6-back.png" alt="iOS6 戻るボタン" width="300" height="42" class="alignnone size-full wp-image-520" />
+![iOS6 戻るボタン](/assets/images/2013/10/iOS6-back.png)
 
 iOS7の戻るボタン
-<img src="/assets/images/2013/10/iOS7-back.png" alt="iOS7 戻るボタン" width="300" height="42" class="alignnone size-full wp-image-523" />
+![iOS7 戻るボタン](/assets/images/2013/10/iOS7-back.png)
 
 ## 気付きが与えられた通知バナー
 逆にiOS7では「通知バナー」に気付きが与えられました。iOS6までの「通知バナー」は、横へスワイプすることですぐに消すことができたのですが、それを示す表示がありませんでした。iOS7では、下から上へスワイプすることで消すことができるのですが、バナーの中に操作するための「バー」が表示されたため、操作できるという「気付き」が与えられました。
@@ -84,10 +84,10 @@ iOS7の戻るボタン
 実はiOS7が出るまでiOS6の「通知バナー」が、マニュアルで消せたことを知らず自動的に消えるまでじっと待ってたんですよね。これはストレスが高かったので知っていればマニュアルで消したのに……。
 
 iOS6の通知バナー
-<img src="/assets/images/2013/10/iOS6-banner.png" alt="iOS6 通知バナー" width="300" height="38" class="alignnone size-full wp-image-527" />
+![iOS6 通知バナー](/assets/images/2013/10/iOS6-banner.png)
 
 iOS7の通知バナー
-<img src="/assets/images/2013/10/iOS7-banner.png" alt="iOS7 通知バナー" width="300" height="60" class="alignnone size-full wp-image-524" />
+![iOS7 通知バナー](/assets/images/2013/10/iOS7-banner.png)
 
 
 このように、ユーザーインターフェースにおける「気付き」とは、ボタンに「戻る」と書いてあるから「これを押すと前の画面に戻れる」と理解することではありません。その形や前後の文脈から得られるものなのです。

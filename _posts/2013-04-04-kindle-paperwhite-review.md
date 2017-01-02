@@ -16,7 +16,7 @@ categories:
 ## 大きさ
 大きさは説明するよりも身の回りのもので比べた方が早いと思いますので、文庫本と並べたもので紹介します。
 
-<img src="/assets/images/2013/04/size.jpg" alt="大きさ比較" width="300" height="225" class="alignnone size-full wp-image-426" />
+![大きさ比較](/assets/images/2013/04/size.jpg)
 
 文庫本よりも一回り大きいぐらいでしょうか。でも、文庫本ほど厚みが無いので持ち歩きは文庫本よりしやすいと思います。
 <hr>
@@ -25,7 +25,7 @@ Paperwhiteで使われている表示デバイスは「E Ink」というもの�
 
 電力が無くてもなぜ表示が消えないのか?というところは説明が難しい(自分もちゃんと説明できない)のですが、原理的には幼児向けのおもちゃでマグネットペンで絵が描けるものがありますが、これに似ていると思っていただいたらいいと思います。こんなやつです。
 <a href="http://www.agatsuma.co.jp/goods/detail.php?id=228">
-<img src="/assets/images/2013/04/rakugaki.jpg" alt="落書き" width="300" height="222" class="alignnone size-full wp-image-425" /><br />
+![落書き](/assets/images/2013/04/rakugaki.jpg)<br />
 株式会社アガツマ「アンパンマンNEWらくがき教室」</a>
 
 こんな「E Ink」ですが描き換え速度が遅いという弱点もあり、画面を描き換える様子が人間の目にも見えるぐらいに時間がかかります。これも動画で見た方が速いので動画で撮影したものを用意しました。

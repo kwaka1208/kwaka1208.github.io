@@ -12,7 +12,7 @@ tags:
   - エンジニア
   - デザイナー
 ---
-<img src="/assets/images/2013/10/small__3474867233.jpg" alt="shake hands" width="320" height="240" class="alignnone size-full wp-image-536" />
+![shake hands](/assets/images/2013/10/small__3474867233.jpg)
 
 photo credit: [screenpunk](http://www.flickr.com/photos/screenpunk/3474867233/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)
 

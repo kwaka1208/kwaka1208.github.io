@@ -64,4 +64,4 @@ CoderDojoでは「答えを教えない」ということを実践している�
 
 CoderDojoでは、忍者達にそんな力を身につけてもらえたらいいなと思ってます。
 
-<img src="/assets/images/2016/12/3.jpg" alt="" width="800" height="600" class="alignnone size-full wp-image-1827" />
+![](/assets/images/2016/12/3.jpg)

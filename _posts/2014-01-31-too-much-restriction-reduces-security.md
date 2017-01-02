@@ -19,7 +19,7 @@ tags:
   - パスワード
   - ポリシー
 ---
-<img src="/assets/images/2014/01/medium_2175038829.jpg" alt="password have to be changed" width="500" height="298" class="alignnone size-full wp-image-1157" />
+![password have to be changed](/assets/images/2014/01/medium_2175038829.jpg)
 
 主に企業、それも大企業に多いお話。
 

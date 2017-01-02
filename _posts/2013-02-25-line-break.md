@@ -18,20 +18,20 @@ tags:
   - 改行
   - 読みやすさ
 ---
-<img src="/assets/images/2013/02/iPhone.jpg" alt="iPhone" width="500" height="333" class="alignnone size-full wp-image-1152" />
+![iPhone](/assets/images/2013/02/iPhone.jpg)
 
 最近メールを書く時に悩むことがあります。それは改行位置です。古くは35文字ぐらいを目安に改行しましょうとか、メーラーが送信時に強制的に改行を挿入してしまうようなものもありました。
 しかし、そうするとスマートフォンや携帯電話で見るとあまり美しくないことが多いのです。
 
 例えば、こんなメールをPCで書いて送ったとしましょう。
 
-<img src="/assets/images/2013/02/pc.png" alt="PCで書いたメール" width="662" height="101" class="alignnone size-full wp-image-368" />
+![PCで書いたメール](/assets/images/2013/02/pc.png)
 
 一つ目の段落は適当に(ちょっと無理矢理なところもありますが)改行が入っているので、ダラダラした感じではないと思いますが、二つ目は改行を入れずに書いているので横方向に長くなってしまっています。
 
 しかし、このメールをスマートフォンで受信するとこのように表示されます。
 
-<img src="/assets/images/2013/02/smartphone.png" alt="スマートフォン" width="300" height="450" class="alignnone size-full wp-image-369" />
+![スマートフォン](/assets/images/2013/02/smartphone.png)
 
 一つ目の段落は無駄に改行が多くなっていて、二つ目の段落は一連の文章が繋がっているので読みやすいですよね。
 

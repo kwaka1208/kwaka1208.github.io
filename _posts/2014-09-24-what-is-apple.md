@@ -12,7 +12,7 @@ image: /wp-content/uploads/2014/09/T2hKfNG9.jpg
 categories:
   - voice
 ---
-<img src="/assets/images/2014/09/T2hKfNG9.jpg" alt="Apple" width="500" height="341" class="alignnone size-full wp-image-1415" />
+![Apple](/assets/images/2014/09/T2hKfNG9.jpg)
 
 今年もまた、新しいiPhoneが発表されましたね。私の周りでも、「6の64GB」だの「Plusの128GB」だのと予約完了の声が聞こえてきますが、私は来年の春まで2年縛りが残っているので、とりあえずは様子見です。
 

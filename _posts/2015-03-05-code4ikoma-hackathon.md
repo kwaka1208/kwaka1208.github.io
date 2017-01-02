@@ -18,7 +18,7 @@ tags:
   - 生駒
 ---
 <p>
-<img src="/assets/images/2015/03/code4ikoma.jpg" alt="子育てアプリハッカソン" width="500" height="333" class="alignnone size-full wp-image-1579" />
+![子育てアプリハッカソン](/assets/images/2015/03/code4ikoma.jpg)
 </p>
 <p>
 奈良県生駒市で開催された[CODE for IKOMA](http://code4ikoma.org/)主催の「子育てアプリアイデアワークショップ」に続き、このアイデアワークショップで出たアプリのアイデアを具体的な形にする「子育てアプリハッカソン」に参加しました。結果は、なんと「優秀賞」（最優秀賞に次ぐ第二位）という名誉ある賞をいただくことができました（パチパチパチパチ）。

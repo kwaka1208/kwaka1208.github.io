@@ -15,7 +15,7 @@ tags:
   - 情報セキュリティ
   - 機密性
 ---
-<img src="/assets/images/2013/07/small__74046939.jpg" alt="security" width="240" height="320" class="alignnone size-full wp-image-474" />
+![security](/assets/images/2013/07/small__74046939.jpg)
 
 photo credit: [fensterbme](http://www.flickr.com/photos/fensterbme/74046939/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)
 

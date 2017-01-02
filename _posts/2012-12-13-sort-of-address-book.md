@@ -23,7 +23,7 @@ tags:
   - アルファベット順
   - 連絡先
 ---
-<img src="/assets/images/2012/12/small__3491396612.jpg" alt="alphabet" width="320" height="320" class="alignnone size-full wp-image-26" />
+![alphabet](/assets/images/2012/12/small__3491396612.jpg)
 
 こんなことをしている人はそんなに多くは無いかもしれませんが、私は自分のiPhoneの言語設定を"English"にしています。理由は表示されるメッセージや文章がその方がカッコいいから(^^;
 

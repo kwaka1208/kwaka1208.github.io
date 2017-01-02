@@ -16,7 +16,7 @@ tags:
   - テレビ
   - 未来
 ---
-<img src="/assets/images/2015/09/tv.jpg" alt="TV" width="500" height="316" class="alignnone size-full wp-image-1722" />
+![TV](/assets/images/2015/09/tv.jpg)
 
 この話は以前にも書いたのですが、新しいApple テレビが発表されたこともあっていいタイミングなのでもう一度整理して書くことにします。
 

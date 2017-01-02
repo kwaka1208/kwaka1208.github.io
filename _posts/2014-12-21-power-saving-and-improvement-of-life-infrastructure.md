@@ -17,7 +17,7 @@ tags:
   - 災害対策
   - 節電
 ---
-<img src="/assets/images/2014/12/medium_14884682980.jpg" alt="convinience store" width="500" height="375" class="alignnone size-full wp-image-1485" />
+![convinience store](/assets/images/2014/12/medium_14884682980.jpg)
 <p>
 東日本大震災以降、特にエアコンによる電力需要が高まるこの時期に、「節電」ということが言われます。しかし、観ないテレビは消しましょうとか、部屋の電気は小まめに消しましょうといった程度では節電の効果はしれていて、もっと効果の高い節電策をうちださなければ目に見える効果が表れるようにはならないと思います。
 </p>

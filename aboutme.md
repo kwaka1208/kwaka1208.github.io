@@ -7,7 +7,7 @@ layout: page
 attitude_sidebarlayout:
   - default
 ---
-<img src="{{ site.author.thumb }}" alt="Wakabayashi, Kenichi" />
+![Wakabayashi, Kenichi]({{ site.author.thumb }})
 
 こんにちは、このサイトのオーナー、「わか」こと若林健一です。
 

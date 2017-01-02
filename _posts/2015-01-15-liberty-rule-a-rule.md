@@ -15,7 +15,7 @@ tags:
   - liberty
   - rule
 ---
-<img src="/assets/images/2015/01/medium_6104169423.jpg" alt="Liberty" width="500" height="333" class="alignnone size-full wp-image-1520" />
+![Liberty](/assets/images/2015/01/medium_6104169423.jpg)
 <p>
 私は、長らく大手電機メーカーに勤務し多くのルールの中で働いてきました。
 大手企業の業績が低迷し、スタートアップ企業の成長が顕著になった昨今では、「ルールに縛られるのは悪いこと、もっと自由な風土が必要」といった論調が目立っているように思いますが、ここは誤解があってはならないところ。

@@ -18,7 +18,7 @@ tags:
   - Scratch
 ---
 <p>
-<img src="/assets/images/2015/03/CoderDojo.jpg" alt="CoderDojo" width="500" height="375" class="alignnone size-full wp-image-1600" />
+![CoderDojo](/assets/images/2015/03/CoderDojo.jpg)
 credit: [lespounder](http://www.flickr.com/photos/45703688@N07/14071936419/) via [FindCC](http://findcc.net)
 </p>
 <p>

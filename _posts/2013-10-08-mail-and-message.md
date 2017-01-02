@@ -105,5 +105,5 @@ LINEを筆頭にメールに変わって主流になりつつあるメッセー�
 
 もしかすると両方の良さを兼ね備えた新しいメッセージングの仕組みを産み出せたらノーベル賞ものなのかもしれませんね。
 
-<img src="/assets/images/2013/10/medium_308123041.jpg" alt="mail" width="390" height="500" class="alignnone size-full wp-image-518" />
+![mail](/assets/images/2013/10/medium_308123041.jpg)
 photo credit: ['smil](http://www.flickr.com/photos/smil/308123041/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

@@ -16,7 +16,7 @@ tags:
   - タブレット
   - 年賀状
 ---
-<img src="/assets/images/2013/11/small_2167028703.jpg" alt="年賀状" width="240" height="240" class="alignnone size-full wp-image-553" />
+![年賀状](/assets/images/2013/11/small_2167028703.jpg)
 photo credit: [midorisyu](http://www.flickr.com/photos/midorisyu/2167028703/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)
 
 11月も終わりが近づき、そろそろ年賀状を書き始める時期になりました。

@@ -16,7 +16,7 @@ tags:
   - Mac
   - Macintosh
 ---
-<img src="/assets/images/2014/01/macintosh.jpg" alt="Macintosh" width="440" height="307" class="alignnone size-full wp-image-1124" />
+![Macintosh](/assets/images/2014/01/macintosh.jpg)
 
 Macintoshが30周年記念ということで、自分のMacintoshとの出会いをちょっと書いてみたいと思います。
 

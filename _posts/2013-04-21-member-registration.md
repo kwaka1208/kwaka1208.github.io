@@ -17,7 +17,7 @@ tags:
 今日、たまたま二つのサイトで会員登録したので、そこで気がついたことを一つ。
 <hr>
 ## 「honto.jp」
-<img src="/assets/images/2013/04/honto.png" alt="honto.jp" width="400" height="220" class="alignnone size-full wp-image-441" />
+![honto.jp](/assets/images/2013/04/honto.png)
 今日登録したサイトの一つは、「[hont.jp](http://honto.jp/)」です。最近は紙の本に関してはamazonよりリアルな書店で買う事が多くなっているので、昨日ジュンク堂で本を買った時に「[hont.jp](http://honto.jp/)」のカードを貰ってかえりました。
 
 サイト上で会員登録をしてカード番号を入れるとカードと会員情報の関連づけが行われる方式になっているのですが、これだと店頭で紙を書かなくていいので便利です、これならカードを作る面倒さが解消されています。
@@ -33,7 +33,7 @@ tags:
 この3つで会員登録を促進していると考えられます。
 <hr>
 ## 「[キリン澄みきり](http://sumikiri.jp/)」
-<img src="/assets/images/2013/04/sumikiri.png" alt="澄みきり" width="400" height="216" class="alignnone size-full wp-image-442" />
+![澄みきり](/assets/images/2013/04/sumikiri.png)
 こちらはキャンペーンサイトですが、FacebookもしくはTwitterアカウントによる応募手続きの後にキリンの会員登録をする順序になっています。
 
 このキャンペーンでも「途中まで完了している」状態までを簡単に進めさせることによって、その後の会員登録を最後まで実行するモチベーションを利用者に生まれさせていると思います。

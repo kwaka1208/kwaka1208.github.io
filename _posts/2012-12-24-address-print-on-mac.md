@@ -21,7 +21,7 @@ tags:
   - 宛名
   - 無料
 ---
-<img src="/assets/images/2012/12/small__6707680089.jpg" alt="New Year Card" width="240" height="320" class="alignnone size-full wp-image-157" />
+![New Year Card](/assets/images/2012/12/small__6707680089.jpg)
 photo credit: [matsuyuki](http://www.flickr.com/photos/matsuyuki/6707680089/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)
 
 パソコンの購入目的の一つとして、葉書、特に年賀状の印刷という方が多いかと思います。私も以前は専用の年賀状ソフトウェアを使って宛名の印刷を行っていました。

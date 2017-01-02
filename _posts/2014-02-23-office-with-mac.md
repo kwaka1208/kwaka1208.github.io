@@ -38,7 +38,7 @@ Macを買うかどうか検討している方の相談を受けた時、ほぼ10
 
 <hr>
 ## Pages/Numbers/KeyNote
-<img src="/assets/images/2014/02/iWorks.png" alt="iWorks" width="300" height="104" class="alignnone size-full wp-image-1209" />
+![iWorks](/assets/images/2014/02/iWorks.png)
 Appleが販売しているOfficeアプリで、Mac App Storeで購入可能です。
 2013年10月1日以降にMacを購入した方なら無料でMac App Storeからダウンロードして利用できます。
 もちろん、それ以前に購入された方も有償ではありますが購入することができます。
@@ -84,6 +84,6 @@ Open Officeにブラウザで使えるOnline版の提供はありません。
 
 以上、Macユーザーな私がMicrosoft推しなエントリーを書くことになるとは思いませんでしたが、それぐらい「[Microsoft Office Online](https://office.com/)」はよくできていると思います。
 
-<img src="/assets/images/2014/02/office.png" alt="Microsoft Office Online" width="300" height="228" class="alignnone size-full wp-image-1236" />
+![Microsoft Office Online](/assets/images/2014/02/office.png)
 
 (この記事には、後日談があります。「[続：MacでOfficeを使う ](http://kwaka1208.net/office-with-mac-part2/)」)

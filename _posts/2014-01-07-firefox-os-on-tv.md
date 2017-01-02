@@ -16,7 +16,7 @@ tags:
   - TV
   - Web
 ---
-<img src="/assets/images/2014/01/firefoxos.png" alt="Firefox OS" width="300" height="286" class="alignnone size-full wp-image-1027" />
+![Firefox OS](/assets/images/2014/01/firefoxos.png)
 
 
 現在開催中のCESに合わせて、各メーカー様々な発表を行っていますが、特にこの記事に注目しています。

@@ -51,5 +51,5 @@ tags:
 
 #人にやさしいIT
 
-<img src="/assets/images/2014/02/medium_3870552476.jpg" alt="ダンボーと風船" width="352" height="500" class="alignnone size-full wp-image-1174" />
+![ダンボーと風船](/assets/images/2014/02/medium_3870552476.jpg)
 photo credit: ['PixelPlacebo'](http://www.flickr.com/photos/beatkueng/3870552476/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

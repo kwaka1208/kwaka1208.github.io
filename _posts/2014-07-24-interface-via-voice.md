@@ -20,7 +20,7 @@ tags:
   - ユーザーインターフェース
   - 音声認識
 ---
-<img src="/assets/images/2014/07/medium_4164756091.jpg" alt="Voice" width="500" height="248" class="alignnone size-full wp-image-1392" />
+![Voice](/assets/images/2014/07/medium_4164756091.jpg)
 
 <p>手で操作しなくても、話せばその通り動いてくれる、応えてくれるというのは、まるでSF映画の世界のような華やかなインターフェースです。
 しかし、音声認識はユーザーインターフェースの主流になり得るのだろうか？と思う部分もあります。</p>

@@ -17,7 +17,7 @@ tags:
   - ユーザーインターフェース
   - 触れる
 ---
-<img src="/assets/images/2014/07/tansible.jpg" alt="tansible" width="500" height="334" class="alignnone size-full wp-image-1381" />
+![tansible](/assets/images/2014/07/tansible.jpg)
 
 前回、DVDやLightningケーブルのように、記録面や接点が露出しているデリケートなメディアを嫌がる自分は、新種のデジタルディバイドなのかな？　ということを書きましたが、今回はその続きです。
 

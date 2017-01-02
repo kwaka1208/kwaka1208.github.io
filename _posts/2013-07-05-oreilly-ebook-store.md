@@ -9,7 +9,7 @@ permalink: /oreilly-ebook-store/
 categories:
   - voice
 ---
-<img src="/assets/images/2013/07/PHP.gif" alt="PHP" width="180" height="236" class="alignnone size-full wp-image-466" />
+![PHP](/assets/images/2013/07/PHP.gif)
 
 わけあってO'Reillyの「[プログラミング PHP 第2版](http://www.oreilly.co.jp/books/9784873113425/)」を買おうとしていたのですが、「紙の本だと場所をとる」「電子書籍板はPDFしかない」ということであれこれ悩んだ結果、原書の"[Programming PHP, 3rd Edition](http://shop.oreilly.com/product/0636920012443.do)"を購入しました。
 
@@ -25,4 +25,4 @@ PDFだと文字だけ綺麗に拡大が出来ないので、やはりmobiとかe
 
 全ての書籍データがDRMフリー、デバイスを選ばずに読める、全ての電子書籍がこうなったら電子書籍ってもっと普及すると思うんですけどね。O'Reillyの決断には敬意を表します(｀_´)ゞ
 
-<img src="/assets/images/2013/07/oreilly.gif" alt="O&#039;Reilly" width="293" height="98" class="alignnone size-full wp-image-465" />
+![O&#039;Reilly](/assets/images/2013/07/oreilly.gif)

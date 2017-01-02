@@ -18,7 +18,7 @@ tags:
   - 英語
 ---
 <p>
-<img src="/assets/images/2015/03/code.jpg" alt="code" width="500" height="500" class="alignnone size-full wp-image-1607" />
+![code](/assets/images/2015/03/code.jpg)
 credit: [toolmantim](http://www.flickr.com/photos/57794886@N00/6170448143/) via [FindCC](http://findcc.net)
 </p>
 <p>

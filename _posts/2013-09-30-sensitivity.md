@@ -48,5 +48,5 @@ tags:
 ## すべては情報源
 つまり、情報感度を高めるためには「信頼できる情報源を持ち」「あなた自身が情報源になる」この2つを上手く回していけばおのずと情報感度は高まって行くでしょう。
 
-<img src="/assets/images/2013/09/medium_3029161041.jpg" alt="sensitivity" width="500" height="333" class="alignnone size-full wp-image-482" />
+![sensitivity](/assets/images/2013/09/medium_3029161041.jpg)
 photo credit: [photographer padawan *(xava du)](http://www.flickr.com/photos/7933170@N03/3029161041/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

@@ -19,7 +19,7 @@ tags:
   - 実行委員会
   - 関西
 ---
-<img src="/assets/images/2014/07/WordCampKansai2014.jpg" alt="WordCamp Kansai 2014" width="500" height="375" class="alignnone size-full wp-image-1386" />
+![WordCamp Kansai 2014](/assets/images/2014/07/WordCampKansai2014.jpg)
 ※これは、スタッフTシャツとスタッフの方が作られたオリジナルバンダナです。
 もう2ヶ月前になりますが、2014年6月7日(土)と8日(日)に開催された「WordCamp Kansai 2014」に、実行委員として参加しました。本当は、もっと細かいことを色々書こうと思っていたのですが、時間が経っていることもあり、自分に向けた記録として簡単に残したいと思います。
 

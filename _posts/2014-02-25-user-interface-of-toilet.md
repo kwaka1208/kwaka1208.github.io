@@ -16,7 +16,7 @@ tags:
   - トイレ
   - ユーザーインターフェース
 ---
-<img src="/assets/images/2014/02/toilet.jpg" alt="toilet" width="500" height="313" class="alignnone size-full wp-image-1241" />
+![toilet](/assets/images/2014/02/toilet.jpg)
 
 ITの話ではないですけど、日常にあるユーザーインターフェースの話ということで。
 

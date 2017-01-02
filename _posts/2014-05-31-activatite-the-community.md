@@ -18,7 +18,7 @@ tags:
   - 序列
   - 活性化
 ---
-<img src="/assets/images/2014/05/people.jpg" alt="People" width="500" height="350" class="alignnone size-full wp-image-1332" />
+![People](/assets/images/2014/05/people.jpg)
 私たちが生活する上で、会社、学校、地域など様々な場面で組織として活動することがあります。
 
 最近では、勉強会や各種イベントなどIT系のユーザー活動が活発で、私自身も出来るだけ多くのコミュニティに参加し、自分も勉強しながら、逆に私が伝えられることを少しでも提供出来ればと考えています。

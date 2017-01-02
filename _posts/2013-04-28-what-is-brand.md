@@ -9,7 +9,7 @@ permalink: /what-is-brand/
 categories:
   - voice
 ---
-<img src="/assets/images/2013/04/small__6501030849.jpg" alt="Cartier" width="320" height="213" class="alignnone size-full wp-image-451" />
+![Cartier](/assets/images/2013/04/small__6501030849.jpg)
 
 photo credit: [eflon](http://www.flickr.com/photos/eflon/6501030849/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)
 

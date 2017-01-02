@@ -24,4 +24,4 @@ categories:
 CoderDojo西宮/梅田のサイトに、更に詳細なレポートが掲載されていますので、こちらもご覧ください。
 [CoderDojo Japanとして初めての活動！目標に向けて一歩前進した２日間でした！](http://coderdojo-nishinomiya.info/archives/2812)
 
-<img src="/assets/images/2015/08/IMG_1312.jpg" alt="Maker Faire Tokyo 2015" width="500" height="375" class="alignnone size-full wp-image-1678" />
+![Maker Faire Tokyo 2015](/assets/images/2015/08/IMG_1312.jpg)

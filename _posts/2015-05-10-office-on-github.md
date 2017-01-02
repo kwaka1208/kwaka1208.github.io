@@ -18,7 +18,7 @@ tags:
   - 文字列置換
 ---
 <p>
-<img src="/assets/images/2015/05/excel.png" alt="Excel" width="256" height="256" class="alignnone size-full wp-image-1638" />
+![Excel](/assets/images/2015/05/excel.png)
 </p>
 <p>
 仕事上の必要に迫られて、複数の文字列置換を一括で実行するExcel用マクロを作りましたので、GitHubで公開しています。必要な方がいらっしゃいましたら自由にお使いください。

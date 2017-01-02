@@ -16,7 +16,7 @@ tags:
   - Google Glass
   - wearable computing
 ---
-<img src="/assets/images/2015/02/googleglass.jpg" alt="Google Glass" width="500" height="281" class="alignnone size-full wp-image-1561" />
+![Google Glass](/assets/images/2015/02/googleglass.jpg)
 <p>
 一時は、技適マークを取得し日本国内での販売も間近といわれていたGoogle Glassに、突然の販売終了がアナウンスされました。
 ※技適マークとは、日本国内での販売が認められた通信機器に付けられるマークです。

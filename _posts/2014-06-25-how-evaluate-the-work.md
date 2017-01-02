@@ -17,7 +17,7 @@ tags:
   - 給与
   - 評価
 ---
-<img src="/assets/images/2014/06/work.jpg" alt="work" width="500" height="374" class="alignnone size-full wp-image-1363" />
+![work](/assets/images/2014/06/work.jpg)
 <p>ここのところ話題になっている「残業ゼロ法案」。どちらかというと雇用者
 （Employer)に有利で、被雇用者(Employee)に不利な法案、ということで批判的な議論の対象になっていますが、きちんとした議論をすることで被雇用者にもメリットのある、バランスの取れた制度になるはずだと思います。<br /><a href="http://bylines.news.yahoo.co.jp/konnoharuki/20140423-00034745/">安倍政権は、ブラック企業の味方なのか？ 「残業代ゼロ法案」について考
 える</a></p>

@@ -21,7 +21,7 @@ tags:
   - 未来
 ---
 <p>
-<img src="/assets/images/2015/01/medium_16035779290.jpg" alt="TV" width="500" height="316" class="alignnone size-full wp-image-1529" />
+![TV](/assets/images/2015/01/medium_16035779290.jpg)
 </p>
 <p>
 毎年この時期にアメリカで開催される世界最大の家電ショー「CES」での発表内容に注目しているのですが、今年はスマートフォンに採用されているOSがテレビにも搭載されることが大きなトピックなひとつだったようです。

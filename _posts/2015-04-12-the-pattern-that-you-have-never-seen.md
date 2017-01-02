@@ -16,7 +16,7 @@ tags:
   - 組み合わせ
 ---
 <p>
-<img src="/assets/images/2015/04/7755784678_2bdca437fb.jpg" alt="look!" width="500" height="335" class="alignnone size-full wp-image-1624" />
+![look!](/assets/images/2015/04/7755784678_2bdca437fb.jpg)
 photo credit: [](http://www.flickr.com/photos/50523792@N03/7755784678) via [photopin](http://photopin.com) [(license)](https://creativecommons.org/licenses/by/2.0/)
 </p>
 <p>

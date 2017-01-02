@@ -22,6 +22,6 @@ iPhone5で使える壁紙を探していて知ったのでちょこっとシェ�
 犬のiPhone5用壁紙を探したいなぁと思ったら"[犬 imagesize:640x1136](http://images.google.co.jp/search?hl=ja&amp;site=&amp;tbm=isch&amp;source=hp&amp;biw=1123&amp;bih=595&amp;oq=%E7%8A%AC+imagesize:640x1136&amp;gs_l=img.12...14290.14290.0.15275.1.1.0.0.0.0.360.360.3-1.1.0...0.0...1ac.1.8.img.1uJzqvQzLYk&amp;q=%E7%8A%AC&amp;tbs=isz:ex,iszw:640,iszh:1136)"となります。
 
 検索結果はこんな感じ、同じ大きさの画像ばかりなので綺麗に並びます。
-<img src="/assets/images/2013/04/dogs.png" alt="dogs" width="500" height="234" class="alignnone size-full wp-image-432" />
+![dogs](/assets/images/2013/04/dogs.png)
 どうぞお試しあれ！
 [Googleの画像検索](https://images.google.com/)
