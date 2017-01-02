@@ -94,5 +94,5 @@ photo credit: [jpellgen](http://www.flickr.com/photos/jpellgen/3421273869/) via 
 [Gmail](https://mail.google.com/)
 [Yahoo!メール](https://m.mail.yahoo.co.jp/cl/)
 
-<hr>
+- - -
 アクセスのしやすさという意味ではアプリのアイコンがあった方が便利なのは確かです。「アイコンは減らなくてもいい容量を減らしたい」という方には、スマートフォン向けサイトへのショートカットをホーム画面に置くという手もありますよ。^_^

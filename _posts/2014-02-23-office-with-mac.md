@@ -36,7 +36,7 @@ Macを買うかどうか検討している方の相談を受けた時、ほぼ10
 
 現状のMacで使えるOfficeの選択肢を整理しながら、どういう方にどのOfficeアプリが合うのかをまとめたいと思います。
 
-<hr>
+- - -
 ## Pages/Numbers/KeyNote
 ![iWorks](/assets/images/2014/02/iWorks.png)
 Appleが販売しているOfficeアプリで、Mac App Storeで購入可能です。
@@ -48,23 +48,23 @@ Appleが販売しているOfficeアプリで、Mac App Storeで購入可能で�
 
 また、現在は英語版のβ版ですが、iCloudからブラウザで利用できるOnline版も提供されています。
 Online版なら、外出先のMacやWindows PCからも利用することができるメリットがあります。
-<hr>
+- - -
 ## Microsoft Office
 [![Microsoft Office](/assets/images/2014/02/micosoftoffice.png)](http://office.microsoft.com/ja-jp/)
 こちらがいわゆる「Office」です。こちらもインストールして使うアプリ版とWebブラウザで使える[Online版](https://office.com/)があります。アプリ版については、Windows版との互換性の高さを謳っていますが、それでもレイアウト崩れは避けられないようです。Online版については、まだちゃんと確認出来ていないのですが、Windows版の最新である「Office2013」とほぼ同じ機能が使えるようで、画面や操作感も「Office2013」と全く同じと言って差し支えないと思います。
-<hr>
+- - -
 ## Open Office
 [![Open Office](/assets/images/2014/02/OOo.png)](http://www.openoffice.org/ja/)
 フリーのOfficeソフトの代表です。他のOfficeアプリとの決定的な違いはデータベースアプリ(Microsoft Officeで言うところのAccessに相当)が使える点です。
 Microsoft Officeでも、Accessの使えるバージョンは値段が跳ね上がりますので、個人でデータベースアプリを使えるレベルにあるのは、今のところOpen Officeだけと言えるでしょう。
 
 Open Officeにブラウザで使えるOnline版の提供はありません。
-<hr>
+- - -
 ## Google docs(Google Drive)
 [![Google Docs](/assets/images/2014/02/GoogleDocs.png)](http://docs.google.com/?hl=ja)
 以前は、「Google docs」の名前で提供されていたブラウザから利用するOnline版Officeで、今は共有Driveサービスの「Google Drive」の一部として提供されています。
 こちらはOpen Officeと反対にインストールして使うアプリ版の提供はありません。
-<hr>
+- - -
 ## どれを使えばいい?
 と、ここまでで主な選択肢を上げましたが、実際にどれを使えばいいのか?を考えられるタイプ別に分けてみました。
 <ul>
