@@ -35,4 +35,4 @@ tags:
 
 英語環境で使っているかどうかは別として、アルファベットの方が分かりやすいという方お試しあれ！
 
-photo credit: <a href="http://www.flickr.com/photos/lwr/3491396612/">Leo Reynolds</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: [Leo Reynolds](http://www.flickr.com/photos/lwr/3491396612/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

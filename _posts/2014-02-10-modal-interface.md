@@ -17,7 +17,7 @@ tags:
   - モード
   - ユーザーインターフェース
 ---
-先日、<a href="http://kwaka1208.net/modeless-interface/">優れたインターフェース」ひとつが「モードを意識させないインターフェース」である</a>ということを書きましたが、今回は「モードを意識させるインターフェース」です。
+先日、[優れたインターフェース」ひとつが「モードを意識させないインターフェース」である](http://kwaka1208.net/modeless-interface/)ということを書きましたが、今回は「モードを意識させるインターフェース」です。
 
 「モードを意識させない」が、利用者の負担を軽くし使いやすくする、ということはイメージしやすいと思うのですが、あえて垣根を作り、モードを意識させた方が、利用者の負担を軽くすることもあるのです。
 ## 人間と人間の間にモードを作る
@@ -52,4 +52,4 @@ tags:
 #人にやさしいIT
 
 <img src="/assets/images/2014/02/medium_3870552476.jpg" alt="ダンボーと風船" width="352" height="500" class="alignnone size-full wp-image-1174" />
-photo credit: <a href="http://www.flickr.com/photos/beatkueng/3870552476/">'PixelPlacebo'</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
+photo credit: ['PixelPlacebo'](http://www.flickr.com/photos/beatkueng/3870552476/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

@@ -22,7 +22,7 @@ tags:
   - セキュリティ
   - パスワード
 ---
-このエントリーは、"<a href="http://kwaka1208.net/google-security1/">Googleサービスのセキュリティを強化する(その1:二段階認証の設定)</a>"からの続きです。検索などで見つけてこられた方は、まず"<a href="http://kwaka1208.net/google-security1/">Googleサービスのセキュリティを強化する(その1:二段階認証の設定)</a>"をご覧になってください。
+このエントリーは、"[Googleサービスのセキュリティを強化する(その1:二段階認証の設定)](http://kwaka1208.net/google-security1/)"からの続きです。検索などで見つけてこられた方は、まず"[Googleサービスのセキュリティを強化する(その1:二段階認証の設定)](http://kwaka1208.net/google-security1/)"をご覧になってください。
 
 ## アプリケーション固有のパスワードとは
 Googleアカウントに対する二段階認証を設定することで本人確認がより確実なものになりますが、二段階認証のコード入力をサポートしないアプリケーションではこれを利用することが出来ません。
@@ -38,7 +38,7 @@ Googleアカウントに対する二段階認証を設定することで本人�
 
 ### 1.設定画面を開く
 以下のリンクをクリックして、アカウント情報画面を開いてください。
-<a href="https://accounts.google.com/b/0/IssuedAuthSubTokens?hl=ja">Googleのアカウント情報画面</a>
+[Googleのアカウント情報画面](https://accounts.google.com/b/0/IssuedAuthSubTokens?hl=ja)
 
 最初に、"接続済みのサイト、アプリケーション、サービス"という項目があって、その下に、"<span class="emphasis">アプリケーション固有のパスワード</span>"という項目があります。以下のような画面です。
 ![アプリケーション固有のパスワード](/assets/images/2012/12/uniqpass1.png)

@@ -19,7 +19,7 @@ tags:
 ---
 <p>
 <img src="/assets/images/2015/03/code.jpg" alt="code" width="500" height="500" class="alignnone size-full wp-image-1607" />
-credit: <a href="http://www.flickr.com/photos/57794886@N00/6170448143/" target="_blank">toolmantim</a> via <a href="http://findcc.net" target="_blank">FindCC</a>
+credit: [toolmantim](http://www.flickr.com/photos/57794886@N00/6170448143/) via [FindCC](http://findcc.net)
 </p>
 <p>
 今回は、エンジニアが取り組むべき英語についてのお話です。
@@ -66,7 +66,7 @@ Apple Watchの「グランス」が「ひとめで見る」ためのユーザー
 多くの場合、変数は名詞、もしくは動名詞（動詞＋ing）でつけることが多く、関数は動詞もしくは名詞＋動詞でつけます。
 これは、変数が対象のオブジェクトや状態を表すもので、関数が動作を実装するものだからなのですが、これらの対応付けが正しく行われていると名前をみただけで、それが関数なのか変数なのか、どういった機能を実現するものなのか？　を理解できます。
 つまり、資料を読んだりソースコード内を検索して使われ方を調べる作業を減らすことができ、可読性も向上します。
-<a href="http://qiita.com/jnchito/items/459d58ba652bf4763820">モデルやメソッドに名前を付けるときは英語の品詞に気をつけよう［Qiita］</a>
+[モデルやメソッドに名前を付けるときは英語の品詞に気をつけよう［Qiita］](http://qiita.com/jnchito/items/459d58ba652bf4763820)
 </p>
 <p>
 言葉の意味、綴り、品詞による違いをその都度調べるのは面倒だと思いますが、慣れるまでは仕方がありません。

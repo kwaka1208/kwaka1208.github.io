@@ -41,11 +41,11 @@ tags:
 今回のアカウントは一番目のタイプだったようで、その後アカウント閉鎖したようです。(もしかしたら、Twitterに閉め出しを食らったのかも)。
 
 ## フォロワーごとアカウントを売ることも
-二番目についてはピンと来ないかもしれませんが、ほとんどのWebサービスでは途中でIDを変更できないのですが、TwitterはIDを変更することができるのです。例えば、私のアカウントは<a href="https://twitter.com/kwaka1208">@kwaka1208</a>ですが、これを他の企業名に変更して、その企業に売るとフォロワーを売ることができるわけです。
+二番目についてはピンと来ないかもしれませんが、ほとんどのWebサービスでは途中でIDを変更できないのですが、TwitterはIDを変更することができるのです。例えば、私のアカウントは[@kwaka1208](https://twitter.com/kwaka1208)ですが、これを他の企業名に変更して、その企業に売るとフォロワーを売ることができるわけです。
 
 IDを変え、アイコンを変え、プロフィールの説明を変えれば、まったく別のアカウントに化けることができます。
 
 このようにして、知らず知らずのうちに不正な商売の片棒を担がされていることにもなりかねないので、Twitterといえども身元不明な怪しいアカウントのフォローやRTは控えましょう。
 
 <img src="/assets/images/2014/01/medium_6102173905.jpg" alt="悪意のあるアカウントにご注意！" width="500" height="333" class="alignnone size-full wp-image-1047" />
-photo credit: <a href="http://www.flickr.com/photos/emiliano-iko/6102173905/">i k o</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: [i k o](http://www.flickr.com/photos/emiliano-iko/6102173905/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

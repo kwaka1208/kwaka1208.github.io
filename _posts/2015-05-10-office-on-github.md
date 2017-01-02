@@ -24,5 +24,5 @@ tags:
 仕事上の必要に迫られて、複数の文字列置換を一括で実行するExcel用マクロを作りましたので、GitHubで公開しています。必要な方がいらっしゃいましたら自由にお使いください。
 </p>
 <p>
-<a href="https://github.com/kwaka1208/office">https://github.com/kwaka1208/office</a>
+[https://github.com/kwaka1208/office](https://github.com/kwaka1208/office)
 </p>

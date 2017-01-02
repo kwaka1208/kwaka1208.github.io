@@ -11,7 +11,7 @@ attitude_sidebarlayout:
 categories:
   - voice
 ---
-<a href="http://pote2.net/kenichi/kindle-has-come/">自分のblogにKindle Paperwhiteを買ったことを書いた</a>ところ、「自分も欲しいと思っているんです」という声がありましたので、参考になるかなと思うところを簡単にレビューしたいと思います。
+[自分のblogにKindle Paperwhiteを買ったことを書いた](http://pote2.net/kenichi/kindle-has-come/)ところ、「自分も欲しいと思っているんです」という声がありましたので、参考になるかなと思うところを簡単にレビューしたいと思います。
 <hr>
 ## 大きさ
 大きさは説明するよりも身の回りのもので比べた方が早いと思いますので、文庫本と並べたもので紹介します。
@@ -64,4 +64,4 @@ Paperwhiteで使われている表示デバイスは「E Ink」というもの�
 
 Happy reading!
 
-<a href="http://www.amazon.co.jp/gp/product/B007OZO03M/">Kindle Paperwhite</a>
+[Kindle Paperwhite](http://www.amazon.co.jp/gp/product/B007OZO03M/)

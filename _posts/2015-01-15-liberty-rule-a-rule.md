@@ -43,4 +43,4 @@ tags:
 こういった「様式」も「ルール」のひとつであり、仕事をする上で必要な「フレームワーク」。実態に合っていないルールを改善していくことができなければ「縛られた感」を感じるでしょうし、それらを変えられる「自由さ」が必要ということなのだと考えています。
 つまり、やはり「ルール」は必要で、「ルールをつかいこなしていく自由さ」こそが「ルール」と「自由」が両立できるポイントなのだと、私は考えています。
 </p>
-photo credit: <a href="https://www.flickr.com/photos/kyletaylor/6104169423/">Kyle Taylor, Dream It. Do It.</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>
+photo credit: [Kyle Taylor, Dream It. Do It.](https://www.flickr.com/photos/kyletaylor/6104169423/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

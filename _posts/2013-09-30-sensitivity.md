@@ -24,9 +24,9 @@ tags:
 
 「嘘をつかない、間違った情報を流さない」ということもありますが、「自分が期待する情報を発信してくれる」ということが大切です。
 
-例えば、私の場合はITとかネット関係の情報を得る時、海外のスタートアップを含めた新しいサービスの情報なら<a href="http://jp.techcrunch.com">TechCrunch Japan</a>、新しい製品の情報なら<a href="http://japanese.engadget.com">Engadget 日本版</a>を頼っています。
+例えば、私の場合はITとかネット関係の情報を得る時、海外のスタートアップを含めた新しいサービスの情報なら[TechCrunch Japan](http://jp.techcrunch.com)、新しい製品の情報なら[Engadget 日本版](http://japanese.engadget.com)を頼っています。
 
-ただしこれらのサイトは日本国内の小さな情報は網羅してないので、日本国内の新しい製品やサービスは<a href="http://www.watch.impress.co.jp">Impressのカテゴリー毎ニュースサイト</a>から得ています。
+ただしこれらのサイトは日本国内の小さな情報は網羅してないので、日本国内の新しい製品やサービスは[Impressのカテゴリー毎ニュースサイト](http://www.watch.impress.co.jp)から得ています。
 
 これらは、私自身が今まで利用した多くのニュースサイトから辿り着いた結論ですので自分なりの「信頼できる情報源を持つ」には時間がかかりますし、人によって異なると思います。
 
@@ -49,4 +49,4 @@ tags:
 つまり、情報感度を高めるためには「信頼できる情報源を持ち」「あなた自身が情報源になる」この2つを上手く回していけばおのずと情報感度は高まって行くでしょう。
 
 <img src="/assets/images/2013/09/medium_3029161041.jpg" alt="sensitivity" width="500" height="333" class="alignnone size-full wp-image-482" />
-photo credit: <a href="http://www.flickr.com/photos/7933170@N03/3029161041/">photographer padawan *(xava du)</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+photo credit: [photographer padawan *(xava du)](http://www.flickr.com/photos/7933170@N03/3029161041/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

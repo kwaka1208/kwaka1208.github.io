@@ -43,7 +43,7 @@ Facebook、Twitter、どれでも構わないのですが、一年前の今日�
 「他の誰かが読むかもしれない」と考えれば、文章をきちんと書く努力をするし、他の人にもわかりやすく書こうとする意識が働きます。これは自分が読むためだけに文章を書くよりも、文章力を格段に向上させるはず。また、「誰かが読んでくれる」ことがモチベーションを維持させてくれますし、コメント（ポジティブなものに限る）がつくことによって、更なるモチベーションの向上、新たな発見、新しいつながりができるかもしれない（実際できます）。こういった効果がblogにはあるのです。
 
 ## おすすめのblogサービス
-無料のblogサービスはたくさんありますが、私が友人にたずねられた時は、<a href="http://ja.wordpress.com/">wordpress.com</a>をおすすめしています。
+無料のblogサービスはたくさんありますが、私が友人にたずねられた時は、[wordpress.com](http://ja.wordpress.com/)をおすすめしています。
 
 一般的にblogサービスが無料である理由は、blogの画面に表示される広告から得られる収益で運営されているからなのですが、wordpress.comは他のサービスと比較すると広告の占める面積が少ないのが特徴です。やっぱり広告の少ない方が見た目は良いです。
 
@@ -60,7 +60,7 @@ wordpress.comは、世界シェアNo.1のCMS（blogやホームページの管�
 ## WordPressユーザーイベントのお知らせ
 この流れで、WordPressのイベントについてのお知らせです。^_^;
 
-関西限定の話題で恐縮ですが、WordPressのユーザーイベント"<a href="http://2014.kansai.wordcamp.org/">WordCamp Kansai 2014</a>"が6月7日と8日の二日間、大阪梅田のグランフロント大阪で開催されます。私も実行委員のひとりとして、微力ながらお手伝いをしております。
+関西限定の話題で恐縮ですが、WordPressのユーザーイベント"[WordCamp Kansai 2014](http://2014.kansai.wordcamp.org/)"が6月7日と8日の二日間、大阪梅田のグランフロント大阪で開催されます。私も実行委員のひとりとして、微力ながらお手伝いをしております。
 
 WordPressでblogをやっている方から、仕事でWordPressを使われる方まで様々なポジションでWordPressに関わる方向けのユーザーの手作りのイベントです。ユーザー同士のつながりがあるのもWordPressの強みであり魅力なのです。
 
@@ -71,6 +71,6 @@ WordPressでblogをやっている方から、仕事でWordPressを使われる�
 日時：6月7日（土）8日（日）</ br>
 会場：グランフロント大阪 ナレッジキャピタルカンファレンスルーム TowerC</ br>
 参加費：2,000円</ br>
-<a href="http://2014.kansai.wordcamp.org/">[caption id="attachment_1270" align="alignnone" width="250"]<img src="/assets/images/2014/04/bnr-250x250.gif" alt="WordCamp Kansai 2014" width="250" height="250" class="size-full wp-image-1270" /> WordCamp Kansai 2014[/caption]</a>
+[[caption id="attachment_1270" align="alignnone" width="250"]<img src="/assets/images/2014/04/bnr-250x250.gif" alt="WordCamp Kansai 2014" width="250" height="250" class="size-full wp-image-1270" /> WordCamp Kansai 2014[/caption]](http://2014.kansai.wordcamp.org/)
 </p>
-photo credit: <a href="http://www.flickr.com/photos/chiaralily/4653058104/">chiaralily</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
+photo credit: [chiaralily](http://www.flickr.com/photos/chiaralily/4653058104/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

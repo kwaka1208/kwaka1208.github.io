@@ -14,7 +14,7 @@ tags:
   - 解約
 ---
 <img src="/assets/images/2013/03/small_549050685.jpg" alt="option" width="240" height="180" class="alignnone size-full wp-image-384" />
-photo credit: <a href="http://www.flickr.com/photos/clangboomsteam/549050685/">clang boom steam</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: [clang boom steam](http://www.flickr.com/photos/clangboomsteam/549050685/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 SoftBankでiPhoneを契約するといくつかのオプションがデフォルトでついてきます。これらは「最初からつけないでください」という選択肢が無く「無料期間があるので、不要であればその期間内に解除してください。無料期間を過ぎると料金が発生します」ということになります。
 
@@ -26,18 +26,18 @@ SoftBankでiPhoneを契約するといくつかのオプションがデフォル
 私がiPhone5に機種変更した時にデフォルトでついてきたオプションは以下の3つでした。オプションの内容は契約時期によっても異なるかもしれませんので、この点はお含みおきください。
 <ol>
 <li>iPhone基本パック(30日間無料)<br />
-以下のオプションがセットになっています(<a href="http://mb.softbank.jp/mb/iphone/service/option/">詳細はこちら</a>)。()内は基本パックではなく個別申し込みした場合の料金です。"紛失ケータイ捜索サービス"だけは基本パックを付けないと利用できません。
+以下のオプションがセットになっています([詳細はこちら](http://mb.softbank.jp/mb/iphone/service/option/))。()内は基本パックではなく個別申し込みした場合の料金です。"紛失ケータイ捜索サービス"だけは基本パックを付けないと利用できません。
 
 <span class="emphasis">
-"<a href="https://my.softbank.jp">My SoftBank</a>"の「オプションサービス変更」で解除することが出来ます。</span>
+"[My SoftBank](https://my.softbank.jp)"の「オプションサービス変更」で解除することが出来ます。</span>
 
 <ol type="A">
 <li>紛失ケータイ捜索サービス(iPhone基本パックのみ)<br />
-携帯電話を紛失した時に、SoftBankのサポートに連絡すればどこにあるかを調べてくれるサービスです(<a href="http://mb.softbank.jp/mb/service/search_phone/">詳細はこちら</a>)。しかしiPhoneなら"iPhoneを探す"を設定しておけば、iPhoneのGPS機能でPCやMacから探すことが出来るので、このサービスが無くても大丈夫です。
+携帯電話を紛失した時に、SoftBankのサポートに連絡すればどこにあるかを調べてくれるサービスです([詳細はこちら](http://mb.softbank.jp/mb/service/search_phone/))。しかしiPhoneなら"iPhoneを探す"を設定しておけば、iPhoneのGPS機能でPCやMacから探すことが出来るので、このサービスが無くても大丈夫です。
 </li>
-<li>位置ナビ(210円/月)<br />登録している携帯電話の位置を探すことによってその携帯電話の持ち主がどこにいるかを探せるサービスで、主には子どもの居場所を確認するためのサービスです(<a href="http://mb.softbank.jp/mb/service/3g/ichinavi/">詳細はこちら</a>)。これもiPhoneなら"友達を探す"アプリ(無料)を使えば同じことが出来ますので、このサービスが無くても大丈夫です。<a href="https://itunes.apple.com/jp/app/you-dawo-tansu/id466122094?mt=8">"友達を探す"アプリをダウンロード</a>
+<li>位置ナビ(210円/月)<br />登録している携帯電話の位置を探すことによってその携帯電話の持ち主がどこにいるかを探せるサービスで、主には子どもの居場所を確認するためのサービスです([詳細はこちら](http://mb.softbank.jp/mb/service/3g/ichinavi/))。これもiPhoneなら"友達を探す"アプリ(無料)を使えば同じことが出来ますので、このサービスが無くても大丈夫です。["友達を探す"アプリをダウンロード](https://itunes.apple.com/jp/app/you-dawo-tansu/id466122094?mt=8)
 </li>
-<li>一定額ストップサービス(105円/月)<br />利用料金が一定額を越えると利用を停止してくれるサービスです(<a href="http://mb.softbank.jp/mb/service/amount_info/">詳細はこちら</a>)。iPhoneの場合はパケット料金は定額が基本ですので、実質的には通話料金(SMS含む)を制限するサービスということになりますね。iTunesやApp Storeの有料コンテンツのダウンロードは制限できません。
+<li>一定額ストップサービス(105円/月)<br />利用料金が一定額を越えると利用を停止してくれるサービスです([詳細はこちら](http://mb.softbank.jp/mb/service/amount_info/))。iPhoneの場合はパケット料金は定額が基本ですので、実質的には通話料金(SMS含む)を制限するサービスということになりますね。iTunesやApp Storeの有料コンテンツのダウンロードは制限できません。
 </li>
 <li>留守番電話プラス(315円/月)<br />
 留守番電話に保存できる件数が90件まで拡張されるのと、メッセージが音声ファイルで配信されるので配信済みの録音については圏外でも聞く事ができます。営業のように仕事で電話を多用するような方には便利かもしれません。
@@ -52,11 +52,11 @@ SoftBankでiPhoneを契約するといくつかのオプションがデフォル
 
 </li>
 <li>Yahoo!プレミアム for SoftBank(60日間無料)<br />
-Yahoo!の有料サービスのスマートフォン版です(<a href="http://mb.softbank.jp/mb/service/ypremium/">詳細はこちら</a>)。Yahoo!オークションへの出品が出来るとか、指定スマートフォンのアプリやコンテンツが取り放題になるとありますが、iPhone用アプリは取り放題にはなりません。そもそもオークションを使っている方は既に利用されていると思いますので、不要という方が多いのではないかなと思います。
-<span class="emphasis"><a href="http://ent.mb.softbank.jp/apl/yahoo/pc/ypre/stop_attention.jsp">Yahoo!プレミアム for SoftBankの登録解除ページ</a>で解除出来ます。</span>
+Yahoo!の有料サービスのスマートフォン版です([詳細はこちら](http://mb.softbank.jp/mb/service/ypremium/))。Yahoo!オークションへの出品が出来るとか、指定スマートフォンのアプリやコンテンツが取り放題になるとありますが、iPhone用アプリは取り放題にはなりません。そもそもオークションを使っている方は既に利用されていると思いますので、不要という方が多いのではないかなと思います。
+<span class="emphasis">[Yahoo!プレミアム for SoftBankの登録解除ページ](http://ent.mb.softbank.jp/apl/yahoo/pc/ypre/stop_attention.jsp)で解除出来ます。</span>
 </li>
 <li>UULA(7日間無料)<br />
-スマートフォンやタブレットで映画やミュージックビデオ等の動画観られるサービスです(<a href="https://mb.softbank.jp/mb/service/uula/">詳細はこちら</a>)。<span class="emphasis"><a href="https://my.uula.jp/uula_user/payment/list/">UULA マイページ</a>でログインして、"会員を変更する"を選択して"UULA見放題会員を解除する"で"OK"を押せば解除できます。</span>パスワードが分からなければ、パスワードを設定しなおしてからログインしてください。
+スマートフォンやタブレットで映画やミュージックビデオ等の動画観られるサービスです([詳細はこちら](https://mb.softbank.jp/mb/service/uula/))。<span class="emphasis">[UULA マイページ](https://my.uula.jp/uula_user/payment/list/)でログインして、"会員を変更する"を選択して"UULA見放題会員を解除する"で"OK"を押せば解除できます。</span>パスワードが分からなければ、パスワードを設定しなおしてからログインしてください。
 </li>
 </ol>
 <hr>

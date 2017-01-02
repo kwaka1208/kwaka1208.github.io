@@ -17,7 +17,7 @@ tags:
   - 韓国
 ---
 <img src="/assets/images/2013/03/small_8175229818.jpg" alt="cyber attack" width="240" height="180" class="alignnone size-full wp-image-388" />
-photo credit: marsmet481 via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: marsmet481 via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 韓国で大規模なサイバー攻撃の発生がニュースになっていますが、一体どんなことが起こったのか?なぜたくさんのPCが一度に被害にあったのか?自分たちは大丈夫なのか?というところを簡単に説明したいと思います。
 

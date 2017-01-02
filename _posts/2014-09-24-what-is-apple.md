@@ -19,8 +19,8 @@ categories:
 <p>
 今回の大きな変更のひとつは、なんといっても大きさ。
 特にiPhone 6 Plusは、iPhoneユーザーには未知の領域で（それは言い過ぎかな）、大きさをリアルに体験できる型紙がダウンロードできるとか、一万円札71枚分の大きさに近いとか、発売前に大きさを確認するための情報が飛び交っています。その中で、一番手軽に「iPhone 6 Plus」の大きさを体感できるのが、ロッテの「ガーナチョコレート」。パッケージの大きさが、「iPhone 6 Plus」本体の大きさに近いそうです。検討中の方、是非お試しください。
-<a href="http://www.lotte.co.jp/products/brand/ghana/">ロッテ　ガーナチョコレート</a>
-<a href="http://nlab.itmedia.co.jp/nl/articles/1409/10/news139.html">71万円の大金を積んで誰よりも早く「iPhone 6 Plus」の使い勝手を検証してみた</a>
+[ロッテ　ガーナチョコレート](http://www.lotte.co.jp/products/brand/ghana/)
+[71万円の大金を積んで誰よりも早く「iPhone 6 Plus」の使い勝手を検証してみた](http://nlab.itmedia.co.jp/nl/articles/1409/10/news139.html)
 <a href="http://wired.jp/2014/09/10/iphone-6-plus-handy-paper-template/
 ">新iPhoneの大きさがわかる「型紙」をダウンロードしよう</a>
 </p>
@@ -68,5 +68,5 @@ Appleのブランド力低下が言われて久しく、株価にもそれが現
 それでも、Appleほどの完成度のモノや体験を提供できる企業は多くありませんし、それを楽しみにしているファンが多いのも事実。これからもAppleには、より「Appleらしい」製品やサービスを産み出してもらいたいものですね。
 </p>
 <p>
-photo credit: <a href="https://www.flickr.com/photos/mxing-m/6217843336/">mxing✪m</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+photo credit: [mxing✪m](https://www.flickr.com/photos/mxing-m/6217843336/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 </p>

@@ -17,7 +17,7 @@ tags:
   - 駅
 ---
 <img src="/assets/images/2013/11/medium_6870614936.jpg" alt="ticket" width="500" height="332" class="alignnone size-full wp-image-546" />
-photo credit: <a href="http://www.flickr.com/photos/sigfridlundberg/6870614936/">Sigfrid Lundberg</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-sa/2.0/">cc</a>
+photo credit: [Sigfrid Lundberg](http://www.flickr.com/photos/sigfridlundberg/6870614936/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)
 
 機械に囲まれて暮らしている現代、使いにくい機械がたくさんあります。
 その中でも、駅の「自動券売機」と「自動改札」は、もっと人に優しくなって欲しい機械の一つです。

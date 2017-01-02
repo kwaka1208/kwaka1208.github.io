@@ -18,7 +18,7 @@ tags:
   - 顧客視点
 ---
 <img src="/assets/images/2014/01/medium_2895754066.jpg" alt="さんま" width="500" height="332" class="alignnone size-full wp-image-1054" />
-photo credit: <a href="http://www.flickr.com/photos/ymorimo/2895754066/">ymorimo</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: [ymorimo](http://www.flickr.com/photos/ymorimo/2895754066/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 突然ですが、古典落語の「目黒のさんま」をご存知ですか？
 
@@ -52,7 +52,7 @@ photo credit: <a href="http://www.flickr.com/photos/ymorimo/2895754066/">ymorimo
 
 しかし、利用者にとっても、メーカーにとっても不幸な結果をもたらしている今の構図を見ると、双方が対話し歩み寄ることが、日本のモノづくりを復活させるために必要な要素のひとつだと、私は考えています。
 
-<a href="http://ja.wikipedia.org/wiki/目黒のさんま">目黒のさんま　@Wikipedia</a>
-<a href="http://www.youtube.com/watch?v=j985ow8kGpI">目黒のさんま 十代目馬生さん @YouTube</a>
+[目黒のさんま　@Wikipedia](http://ja.wikipedia.org/wiki/目黒のさんま)
+[目黒のさんま 十代目馬生さん @YouTube](http://www.youtube.com/watch?v=j985ow8kGpI)
 
 #モノづくりの現場から

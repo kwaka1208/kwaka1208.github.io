@@ -19,7 +19,7 @@ tags:
   - Office
 ---
 <img src="/assets/images/2014/05/medium_3248317574-300x199.jpg" alt="Mac" width="300" height="199" class="alignnone size-medium wp-image-1324" />
-以前、「<a href="http://kwaka1208.net/office-with-mac/">"MacでOfficeを使う"</a>」と題して、Macで利用できるOfficeアプリを紹介し「Microsoft Office Online」をおすすめとしていましたが、今はすっかり「Google Drive」に乗り換え、Googleのドキュメントやスプレッドシートを主に利用しています。
+以前、「["MacでOfficeを使う"](http://kwaka1208.net/office-with-mac/)」と題して、Macで利用できるOfficeアプリを紹介し「Microsoft Office Online」をおすすめとしていましたが、今はすっかり「Google Drive」に乗り換え、Googleのドキュメントやスプレッドシートを主に利用しています。
 
 乗り換えに至った決定的なポイントはスプレッドシートで、「シートの複製ができる」でした。「Microsoft Office Online」ではシートの複製が出来ないのが厳しい。
 
@@ -31,7 +31,7 @@ tags:
 ## Gmailとの連携が秀逸
 Gmailとの連携も「Google Drive」のメリットのひとつです。メールに添付されたExcel、Word、PowerPoint、PDFなどの文書ファイルは、直接Google Driveへ取り込みができます。
 
-<a href="http://kwaka1208.net/inbox-zero-management/">"「inbox zero」を実践するためのメール削除のルール"</a>でも書いたように、私は添付ファイル付きメールは添付を取り込んだら、削除（Gmailならアーカイブ）する派なので、メールを受け取って、すぐに添付ファイルの取り込み、分類までできるのは便利この上ありません。
+["「inbox zero」を実践するためのメール削除のルール"](http://kwaka1208.net/inbox-zero-management/)でも書いたように、私は添付ファイル付きメールは添付を取り込んだら、削除（Gmailならアーカイブ）する派なので、メールを受け取って、すぐに添付ファイルの取り込み、分類までできるのは便利この上ありません。
 
 
 オンラインサービスの場合、サービス運営側に自分のメールやデータを読まれるリスクもあると言われますが、GmailとGoogle Driveの連携機能は、そんなリスクがあったとしても使いたいと思わせるほどの快適さです。
@@ -59,4 +59,4 @@ GoogleかMicrosoftかを問わず、Online版だと同じファイルを複数�
 
 「Microsoft Office」の操作性に近いけれど、機能的にやや劣る「Microsoft Office Online」と、機能は高いけれど多少おかしな動作がある「Google Drive」と考えれば、初心者の方には「Microsoft Office Online」、多少の困難は自分で乗り切れる自信のある方には「Google Drive」がおすすめですね。
 
-photo credit: <a href="http://www.flickr.com/photos/dahlstroms/3248317574/">Håkan Dahlström</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>
+photo credit: [Håkan Dahlström](http://www.flickr.com/photos/dahlstroms/3248317574/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

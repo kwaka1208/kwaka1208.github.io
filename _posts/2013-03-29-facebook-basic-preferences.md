@@ -32,7 +32,7 @@ Facebookを利用する上での基本的なセキュリティの設定です。
 <img src="/assets/images/2013/03/secyrity.png" alt="secyrity" width="300" height="475" class="alignnone size-full wp-image-415" />
 
 では下のリンクから設定画面へ行って実際に設定してください。設定が終わったらブラウザの「戻る」ボタンでまたこの画面に戻ってきて次の設定へ進んでください。
-<a href="https://m.facebook.com/settings/security/">「セキュリティ設定」の設定画面へ行く</a>
+[「セキュリティ設定」の設定画面へ行く](https://m.facebook.com/settings/security/)
 <hr>
 ## つながりの設定
 自分のプロフィールや書き込んだものを誰が見ることを許可するか?という設定です。とりあえず「今後の投稿の共有範囲」を「友達」にしておけば十分です。それ以外に「生年月日」などを他の人に見られたくないということであればそれらを変えてもいいでしょう。
@@ -40,7 +40,7 @@ Facebookを利用する上での基本的なセキュリティの設定です。
 <img src="/assets/images/2013/03/connection01.png" alt="connection01" width="300" height="475" class="alignnone size-full wp-image-416" />
 
 では下のリンクから設定画面へ行って実際に設定してください。設定が終わったらブラウザの「戻る」ボタンでまたこの画面に戻ってきて次の設定へ進んでください。
-<a href="https://m.facebook.com/privacy/touch/basic/">「つながりの設定」の設定画面へ行く</a>
+[「つながりの設定」の設定画面へ行く](https://m.facebook.com/privacy/touch/basic/)
 <hr>
 ## メールの頻度
 これはプライバシーと関係の無い設定ですが、メールの頻度が高いと何かあるごとにFacebookからメールが飛んで来てうっとうしいことこの上無いので、設定しておいた方がいいです。
@@ -57,4 +57,4 @@ Facebookを利用する上での基本的なセキュリティの設定です。
 
 それでは最後に説明した「メールの頻度」の設定画面へのリンクをここへ置いておきます。もうこの画面に戻ってくる必要はありません、でもこの内容が「役に立ったなぁ」と思っていただけたのであれば「いいね！」だけ押していってくれると嬉しいです ;-)
 
-<a href="https://m.facebook.com/settings/notifications/email/?choose_frequency/">「メールの頻度」の設定画面へ行く</a>
+[「メールの頻度」の設定画面へ行く](https://m.facebook.com/settings/notifications/email/?choose_frequency/)

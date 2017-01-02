@@ -22,7 +22,7 @@ tags:
   - 仮説
 ---
 <img src="/assets/images/2012/12/medium_5331407245.jpg" alt="this way, that way" width="500" height="320" class="alignnone size-full wp-image-10" />
-photo credit: <a href="http://www.flickr.com/photos/lori_greig/5331407245/">Lori Greig</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+photo credit: [Lori Greig](http://www.flickr.com/photos/lori_greig/5331407245/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 今時、なんでもインターネットで検索というのが至って普通になってると思います。すんなりと見つかることもあれば、思った通りの結果にならないこともある。そういう時は、検索キーワードを工夫することになるのですが、私なりの工夫の仕方についてです。
 

@@ -56,6 +56,6 @@ tags:
 <p>
 コンビニ関係の政策を国が積極的に展開すれば、節電と温暖化対策、両方に対応できるのではないかな？
 【参考リンク】
-<a href="http://www.nikkeibp.co.jp/article/tk/20100406/219710/">24時間コンビニは電気のムダ遣いでは？</a>
+[24時間コンビニは電気のムダ遣いでは？](http://www.nikkeibp.co.jp/article/tk/20100406/219710/)
 </p>
-photo credit: <a href="https://www.flickr.com/photos/31029865@N06/14884682980/">Dick Thomas Johnson</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>
+photo credit: [Dick Thomas Johnson](https://www.flickr.com/photos/31029865@N06/14884682980/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

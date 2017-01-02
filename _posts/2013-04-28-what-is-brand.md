@@ -11,7 +11,7 @@ categories:
 ---
 <img src="/assets/images/2013/04/small__6501030849.jpg" alt="Cartier" width="320" height="213" class="alignnone size-full wp-image-451" />
 
-photo credit: <a href="http://www.flickr.com/photos/eflon/6501030849/">eflon</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>
+photo credit: [eflon](http://www.flickr.com/photos/eflon/6501030849/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)
 
 前々から書こうと思って書けていなかったのですが「ブランド」ということについてこれまでに経験したことや見聞きしたことを通じて得た自分なりの結論を記します。
 

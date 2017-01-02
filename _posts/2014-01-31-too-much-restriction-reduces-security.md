@@ -67,6 +67,6 @@ IT部門の方々は、社内のセキュリティを守るために、こうし
 もちろん、利用者の意識も大切ですから、↓この記事を参考に安全で管理しやすいパスワードを作ってくださいね！
 
 [browser-shot width="150" url="http://kwaka1208.net/how-to-create-safe-password/"] 
-<a href="http://kwaka1208.net/how-to-create-safe-password/">安全で管理しやすいパスワードの作り方</a>
+[安全で管理しやすいパスワードの作り方](http://kwaka1208.net/how-to-create-safe-password/)
 
-photo credit: <a href="http://www.flickr.com/photos/akeg/2175038829/">akeg</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-sa/2.0/">cc</a>
+photo credit: [akeg](http://www.flickr.com/photos/akeg/2175038829/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)

@@ -29,7 +29,7 @@ tags:
   - 表計算
 ---
 Macを買うかどうか検討している方の相談を受けた時、ほぼ100%聞かれるのが「MacでOfficeは使えるのか？」という質問です。
-(この記事には、後日談があります。「<a href="http://kwaka1208.net/office-with-mac-part2/">続：MacでOfficeを使う </a>」)
+(この記事には、後日談があります。「[続：MacでOfficeを使う ](http://kwaka1208.net/office-with-mac-part2/)」)
 
 もちろん、ここで言う「Office」とは「Microsoft Office」のことであり、「Word」や「Excel」が使えるか？ということです。
 以前はなかなか難しい話だったのですが、最近はブラウザで使えるOnline版を含めて選択肢が増え、MacでもOfficeの利用に困ることは無くなってきています。
@@ -43,15 +43,15 @@ Appleが販売しているOfficeアプリで、Mac App Storeで購入可能で�
 2013年10月1日以降にMacを購入した方なら無料でMac App Storeからダウンロードして利用できます。
 もちろん、それ以前に購入された方も有償ではありますが購入することができます。
 
-<a href="http://www.apple.com/jp/mac/pages/">Pages(ワープロ)</a>はごく一般的な機能ですが、<a href="http://www.apple.com/jp/mac/numbers/">Numbers(表計算)</a>は大きさの異なる複数の表を一枚のシートに自由に配置できるので、複数の表を配置する資料の作成においてはExcelよりも使いやすいです。
-<a href="http://www.apple.com/jp/mac/keynote/">KeyNote(プレゼンテーション)</a>は、テンプレートデザインやエフェクトやトランジション(ページ切替の時のアニメーション)のデザインがよくて、Appleの基調講演や製品発表会で使っているようなプレゼンテーション資料が作れるのが魅力です。
+[Pages(ワープロ)](http://www.apple.com/jp/mac/pages/)はごく一般的な機能ですが、[Numbers(表計算)](http://www.apple.com/jp/mac/numbers/)は大きさの異なる複数の表を一枚のシートに自由に配置できるので、複数の表を配置する資料の作成においてはExcelよりも使いやすいです。
+[KeyNote(プレゼンテーション)](http://www.apple.com/jp/mac/keynote/)は、テンプレートデザインやエフェクトやトランジション(ページ切替の時のアニメーション)のデザインがよくて、Appleの基調講演や製品発表会で使っているようなプレゼンテーション資料が作れるのが魅力です。
 
 また、現在は英語版のβ版ですが、iCloudからブラウザで利用できるOnline版も提供されています。
 Online版なら、外出先のMacやWindows PCからも利用することができるメリットがあります。
 <hr>
 ## Microsoft Office
 [![Microsoft Office](/assets/images/2014/02/micosoftoffice.png)](http://office.microsoft.com/ja-jp/)
-こちらがいわゆる「Office」です。こちらもインストールして使うアプリ版とWebブラウザで使える<a href="https://office.com/">Online版</a>があります。アプリ版については、Windows版との互換性の高さを謳っていますが、それでもレイアウト崩れは避けられないようです。Online版については、まだちゃんと確認出来ていないのですが、Windows版の最新である「Office2013」とほぼ同じ機能が使えるようで、画面や操作感も「Office2013」と全く同じと言って差し支えないと思います。
+こちらがいわゆる「Office」です。こちらもインストールして使うアプリ版とWebブラウザで使える[Online版](https://office.com/)があります。アプリ版については、Windows版との互換性の高さを謳っていますが、それでもレイアウト崩れは避けられないようです。Online版については、まだちゃんと確認出来ていないのですが、Windows版の最新である「Office2013」とほぼ同じ機能が使えるようで、画面や操作感も「Office2013」と全く同じと言って差し支えないと思います。
 <hr>
 ## Open Office
 [![Open Office](/assets/images/2014/02/OOo.png)](http://www.openoffice.org/ja/)
@@ -69,21 +69,21 @@ Open Officeにブラウザで使えるOnline版の提供はありません。
 と、ここまでで主な選択肢を上げましたが、実際にどれを使えばいいのか?を考えられるタイプ別に分けてみました。
 <ul>
 <li><strong>とにかく、Microsoft Officeが使いたい</strong><br />
-→おすすめは、「<a href="https://office.com/">Microsoft Office Online</a>」です。
+→おすすめは、「[Microsoft Office Online](https://office.com/)」です。
 今までMicrosoft Officeを使っていたからWordやExcelと同じものが使いたい、WindowsでOfficeを使っている方とファイルを共有して使いたい、という方であれば「Online版のMicrosoft Office」がおすすめです。
 アプリ版を購入するという選択肢もありますが、定価で2万円近くしますし、今はMacをネットに接続しないで使っている方はほとんど居ないと思いますので、無料で使えるOnline版がおすすめです。
 </li>
 <li><strong>ネットが使えない環境でも使いたい</strong><br />
-→おすすめは、Appleの<a href="http://www.apple.com/jp/mac/pages/">Pages</a>/<a href="http://www.apple.com/jp/mac/numbers/">Numbers</a>/<a href="http://www.apple.com/jp/mac/keynote/">KeyNote</a>です。
+→おすすめは、Appleの[Pages](http://www.apple.com/jp/mac/pages/)/[Numbers](http://www.apple.com/jp/mac/numbers/)/[KeyNote](http://www.apple.com/jp/mac/keynote/)です。
 無料で使えるOpenOfficeという選択肢もあるのですが、メニューや画面の美しさがMacにそぐわないというのが正直な感想で、Macでアプリ版のOfficeを使うならやはりデザインの美しいApple製を使った方がいいかなと思います。
 </li>
 <li><strong>複数メンバーでファイルを共有して編集作業したい</strong><br />
-→おすすめは、「<a href="https://office.com/">Microsoft Office Online</a>」です。
+→おすすめは、「[Microsoft Office Online](https://office.com/)」です。
 もちろん、共有するメンバーが全員Appleアカウントを持っている、Googleアカウントを持っている、ということであればiCloudやGoogle docsを使うという手もあるのですが、やはり本家Officeとの互換性は捨て難い。AppleやGoogleのアカウントを持っている方なら、Microsoftアカウントを追加で取ることも難しくは無いはずですから、わざわざMicrosoftアカウントを取ってでも「Microsoft Office Online」を使った方が良いと思います。</li>
 </ul>
 
-以上、Macユーザーな私がMicrosoft推しなエントリーを書くことになるとは思いませんでしたが、それぐらい「<a href="https://office.com/">Microsoft Office Online</a>」はよくできていると思います。
+以上、Macユーザーな私がMicrosoft推しなエントリーを書くことになるとは思いませんでしたが、それぐらい「[Microsoft Office Online](https://office.com/)」はよくできていると思います。
 
 <img src="/assets/images/2014/02/office.png" alt="Microsoft Office Online" width="300" height="228" class="alignnone size-full wp-image-1236" />
 
-(この記事には、後日談があります。「<a href="http://kwaka1208.net/office-with-mac-part2/">続：MacでOfficeを使う </a>」)
+(この記事には、後日談があります。「[続：MacでOfficeを使う ](http://kwaka1208.net/office-with-mac-part2/)」)

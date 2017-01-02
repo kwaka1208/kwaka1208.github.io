@@ -18,9 +18,9 @@ tags:
 ---
 <img src="/assets/images/2013/12/medium_2794943066.jpg" alt="コンビニエンスストア" width="500" height="428" class="alignnone size-full wp-image-561" />
 
-photo credit: <a href="http://www.flickr.com/photos/ncindc/2794943066/">NCinDC</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nd/2.0/">cc</a>
+photo credit: [NCinDC](http://www.flickr.com/photos/ncindc/2794943066/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nd/2.0/)
 
-<a href="http://kwaka1208.net/new-years-card/">前回の記事</a>で、「年賀状もスマートフォンで作れるようになったから、PC要らないよね～」と書いた私ですが、私自身はPC（Mac）が不要になるわけもなく、でもプリンタの方はなんとかなしにできないか？　と考えてます。
+[前回の記事](http://kwaka1208.net/new-years-card/)で、「年賀状もスマートフォンで作れるようになったから、PC要らないよね～」と書いた私ですが、私自身はPC（Mac）が不要になるわけもなく、でもプリンタの方はなんとかなしにできないか？　と考えてます。
 
 我が家のプリンタは、2005年に購入したもの。8年にもなれば、いつ壊れてもおかしくない年頃です。
 実際、どれだけプリンタ使っているか？　というと、おおよそこんな感じです。
@@ -51,9 +51,9 @@ photo credit: <a href="http://www.flickr.com/photos/ncindc/2794943066/">NCinDC</
 
 こちらは家庭用途というよりもビジネス向きですが、例えば資料の修正版を、客先に入る直前に近くのコンビニで受け取る、みたいな使い方ができそうですし、個人用途でもUSBメモリーを持ち歩かなくて良いのは便利ですね。
 
-<a href="http://www.printing.ne.jp">セブンイレブン</a>
+[セブンイレブン](http://www.printing.ne.jp)
 <br />
-<a href="https://networkprint.ne.jp/sharp_netprint/top.aspx">サークルKサンクス、ローソン、ファミリーマート</a>
+[サークルKサンクス、ローソン、ファミリーマート](https://networkprint.ne.jp/sharp_netprint/top.aspx)
 
 ## スキャンサービス
 印刷以外で、家庭用複合機の機能として重要なのがスキャン機能。コンビニでも、PDFもしくは画像形式でUSBメモリーに保存するサービスが、利用できます。
@@ -67,7 +67,7 @@ photo credit: <a href="http://www.flickr.com/photos/ncindc/2794943066/">NCinDC</
 この記事を書いていて、「印刷してからミスに気付いたら、修正しに家に帰ることになるのか」などなど考えていたのですが、最近のコンビニはイートインスペースがあるし、コンビニコーヒーが流行ってるし、いっそのことPC持ち込んで作業すればいいじゃん！　ってことに気付きました。来年は、「コンビニでドヤリング」元年になること間違いなしです！
 
 以下、コンビニ各社のプリントサービスへのリンクです。
-<a href="http://www.sej.co.jp/services/index.html">セブンイレブン</a>
-<a href="http://www.lawson.co.jp/service/counter/">ローソン</a>
-<a href="http://www.circleksunkus.jp/service/multicopy/index-top.html">サークルKサンクス</a>
-<a href="http://www.family.co.jp/services/print/">ファミリーマート</a>
+[セブンイレブン](http://www.sej.co.jp/services/index.html)
+[ローソン](http://www.lawson.co.jp/service/counter/)
+[サークルKサンクス](http://www.circleksunkus.jp/service/multicopy/index-top.html)
+[ファミリーマート](http://www.family.co.jp/services/print/)

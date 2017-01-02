@@ -30,7 +30,7 @@ tags:
 
 ある程度自身がついたら、VPSのように実際にインターネットからアクセスできるサーバーを借りて自前のインターネットサーバーにチャレンジしましょう。ローカルサーバーでは経験できないことがインターネットサーバーでは経験できますから。 ;)
 <hr>
-<a href="https://www.virtualbox.org">無料の仮想マシン「Virtual Box」</a>
-<a href="http://vps.sakura.ad.jp">さくらインターネットのVPS(仮想専用サーバ)</a>
+[無料の仮想マシン「Virtual Box」](https://www.virtualbox.org)
+[さくらインターネットのVPS(仮想専用サーバ)](http://vps.sakura.ad.jp)
 
-photo credit: <a href="http://www.flickr.com/photos/jemimus/66531124/">Jemimus</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>
+photo credit: [Jemimus](http://www.flickr.com/photos/jemimus/66531124/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

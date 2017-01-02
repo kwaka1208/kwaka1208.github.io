@@ -71,4 +71,4 @@ tags:
 - リーダーなど、運営上の最低限の序列は存在するけれど、自由にモノを言える雰囲気があって、特定の人に依存しない。それぞれの得意分野、専門分野を尊重し、信頼して運営を進めることができる。
 </ol>
 こうして読むとかなり良いことだらけで、そんなコミュニティ実在しないと思われるかもしれませんが、実際にこんなコミュニティが存在しますし、不可能ではありません。もし、みなさんのコミュニティが「いつも内輪ネタで盛り上がってる」とか「絶対逆らえない神がいる」と思うところがあれば危険信号かもしれません。</p>
-photo credit: <a href="http://www.flickr.com/photos/thomashawk/6954844640/">Thomas Hawk</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
+photo credit: [Thomas Hawk](http://www.flickr.com/photos/thomashawk/6954844640/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

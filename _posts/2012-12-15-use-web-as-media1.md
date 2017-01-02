@@ -52,7 +52,7 @@ blogといえば個人の日記みたいなイメージ、ではもう無くな�
 
 事業の発信メディアとして利用するなら個人アカウントとは分けた方がいいので、Twitterなら専用のアカウント、FacebookならFacebookページを使いましょう。Facebookページとは企業や団体名義で作成できるFacebook上の専用ページで、個人で利用するのと同じように書き込みをすることはもちろん、アクセスに関する統計情報を見ることができます。
 
-Facebookページについての詳しい説明は<a href="http://f-navigation.jp/manual/pages/about.html">こちら</a>をご覧ください。
+Facebookページについての詳しい説明は[こちら](http://f-navigation.jp/manual/pages/about.html)をご覧ください。
 <hr>
 これらの内容をまとめると、以下の通りとなります。
 

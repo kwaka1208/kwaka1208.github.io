@@ -16,7 +16,7 @@ tags:
   - 利便性
 ---
 <img src="/assets/images/2013/07/small__8234574069.jpg" alt="e-book" width="320" height="213" class="alignnone size-full wp-image-473" />
-photo credit: <a href="http://www.flickr.com/photos/pevelpetros/8234574069/">Pavel P.</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: [Pavel P.](http://www.flickr.com/photos/pevelpetros/8234574069/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 今日、自宅にあった文庫本7冊をいつも利用している図書館に寄贈(そんなおおげさなもんじゃないけど)しました。
 

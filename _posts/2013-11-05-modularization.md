@@ -17,11 +17,11 @@ tags:
   - ユーザーインターフェース
 ---
 ![LEGO](/assets/images/2013/11/small__4161713573.jpg)
-photo credit: <a href="http://www.flickr.com/photos/tinker-tailor/4161713573/">Tinker*Tailor loves Lalka</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
+photo credit: [Tinker*Tailor loves Lalka](http://www.flickr.com/photos/tinker-tailor/4161713573/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)
 
 先日、スマートフォンの機能をモジュール化し自由に組み合わせられるモノにするプロジェクトが発表されました。
 
-<a href="http://www.itmedia.co.jp/news/articles/1310/29/news125.html">Motorola、組み立てスマートフォン構想「Project Ara」を発表</a>
+[Motorola、組み立てスマートフォン構想「Project Ara」を発表](http://www.itmedia.co.jp/news/articles/1310/29/news125.html)
 
 モジュール」とは「交換可能な構成部分」という意味で、新しい機種が発売されても本体まるごと買い替えることなく、カメラだけ新しくするとか、より速いCPUのものに変えることができるようにするということです。
 
@@ -48,13 +48,13 @@ photo credit: <a href="http://www.flickr.com/photos/tinker-tailor/4161713573/">T
 
 ## 「モジュール化」をリードする「ウェアラブル」
 「モジュール」の考え方が進んでいる分野として「ウェアラブル」があります。
-「<a href="https://jawbone.com/up">UP by Jawbone</a>」や「<a href="http://www.fitbit.com/jp">Fitbit</a>」のようなデバイスは、ライフログを取得するという機能をモジュール化して単一の製品とし、データの処理や表示は他の機器やクラウドに任せるという形で役割分担されています。
+「[UP by Jawbone](https://jawbone.com/up)」や「[Fitbit](http://www.fitbit.com/jp)」のようなデバイスは、ライフログを取得するという機能をモジュール化して単一の製品とし、データの処理や表示は他の機器やクラウドに任せるという形で役割分担されています。
 
 「ウェアラブル」も注目の分野で、各社開発に力を入れていますので、この分野からも「モジュール」の考え方がより一般的になると思います。
 
 Appleも「iWatch」なるものを計画しているという噂がありますので、もしかするとAppleも「ウェアラブル」と「モジュール」へ向かっているのかもしれませんね。
 ## one more thing
-自分がこれからはモジュール化、と思ったのは2000年代の初めに「<a href="http://www.sharp.co.jp/galileo/">Galileo</a>」の開発に携わった時からです。
+自分がこれからはモジュール化、と思ったのは2000年代の初めに「[Galileo](http://www.sharp.co.jp/galileo/)」の開発に携わった時からです。
 
 これは一台で色んなことができる機械でしたが、当然それぞれの機能は陳腐化していくでしょうし、そのタイミングは機能によって異なるはずだと思ったので、これの次を出すなら機能をモジュール化すべき、と思っていたのです。これはそこへ向かっていくためのステップ、プロトタイプなのかなと。でも、そう言う方向に導くことはできませんでしたね。
 

@@ -17,7 +17,7 @@ tags:
 ---
 <img src="/assets/images/2013/07/small__74046939.jpg" alt="security" width="240" height="320" class="alignnone size-full wp-image-474" />
 
-photo credit: <a href="http://www.flickr.com/photos/fensterbme/74046939/">fensterbme</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
+photo credit: [fensterbme](http://www.flickr.com/photos/fensterbme/74046939/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)
 
 以前からなんとなく「情報セキュリティ」ということについて誤解があるように思っていたので、「情報セキュリティ」ということについて少し書いてみたいと思います。
 

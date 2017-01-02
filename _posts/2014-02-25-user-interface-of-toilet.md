@@ -50,11 +50,11 @@ ITの話ではないですけど、日常にあるユーザーインターフェ
 
 そんなことをあれこれ考えていたら、ユーザーインターフェース研究で有名な増井俊之さんが、自身のブログで「トイレのユーザーインターフェース」について書いておられました。「水を流す」ためのボタンの表示が「便器洗浄」となっていて、利用者の発想とかけ離れていると指摘なのですが、まったくその通りと思います。
 
-<a href="http://masui.blog.jp/archives/2509691.html">便器洗浄脳の恐怖</a>
-<a href="http://masui.blog.jp/archives/3350455.html">最近の便器洗浄脳</a>
+[便器洗浄脳の恐怖](http://masui.blog.jp/archives/2509691.html)
+[最近の便器洗浄脳](http://masui.blog.jp/archives/3350455.html)
 
 「トイレで水を流す」ということだけでも、使いやすいものにするための工夫が、まだまだありそうです。
 
 #ひとにやさしいIT (ITの話じゃないけど)
 
-photo credit: <a href="http://www.flickr.com/photos/typoatelier/4848221755/">arnoKath</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: [arnoKath](http://www.flickr.com/photos/typoatelier/4848221755/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

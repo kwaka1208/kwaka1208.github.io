@@ -17,7 +17,7 @@ tags:
 ---
 <p>
 <img src="/assets/images/2015/04/7755784678_2bdca437fb.jpg" alt="look!" width="500" height="335" class="alignnone size-full wp-image-1624" />
-photo credit: <a href="http://www.flickr.com/photos/50523792@N03/7755784678"></a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by/2.0/">(license)</a>
+photo credit: [](http://www.flickr.com/photos/50523792@N03/7755784678) via [photopin](http://photopin.com) [(license)](https://creativecommons.org/licenses/by/2.0/)
 </p>
 <p>
 今回は、モノづくりとパターンについてのお話。
@@ -25,7 +25,7 @@ photo credit: <a href="http://www.flickr.com/photos/50523792@N03/7755784678"></a
 <p>
 ある日、テレビを見ていると、コマーシャルでこんなキャッチコピーが流れていました。
 <blockquote>「見たことのないものより、見たことのない組み合わせを」</blockquote>
-4月2日にJR大阪駅の近くにできた新しいショッピングエリア、「<a href="http://www.lucua.jp/lucua1100/">ルクア1100（イーレ）</a>」のキャッチフレーズです。これを観て、「そうそう、新しいものを作り出すってそういうことなんだよね」と思ったのが、今回のテーマのきっかけでした。
+4月2日にJR大阪駅の近くにできた新しいショッピングエリア、「[ルクア1100（イーレ）](http://www.lucua.jp/lucua1100/)」のキャッチフレーズです。これを観て、「そうそう、新しいものを作り出すってそういうことなんだよね」と思ったのが、今回のテーマのきっかけでした。
 </p>
 ## モノづくりは、パターンの組み合わせ
 <p>
@@ -57,7 +57,7 @@ photo credit: <a href="http://www.flickr.com/photos/50523792@N03/7755784678"></a
 <p>
 ## ホラーのデザインパターン
 そんなことを考えていた時に、面白いサイトに出会いました。ホラー体験専門の制作会社のサイトです。
-「<a href="http://death.co.jp/">株式会社　闇</a>」（ホラー系が苦手な方は閲覧ご遠慮ください）
+「[株式会社　闇](http://death.co.jp/)」（ホラー系が苦手な方は閲覧ご遠慮ください）
 このサイトを見た時、真っ先に「ホラーのデザインパターンって何だろう？」と考えました。
 </p>
 <p>

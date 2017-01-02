@@ -51,9 +51,9 @@ tags:
 
 ## 現代に戻る
 <p>昔話を書いてみましたが、今でもそれほど悪くはないアイデアなんじゃないかな？と思っています。あまり普及はしていませんが、iOSに搭載されているPassbookだとか、無印良品の"MUJI Passport"アプリでも画面上のバーコードを読み取るようになっていますので、芽はあると思います。
-<a href="https://itunes.apple.com/jp/app/muji-passport/id631993791?mt=8">MUJI Passport iOS版</a>
-<a href="https://play.google.com/store/apps/details?id=net.muji.passport.android&hl=ja">MUJI Passport Android版</a>
+[MUJI Passport iOS版](https://itunes.apple.com/jp/app/muji-passport/id631993791?mt=8)
+[MUJI Passport Android版](https://play.google.com/store/apps/details?id=net.muji.passport.android&hl=ja)
 </p>
 個人的には、POSやレジスタの開発を長らくやっていたこともあって、バーコードにはそこそこ愛着があるのですが、とはいえ今更バーコードでもないので、これからはもっとモダンなインターフェース、例えば音声認識が有望なのかもしれません。ということで、次回は音声認識を使ったインターフェースについて書いてみたいと思います。
 
-photo credit: <a href="https://www.flickr.com/photos/a6u571n/3207185886/">aguscr</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>
+photo credit: [aguscr](https://www.flickr.com/photos/a6u571n/3207185886/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

@@ -18,7 +18,7 @@ categories:
   - voice
 ---
 <img src="/assets/images/2012/12/small_2631535001.jpg" alt="Resume" width="240" height="240" class="alignnone size-full wp-image-238" />
-photo credit: Olivier Charavel via <a href="http://photopin.com">photopin</a><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: Olivier Charavel via [photopin](http://photopin.com)[cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 自分の今の状況が状況なこともあって ;-) 色んな書類の様式をダウンロードして使うことがあるのですが、それらは大体Microsoft OfficeのWordかExcelのデータ。
 
@@ -30,4 +30,4 @@ WindowsでもMacでも完全に同じものが再現できる文書作成環境�
 
 というわけで、就職活動をされているMacユーザーの方のためにMac用ワープロソフト"Pages"用とPDF版の履歴書の様式を公開します。一応JIS規格として市販されている履歴書から採寸して項目も合わせているので、PCで作成した履歴書も受け付ける企業には提出できると思います。自由にお使いください。
 
-<a href="https://www.dropbox.com/sh/vjcb8q34llu7m1p/-etr3HZ6eL">様式のダウンロードページへ</a>
+[様式のダウンロードページへ](https://www.dropbox.com/sh/vjcb8q34llu7m1p/-etr3HZ6eL)

@@ -33,5 +33,5 @@ tags:
 </p>
 <p>
 <img src="/assets/images/2015/03/idea.jpg" alt="idea" width="500" height="334" class="alignnone size-full wp-image-1594" />
-photo credit: <a href="http://www.flickr.com/photos/87128770@N00/6320911129">1111_Thinking Blue_019</a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by/2.0/">(license)</a>
+photo credit: [1111_Thinking Blue_019](http://www.flickr.com/photos/87128770@N00/6320911129) via [photopin](http://photopin.com) [(license)](https://creativecommons.org/licenses/by/2.0/)
 </p>

@@ -19,12 +19,12 @@ tags:
 ---
 <p>
 <img src="/assets/images/2015/03/CoderDojo.jpg" alt="CoderDojo" width="500" height="375" class="alignnone size-full wp-image-1600" />
-credit: <a href="http://www.flickr.com/photos/45703688@N07/14071936419/" target="_blank">lespounder</a> via <a href="http://findcc.net" target="_blank">FindCC</a>
+credit: [lespounder](http://www.flickr.com/photos/45703688@N07/14071936419/) via [FindCC](http://findcc.net)
 </p>
 <p>
 私もCoderDojoとして活動してる「子ども向けプログラミング教育」、このところテレビ番組で取り上げられたり、ニュースで取り上げられたりと大変注目が集まっています。奈良でも、参加した方の声を聞いて「うちも参加したい」という声をいただき、キャンセル待ちが出るほどで嬉しい悲鳴をあげています。
 <ul>
-	- <a href="http://japan.zdnet.com/article/35060367/">小学1年生にプログラミング教育--武雄市、DeNA、東洋大</a>
+	- [小学1年生にプログラミング教育--武雄市、DeNA、東洋大](http://japan.zdnet.com/article/35060367/)
 	- <a hfre="http://coderdojo.jp/">CoderDojoは小中学生のためのプログラミング道場</a>
 </ul>
 </p>

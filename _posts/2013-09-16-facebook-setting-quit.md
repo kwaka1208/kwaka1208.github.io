@@ -45,9 +45,9 @@ Facebookをやめるには2種類の方法があります
 「アカウントの利用解除」と「アカウントの削除」の操作をするには以下のリンクをご利用ください。
 
 「アカウントの利用解除」(休止)
-<a href="https://m.facebook.com/deactivate.php">スマートフォン用設定画面はこちら</a>
-<a href="https://www.facebook.com/deactivate.php">PC用設定画面はこちら</a>
+[スマートフォン用設定画面はこちら](https://m.facebook.com/deactivate.php)
+[PC用設定画面はこちら](https://www.facebook.com/deactivate.php)
 
 「アカウントの削除」
-<a href="https://m.facebook.com/account/delete/">スマートフォン用画面はこちら</a>
-<a href="https://www.facebook.com/help/delete_account">PC用設定画面はこちら</a>
+[スマートフォン用画面はこちら](https://m.facebook.com/account/delete/)
+[PC用設定画面はこちら](https://www.facebook.com/help/delete_account)

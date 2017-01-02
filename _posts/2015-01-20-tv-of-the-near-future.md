@@ -25,7 +25,7 @@ tags:
 </p>
 <p>
 毎年この時期にアメリカで開催される世界最大の家電ショー「CES」での発表内容に注目しているのですが、今年はスマートフォンに採用されているOSがテレビにも搭載されることが大きなトピックなひとつだったようです。
-<a href="http://bit.ly/1Bs5JmQ">CESから見えた「モダンOS」による第2世代デジタルテレビ</a> 
+[CESから見えた「モダンOS」による第2世代デジタルテレビ](http://bit.ly/1Bs5JmQ) 
 </p>
 <p>
 一方で、2010年にGoogleのプラットフォームを搭載し鳴り物入りで登場した"Google TV"が、ビジネス的には成功しなかったことは記憶に新しいところですので、このタイミングで「モダンOS 」搭載とだけ言われてもワクワクしないというのが正直なところ。
@@ -48,5 +48,5 @@ tags:
 日本のメーカーには、この視点で世界に先んじて欲しいと思いますし、このあたりのアイデアの具体化には個人的にも挑戦していくつもりです。
 </p>
 <p>
-photo credit: <a href="https://www.flickr.com/photos/quintanomedia/16035779290/">Anthony Quintano</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>
+photo credit: [Anthony Quintano](https://www.flickr.com/photos/quintanomedia/16035779290/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)
 </p>

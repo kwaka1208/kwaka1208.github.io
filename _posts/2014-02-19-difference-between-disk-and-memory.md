@@ -54,4 +54,4 @@ tags:
 
 そういう意味では「メモリ」というパソコンの中の「見えない作業スペース」を見るための窓が「画面」と言えるかもしれません。
 
-photo credit: <a href="http://www.flickr.com/photos/gato-gato-gato/4278899378/">gato-gato-gato</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+photo credit: [gato-gato-gato](http://www.flickr.com/photos/gato-gato-gato/4278899378/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

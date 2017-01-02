@@ -32,7 +32,7 @@ Macintoshが30周年記念ということで、自分のMacintoshとの出会い
 ## 初Mac
 ものすごく欲しかったのですが、さすがに高くて買えず、それでもいつかはMacintoshが欲しいと思い続け、1994年にLC575を購入しました。LC575に決めたのは、とにかく最初にみたMacintoshのイメージが頭から離れず、「Macを買うなら一体型」と決めていたのと、価格的に入手しやすかったことがあります。
 
-LC575の仕様は、こちらのサイトに載ってました→ <a href="http://www.oldmac.jp/lc575.html">LC575@Old Mac Collection</a>
+LC575の仕様は、こちらのサイトに載ってました→ [LC575@Old Mac Collection](http://www.oldmac.jp/lc575.html)
 
 搭載メモリは最大でも36MB、ハードディスクは160MBと、今からは信じられないスペックでしたれど、骨の随まで使い倒しました。パソコン通信からインターネットに変わって行く頃で、最初にホームページを作ったのもこの頃でした。
 
@@ -50,8 +50,8 @@ Macintosh30周年、本当におめでとうございます。
 ## one more thing
 米国Appleのサイトで、初めて使ったMacのモデルと用途を募っています。Macユーザーの方は是非入力してみてください。
 
-<a href="http://www.apple.com/30-years/your-first-mac/">your first mac @ apple.com</a>
+[your first mac @ apple.com](http://www.apple.com/30-years/your-first-mac/)
 
-<a href="http://www.apple.com/30-years/">Thirty years of Mac</a>
+[Thirty years of Mac](http://www.apple.com/30-years/)
 
 #初Mac

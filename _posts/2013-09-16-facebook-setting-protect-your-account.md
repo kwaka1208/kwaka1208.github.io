@@ -35,12 +35,12 @@ Facebook設定の2回目は「自分のアカウントを守る」がテーマ�
 
 といっても、バレにくくて難しいパスワードをいくつも自分が覚えられない、という方がほとんどかと思います。
 
-他の人にバレにくくたくさん作っても覚えやすいパスワードの作り方は「<a href="http://kwaka1208.net/how-to-create-safe-password/">安全で管理しやすいパスワードの作り方</a>」にまとめていますので、こちらを参考にパスワードを作ってみてください。
+他の人にバレにくくたくさん作っても覚えやすいパスワードの作り方は「[安全で管理しやすいパスワードの作り方](http://kwaka1208.net/how-to-create-safe-password/)」にまとめていますので、こちらを参考にパスワードを作ってみてください。
 
 パスワードを作り直したら、こちらのパスワード変更画面で変更しておいてください。
-<a href="https://www.facebook.com/settings?tab=account&section=password&view">PCでパスワードを変更する</a>
+[PCでパスワードを変更する](https://www.facebook.com/settings?tab=account&section=password&view)
 
-<a href="https://m.facebook.com/settings/account/?password">スマートフォンでパスワードを変更する</a>
+[スマートフォンでパスワードを変更する](https://m.facebook.com/settings/account/?password)
 
 <hr>
 ## ログイン通知
@@ -53,14 +53,14 @@ Facebook設定の2回目は「自分のアカウントを守る」がテーマ�
 こういったこともあり、Facebookに登録するアドレスは携帯電話会社のアドレスではなくPC用アドレス(無料のアドレスでOK)を使った方が良いでしょう。
 
 ログイン通知の受け取り方の変更はこちら。(SMSかメールアドレス)
-<a href="https://www.facebook.com/settings?tab=security&section=notifications&view">PCで「ログイン通知」を設定する</a>
+[PCで「ログイン通知」を設定する](https://www.facebook.com/settings?tab=security&section=notifications&view)
 
-<a href="https://m.facebook.com/settings/security/">スマートフォンで「ログイン通知」を設定する</a>
+[スマートフォンで「ログイン通知」を設定する](https://m.facebook.com/settings/security/)
 
 メールアドレスの変更はこちら。
-<a href="https://www.facebook.com/settings?tab=account&section=email&view">PCで「メールアドレス」を変更する</a>
+[PCで「メールアドレス」を変更する](https://www.facebook.com/settings?tab=account&section=email&view)
 
-<a href="https://m.facebook.com/settings/email/">スマートフォンで「メールアドレス」を変更する</a>
+[スマートフォンで「メールアドレス」を変更する](https://m.facebook.com/settings/email/)
 ※ログイン通知のメールは、主メールアドレスに送られます。
 
 
@@ -73,9 +73,9 @@ Facebookでは万が一パスワードを忘れた場合でもFacebookで既に�
 もちろんこの5名は現在本人が使っていることが確実で、将来に渡っても悪意のある行動を取らないと期待できる方々を選ばなければなりません。
 
 信頼できる連絡先の設定はこちら。
-<a href="https://www.facebook.com/settings?tab=security&section=trusted_friends&view">PCで「信頼できる連絡先」を設定する</a>
+[PCで「信頼できる連絡先」を設定する](https://www.facebook.com/settings?tab=security&section=trusted_friends&view)
 
-<a href="https://m.facebook.com/trusted_contacts/edit/">スマートフォンで「信頼できる連絡先」を設定する</a>
+[スマートフォンで「信頼できる連絡先」を設定する](https://m.facebook.com/trusted_contacts/edit/)
 ※信頼できる連絡先を指定すると、指定された方にもその旨の通知が送られます。
 
 以上の設定を見直して、自分のアカウントを保護出来るようにしておきましょう。

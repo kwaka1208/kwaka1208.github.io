@@ -52,4 +52,4 @@ Windows XPの場合、本来のサポート期間を5年間延長しましたの
 #モノづくりの現場から
 
 
-photo credit: <a href="http://www.flickr.com/photos/slimjim/2772087916/">slimmer_jimmer</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+photo credit: [slimmer_jimmer](http://www.flickr.com/photos/slimjim/2772087916/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

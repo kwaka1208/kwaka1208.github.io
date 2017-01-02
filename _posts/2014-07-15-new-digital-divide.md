@@ -15,14 +15,14 @@ categories:
 <img src="/assets/images/2014/07/medium_1455076844.jpg" alt="DVD" width="500" height="321" class="alignnone size-full wp-image-1377" />
 <p>少し古い話で恐縮ですが、今年の春頃にiPhoneのコネクタが現在のLightningからmicro USBに変わるという噂がネット上で流れていました。
 
-<a href="http://buzzap.jp/news/20140314-iphone-micro-usb/">さらばLightning？ iPhoneの充電規格もmicroUSBに統一へ</a>
+[さらばLightning？ iPhoneの充電規格もmicroUSBに統一へ](http://buzzap.jp/news/20140314-iphone-micro-usb/)
 
 LightningはApple独自の規格で、専用ケーブルが高いという理由で歓迎という方も多いようです。</p>
 私自身は、独自規格だからとか価格が高いとかいうことは気にならないのですが（金に糸目をつけないというわけではありません）、それよりもLightningケーブルの接点が露出しているという点で、今のLightningから変わればいいなと思っています。
 
 <p>iPhone5以降に発売されたiPhone/iPadをお持ちの方なら分かると思いますが、現在のiPhone/iPadのコネクタ規格であるLightningは、接点をカバーするものがありません。
 
-<a href="http://news.mynavi.jp/articles/2013/03/28/iphone_why36/">Lightningコネクタって何がいいの？　何がすごいの？</a></p>
+[Lightningコネクタって何がいいの？　何がすごいの？](http://news.mynavi.jp/articles/2013/03/28/iphone_why36/)</p>
 
 この「電気が流れるであろう部分が露出している」というのが大変気になる私は、LightningケーブルでiPhoneを接続する時、まずiPhone側を接続しUSB側をMacやACアダプタに接続する、という手順を必ずとっています。
 
@@ -47,4 +47,4 @@ LightningはApple独自の規格で、専用ケーブルが高いという理由
 でも、やっぱり私はデジタルディバイドになりつつあるんだろうか？
 
 #人にやさしいIT
-photo credit: <a href="https://www.flickr.com/photos/haniamir/1455076844/">Hani Amir</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+photo credit: [Hani Amir](https://www.flickr.com/photos/haniamir/1455076844/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

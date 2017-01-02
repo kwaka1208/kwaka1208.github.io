@@ -34,7 +34,7 @@ iPod登場後はその地位を奪われたと言われていましたが、ポ�
 これらの製品に何かを加えたところで、それは「イノベーション」と呼ぶことはできないのです。「Walkman」にFMラジオ機能をつけても、新しいiPhone用アプリをインストールしてもやはり基本的なスタイルは変わらないままであり、小手先の変化でしかありません。
 </p>
 <p>
-「<a href="http://kwaka1208.net/tv-of-the-near-future/">ミライノテレビ</a>」で述べたような「本体と画面が別のテレビ」は、同じ形態の機器が既にあり「イノベーション」と呼ぶには相応しくありませんが、それでも従来のテレビのあり方を変えるという意味で、大きな変化をもたらすと考えています。この点については、また具体的に述べるつもりです。
+「[ミライノテレビ](http://kwaka1208.net/tv-of-the-near-future/)」で述べたような「本体と画面が別のテレビ」は、同じ形態の機器が既にあり「イノベーション」と呼ぶには相応しくありませんが、それでも従来のテレビのあり方を変えるという意味で、大きな変化をもたらすと考えています。この点については、また具体的に述べるつもりです。
 </p>
 <hr>
 <p>
@@ -46,4 +46,4 @@ iPod登場後はその地位を奪われたと言われていましたが、ポ�
 <p>
 このように、いつの間にか人々の生活の中で当たり前の存在になり、生活の中で無くてはならない存在、そういった生活の中の原型を創出したい。それが私の目標なのです。
 </p>
-photo credit: <a href="https://www.flickr.com/photos/timbradshaw/2836028342/">Tim Bradshaw</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: [Tim Bradshaw](https://www.flickr.com/photos/timbradshaw/2836028342/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

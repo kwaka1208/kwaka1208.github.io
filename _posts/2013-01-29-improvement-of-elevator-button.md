@@ -14,14 +14,14 @@ tags:
   - 対応付け
 ---
 <img src="/assets/images/2013/01/small_338663263.jpg" alt="elevator" width="240" height="159" class="alignnone size-full wp-image-321" />
-photo credit: <a href="http://www.flickr.com/photos/palmasco/338663263/">palmasco</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+photo credit: [palmasco](http://www.flickr.com/photos/palmasco/338663263/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 エレベーターの開閉ボタン、私もよく押し間違えたり、どっちを押していいのか一瞬判断できなくなることがあります。この操作性の改善に関して自分の考え方を書こうと思っていたのですが、最近同じテーマの記事がいくつか出ていたのでこのタイミングに乗じて書いてみます。
 
 ちなみに、最近見かけた記事というのはこの二つです。
 <ul>
-- <a href="https://jypg.net/works/2422">エレベーターの開閉ボタン</a>
-- <a href="http://d.hatena.ne.jp/wa-ren/20130129/p1">エレベーターの閉じる／開くボタンのUI改善　～日本マーケット向けの決定打は『ひらく』ボタンの撤廃だ～</a>
+- [エレベーターの開閉ボタン](https://jypg.net/works/2422)
+- [エレベーターの閉じる／開くボタンのUI改善　～日本マーケット向けの決定打は『ひらく』ボタンの撤廃だ～](http://d.hatena.ne.jp/wa-ren/20130129/p1)
 </ul>
 
 ## 一般的な開閉ボタンの例
@@ -82,7 +82,7 @@ Play Stationのアナログコントローラーを左右方向だけ動くよ�
 まぁ実装上の課題はどんなアイデアにもあると思うので、ここではそこを掘り下げるのはやめておくとして分かりやすい操作方法を提供するという意味では有効なアイデアではないかなと思うのですが、いかがでしょうか?
 
 ## 同じようなことは画面内でも起こっている
-エレベーターの開閉ボタンが分かりにくいと思っている方はかなりたくさんいらっしゃるようで、"<a href="https://www.google.co.jp/search?client=safari&amp;rls=en&amp;q=%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC+%E9%96%8B%E9%96%89%E3%83%9C%E3%82%BF%E3%83%B3+%E3%82%8F%E3%81%8B%E3%82%8A%E3%81%AB%E3%81%8F%E3%81%84&amp;ie=UTF-8&amp;oe=UTF-8&amp;redir_esc=&amp;ei=GloHUYPrH43RkgXb9YGoCA">エレベーター 開閉ボタン わかりにくい</a>"で検索すると同じように思っている方がたくさんいらっしゃるようです。
+エレベーターの開閉ボタンが分かりにくいと思っている方はかなりたくさんいらっしゃるようで、"[エレベーター 開閉ボタン わかりにくい](https://www.google.co.jp/search?client=safari&amp;rls=en&amp;q=%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC+%E9%96%8B%E9%96%89%E3%83%9C%E3%82%BF%E3%83%B3+%E3%82%8F%E3%81%8B%E3%82%8A%E3%81%AB%E3%81%8F%E3%81%84&amp;ie=UTF-8&amp;oe=UTF-8&amp;redir_esc=&amp;ei=GloHUYPrH43RkgXb9YGoCA)"で検索すると同じように思っている方がたくさんいらっしゃるようです。
 
 それを解決するためにボタンのデザインを考えていらっしゃる方もたくさん居るのですが、そもそもボタンでいいのか?というところから掘り下げて行く必要があるんじゃないかなと思います。
 

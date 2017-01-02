@@ -17,7 +17,7 @@ tags:
   - 年賀状
 ---
 <img src="/assets/images/2013/11/small_2167028703.jpg" alt="年賀状" width="240" height="240" class="alignnone size-full wp-image-553" />
-photo credit: <a href="http://www.flickr.com/photos/midorisyu/2167028703/">midorisyu</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>
+photo credit: [midorisyu](http://www.flickr.com/photos/midorisyu/2167028703/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)
 
 11月も終わりが近づき、そろそろ年賀状を書き始める時期になりました。
 スマートフォンやタブレットが登場した後も、年賀状作りはPCでなければできないことが多かったのですが、今年はスマートフォンやタブレットから年賀状印刷できるアプリやサービスが増え、いよいよ「PCが置き換えられる」時代が来たようです。
@@ -50,11 +50,11 @@ PCの年賀状作成アプリが、ただの宛名印刷アプリでないポイ
 以上を踏まえて、スマートフォン/タブレットから使えるアプリ/サービスのリンクをいくつか紹介します。
 それぞれ、機能/サービス内容が異なりますので、説明をよく読んで自分にあったものを探してみてください。
 
-<a href="http://yubin-nenga.jp/design_kit/">はがきデザインキット</a>
-<a href="http://www.epson.jp/osirase/2013/131101_3.htm">スマホでカラリオ年賀2014</a>
-<a href="http://fudemame.net/products/app/">筆まめ年賀 / 筆まめアドレス帳</a>
-<a href="https://yahoo-nenga.jp">Yahoo! Japan年賀状</a>
-<a href="http://nenga.nohana.jp/">ノハナ年賀状</a>
+[はがきデザインキット](http://yubin-nenga.jp/design_kit/)
+[スマホでカラリオ年賀2014](http://www.epson.jp/osirase/2013/131101_3.htm)
+[筆まめ年賀 / 筆まめアドレス帳](http://fudemame.net/products/app/)
+[Yahoo! Japan年賀状](https://yahoo-nenga.jp)
+[ノハナ年賀状](http://nenga.nohana.jp/)
 
 それにしても、ネットから投函まで完了ってことは、手元に葉書がこないまま送られてしまうわけで、まるでネットの証券取引みたい。
 

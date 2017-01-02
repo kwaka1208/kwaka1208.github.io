@@ -21,9 +21,9 @@ tags:
 
 現在開催中のCESに合わせて、各メーカー様々な発表を行っていますが、特にこの記事に注目しています。
 
-<a href="http://jp.techcrunch.com/2014/01/07/20140106panasonic-ffos-tvs/">パナソニック、Mozillaと提携してFirefox OS搭載のスマートTV開発へ</a>
+[パナソニック、Mozillaと提携してFirefox OS搭載のスマートTV開発へ](http://jp.techcrunch.com/2014/01/07/20140106panasonic-ffos-tvs/)
 
-同様の内容として、<a href="http://www.itmedia.co.jp/news/articles/1401/06/news048.html">LG、webOS搭載スマートTVを発表</a>という記事もありました。
+同様の内容として、[LG、webOS搭載スマートTVを発表](http://www.itmedia.co.jp/news/articles/1401/06/news048.html)という記事もありました。
 
 そもそも「スマートTVって何？」という話はさておいて、ブラウザベースのOSでTVが動くなら、画面全体をブラウザで作って、TV映像をHTMLの<img>タグのように扱えるようにすることで、Webコンテンツの中に自由な場所に自由な大きさでTVをはめ込むことができるはずなのです。(少なくとも技術的には可能です)
 

@@ -22,7 +22,7 @@ tags:
 ---
 <img src="/assets/images/2012/12/small__3287986172.jpg" alt="book stack" width="320" height="320" class="alignnone size-full wp-image-139" />
 
-photo credit: <a href="http://www.flickr.com/photos/osiatynska/3287986172/">osiatynska</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+photo credit: [osiatynska](http://www.flickr.com/photos/osiatynska/3287986172/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 今日、自宅の整理をしていて気がついたので、家庭でのITの活用方法として一つご紹介。
 電気製品を買うとついてくる取扱説明書、最近の機器は機能が多くなったせいもあって取扱説明書が分厚くなってます。取扱説明書って、見ない人は滅多に見ないのですが、とはいえ何かあった時に困るのでやっぱり残しておかないと不安。でも、結構場所を取る(&gt;_&lt;)
 
@@ -32,9 +32,9 @@ photo credit: <a href="http://www.flickr.com/photos/osiatynska/3287986172/">osia
 
 こちらに、主なメーカーの取扱説明書ダウンロードページのリンクを張っておきますので、よかったら使ってください。(このメーカーも張ってというのがあれば、コメント欄に書いて頂ければ追加します)
 
-<a href="http://panasonic.co.jp/cs/personal/manual/">パナソニック</a> | <a href="http://www.sharp.co.jp/support/download.html">シャープ</a> | <a href="http://www.sony.jp/support/manual.html">ソニー</a> | <a href="http://www.toshiba-living.jp/search.php">東芝</a> | <a href="http://www.hitachi.co.jp/support/manual/index.html">日立</a>
+[パナソニック](http://panasonic.co.jp/cs/personal/manual/) | [シャープ](http://www.sharp.co.jp/support/download.html) | [ソニー](http://www.sony.jp/support/manual.html) | [東芝](http://www.toshiba-living.jp/search.php) | [日立](http://www.hitachi.co.jp/support/manual/index.html)
 
-<a href="http://cweb.canon.jp/e-support/manual/">キヤノン</a> | <a href="http://www.epson.jp/support/manual/">エプソン</a> | <a href="http://www.nikon-image.com/support/manual/m_pdf.htm">ニコン</a> | <a href="http://support.casio.jp/manual.php?cid=001">カシオ(デジタルカメラ)</a>
+[キヤノン](http://cweb.canon.jp/e-support/manual/) | [エプソン](http://www.epson.jp/support/manual/) | [ニコン](http://www.nikon-image.com/support/manual/m_pdf.htm) | [カシオ(デジタルカメラ)](http://support.casio.jp/manual.php?cid=001)
 
 もしくは型番が分かってるなら、Google等の検索エンジンで、型番と"取扱説明書"というキーワードの両方を入れて検索すると一発で見つかることもあります(見つからないこともあります)。たどって行くのは面倒、型番は分かってるという方はこちらを試してみてもいいかも。
 ↓の"取扱説明書"の後に、探したい商品の型番を入れると一発で検索できます(^^)/。

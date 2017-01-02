@@ -14,9 +14,9 @@ tags:
 ---
 <img src="/assets/images/2013/10/small__3474867233.jpg" alt="shake hands" width="320" height="240" class="alignnone size-full wp-image-536" />
 
-photo credit: <a href="http://www.flickr.com/photos/screenpunk/3474867233/">screenpunk</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
+photo credit: [screenpunk](http://www.flickr.com/photos/screenpunk/3474867233/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)
 
-以前、「<a href="http://kwaka1208.net/good-ui-decrese-the-cost/">優れたユーザーインターフェースがコストを下げる理由</a>」でも書いたように、ソフトウェアやWebの世界でユーザーインターフェースが重視されるようになり、以前に比べるとデザイナーとエンジニアが一緒に仕事をする機会が増えてきました。
+以前、「[優れたユーザーインターフェースがコストを下げる理由](http://kwaka1208.net/good-ui-decrese-the-cost/)」でも書いたように、ソフトウェアやWebの世界でユーザーインターフェースが重視されるようになり、以前に比べるとデザイナーとエンジニアが一緒に仕事をする機会が増えてきました。
 
 一部には、「デザインもプログラミング両方やるよ」というスーパーマンみたいな方もいらっしゃいますが、大抵は一つのプロジェクトにデザイナーとエンジニアが別々に居るケースがほとんどで、たびたび衝突するのが実態です。
 

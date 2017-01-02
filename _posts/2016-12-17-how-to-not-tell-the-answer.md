@@ -14,7 +14,7 @@ categories:
 tags:
   - CoderDojo
 ---
-この記事は、<a href="http://www.adventar.org/calendars/1619">CoderDojo Advent Calendar 2016</a>の17日目の記事です。よくCoderDojoで「教えることはしない」ということが言われていますが、具体的にそれってどういうことなの？ということについて、私なりのやり方を書いてみたいと思います。
+この記事は、[CoderDojo Advent Calendar 2016](http://www.adventar.org/calendars/1619)の17日目の記事です。よくCoderDojoで「教えることはしない」ということが言われていますが、具体的にそれってどういうことなの？ということについて、私なりのやり方を書いてみたいと思います。
 記事のタイトルは、ありがちな本のタイトルっぽくしてみました。
 
 ## 答えを教える代わりにやるべきことは？

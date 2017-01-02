@@ -41,4 +41,4 @@ FacebookやTwitterなどのSNSの普及により、例えばグループやハ�
 
 もちろん、実際の支援活動はITスキルだけでなく、様々なスキルの人が集まって行われなければなりません。IT分野の人間として、自分たちのコミュニティとその強みが災害時にも機能して社会の役に立てばいいな、そのように考えています。
 
-photo credit: <a href="https://www.flickr.com/photos/danymasson/14088231730/">dany_masson</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: [dany_masson](https://www.flickr.com/photos/danymasson/14088231730/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

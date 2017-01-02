@@ -22,7 +22,7 @@ tags:
   - ユーザーインターフェース
 ---
 <img src="/assets/images/2014/01/medium_5388860696.jpg" alt="pinch" width="500" height="333" class="alignnone size-full wp-image-1132" />
-photo credit: <a href="http://www.flickr.com/photos/jenik/5388860696/">dirac3000</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+photo credit: [dirac3000](http://www.flickr.com/photos/jenik/5388860696/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 操作するためのモノの形や画面などの「ユーザーインターフェース」は、作り手と使い手が対話する最前線。ITが気軽に使えるものに、人にやさしいものになるためには、「操作性」がとても重要です。
 

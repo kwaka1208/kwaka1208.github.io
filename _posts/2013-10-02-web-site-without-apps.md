@@ -15,7 +15,7 @@ tags:
   - ブラウザ
 ---
 <img src="/assets/images/2013/10/small__3421273869.jpg" alt="App" width="320" height="227" class="alignnone size-full wp-image-503" />
-photo credit: <a href="http://www.flickr.com/photos/jpellgen/3421273869/">jpellgen</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+photo credit: [jpellgen](http://www.flickr.com/photos/jpellgen/3421273869/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 これを書いている現在、私のiPhoneの標準以外のアプリは「28個」。たくさん
 入れておられる方から見れば少ないと思うかもしれませんが、自分としては実
@@ -40,9 +40,9 @@ photo credit: <a href="http://www.flickr.com/photos/jpellgen/3421273869/">jpellg
 個人的には、Facebookはアプリよりもmobile Web版の方が安定していると感じ
 ているので、もっぱらmobile Web版を使っています。
 
-<a href="https://m.facebook.com/">Facebook</a>
-<a href="https://mobile.twitter.com/">Twitter</a>
-<a href="https://mixi.jp/">mixi</a>
+[Facebook](https://m.facebook.com/)
+[Twitter](https://mobile.twitter.com/)
+[mixi](https://mixi.jp/)
 
 ## 旅行・交通系
 
@@ -55,12 +55,12 @@ photo credit: <a href="http://www.flickr.com/photos/jpellgen/3421273869/">jpellg
 出来るところもありますので、ブラウザでもそういった機能を利用可能な場合
 もあります。
 
-<a href="http://sp.ekitan.com/">駅探</a>
-<a href="http://transit.loco.yahoo.co.jp/">Yahoo!路線情報</a>
-<a href="http://mb.jorudan.co.jp/">乗換案内</a>
-<a href="http://travel.rakuten.co.jp/smart/">楽天トラベル</a>
-<a href="http://sp.jal.co.jp/">日本航空(JAL)</a>
-<a href="http://www.ana.co.jp/asw/spdom">全日空(ANA)</a>
+[駅探](http://sp.ekitan.com/)
+[Yahoo!路線情報](http://transit.loco.yahoo.co.jp/)
+[乗換案内](http://mb.jorudan.co.jp/)
+[楽天トラベル](http://travel.rakuten.co.jp/smart/)
+[日本航空(JAL)](http://sp.jal.co.jp/)
+[全日空(ANA)](http://www.ana.co.jp/asw/spdom)
 
 ## 銀行系
 
@@ -68,22 +68,22 @@ photo credit: <a href="http://www.flickr.com/photos/jpellgen/3421273869/">jpellg
 出しているところでもアプリの方が出来ることが少ない場合もありますので、
 アプリの機能に不満な場合はブラウザ版を試してみるといいかも。
 
-<a href="http://www.smbc.co.jp/smartphone/index.html">三井住友銀行</a>
-<a href="http://www.bk.mufg.jp/sp/index.html">三菱東京UFJ銀行</a>
-<a href="http://www.resona-gr.co.jp/resonabank/sp/index.html">りそな銀行</a>
-<a href="http://www.mizuhobank.co.jp/sp/index.html">みずほ銀行</a>
-<a href="http://www.sevenbank.co.jp/sp/index.html">セブン銀行</a>
-<a href="http://www.rakuten-bank.co.jp/smartphone/">楽天銀行</a>
-<a href="http://www.aeonbank.co.jp/sp/index.html">イオン銀行</a>
+[三井住友銀行](http://www.smbc.co.jp/smartphone/index.html)
+[三菱東京UFJ銀行](http://www.bk.mufg.jp/sp/index.html)
+[りそな銀行](http://www.resona-gr.co.jp/resonabank/sp/index.html)
+[みずほ銀行](http://www.mizuhobank.co.jp/sp/index.html)
+[セブン銀行](http://www.sevenbank.co.jp/sp/index.html)
+[楽天銀行](http://www.rakuten-bank.co.jp/smartphone/)
+[イオン銀行](http://www.aeonbank.co.jp/sp/index.html)
 
 ☆グルメ系
 
 旅行・交通系と同じくデータはサーバー側にありますので、アプリを入れてて
 もネット通信は必須です。
 
-<a href="http://mobile.gnavi.co.jp/">ぐるなび</a>
-<a href="http://www.hotpepper.jp/SA23/">ホットペッパー</a>
-<a href="http://s.tabelog.com/">食べログ</a>
+[ぐるなび](http://mobile.gnavi.co.jp/)
+[ホットペッパー](http://www.hotpepper.jp/SA23/)
+[食べログ](http://s.tabelog.com/)
 
 ## メール系
 
@@ -91,8 +91,8 @@ photo credit: <a href="http://www.flickr.com/photos/jpellgen/3421273869/">jpellg
 方が良いと思います。自分が読みたい時にアクセスできて、基本読むだけの用
 途ならブラウザでも十分です。
 
-<a href="https://mail.google.com/">Gmail</a>
-<a href="https://m.mail.yahoo.co.jp/cl/">Yahoo!メール</a>
+[Gmail](https://mail.google.com/)
+[Yahoo!メール](https://m.mail.yahoo.co.jp/cl/)
 
 <hr>
 アクセスのしやすさという意味ではアプリのアイコンがあった方が便利なのは確かです。「アイコンは減らなくてもいい容量を減らしたい」という方には、スマートフォン向けサイトへのショートカットをホーム画面に置くという手もありますよ。^_^

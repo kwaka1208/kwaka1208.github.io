@@ -23,7 +23,7 @@ tags:
   - 簡単
 ---
 <img src="/assets/images/2012/12/small__688068169.jpg" alt="Lock" width="320" height="232" class="alignnone size-full wp-image-175" />
-photo credit: <a href="http://www.flickr.com/photos/darwinbell/688068169/">Darwin Bell</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
+photo credit: [Darwin Bell](http://www.flickr.com/photos/darwinbell/688068169/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)
 
 パソコンやスマートフォンなどで、色々なネットサービスを利用しているとそれぞれでIDとパスワードの設定をさせられるますね、これが結構面倒(&gt;_&lt;)
 

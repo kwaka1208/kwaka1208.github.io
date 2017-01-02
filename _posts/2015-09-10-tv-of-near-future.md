@@ -85,4 +85,4 @@ Apple TVで何かを観ようと思ったら….
 
 でも、Appleならできそうな気がします。AppleがApple TVとモニターをテレビ売り場に置くようになる日を、私は楽しみにしています。
 
-photo credit: <a href="http://www.flickr.com/photos/22882274@N04/16035779290">TV Abandoned</a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by/2.0/">(license)</a>
+photo credit: [TV Abandoned](http://www.flickr.com/photos/22882274@N04/16035779290) via [photopin](http://photopin.com) [(license)](https://creativecommons.org/licenses/by/2.0/)

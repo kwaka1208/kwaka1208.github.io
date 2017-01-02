@@ -11,7 +11,7 @@ categories:
 ---
 <img src="/assets/images/2013/07/PHP.gif" alt="PHP" width="180" height="236" class="alignnone size-full wp-image-466" />
 
-わけあってO'Reillyの「<a href="http://www.oreilly.co.jp/books/9784873113425/">プログラミング PHP 第2版</a>」を買おうとしていたのですが、「紙の本だと場所をとる」「電子書籍板はPDFしかない」ということであれこれ悩んだ結果、原書の"<a href="http://shop.oreilly.com/product/0636920012443.do">Programming PHP, 3rd Edition</a>"を購入しました。
+わけあってO'Reillyの「[プログラミング PHP 第2版](http://www.oreilly.co.jp/books/9784873113425/)」を買おうとしていたのですが、「紙の本だと場所をとる」「電子書籍板はPDFしかない」ということであれこれ悩んだ結果、原書の"[Programming PHP, 3rd Edition](http://shop.oreilly.com/product/0636920012443.do)"を購入しました。
 
 原書にした理由は...
 <ol>

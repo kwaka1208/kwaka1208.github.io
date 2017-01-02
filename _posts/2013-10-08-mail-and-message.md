@@ -69,7 +69,7 @@ PCからのメールを携帯で読むと行の途中で改行があり、携帯
 
 最近は一つのアドレスをPCとスマートフォンからも使うようになったことや、PCのメーラーでは折り返し文字数が設定出来ることもあり、行の終わりまで改行を入れない「携帯方式」の方が良いと思います。
 
-<a href="http://kwaka1208.net/line-break/">スマートフォン時代のメールの改行位置</a>
+[スマートフォン時代のメールの改行位置](http://kwaka1208.net/line-break/)
 
 
 ### 絵文字問題
@@ -106,4 +106,4 @@ LINEを筆頭にメールに変わって主流になりつつあるメッセー�
 もしかすると両方の良さを兼ね備えた新しいメッセージングの仕組みを産み出せたらノーベル賞ものなのかもしれませんね。
 
 <img src="/assets/images/2013/10/medium_308123041.jpg" alt="mail" width="390" height="500" class="alignnone size-full wp-image-518" />
-photo credit: <a href="http://www.flickr.com/photos/smil/308123041/">'smil</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
+photo credit: ['smil](http://www.flickr.com/photos/smil/308123041/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

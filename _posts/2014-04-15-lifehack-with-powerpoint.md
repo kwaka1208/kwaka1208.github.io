@@ -66,4 +66,4 @@ http://support.apple.com/kb/PH13852?viewlocale=ja_JP&locale=ja_JP</p>
 
 #人にやさしいIT
 
-photo credit: <a href="http://www.flickr.com/photos/garethjmsaunders/748083829/">garethjmsaunders</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-sa/2.0/">cc</a>
+photo credit: [garethjmsaunders](http://www.flickr.com/photos/garethjmsaunders/748083829/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)
