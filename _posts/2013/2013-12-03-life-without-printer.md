@@ -19,7 +19,7 @@ tags:
 
 photo credit: [NCinDC](http://www.flickr.com/photos/ncindc/2794943066/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nd/2.0/)
 
-[前回の記事](http://kwaka1208.net/new-years-card/)で、「年賀状もスマートフォンで作れるようになったから、PC要らないよね～」と書いた私ですが、私自身はPC（Mac）が不要になるわけもなく、でもプリンタの方はなんとかなしにできないか？　と考えてます。
+[前回の記事](/new-years-card/)で、「年賀状もスマートフォンで作れるようになったから、PC要らないよね～」と書いた私ですが、私自身はPC（Mac）が不要になるわけもなく、でもプリンタの方はなんとかなしにできないか？　と考えてます。
 
 我が家のプリンタは、2005年に購入したもの。8年にもなれば、いつ壊れてもおかしくない年頃です。
 実際、どれだけプリンタ使っているか？　というと、おおよそこんな感じです。

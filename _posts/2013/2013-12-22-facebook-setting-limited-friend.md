@@ -20,7 +20,7 @@ tags:
 photo credit: [opensourceway](http://www.flickr.com/photos/opensourceway/4638981545/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)
 
 これも一時よく聞かれたのですが、下書きのまま塩漬けになってました。 ^_^;
-前回の"[Facebook設定:Part4 特定の人を非表示にする](http://kwaka1208.net/facebook-setting-hide-away/)"につづいて、ネガティブな内容なんですが、実際問題としてどうしても必要なケースもあるようです。
+前回の"[Facebook設定:Part4 特定の人を非表示にする](/facebook-setting-hide-away/)"につづいて、ネガティブな内容なんですが、実際問題としてどうしても必要なケースもあるようです。
 
 例えば、
 <blockquote>同じ会社の人から友達申請を受けた。

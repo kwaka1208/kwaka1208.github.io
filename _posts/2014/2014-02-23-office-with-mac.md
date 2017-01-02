@@ -28,7 +28,7 @@ tags:
   - 表計算
 ---
 Macを買うかどうか検討している方の相談を受けた時、ほぼ100%聞かれるのが「MacでOfficeは使えるのか？」という質問です。
-(この記事には、後日談があります。「[続：MacでOfficeを使う ](http://kwaka1208.net/office-with-mac-part2/)」)
+(この記事には、後日談があります。「[続：MacでOfficeを使う ](/office-with-mac-part2/)」)
 
 もちろん、ここで言う「Office」とは「Microsoft Office」のことであり、「Word」や「Excel」が使えるか？ということです。
 以前はなかなか難しい話だったのですが、最近はブラウザで使えるOnline版を含めて選択肢が増え、MacでもOfficeの利用に困ることは無くなってきています。
@@ -85,4 +85,4 @@ Open Officeにブラウザで使えるOnline版の提供はありません。
 
 ![Microsoft Office Online](/assets/images/2014/02/office.png)
 
-(この記事には、後日談があります。「[続：MacでOfficeを使う ](http://kwaka1208.net/office-with-mac-part2/)」)
+(この記事には、後日談があります。「[続：MacでOfficeを使う ](/office-with-mac-part2/)」)
