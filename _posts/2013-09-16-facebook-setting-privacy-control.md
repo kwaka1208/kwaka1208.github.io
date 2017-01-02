@@ -35,7 +35,7 @@ Facebook等のSNSはある意味そういうことを公開することで繋が
 </ol>
 まずはこれらについて説明しましょう。
 
-<h3>1.ウォールへの投稿</h3>
+### 1.ウォールへの投稿
 「ウォール」とはあなた自身が書き込みを行う場所です。つまり、あなたのウォールを開くとどこにはあなた自身が過去に書き込んだことのすべてが一覧で出てきます。Facebookの画面で左上に自分の名前が表示されていますが、ここをクリック/タップした時に表示される画面があなたのウォールです。
 
 PCの場合は、左上の自分の名前をクリックしてください。
@@ -56,7 +56,7 @@ PCの場合は、左上の自分の名前をクリックしてください。
 
 「自分のウォールへの書き込みはして欲しくないけど、誕生日にお祝いメッセージは欲しいな」と思われる方もいらっしゃるかもしれませんが、ウォールへの書き込みを許可しない場合誕生日メッセージは個別のメッセージとして他の人から見えない形で届きますのでご安心を :-)
 
-<h3>2.タグ付け</h3>
+### 2.タグ付け
 そしてもう一つがタグ付けです。Facebookの書き込みを見ていると「◯◯さんと一緒です」というメッセージが付いたものや、写真に名前が付いたものを見ることがありますね、あれは投稿や写真に「タグ付け」されていることになります。タグ付けされた投稿や写真はタグ付けされた方のFacebook友達も見ることが出来ます。
 
 ですので、「今日はここで飲んでます」みたいな書き込みにタグ付けされると、「いつ」「どこで」「誰と」「何をしてたのか」が他のFacebook友達に見えることがあります。もちろんシチュエーションにもよりますがそれって困ることもありますよね。どう困るかはその人のシチュエーションによって異なりますのであえて例示はしませんが...
@@ -83,4 +83,4 @@ PCの場合は、左上の自分の名前をクリックしてください。
 
 設定画面へはFacebookのトップ画面から移動するのですが、ここでは分かりやすいように設定画面へ直接進めるリンクを用意しました。普段スマートフォン用アプリでFacebookを使っておられる方もここではブラウザでのアクセスとなりますので、以下のアイコンから現在操作している機器のアイコンを選んでください。Facebookへのログインすると設定画面が表示されます。
 
-<a href="https://m.facebook.com/privacy/touch/timeline_and_tagging/"><img src="/assets/images/2013/09/i-phone.png" alt="Smartphone" width="128" height="128" class="alignnone size-full wp-image-491" /></a><a href="https://www.facebook.com/settings?tab=timeline"><img src="/assets/images/2013/09/computer.png" alt="Computer" width="128" height="128" class="alignnone size-full wp-image-492" /></a>
+[![Smartphone](/assets/images/2013/09/i-phone.png)](https://m.facebook.com/privacy/touch/timeline_and_tagging/)[![Computer](/assets/images/2013/09/computer.png)](https://www.facebook.com/settings?tab=timeline)

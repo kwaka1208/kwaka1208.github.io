@@ -16,7 +16,7 @@ tags:
   - モノリシック
   - ユーザーインターフェース
 ---
-<a href="/assets/images/2013/11/small__4161713573.jpg"><img src="/assets/images/2013/11/small__4161713573.jpg" alt="LEGO" width="320" height="240" class="alignnone size-full wp-image-538" /></a>
+![LEGO](/assets/images/2013/11/small__4161713573.jpg)
 photo credit: <a href="http://www.flickr.com/photos/tinker-tailor/4161713573/">Tinker*Tailor loves Lalka</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc/2.0/">cc</a>
 
 先日、スマートフォンの機能をモジュール化し自由に組み合わせられるモノにするプロジェクトが発表されました。

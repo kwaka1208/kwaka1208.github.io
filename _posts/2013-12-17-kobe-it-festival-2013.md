@@ -15,7 +15,7 @@ tags:
   - ボランティア
   - 神戸ITフェスティバル
 ---
-<a href="http://kobe-it-fes.org" title="神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -"><img src="/assets/images/2013/12/banner_640x280-620x271.jpg" alt="神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -" width="620" height="271" class="alignnone size-medium wp-image-572" /></a>
+[![神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -](/assets/images/2013/12/banner_640x280-620x271.jpg)](http://kobe-it-fes.org")
 
 2013年12月13日(金)と14日(土)、<a href="http://kiito.jp">デザイン・クリエイティブセンター神戸(KIITO)</a>で行われた<a href="http://kobe-it-fes.org">神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -</a>に行ってきました。
 
@@ -35,7 +35,7 @@ Tehuさんとは、少し話をする機会があったのですが、単にIT�
 
 特にステージングが凄かった。会場のステージは組み立て可動式のステージで、パフォーマンスをするにはやや小さかったのですが、彼女らはきちんと端から端まで全部使ってパフォーマンスしてましたよ。いつか落ちるんじゃないかと思うぐらい、ギリギリの所に立ったり駆け抜けたりするので、気が気じゃありませんでしたよ。
 
-<a href="/assets/images/2013/12/2013-12-14-14.58.47.jpg"><img src="/assets/images/2013/12/2013-12-14-14.58.47.jpg" alt="ゆるキャラとご当地アイドル" width="500" height="375" class="alignnone size-full wp-image-579" /></a>
+[![ゆるキャラとご当地アイドル](/assets/images/2013/12/2013-12-14-14.58.47.jpg)](/assets/images/2013/12/2013-12-14-14.58.47.jpg)
 
 <hr>
 <h2>大変だけど、スタッフにしか分からない楽しさもある</h2>
