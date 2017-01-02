@@ -23,7 +23,7 @@ Facebookに投稿してしまってから、「あ、間違えた」と思うこ
 
 iPhoneでFacebookを使うには、"Facebookアプリを使う"と、"SafariでFacebookを使う"の2通りの方法があります。それぞれで操作の仕方が違いますので、両方を説明します。
 
-<h2>Facebookアプリを使っている場合</h2>
+## Facebookアプリを使っている場合
 以下の内容は、iOS版アプリでの動作なのでもしかするとAndroid版では違うかもしれません(デバイスによって違うというのは問題ですが)。Androiodスマートフォンをお使いの方が試してダメだったらFacebookに文句...以下略。
 
 Facebookアプリを立ち上げて、左上の三本線の入ったボタンを押してください。
@@ -39,7 +39,7 @@ Facebookアプリを立ち上げて、左上の三本線の入ったボタンを
 <img src="/assets/images/2013/01/004.png" alt="004" width="300" height="450" class="alignnone size-full wp-image-344" />
 
 <hr>
-<h2>SafariでFacebookを使っている場合</h2>
+## SafariでFacebookを使っている場合
 Safariで削除する場合は、アプリで使っている場合よりも簡単に削除できます。
 
 まず、消したい自分の投稿を表示させます。アプリの時のようにメニューを開いて自分のページに移動する必要はありません、今見ている画面でOKです。

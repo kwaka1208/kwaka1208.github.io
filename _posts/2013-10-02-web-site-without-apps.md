@@ -31,7 +31,7 @@ photo credit: <a href="http://www.flickr.com/photos/jpellgen/3421273869/">jpellg
 さい。
 ※今回紹介するサイトはすべてiPhoneでアクセスできることを確認しています。
 
-<h2>ソーシャルネットワーク</h2>
+## ソーシャルネットワーク
 
 いずれもスマートフォン用サイトが用意されているので、ブラウザでも充分使
 えます。ただし、コメントがついた時やメッセージが届いた時のリアルタイム
@@ -44,7 +44,7 @@ photo credit: <a href="http://www.flickr.com/photos/jpellgen/3421273869/">jpellg
 <a href="https://mobile.twitter.com/">Twitter</a>
 <a href="https://mixi.jp/">mixi</a>
 
-<h2>旅行・交通系</h2>
+## 旅行・交通系
 
 旅行・交通系アプリは動作時にネット接続が必須のものがほとんどですので、
 「サービスに繋がらないと使えない」という意味では、ブラウザで利用しても
@@ -62,7 +62,7 @@ photo credit: <a href="http://www.flickr.com/photos/jpellgen/3421273869/">jpellg
 <a href="http://sp.jal.co.jp/">日本航空(JAL)</a>
 <a href="http://www.ana.co.jp/asw/spdom">全日空(ANA)</a>
 
-<h2>銀行系</h2>
+## 銀行系
 
 大手ならスマートフォン用サイトを用意しているところがほとんど。アプリを
 出しているところでもアプリの方が出来ることが少ない場合もありますので、
@@ -85,7 +85,7 @@ photo credit: <a href="http://www.flickr.com/photos/jpellgen/3421273869/">jpellg
 <a href="http://www.hotpepper.jp/SA23/">ホットペッパー</a>
 <a href="http://s.tabelog.com/">食べログ</a>
 
-<h2>メール系</h2>
+## メール系
 
 メールの通知が出ないのが不便なのと、メールを書く時の使い勝手はアプリの
 方が良いと思います。自分が読みたい時にアクセスできて、基本読むだけの用
