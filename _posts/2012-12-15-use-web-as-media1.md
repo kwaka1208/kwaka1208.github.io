@@ -29,9 +29,9 @@ tags:
 <hr>
 個人事業の情報発信メディアとして活用できるものの代表として、以下の4つのものを取り上げ、それぞれの役割分担を見て行きます。
 <ul>
-	- ホームページ
-	- blog
-	- SNS(Facebook、Twitter
+- ホームページ
+- blog
+- SNS(Facebook、Twitter
 </ul>
 <hr>
 ## ホームページ
