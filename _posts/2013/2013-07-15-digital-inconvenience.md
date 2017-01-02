@@ -4,7 +4,6 @@ title: デジタルの不便性
 date: 2013-07-15T16:34:47+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=472
 permalink: /digital-inconvenience/
 categories:
   - voice

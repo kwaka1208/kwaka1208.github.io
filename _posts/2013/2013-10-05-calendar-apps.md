@@ -4,7 +4,6 @@ title: 口コミで見つける、iOS7標準Appに代わるカレンダーApp
 date: 2013-10-05T06:41:00+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=505
 permalink: /calendar-apps/
 categories:
   - for users

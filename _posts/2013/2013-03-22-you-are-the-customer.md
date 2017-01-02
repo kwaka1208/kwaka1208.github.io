@@ -4,7 +4,6 @@ title: 「お客様目線」は他人ごとじゃなくて自分ごとで
 date: 2013-03-22T07:51:17+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=390
 permalink: /you-are-the-customer/
 attitude_sidebarlayout:
   - default

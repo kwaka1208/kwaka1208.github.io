@@ -4,7 +4,6 @@ title: blogノススメ
 date: 2014-05-16T08:33:58+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1299
 permalink: /blog-vs-sns/
 attitude_sidebarlayout:
   - default

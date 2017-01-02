@@ -4,7 +4,6 @@ title: ヒトに優しいキカイをつくる
 date: 2013-11-12T14:30:46+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=545
 permalink: /machines-for-human/
 image: /wp-content/uploads/2013/11/medium_6870614936.jpg
 categories:

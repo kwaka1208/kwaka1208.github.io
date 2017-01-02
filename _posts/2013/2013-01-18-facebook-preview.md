@@ -4,7 +4,6 @@ title: Facebookの自分の投稿が他の人からどう見えているか確�
 date: 2013-01-18T08:30:23+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=291
 permalink: /facebook-preview/
 categories:
   - for users

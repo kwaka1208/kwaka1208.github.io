@@ -4,7 +4,6 @@ title: Facebook設定:Part3 Facebookをやめる
 date: 2013-09-16T15:25:59+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=498
 permalink: /facebook-setting-quit/
 categories:
   - for users

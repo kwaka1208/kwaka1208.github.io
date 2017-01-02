@@ -4,7 +4,6 @@ title: 伝わるシェアのしかた
 date: 2014-01-03T08:30:52+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=593
 permalink: /share-and-sympathy/
 attitude_sidebarlayout:
   - default

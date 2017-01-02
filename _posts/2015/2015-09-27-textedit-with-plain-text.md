@@ -4,7 +4,6 @@ title: 「テキストエディット」は「標準フォーマット」で使�
 date: 2015-09-27T23:51:57+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1733
 permalink: /textedit-with-plain-text/
 attitude_sidebarlayout:
   - default

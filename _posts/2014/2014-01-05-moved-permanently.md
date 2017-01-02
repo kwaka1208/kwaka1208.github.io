@@ -4,7 +4,6 @@ title: サーバーを引っ越しました
 date: 2014-01-05T14:19:27+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1016
 permalink: /moved-permanently/
 attitude_sidebarlayout:
   - default

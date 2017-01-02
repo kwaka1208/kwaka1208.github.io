@@ -4,7 +4,6 @@ title: iPhone契約時のデフォルトオプションを正しく知る(SoftBa
 date: 2013-03-17T19:36:15+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=382
 permalink: /iphone-default-option/
 categories:
   - voice

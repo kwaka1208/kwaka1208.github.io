@@ -4,7 +4,6 @@ title: Facebook設定:Part4 特定の人を非表示にする
 date: 2013-11-06T07:17:05+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=540
 permalink: /facebook-setting-hide-away/
 categories:
   - for users

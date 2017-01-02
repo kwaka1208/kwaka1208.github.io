@@ -4,7 +4,6 @@ title: トイレのユーザーインターフェース
 date: 2014-02-25T12:33:11+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1242
 permalink: /user-interface-of-toilet/
 attitude_sidebarlayout:
   - default

@@ -4,7 +4,6 @@ title: Firefox OS搭載スマートTVに期待すること
 date: 2014-01-07T22:54:32+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1025
 permalink: /firefox-os-on-tv/
 attitude_sidebarlayout:
   - default

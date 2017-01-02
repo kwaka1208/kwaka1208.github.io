@@ -4,7 +4,6 @@ title: 私の初Mac / Macintoshの30周年を祝して
 date: 2014-01-25T13:32:41+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1123
 permalink: /my-first-mac/
 attitude_sidebarlayout:
   - default

@@ -4,7 +4,6 @@ title: ブックマークでIDとパスワードを管理する Tips for Firefox
 date: 2014-12-25T08:18:24+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1503
 permalink: /password-management-on-the-bookmark/
 attitude_sidebarlayout:
   - default

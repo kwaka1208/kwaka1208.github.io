@@ -4,7 +4,6 @@ title: 触れないものを触れるようにするインターフェース
 date: 2014-07-21T14:33:24+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1380
 permalink: /an-idea-of-tangible-user-interface/
 attitude_sidebarlayout:
   - default

@@ -4,7 +4,6 @@ title: 見たことのない組み合わせを
 date: 2015-04-12T14:47:53+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1620
 permalink: /the-pattern-that-you-have-never-seen/
 attitude_sidebarlayout:
   - default

@@ -4,7 +4,6 @@ title: プログラミングを学ぶ、教える
 date: 2015-03-18T08:32:07+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1598
 permalink: /teach-and-learn-programming/
 attitude_sidebarlayout:
   - default

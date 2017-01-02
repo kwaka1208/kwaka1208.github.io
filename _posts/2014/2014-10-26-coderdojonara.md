@@ -4,7 +4,6 @@ title: CoderDojo奈良を開催しました。
 date: 2014-10-26T22:06:18+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1488
 permalink: /coderdojonara/
 attitude_sidebarlayout:
   - default

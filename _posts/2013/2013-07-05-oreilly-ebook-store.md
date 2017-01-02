@@ -4,7 +4,6 @@ title: 'O&#8217;Reilly Ebook Store'
 date: 2013-07-05T12:50:23+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=464
 permalink: /oreilly-ebook-store/
 categories:
   - voice

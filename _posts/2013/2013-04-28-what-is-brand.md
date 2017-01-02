@@ -4,7 +4,6 @@ title: 「ブランド」って何だろう?
 date: 2013-04-28T21:59:56+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=411
 permalink: /what-is-brand/
 categories:
   - voice

@@ -4,7 +4,6 @@ title: モードを意識するインターフェース
 date: 2014-02-10T06:36:00+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1172
 permalink: /modal-interface/
 attitude_sidebarlayout:
   - default

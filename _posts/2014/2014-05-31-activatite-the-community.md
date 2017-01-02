@@ -4,7 +4,6 @@ title: コミュニティを活性化する
 date: 2014-05-31T22:31:23+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1329
 permalink: /activatite-the-community/
 attitude_sidebarlayout:
   - default

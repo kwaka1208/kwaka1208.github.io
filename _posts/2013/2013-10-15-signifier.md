@@ -4,7 +4,6 @@ title: iOS7で失われた気付き、得られた気付き
 date: 2013-10-15T14:30:15+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=504
 permalink: /signifier/
 categories:
   - voice

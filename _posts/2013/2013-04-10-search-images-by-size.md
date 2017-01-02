@@ -4,7 +4,6 @@ title: 欲しい大きさの画像を見つける
 date: 2013-04-10T07:37:18+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=431
 permalink: /search-images-by-size/
 categories:
   - for users

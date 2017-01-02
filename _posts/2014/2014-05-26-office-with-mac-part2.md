@@ -4,7 +4,6 @@ title: 続：MacでOfficeを使う
 date: 2014-05-26T08:39:29+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1320
 permalink: /office-with-mac-part2/
 attitude_sidebarlayout:
   - default

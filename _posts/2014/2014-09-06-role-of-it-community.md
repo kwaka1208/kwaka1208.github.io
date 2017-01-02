@@ -4,7 +4,6 @@ title: 災害時におけるIT系コミュニティの役割
 date: 2014-09-06T08:35:56+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1403
 permalink: /role-of-it-community/
 attitude_sidebarlayout:
   - default

@@ -4,7 +4,6 @@ title: 「Appleらしさ」とは
 date: 2014-09-24T00:15:24+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1413
 permalink: /what-is-apple/
 attitude_sidebarlayout:
   - default

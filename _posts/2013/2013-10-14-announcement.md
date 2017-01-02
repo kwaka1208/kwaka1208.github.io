@@ -4,7 +4,6 @@ title: あらためてのお知らせ
 date: 2013-10-14T21:46:31+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=529
 permalink: /announcement/
 attitude_sidebarlayout:
   - default

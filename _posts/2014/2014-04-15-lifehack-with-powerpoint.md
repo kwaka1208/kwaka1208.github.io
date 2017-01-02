@@ -4,7 +4,6 @@ title: パワポで画像管理的ライフハック
 date: 2014-04-15T12:42:02+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1277
 permalink: /lifehack-with-powerpoint/
 attitude_sidebarlayout:
   - default

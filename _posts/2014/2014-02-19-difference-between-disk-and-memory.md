@@ -4,7 +4,6 @@ title: ハードディスクとメモリの違い
 date: 2014-02-19T12:53:28+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1182
 permalink: /difference-between-disk-and-memory/
 attitude_sidebarlayout:
   - default

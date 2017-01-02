@@ -4,7 +4,6 @@ title: SNSとプライバシー
 date: 2015-09-14T12:36:26+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1727
 permalink: /sns-and-privacy/
 attitude_sidebarlayout:
   - default

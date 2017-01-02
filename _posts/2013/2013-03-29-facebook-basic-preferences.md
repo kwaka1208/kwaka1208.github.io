@@ -4,7 +4,6 @@ title: Facebook初心者のための基本設定
 date: 2013-03-29T16:44:38+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=414
 permalink: /facebook-basic-preferences/
 categories:
   - for users

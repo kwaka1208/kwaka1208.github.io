@@ -4,7 +4,6 @@ title: WordCamp Kansai 2014に実行委員として参加しました。
 date: 2014-08-10T00:56:51+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1385
 permalink: /wordcamp-kansai-2014/
 attitude_sidebarlayout:
   - default

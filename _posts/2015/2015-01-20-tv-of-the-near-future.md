@@ -4,7 +4,6 @@ title: ミライノテレビ
 date: 2015-01-20T12:36:11+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1527
 permalink: /tv-of-the-near-future/
 attitude_sidebarlayout:
   - default

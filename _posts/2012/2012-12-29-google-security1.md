@@ -4,7 +4,6 @@ title: Googleサービスのセキュリティを強化する(その1:二段階�
 date: 2012-12-29T07:05:21+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=188
 permalink: /google-security1/
 image:
   - ""

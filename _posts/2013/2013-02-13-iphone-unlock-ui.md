@@ -4,7 +4,6 @@ title: iPhoneがスライド操作でロック解除な理由
 date: 2013-02-13T19:58:47+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=356
 permalink: /iphone-unlock-ui/
 attitude_sidebarlayout:
   - default

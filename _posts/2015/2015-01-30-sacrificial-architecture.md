@@ -4,7 +4,6 @@ title: 犠牲的アーキテクチャ
 date: 2015-01-30T13:09:22+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1549
 permalink: /sacrificial-architecture/
 attitude_sidebarlayout:
   - default

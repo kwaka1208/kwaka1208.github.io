@@ -4,7 +4,6 @@ title: Excel用マクロを公開しています
 date: 2015-05-10T01:37:09+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1635
 permalink: /office-on-github/
 attitude_sidebarlayout:
   - default

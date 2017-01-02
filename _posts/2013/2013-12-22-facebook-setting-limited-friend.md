@@ -4,7 +4,6 @@ title: Facebook設定:Part5 特定の人に自分の書き込みを読めない�
 date: 2013-12-22T22:26:27+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=548
 permalink: /facebook-setting-limited-friend/
 image: /wp-content/uploads/2013/12/medium_4638981545.jpg
 categories:

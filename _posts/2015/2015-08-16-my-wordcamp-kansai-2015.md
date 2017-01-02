@@ -4,7 +4,6 @@ title: 私のWordCamp Kansai 2015
 date: 2015-08-16T22:59:36+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1648
 permalink: /my-wordcamp-kansai-2015/
 attitude_sidebarlayout:
   - default

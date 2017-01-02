@@ -4,7 +4,6 @@ title: 「inbox zero」を実践するためのメール削除のルール
 date: 2014-04-01T12:40:53+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1266
 permalink: /inbox-zero-management/
 attitude_sidebarlayout:
   - default

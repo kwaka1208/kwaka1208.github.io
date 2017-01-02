@@ -4,7 +4,6 @@ title: 新しいiPhoneとネットのモラル
 date: 2013-09-17T15:00:50+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=484
 permalink: /iphone5c-moral/
 categories:
   - voice

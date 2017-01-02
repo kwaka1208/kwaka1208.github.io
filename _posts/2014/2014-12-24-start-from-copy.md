@@ -4,7 +4,6 @@ title: 真似から始めよう！
 date: 2014-12-24T08:11:49+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1500
 permalink: /start-from-copy/
 attitude_sidebarlayout:
   - default

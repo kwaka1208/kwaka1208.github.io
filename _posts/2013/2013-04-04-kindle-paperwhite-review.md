@@ -4,7 +4,6 @@ title: Kindle Paperwhiteを欲しいなと思っている方へ
 date: 2013-04-04T23:16:24+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=424
 permalink: /kindle-paperwhite-review/
 attitude_sidebarlayout:
   - default

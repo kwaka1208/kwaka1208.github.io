@@ -4,7 +4,6 @@ title: スマートフォン時代のメールの改行
 date: 2013-02-25T19:43:34+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=367
 permalink: /line-break/
 attitude_sidebarlayout:
   - default

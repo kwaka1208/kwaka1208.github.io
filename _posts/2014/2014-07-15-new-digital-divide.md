@@ -4,7 +4,6 @@ title: 新種のデジタルディバイド？
 date: 2014-07-15T12:35:45+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1374
 permalink: /new-digital-divide/
 attitude_sidebarlayout:
   - default

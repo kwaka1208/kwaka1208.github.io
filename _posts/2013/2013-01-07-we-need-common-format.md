@@ -4,7 +4,6 @@ title: PDFの活用を(世の中Officeユーザーばかりじゃない!!)
 date: 2013-01-07T17:50:30+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=237
 permalink: /we-need-common-format/
 image:
   - ""

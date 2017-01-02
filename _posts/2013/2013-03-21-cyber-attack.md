@@ -4,7 +4,6 @@ title: 初心者でも分かる韓国のサイバー攻撃でどんなことが�
 date: 2013-03-21T21:16:32+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=387
 permalink: /cyber-attack/
 attitude_sidebarlayout:
   - default

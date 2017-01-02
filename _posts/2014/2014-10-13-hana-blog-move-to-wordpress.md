@@ -4,7 +4,6 @@ title: blogの移転をお手伝いしました。
 date: 2014-10-13T22:27:25+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1438
 permalink: /hana-blog-move-to-wordpress/
 attitude_sidebarlayout:
   - default

@@ -4,7 +4,6 @@ title: Firefox Developers Conference 2014 in Kyoto
 date: 2014-05-04T09:28:22+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1296
 permalink: /firefox-developers-conference-2014-in-kyoto/
 attitude_sidebarlayout:
   - default

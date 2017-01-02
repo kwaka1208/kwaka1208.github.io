@@ -4,7 +4,6 @@ title: iPhoneやMacの連絡先をアルファベット順に並べる
 date: 2012-12-13T07:00:09+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=25
 permalink: /sort-of-address-book/
 image:
   - ""

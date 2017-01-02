@@ -4,7 +4,6 @@ title: プログラミングの魅力を語ろう！～いま目指している�
 date: 2015-03-05T23:52:47+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1587
 permalink: /seminar-matsumoto-yukihiro/
 attitude_sidebarlayout:
   - default

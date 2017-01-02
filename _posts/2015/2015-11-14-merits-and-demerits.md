@@ -4,7 +4,6 @@ title: 功罪
 date: 2015-11-14T23:33:55+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1742
 permalink: /merits-and-demerits/
 attitude_sidebarlayout:
   - default

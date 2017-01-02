@@ -4,7 +4,6 @@ title: 音声によるインターフェース
 date: 2014-07-24T08:24:41+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1391
 permalink: /interface-via-voice/
 attitude_sidebarlayout:
   - default

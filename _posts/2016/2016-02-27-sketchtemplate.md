@@ -4,7 +4,6 @@ title: Arduinoのテンプレートを書きました
 date: 2016-02-27T00:51:47+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1789
 permalink: /sketchtemplate/
 attitude_sidebarlayout:
   - default

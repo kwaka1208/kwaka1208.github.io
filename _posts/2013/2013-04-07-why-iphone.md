@@ -4,7 +4,6 @@ title: 'iPhoneを好きになる理由。- Why you&#8217;ll love an iPhone &#821
 date: 2013-04-07T16:48:06+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=427
 permalink: /why-iphone/
 categories:
   - voice

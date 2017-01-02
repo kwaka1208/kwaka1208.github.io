@@ -4,7 +4,6 @@ title: 現代メッセージング考
 date: 2013-10-08T14:30:25+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=516
 permalink: /mail-and-message/
 categories:
   - voice

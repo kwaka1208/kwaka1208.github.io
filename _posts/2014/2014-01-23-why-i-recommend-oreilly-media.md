@@ -4,7 +4,6 @@ title: 'オライリー本を買うなら、本家O&#8217;Reilly Mediaが良い�
 date: 2014-01-23T22:50:55+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=1100
 permalink: /why-i-recommend-oreilly-media/
 attitude_sidebarlayout:
   - default

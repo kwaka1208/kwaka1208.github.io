@@ -4,7 +4,6 @@ title: 取扱説明書をデジタル化してスッキリ片付けよう
 date: 2012-12-24T15:44:34+00:00
 author: kwaka1208
 layout: post
-guid: http://kwaka1208.net/?p=138
 permalink: /digital-manual/
 image:
   - ""
