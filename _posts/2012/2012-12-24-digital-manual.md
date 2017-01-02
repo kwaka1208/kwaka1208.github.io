@@ -32,19 +32,14 @@ photo credit: [osiatynska](http://www.flickr.com/photos/osiatynska/3287986172/) 
 
 こちらに、主なメーカーの取扱説明書ダウンロードページのリンクを張っておきますので、よかったら使ってください。(このメーカーも張ってというのがあれば、コメント欄に書いて頂ければ追加します)
 
-[パナソニック](http://panasonic.co.jp/cs/personal/manual/) | [シャープ](http://www.sharp.co.jp/support/download.html) | [ソニー](http://www.sony.jp/support/manual.html) | [東芝](http://www.toshiba-living.jp/search.php) | [日立](http://www.hitachi.co.jp/support/manual/index.html)
+- [パナソニック](http://panasonic.co.jp/cs/personal/manual/)
+- [シャープ](http://www.sharp.co.jp/support/download.html)
+- [ソニー](http://www.sony.jp/support/manual.html)
+- [東芝](http://www.toshiba-living.jp/search.php)
+- [日立](http://www.hitachi.co.jp/support/manual/index.html)
+- [キヤノン](http://cweb.canon.jp/e-support/manual/)
+- [エプソン](http://www.epson.jp/support/manual/)
+- [ニコン](http://www.nikon-image.com/support/manual/m_pdf.htm)
+- [カシオ(デジタルカメラ)](http://support.casio.jp/manual.php?cid=001)
 
-[キヤノン](http://cweb.canon.jp/e-support/manual/) | [エプソン](http://www.epson.jp/support/manual/) | [ニコン](http://www.nikon-image.com/support/manual/m_pdf.htm) | [カシオ(デジタルカメラ)](http://support.casio.jp/manual.php?cid=001)
-
-もしくは型番が分かってるなら、Google等の検索エンジンで、型番と"取扱説明書"というキーワードの両方を入れて検索すると一発で見つかることもあります(見つからないこともあります)。たどって行くのは面倒、型番は分かってるという方はこちらを試してみてもいいかも。
-↓の"取扱説明書"の後に、探したい商品の型番を入れると一発で検索できます(^^)/。
-
-<form method="get" action="http://www.google.co.jp/search">
-<a href="http://www.google.co.jp/">
-![Google](http://www.google.com/logos/Logo_40wht.gif)</a>
-
-
-
-
-
-</form>
+もしくは型番が分かってるなら、Google等の検索エンジンで、型番と"取扱説明書"というキーワードの両方を入れて検索すると一発で見つかることもあります(見つからないこともあります)。
