@@ -20,8 +20,8 @@ photo credit: <a href="http://www.flickr.com/photos/palmasco/338663263/">palmasc
 
 ちなみに、最近見かけた記事というのはこの二つです。
 <ul>
-<li><a href="https://jypg.net/works/2422">エレベーターの開閉ボタン</a></li>
-<li><a href="http://d.hatena.ne.jp/wa-ren/20130129/p1">エレベーターの閉じる／開くボタンのUI改善　～日本マーケット向けの決定打は『ひらく』ボタンの撤廃だ～</a></li>
+- <a href="https://jypg.net/works/2422">エレベーターの開閉ボタン</a>
+- <a href="http://d.hatena.ne.jp/wa-ren/20130129/p1">エレベーターの閉じる／開くボタンのUI改善　～日本マーケット向けの決定打は『ひらく』ボタンの撤廃だ～</a>
 </ul>
 
 ## 一般的な開閉ボタンの例
@@ -54,8 +54,8 @@ photo credit: <a href="http://www.flickr.com/photos/palmasco/338663263/">palmasc
 そこで、<span class="emphasis">開閉操作については操作方法を"左右方向に動くレバー"にするのが分かりやすいと考えています。</span>具体的には、
 
 <ul>
-<li>中心位置を起点として左右に動かすことができるもの</li>
-<li>左右に操作した後手を離すと勝手に中心に戻るもの</li>
+- 中心位置を起点として左右に動かすことができるもの
+- 左右に操作した後手を離すと勝手に中心に戻るもの
 </ul>
 
 です。身近にあるものに例えていうと、左右方向にだけ動くゲーム機のジョイスティックのようなものです。

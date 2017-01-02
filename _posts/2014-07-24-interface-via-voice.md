@@ -43,8 +43,8 @@ iPhoneに搭載されているSiriでは、認識がうまくいかない場合�
 <p>この２つの条件を満たす具体的な例として挙げられるのが、車の中での機器の操作。
 車の中は閉じた空間ですし、操作する対象はカーナビやオーディオなどの限られた機器、しかもそれらの機能はおおよそ把握できているか、想起できるものばかりで、あらためて習得することはほとんどありません。なるほど、AppleやGoogleが車載機器へ進出している理由も納得できます。</p>
 <ul>
-<li><a href="https://www.apple.com/jp/ios/carplay/">CarPlay(Apple)</a></li>
-<li><a href="http://www.android.com/auto/">Android Auto(Google)</a></li>
+- <a href="https://www.apple.com/jp/ios/carplay/">CarPlay(Apple)</a>
+- <a href="http://www.android.com/auto/">Android Auto(Google)</a>
 </ul>
 ## インターフェースの棲み分け
 どうやら、音声認識は「機器操作」を目的とした場合、GUIを置き換えるものではなく、一部の分野で有効なインターフェースとなりそうです。

@@ -19,10 +19,10 @@ photo credit: <a href="http://www.flickr.com/photos/eflon/6501030849/">eflon</a>
 ## まず最初に質問です
 この中であなたが「ブランド」だと思うものはどれですか?
 <ol>
-<li>Louis Vuitton(ルイヴィトン)</li>
-<li>CHANEL(シャネル)</li>
-<li>Cartier(カルティエ)</li>
-<li>UNIQLO(ユニクロ)</li>
+- Louis Vuitton(ルイヴィトン)
+- CHANEL(シャネル)
+- Cartier(カルティエ)
+- UNIQLO(ユニクロ)
 </ol>
 何のひねりも無いので思ったままのことを覚えておいてください。これいついてはまた後ほど触れたいと思います。
 

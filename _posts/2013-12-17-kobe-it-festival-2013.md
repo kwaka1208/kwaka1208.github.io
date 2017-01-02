@@ -51,6 +51,6 @@ Tehuさんとは、少し話をする機会があったのですが、単にIT�
 <hr>
 ## リンク
 <ul>
-<li><a href="http://kobe-it-fes.org">神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -</a></li>
-<li><a href="http://kiito.jp">デザイン・クリエイティブセンター神戸(KIITO)</a></li>
+- <a href="http://kobe-it-fes.org">神戸ITフェスティバル2013 - 自慢したくなるスゴいIT -</a>
+- <a href="http://kiito.jp">デザイン・クリエイティブセンター神戸(KIITO)</a>
 </ul>
