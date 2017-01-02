@@ -52,4 +52,5 @@ tags:
 #人にやさしいIT
 
 ![ダンボーと風船](/assets/images/2014/02/medium_3870552476.jpg)
+
 photo credit: ['PixelPlacebo'](http://www.flickr.com/photos/beatkueng/3870552476/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

@@ -48,4 +48,5 @@ IDを変え、アイコンを変え、プロフィールの説明を変えれば
 このようにして、知らず知らずのうちに不正な商売の片棒を担がされていることにもなりかねないので、Twitterといえども身元不明な怪しいアカウントのフォローやRTは控えましょう。
 
 ![悪意のあるアカウントにご注意！](/assets/images/2014/01/medium_6102173905.jpg)
+
 photo credit: [i k o](http://www.flickr.com/photos/emiliano-iko/6102173905/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

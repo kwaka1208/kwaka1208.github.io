@@ -33,5 +33,6 @@ tags:
 </p>
 <p>
 ![idea](/assets/images/2015/03/idea.jpg)
+
 photo credit: [1111_Thinking Blue_019](http://www.flickr.com/photos/87128770@N00/6320911129) via [photopin](http://photopin.com) [(license)](https://creativecommons.org/licenses/by/2.0/)
 </p>

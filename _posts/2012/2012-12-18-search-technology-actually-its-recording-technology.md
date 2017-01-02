@@ -10,6 +10,7 @@ categories:
   - voice
 ---
 ![tidy](/assets/images/2012/12/medium_3019398315.jpg)
+
 photo credit: [Kasaa](http://www.flickr.com/photos/kasaa/3019398315/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)
 
 この世の中、なんでもかんでも検索でみつかっちゃう世の中ですよね。「探す技術」ってのが進んでるんだなぁと思われるかもしれませんが、僕は「残す技術」が進化してるんだと思います。

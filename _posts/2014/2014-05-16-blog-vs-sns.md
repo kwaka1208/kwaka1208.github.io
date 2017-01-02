@@ -73,4 +73,5 @@ WordPressでblogをやっている方から、仕事でWordPressを使われる�
 参加費：2,000円</ br>
 [[caption id="attachment_1270" align="alignnone" width="250"]![WordCamp Kansai 2014](/assets/images/2014/04/bnr-250x250.gif) WordCamp Kansai 2014[/caption]](http://2014.kansai.wordcamp.org/)
 </p>
+
 photo credit: [chiaralily](http://www.flickr.com/photos/chiaralily/4653058104/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

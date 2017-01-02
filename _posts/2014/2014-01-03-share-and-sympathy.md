@@ -16,6 +16,7 @@ tags:
   - 使い方
 ---
 ![伝える](/assets/images/2014/01/small__4561580590.jpg)
+
 photo credit: [KaylaKandzorra](http://www.flickr.com/photos/calleephoto/4561580590/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)
 
 Facebookで「シェア」というボタンをみたことがあると思います。これは、メールで言う「転送」みたいなもので、その投稿や写真やリンクを自分の書き込みとして転送することで、自分の友達にも紹介することができるのです。

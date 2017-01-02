@@ -46,4 +46,5 @@ iPod登場後はその地位を奪われたと言われていましたが、ポ�
 <p>
 このように、いつの間にか人々の生活の中で当たり前の存在になり、生活の中で無くてはならない存在、そういった生活の中の原型を創出したい。それが私の目標なのです。
 </p>
+
 photo credit: [Tim Bradshaw](https://www.flickr.com/photos/timbradshaw/2836028342/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

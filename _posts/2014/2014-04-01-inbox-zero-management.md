@@ -96,5 +96,6 @@ D. 「inbox zero」になった瞬間に達成感を感じられる
 今までのメールを整理することはあきらめ、inboxの中身を移し替えて、今日から新しいinboxで「inbox zero」を始めてみませんか？
 
 ![inbox zero](/assets/images/2014/04/medium_15283297.jpg)
+
 photo credit: [mstephens7](http://www.flickr.com/photos/michaelsphotos/15283297/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 

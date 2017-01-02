@@ -12,6 +12,7 @@ categories:
   - voice
 ---
 ![天狗](/assets/images/2013/03/small_2799064377.jpg)
+
 photo credit: [St Stev](http://www.flickr.com/photos/st-stev/2799064377/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 以前、Facebookでもチラっと書いたのですが、もう少しこの意図を説明します。

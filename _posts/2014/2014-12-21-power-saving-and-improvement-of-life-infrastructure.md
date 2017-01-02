@@ -58,4 +58,5 @@ tags:
 【参考リンク】
 [24時間コンビニは電気のムダ遣いでは？](http://www.nikkeibp.co.jp/article/tk/20100406/219710/)
 </p>
+
 photo credit: [Dick Thomas Johnson](https://www.flickr.com/photos/31029865@N06/14884682980/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

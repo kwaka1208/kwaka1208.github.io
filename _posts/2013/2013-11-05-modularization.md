@@ -17,6 +17,7 @@ tags:
   - ユーザーインターフェース
 ---
 ![LEGO](/assets/images/2013/11/small__4161713573.jpg)
+
 photo credit: [Tinker*Tailor loves Lalka](http://www.flickr.com/photos/tinker-tailor/4161713573/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)
 
 先日、スマートフォンの機能をモジュール化し自由に組み合わせられるモノにするプロジェクトが発表されました。

@@ -14,6 +14,7 @@ tags:
   - 解約
 ---
 ![option](/assets/images/2013/03/small_549050685.jpg)
+
 photo credit: [clang boom steam](http://www.flickr.com/photos/clangboomsteam/549050685/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 SoftBankでiPhoneを契約するといくつかのオプションがデフォルトでついてきます。これらは「最初からつけないでください」という選択肢が無く「無料期間があるので、不要であればその期間内に解除してください。無料期間を過ぎると料金が発生します」ということになります。

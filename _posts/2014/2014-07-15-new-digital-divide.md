@@ -47,4 +47,5 @@ LightningはApple独自の規格で、専用ケーブルが高いという理由
 でも、やっぱり私はデジタルディバイドになりつつあるんだろうか？
 
 #人にやさしいIT
+
 photo credit: [Hani Amir](https://www.flickr.com/photos/haniamir/1455076844/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

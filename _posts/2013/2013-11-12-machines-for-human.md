@@ -17,6 +17,7 @@ tags:
   - 駅
 ---
 ![ticket](/assets/images/2013/11/medium_6870614936.jpg)
+
 photo credit: [Sigfrid Lundberg](http://www.flickr.com/photos/sigfridlundberg/6870614936/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)
 
 機械に囲まれて暮らしている現代、使いにくい機械がたくさんあります。

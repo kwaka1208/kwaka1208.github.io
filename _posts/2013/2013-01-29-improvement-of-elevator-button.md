@@ -14,6 +14,7 @@ tags:
   - 対応付け
 ---
 ![elevator](/assets/images/2013/01/small_338663263.jpg)
+
 photo credit: [palmasco](http://www.flickr.com/photos/palmasco/338663263/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 エレベーターの開閉ボタン、私もよく押し間違えたり、どっちを押していいのか一瞬判断できなくなることがあります。この操作性の改善に関して自分の考え方を書こうと思っていたのですが、最近同じテーマの記事がいくつか出ていたのでこのタイミングに乗じて書いてみます。

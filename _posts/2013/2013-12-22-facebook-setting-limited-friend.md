@@ -17,6 +17,7 @@ tags:
   - 設定
 ---
 <img class="alignnone size-full wp-image-623" alt="privacy" src="/assets/images/2013/12/medium_4638981545.jpg" width="500" height="281" />
+
 photo credit: [opensourceway](http://www.flickr.com/photos/opensourceway/4638981545/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)
 
 これも一時よく聞かれたのですが、下書きのまま塩漬けになってました。 ^_^;

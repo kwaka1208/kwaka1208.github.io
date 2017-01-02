@@ -48,4 +48,5 @@ Google Glassのような眼鏡型、Apple WATCHのような時計型、いずれ
 Googleは、単機能のデバイスを組み合わせてひとつの機能を実現する「Project Ara」も推進していますので、この考え方を取り入れた「IoT」的単機能機器の集合で実現される、新しいGoogle Glassの登場を期待しています。
 [Project Ara](http://www.projectara.com/)
 </p>
+
 photo credit: [tedeytan](https://www.flickr.com/photos/taedc/12120186215/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)

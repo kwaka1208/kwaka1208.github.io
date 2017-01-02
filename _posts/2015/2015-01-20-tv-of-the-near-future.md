@@ -48,5 +48,6 @@ tags:
 日本のメーカーには、この視点で世界に先んじて欲しいと思いますし、このあたりのアイデアの具体化には個人的にも挑戦していくつもりです。
 </p>
 <p>
+
 photo credit: [Anthony Quintano](https://www.flickr.com/photos/quintanomedia/16035779290/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)
 </p>

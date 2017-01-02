@@ -68,5 +68,6 @@ Appleのブランド力低下が言われて久しく、株価にもそれが現
 それでも、Appleほどの完成度のモノや体験を提供できる企業は多くありませんし、それを楽しみにしているファンが多いのも事実。これからもAppleには、より「Appleらしい」製品やサービスを産み出してもらいたいものですね。
 </p>
 <p>
+
 photo credit: [mxing✪m](https://www.flickr.com/photos/mxing-m/6217843336/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 </p>

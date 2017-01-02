@@ -43,4 +43,5 @@ tags:
 彼らが頑張ってスキルアップすることは、日本全体の技術力の向上にもなるわけですから、国を挙げて評価できる体制を作っていきたいものです。
 
 #モノづくりの現場から
+
 photo credit: [UGArdener](http://www.flickr.com/photos/ugardener/2499663609/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

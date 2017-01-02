@@ -33,4 +33,5 @@ tags:
 <p>
 せっかく同じだけの労力をかけて書くのですから、新しい発見ができた方がいいですよね？Facebookに自分の想いや考え方、素敵なメッセージを書いておられる方には、それらをblogに書き、リンクをFacebookやTwitterに置くことで友人・知人に読んでもらう、この流れを実践していただきたいです。あまりにももったいない。
 </p>
+
 photo credit: [Paul Watson](https://www.flickr.com/photos/paulwatson/5184351/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
