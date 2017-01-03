@@ -1,0 +1,17 @@
+var colorPattern = [
+    {
+        "display": "あか",
+        "answer": "赤",
+        "color": "color_red"
+    },
+    {
+        "display": "みどり",
+        "answer": "緑",
+        "color": "color_green"
+    },
+    {
+        "display": "あお",
+        "answer": "青",
+        "color": "color_blue"
+    },
+]

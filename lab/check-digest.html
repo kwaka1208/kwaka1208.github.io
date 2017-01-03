@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Bootstrap 101 Template</title>
+
+	<!-- Bootstrap -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+  </head>
+  <body>
+		<script src="js/md5.js"></script>
+		<script>
+			function CheckDigest(){
+
+				var userid ="m10102";
+				var realm = "mimi"
+				var password = "jyVij72k";
+
+				var cnonce = "7f5dc64ed87394cd744e497854601a4b";
+				var nonce = "321d2980535a486b";
+				var compare = "18194f1bdf1b274e002d01bcba2baeff";
+
+				var nc = "00000001";
+				var qop ="auth";
+
+				var md5pw = CybozuLabs.MD5.calc(password);
+
+				var method = "GET";
+				var path = "/";
+
+				var a1 = userid + ":" + realm + ":" + password;
+				var a2 = method + ":" + path;
+
+				var md5a1 = CybozuLabs.MD5.calc(a1);
+				var md5a2 = CybozuLabs.MD5.calc(a2);
+
+				var response = CybozuLabs.MD5.calc(md5a1 + ":" + nonce + ":" + nc + ":" + cnonce + ":" + qop + ":" + md5a2);
+
+
+				document.write("UserID:" + userid + "<br />");
+				document.write("Password:" + password + "<br />");
+				document.write("realm:" + realm + "<br />");
+				document.write("cnonce:" + cnonce + "<br />");
+				document.write("nonce:" + nonce + "<br />");
+				document.write("nc:" + nc + "<br />");
+				document.write("qop:" + qop + "<br />");
+				document.write("method:" + method + "<br />");
+				document.write("path:" + path + "<br />");
+
+
+
+				if (response === compare)
+				{
+					document.write("○　ダイジェストは一致しました。");
+					document.write("<br />");
+					document.write("計算したダイジェスト：" + response);
+					document.write("<br />");
+					document.write("取得したダイジェスト：" + compare);
+					document.write("<br />");
+				}
+				else
+				{
+					document.write("×　ダイジェストは一致しませんでした。。");
+					document.write("<br />");
+					document.write("計算したダイジェスト：" + response);
+					document.write("<br />");
+					document.write("取得したダイジェスト：" + compare);
+					document.write("<br />");
+				}
+			}
+		</script>
+		<div>
+		<h2>ダイジェストコードの計算方法</h2>
+		A1 = ユーザ名 ":" realm ":" パスワード<br />
+		A2 = HTTPのメソッド ":" コンテンツのURI<br />
+		response = MD5( MD5(A1) ":" nonce ":" nc ":" cnonce ":" qop ":" MD5(A2) )<br />
+		<hr size="1">
+		<script>CheckDigest();</script>
+		</div>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

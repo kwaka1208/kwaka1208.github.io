@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>mimiサーバーデータダウンロード</title>
+
+	<!-- Bootstrap -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/main.css" rel="stylesheet">
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	</head>
+	<body>
+		<div  class="container">
+		<script>
+			function GetSoundData(){
+
+				var base_url		= "http://mimilb.blob.core.windows.net/mimilb-data-log/";
+				var session_id		= document.forms['param'].elements['session-id'].value;
+				var audio_seqno		= document.forms['param'].elements['audio-seqno'].value;
+				var sounddata = base_url + session_id + "-" + audio_seqno + ".dat";
+				location.href = sounddata;
+			}
+
+		</script>
+		<div>
+			<h2>サウンドデータの取得</h2>
+				<br />
+			<form id="param">
+				<table class="table table-striped table-bordered table-hover">
+					<!-- 取得用URL http://mimilb.blob.core.windows.net/mimilb-data-log/&lt;session-id&gt;-&lt;audio-seqno&gt;.dat -->
+					<tr><td>session-id</td><td><input type="text" id="session-id" value="" class="widetext"></td></tr>
+					<tr><td>audio-seqno</td><td><input type="text" id="audio-seqno" value="0" class="widetext"></td></tr>
+				</table>
+				<br />
+				<input type="button" onClick="GetSoundData()" value="ダウンロード" class="btn btn-primary">
+			</form>
+			<hr size="1">
+			<div id="console"></div>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="js/bootstrap.min.js"></script>
+		</div>
+	</body>
+</html>
