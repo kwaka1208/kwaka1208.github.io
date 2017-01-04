@@ -1,7 +1,7 @@
 ---
 id: 1374
 title: 新種のデジタルディバイド？
-date: 2014-07-15T12:35:45+00:00
+date: 2014-07-15T12:35:45+09:00
 author: kwaka1208
 layout: post
 permalink: /new-digital-divide/

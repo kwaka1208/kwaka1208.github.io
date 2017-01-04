@@ -1,7 +1,7 @@
 ---
 id: 337
 title: iPhoneでFacebookの自分の投稿を削除する
-date: 2013-01-31T14:45:36+00:00
+date: 2013-01-31T14:45:36+09:00
 author: kwaka1208
 layout: post
 permalink: /delete-post-on-iphone/

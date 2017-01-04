@@ -1,7 +1,7 @@
 ---
 id: 424
 title: Kindle Paperwhiteを欲しいなと思っている方へ
-date: 2013-04-04T23:16:24+00:00
+date: 2013-04-04T23:16:24+09:00
 author: kwaka1208
 layout: post
 permalink: /kindle-paperwhite-review/

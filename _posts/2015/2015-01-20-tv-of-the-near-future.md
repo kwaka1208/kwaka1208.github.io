@@ -1,7 +1,7 @@
 ---
 id: 1527
 title: ミライノテレビ
-date: 2015-01-20T12:36:11+00:00
+date: 2015-01-20T12:36:11+09:00
 author: kwaka1208
 layout: post
 permalink: /tv-of-the-near-future/

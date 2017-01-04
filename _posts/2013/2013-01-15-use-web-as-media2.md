@@ -1,7 +1,7 @@
 ---
 id: 127
 title: 情報発信メディアとしてのWebの活用(その2:blogとSNS)
-date: 2013-01-15T17:00:43+00:00
+date: 2013-01-15T17:00:43+09:00
 author: kwaka1208
 layout: post
 permalink: /use-web-as-media2/

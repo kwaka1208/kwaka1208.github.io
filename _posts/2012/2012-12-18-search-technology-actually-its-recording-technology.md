@@ -1,7 +1,7 @@
 ---
 id: 123
 title: 'Search technology (actually it&#8217;s recording technology)'
-date: 2012-12-18T06:32:39+00:00
+date: 2012-12-18T06:32:39+09:00
 author: kwaka1208
 layout: post
 permalink: /search-technology-actually-its-recording-technology/

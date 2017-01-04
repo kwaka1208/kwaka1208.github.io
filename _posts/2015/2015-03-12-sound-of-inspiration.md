@@ -1,7 +1,7 @@
 ---
 id: 1589
 title: インスピレーションの音
-date: 2015-03-12T08:19:23+00:00
+date: 2015-03-12T08:19:23+09:00
 author: kwaka1208
 layout: post
 permalink: /sound-of-inspiration/

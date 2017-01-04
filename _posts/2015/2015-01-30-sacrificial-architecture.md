@@ -1,7 +1,7 @@
 ---
 id: 1549
 title: 犠牲的アーキテクチャ
-date: 2015-01-30T13:09:22+00:00
+date: 2015-01-30T13:09:22+09:00
 author: kwaka1208
 layout: post
 permalink: /sacrificial-architecture/

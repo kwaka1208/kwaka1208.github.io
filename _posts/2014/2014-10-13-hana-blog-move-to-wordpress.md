@@ -1,7 +1,7 @@
 ---
 id: 1438
 title: blogの移転をお手伝いしました。
-date: 2014-10-13T22:27:25+00:00
+date: 2014-10-13T22:27:25+09:00
 author: kwaka1208
 layout: post
 permalink: /hana-blog-move-to-wordpress/

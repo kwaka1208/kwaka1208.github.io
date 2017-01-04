@@ -1,7 +1,7 @@
 ---
 id: 447
 title: 優れたユーザーインターフェースがコストを下げる理由
-date: 2013-04-25T09:17:52+00:00
+date: 2013-04-25T09:17:52+09:00
 author: kwaka1208
 layout: post
 permalink: /good-ui-decrese-the-cost/

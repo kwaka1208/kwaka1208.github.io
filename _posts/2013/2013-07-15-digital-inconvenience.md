@@ -1,7 +1,7 @@
 ---
 id: 472
 title: デジタルの不便性
-date: 2013-07-15T16:34:47+00:00
+date: 2013-07-15T16:34:47+09:00
 author: kwaka1208
 layout: post
 permalink: /digital-inconvenience/

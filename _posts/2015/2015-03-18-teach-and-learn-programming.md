@@ -1,7 +1,7 @@
 ---
 id: 1598
 title: プログラミングを学ぶ、教える
-date: 2015-03-18T08:32:07+00:00
+date: 2015-03-18T08:32:07+09:00
 author: kwaka1208
 layout: post
 permalink: /teach-and-learn-programming/

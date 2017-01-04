@@ -1,7 +1,7 @@
 ---
 id: 1045
 title: 悪意のあるTwitterアカウントにご注意！
-date: 2014-01-19T09:54:04+00:00
+date: 2014-01-19T09:54:04+09:00
 author: kwaka1208
 layout: post
 permalink: /notice-for-malicious-account/

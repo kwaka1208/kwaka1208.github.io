@@ -1,7 +1,7 @@
 ---
 id: 237
 title: PDFの活用を(世の中Officeユーザーばかりじゃない!!)
-date: 2013-01-07T17:50:30+00:00
+date: 2013-01-07T17:50:30+09:00
 author: kwaka1208
 layout: post
 permalink: /we-need-common-format/

@@ -1,7 +1,7 @@
 ---
 id: 1380
 title: 触れないものを触れるようにするインターフェース
-date: 2014-07-21T14:33:24+00:00
+date: 2014-07-21T14:33:24+09:00
 author: kwaka1208
 layout: post
 permalink: /an-idea-of-tangible-user-interface/

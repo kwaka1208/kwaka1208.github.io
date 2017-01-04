@@ -1,7 +1,7 @@
 ---
 id: 593
 title: 伝わるシェアのしかた
-date: 2014-01-03T08:30:52+00:00
+date: 2014-01-03T08:30:52+09:00
 author: kwaka1208
 layout: post
 permalink: /share-and-sympathy/

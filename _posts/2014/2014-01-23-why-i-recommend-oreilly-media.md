@@ -1,7 +1,7 @@
 ---
 id: 1100
 title: 'オライリー本を買うなら、本家O&#8217;Reilly Mediaが良い理由'
-date: 2014-01-23T22:50:55+00:00
+date: 2014-01-23T22:50:55+09:00
 author: kwaka1208
 layout: post
 permalink: /why-i-recommend-oreilly-media/

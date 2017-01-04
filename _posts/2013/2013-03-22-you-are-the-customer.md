@@ -1,7 +1,7 @@
 ---
 id: 390
 title: 「お客様目線」は他人ごとじゃなくて自分ごとで
-date: 2013-03-22T07:51:17+00:00
+date: 2013-03-22T07:51:17+09:00
 author: kwaka1208
 layout: post
 permalink: /you-are-the-customer/

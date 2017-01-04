@@ -1,7 +1,7 @@
 ---
 id: 1207
 title: MacでOfficeを使う
-date: 2014-02-23T21:42:11+00:00
+date: 2014-02-23T21:42:11+09:00
 author: kwaka1208
 layout: post
 permalink: /office-with-mac/

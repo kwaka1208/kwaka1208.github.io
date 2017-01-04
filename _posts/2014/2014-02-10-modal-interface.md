@@ -1,7 +1,7 @@
 ---
 id: 1172
 title: モードを意識するインターフェース
-date: 2014-02-10T06:36:00+00:00
+date: 2014-02-10T06:36:00+09:00
 author: kwaka1208
 layout: post
 permalink: /modal-interface/

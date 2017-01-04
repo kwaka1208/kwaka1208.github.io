@@ -1,7 +1,7 @@
 ---
 id: 556
 title: 脱プリンタ作戦
-date: 2013-12-03T22:38:07+00:00
+date: 2013-12-03T22:38:07+09:00
 author: kwaka1208
 layout: post
 permalink: /life-without-printer/

@@ -1,7 +1,7 @@
 ---
 id: 1385
 title: WordCamp Kansai 2014に実行委員として参加しました。
-date: 2014-08-10T00:56:51+00:00
+date: 2014-08-10T00:56:51+09:00
 author: kwaka1208
 layout: post
 permalink: /wordcamp-kansai-2014/

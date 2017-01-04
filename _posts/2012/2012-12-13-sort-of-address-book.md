@@ -1,7 +1,7 @@
 ---
 id: 25
 title: iPhoneやMacの連絡先をアルファベット順に並べる
-date: 2012-12-13T07:00:09+00:00
+date: 2012-12-13T07:00:09+09:00
 author: kwaka1208
 layout: post
 permalink: /sort-of-address-book/

@@ -1,7 +1,7 @@
 ---
 id: 484
 title: 新しいiPhoneとネットのモラル
-date: 2013-09-17T15:00:50+00:00
+date: 2013-09-17T15:00:50+09:00
 author: kwaka1208
 layout: post
 permalink: /iphone5c-moral/

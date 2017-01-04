@@ -1,7 +1,7 @@
 ---
 id: 529
 title: あらためてのお知らせ
-date: 2013-10-14T21:46:31+00:00
+date: 2013-10-14T21:46:31+09:00
 author: kwaka1208
 layout: post
 permalink: /announcement/

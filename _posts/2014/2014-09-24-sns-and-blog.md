@@ -1,7 +1,7 @@
 ---
 id: 1417
 title: 記録を残したいならFacebookよりblogを使うべき
-date: 2014-09-24T22:43:16+00:00
+date: 2014-09-24T22:43:16+09:00
 author: kwaka1208
 layout: post
 permalink: /sns-and-blog/

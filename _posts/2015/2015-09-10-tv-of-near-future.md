@@ -1,7 +1,7 @@
 ---
 id: 1719
 title: 私の考える未来のテレビ
-date: 2015-09-10T12:46:45+00:00
+date: 2015-09-10T12:46:45+09:00
 author: kwaka1208
 layout: post
 permalink: /tv-of-near-future/

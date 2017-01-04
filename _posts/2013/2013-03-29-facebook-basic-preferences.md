@@ -1,7 +1,7 @@
 ---
 id: 414
 title: Facebook初心者のための基本設定
-date: 2013-03-29T16:44:38+00:00
+date: 2013-03-29T16:44:38+09:00
 author: kwaka1208
 layout: post
 permalink: /facebook-basic-preferences/

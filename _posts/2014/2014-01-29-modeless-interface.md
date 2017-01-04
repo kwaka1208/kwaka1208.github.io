@@ -1,7 +1,7 @@
 ---
 id: 1130
 title: モードを意識させないインターフェース
-date: 2014-01-29T22:53:26+00:00
+date: 2014-01-29T22:53:26+09:00
 author: kwaka1208
 layout: post
 permalink: /modeless-interface/

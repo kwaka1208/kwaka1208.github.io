@@ -1,7 +1,7 @@
 ---
 id: 548
 title: Facebook設定:Part5 特定の人に自分の書き込みを読めないようにする
-date: 2013-12-22T22:26:27+00:00
+date: 2013-12-22T22:26:27+09:00
 author: kwaka1208
 layout: post
 permalink: /facebook-setting-limited-friend/

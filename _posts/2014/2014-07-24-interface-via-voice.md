@@ -1,7 +1,7 @@
 ---
 id: 1391
 title: 音声によるインターフェース
-date: 2014-07-24T08:24:41+00:00
+date: 2014-07-24T08:24:41+09:00
 author: kwaka1208
 layout: post
 permalink: /interface-via-voice/

@@ -1,7 +1,7 @@
 ---
 id: 142
 title: Macでお金をかけずに葉書の宛名印刷
-date: 2012-12-24T17:31:22+00:00
+date: 2012-12-24T17:31:22+09:00
 author: kwaka1208
 layout: post
 permalink: /address-print-on-mac/

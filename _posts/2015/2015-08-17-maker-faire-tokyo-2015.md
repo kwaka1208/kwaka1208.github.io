@@ -1,7 +1,7 @@
 ---
 id: 1675
 title: Maker Faire Tokyo 2015
-date: 2015-08-17T08:51:24+00:00
+date: 2015-08-17T08:51:24+09:00
 author: kwaka1208
 layout: post
 permalink: /maker-faire-tokyo-2015/

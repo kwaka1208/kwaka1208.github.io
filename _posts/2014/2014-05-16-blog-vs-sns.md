@@ -1,7 +1,7 @@
 ---
 id: 1299
 title: blogノススメ
-date: 2014-05-16T08:33:58+00:00
+date: 2014-05-16T08:33:58+09:00
 author: kwaka1208
 layout: post
 permalink: /blog-vs-sns/

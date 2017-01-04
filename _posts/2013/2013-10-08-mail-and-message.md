@@ -1,7 +1,7 @@
 ---
 id: 516
 title: 現代メッセージング考
-date: 2013-10-08T14:30:25+00:00
+date: 2013-10-08T14:30:25+09:00
 author: kwaka1208
 layout: post
 permalink: /mail-and-message/

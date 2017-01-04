@@ -1,7 +1,7 @@
 ---
 id: 1542
 title: 原型をつくる
-date: 2015-01-31T23:29:09+00:00
+date: 2015-01-31T23:29:09+09:00
 author: kwaka1208
 layout: post
 permalink: /create-a-model/

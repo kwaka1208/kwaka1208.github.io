@@ -1,7 +1,7 @@
 ---
 id: 1810
 title: 答えを教えないためのたったひとつの法則
-date: 2016-12-17T14:26:50+00:00
+date: 2016-12-17T14:26:50+09:00
 author: kwaka1208
 layout: post
 permalink: /how-to-not-tell-the-answer/

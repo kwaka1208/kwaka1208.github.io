@@ -1,7 +1,7 @@
 ---
 id: 1353
 title: 自分を表現する決意
-date: 2014-06-25T12:59:53+00:00
+date: 2014-06-25T12:59:53+09:00
 author: kwaka1208
 layout: post
 permalink: /spread-my-thought/

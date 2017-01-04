@@ -1,7 +1,7 @@
 ---
 id: 464
 title: 'O&#8217;Reilly Ebook Store'
-date: 2013-07-05T12:50:23+00:00
+date: 2013-07-05T12:50:23+09:00
 author: kwaka1208
 layout: post
 permalink: /oreilly-ebook-store/

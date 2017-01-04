@@ -1,7 +1,7 @@
 ---
 id: 1789
 title: Arduinoのテンプレートを書きました
-date: 2016-02-27T00:51:47+00:00
+date: 2016-02-27T00:51:47+09:00
 author: kwaka1208
 layout: post
 permalink: /sketchtemplate/

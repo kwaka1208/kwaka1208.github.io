@@ -1,7 +1,7 @@
 ---
 id: 1123
 title: 私の初Mac / Macintoshの30周年を祝して
-date: 2014-01-25T13:32:41+00:00
+date: 2014-01-25T13:32:41+09:00
 author: kwaka1208
 layout: post
 permalink: /my-first-mac/

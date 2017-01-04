@@ -1,7 +1,7 @@
 ---
 id: 1272
 title: 製品の寿命を考える
-date: 2014-04-10T12:40:48+00:00
+date: 2014-04-10T12:40:48+09:00
 author: kwaka1208
 layout: post
 permalink: /product-life-cycle/

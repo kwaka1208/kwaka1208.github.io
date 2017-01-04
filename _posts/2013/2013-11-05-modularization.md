@@ -1,7 +1,7 @@
 ---
 id: 537
 title: 「モジュール化」これからの機械のカタチ
-date: 2013-11-05T14:30:43+00:00
+date: 2013-11-05T14:30:43+09:00
 author: kwaka1208
 layout: post
 permalink: /modularization/

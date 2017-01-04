@@ -1,7 +1,7 @@
 ---
 id: 1587
 title: プログラミングの魅力を語ろう！～いま目指している人、どんな世界か知りたい人へ～
-date: 2015-03-05T23:52:47+00:00
+date: 2015-03-05T23:52:47+09:00
 author: kwaka1208
 layout: post
 permalink: /seminar-matsumoto-yukihiro/

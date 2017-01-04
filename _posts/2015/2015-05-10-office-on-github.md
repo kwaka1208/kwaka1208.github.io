@@ -1,7 +1,7 @@
 ---
 id: 1635
 title: Excel用マクロを公開しています
-date: 2015-05-10T01:37:09+00:00
+date: 2015-05-10T01:37:09+09:00
 author: kwaka1208
 layout: post
 permalink: /office-on-github/

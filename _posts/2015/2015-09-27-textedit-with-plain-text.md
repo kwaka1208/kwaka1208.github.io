@@ -1,7 +1,7 @@
 ---
 id: 1733
 title: 「テキストエディット」は「標準フォーマット」で使おう
-date: 2015-09-27T23:51:57+00:00
+date: 2015-09-27T23:51:57+09:00
 author: kwaka1208
 layout: post
 permalink: /textedit-with-plain-text/
