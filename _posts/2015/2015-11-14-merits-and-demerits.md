@@ -1,7 +1,7 @@
 ---
 id: 1742
 title: 功罪
-date: 2015-11-14T23:33:55+09:00
+date: 2015-11-14T23:33:55 UTC+9
 author: kwaka1208
 layout: post
 permalink: /merits-and-demerits/

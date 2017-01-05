@@ -1,7 +1,7 @@
 ---
 id: 1016
 title: サーバーを引っ越しました
-date: 2014-01-05T14:19:27+09:00
+date: 2014-01-05T14:19:27 UTC+9
 author: kwaka1208
 layout: post
 permalink: /moved-permanently/

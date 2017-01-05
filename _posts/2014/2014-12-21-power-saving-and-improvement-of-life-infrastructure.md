@@ -1,7 +1,7 @@
 ---
 id: 1481
 title: 節電とインフラ構築のアイデア
-date: 2014-12-21T06:04:24+09:00
+date: 2014-12-21T06:04:24 UTC+9
 author: kwaka1208
 layout: post
 permalink: /power-saving-and-improvement-of-life-infrastructure/

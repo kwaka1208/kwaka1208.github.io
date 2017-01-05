@@ -1,7 +1,7 @@
 ---
 id: 1182
 title: ハードディスクとメモリの違い
-date: 2014-02-19T12:53:28+09:00
+date: 2014-02-19T12:53:28 UTC+9
 author: kwaka1208
 layout: post
 permalink: /difference-between-disk-and-memory/

@@ -1,7 +1,7 @@
 ---
 id: 1493
 title: 第2回 CoderDojo奈良
-date: 2014-12-22T08:15:59+09:00
+date: 2014-12-22T08:15:59 UTC+9
 author: kwaka1208
 layout: post
 permalink: /coderdojo-nara-2/

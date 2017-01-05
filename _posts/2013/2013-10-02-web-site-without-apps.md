@@ -1,7 +1,7 @@
 ---
 id: 502
 title: アプリを入れなくても使えるスマートフォン向けサービス
-date: 2013-10-02T05:53:42+09:00
+date: 2013-10-02T05:53:42 UTC+9
 author: kwaka1208
 layout: post
 permalink: /web-site-without-apps/

@@ -1,7 +1,7 @@
 ---
 id: 1576
 title: 子育てアプリハッカソンで優秀賞いただきました！
-date: 2015-03-05T08:31:17+09:00
+date: 2015-03-05T08:31:17 UTC+9
 author: kwaka1208
 layout: post
 permalink: /code4ikoma-hackathon/

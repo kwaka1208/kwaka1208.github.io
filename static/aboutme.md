@@ -1,7 +1,7 @@
 ---
 id: 38
 title: about me
-date: 2012-12-15T10:15:43+09:00
+date: 2012-12-15T10:15:43 UTC+9
 author: kwaka1208
 layout: page
 permalink: /aboutme/index.html

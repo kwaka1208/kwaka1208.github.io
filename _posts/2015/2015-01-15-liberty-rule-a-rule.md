@@ -1,7 +1,7 @@
 ---
 id: 1518
 title: ルールを支配する自由
-date: 2015-01-15T08:34:08+09:00
+date: 2015-01-15T08:34:08 UTC+9
 author: kwaka1208
 layout: post
 permalink: /liberty-rule-a-rule/

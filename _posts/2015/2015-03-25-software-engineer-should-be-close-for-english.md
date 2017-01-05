@@ -1,7 +1,7 @@
 ---
 id: 1605
 title: ソフトウェアエンジニアと英語
-date: 2015-03-25T22:34:48+09:00
+date: 2015-03-25T22:34:48 UTC+9
 author: kwaka1208
 layout: post
 permalink: /software-engineer-should-be-close-for-english/

@@ -1,7 +1,7 @@
 ---
 id: 411
 title: 「ブランド」って何だろう?
-date: 2013-04-28T21:59:56+09:00
+date: 2013-04-28T21:59:56 UTC+9
 author: kwaka1208
 layout: post
 permalink: /what-is-brand/

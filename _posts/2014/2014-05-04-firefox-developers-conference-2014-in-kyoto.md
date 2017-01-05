@@ -1,7 +1,7 @@
 ---
 id: 1296
 title: Firefox Developers Conference 2014 in Kyoto
-date: 2014-05-04T09:28:22+09:00
+date: 2014-05-04T09:28:22 UTC+9
 author: kwaka1208
 layout: post
 permalink: /firefox-developers-conference-2014-in-kyoto/

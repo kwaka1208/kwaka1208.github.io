@@ -1,7 +1,7 @@
 ---
 id: 545
 title: ヒトに優しいキカイをつくる
-date: 2013-11-12T14:30:46+09:00
+date: 2013-11-12T14:30:46 UTC+9
 author: kwaka1208
 layout: post
 permalink: /machines-for-human/

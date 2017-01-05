@@ -1,7 +1,7 @@
 ---
 id: 382
 title: iPhone契約時のデフォルトオプションを正しく知る(SoftBank)
-date: 2013-03-17T19:36:15+09:00
+date: 2013-03-17T19:36:15 UTC+9
 author: kwaka1208
 layout: post
 permalink: /iphone-default-option/

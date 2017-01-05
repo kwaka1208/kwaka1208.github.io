@@ -1,7 +1,7 @@
 ---
 id: 534
 title: 親愛なるデザイナーのみなさまへ
-date: 2013-10-29T21:28:59+09:00
+date: 2013-10-29T21:28:59 UTC+9
 author: kwaka1208
 layout: post
 permalink: /dear-desingers/

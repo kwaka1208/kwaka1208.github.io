@@ -1,7 +1,7 @@
 ---
 id: 1620
 title: 見たことのない組み合わせを
-date: 2015-04-12T14:47:53+09:00
+date: 2015-04-12T14:47:53 UTC+9
 author: kwaka1208
 layout: post
 permalink: /the-pattern-that-you-have-never-seen/

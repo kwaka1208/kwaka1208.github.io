@@ -1,7 +1,7 @@
 ---
 id: 214
 title: Googleサービスのセキュリティを強化する(その2:アプリケーション固有のパスワードを利用する)
-date: 2012-12-29T10:49:11+09:00
+date: 2012-12-29T10:49:11 UTC+9
 author: kwaka1208
 layout: post
 permalink: /google-security2/

@@ -1,7 +1,7 @@
 ---
 id: 1488
 title: CoderDojo奈良を開催しました。
-date: 2014-10-26T22:06:18+09:00
+date: 2014-10-26T22:06:18 UTC+9
 author: kwaka1208
 layout: post
 permalink: /coderdojonara/

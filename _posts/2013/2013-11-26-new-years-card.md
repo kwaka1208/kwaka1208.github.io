@@ -1,7 +1,7 @@
 ---
 id: 551
 title: スマートフォンで年賀状
-date: 2013-11-26T22:43:38+09:00
+date: 2013-11-26T22:43:38 UTC+9
 author: kwaka1208
 layout: post
 permalink: /new-years-card/

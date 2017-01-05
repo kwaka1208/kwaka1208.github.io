@@ -1,7 +1,7 @@
 ---
 id: 1780
 title: ブランド表記は正しく
-date: 2016-02-14T07:54:13+09:00
+date: 2016-02-14T07:54:13 UTC+9
 author: kwaka1208
 layout: post
 permalink: /be-careful-about-brand-name/

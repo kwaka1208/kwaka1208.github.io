@@ -1,7 +1,7 @@
 ---
 id: 1727
 title: SNSとプライバシー
-date: 2015-09-14T12:36:26+09:00
+date: 2015-09-14T12:36:26 UTC+9
 author: kwaka1208
 layout: post
 permalink: /sns-and-privacy/

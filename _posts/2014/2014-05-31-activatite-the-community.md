@@ -1,7 +1,7 @@
 ---
 id: 1329
 title: コミュニティを活性化する
-date: 2014-05-31T22:31:23+09:00
+date: 2014-05-31T22:31:23 UTC+9
 author: kwaka1208
 layout: post
 permalink: /activatite-the-community/

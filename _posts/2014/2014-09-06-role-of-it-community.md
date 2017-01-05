@@ -1,7 +1,7 @@
 ---
 id: 1403
 title: 災害時におけるIT系コミュニティの役割
-date: 2014-09-06T08:35:56+09:00
+date: 2014-09-06T08:35:56 UTC+9
 author: kwaka1208
 layout: post
 permalink: /role-of-it-community/

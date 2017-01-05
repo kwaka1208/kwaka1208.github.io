@@ -1,7 +1,7 @@
 ---
 id: 1242
 title: トイレのユーザーインターフェース
-date: 2014-02-25T12:33:11+09:00
+date: 2014-02-25T12:33:11 UTC+9
 author: kwaka1208
 layout: post
 permalink: /user-interface-of-toilet/

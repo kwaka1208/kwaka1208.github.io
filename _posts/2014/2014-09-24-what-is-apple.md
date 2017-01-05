@@ -1,7 +1,7 @@
 ---
 id: 1413
 title: 「Appleらしさ」とは
-date: 2014-09-24T00:15:24+09:00
+date: 2014-09-24T00:15:24 UTC+9
 author: kwaka1208
 layout: post
 permalink: /what-is-apple/

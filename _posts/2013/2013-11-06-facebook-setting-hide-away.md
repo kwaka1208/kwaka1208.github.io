@@ -1,7 +1,7 @@
 ---
 id: 540
 title: Facebook設定:Part4 特定の人を非表示にする
-date: 2013-11-06T07:17:05+09:00
+date: 2013-11-06T07:17:05 UTC+9
 author: kwaka1208
 layout: post
 permalink: /facebook-setting-hide-away/

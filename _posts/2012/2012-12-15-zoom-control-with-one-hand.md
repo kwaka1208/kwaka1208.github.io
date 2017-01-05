@@ -1,7 +1,7 @@
 ---
 id: 29
 title: 片手での画面拡大・縮小操作(Zoom control with one hand)
-date: 2012-12-15T16:09:34+09:00
+date: 2012-12-15T16:09:34 UTC+9
 author: kwaka1208
 layout: post
 permalink: /zoom-control-with-one-hand/
