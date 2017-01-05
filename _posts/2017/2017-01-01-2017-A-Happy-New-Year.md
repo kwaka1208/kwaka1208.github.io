@@ -1,5 +1,4 @@
 ---
-id: 1754
 title: Happy New Year 2017
 date: 2017-01-01T00:00:00+09:00
 author: kwaka1208
