@@ -66,7 +66,7 @@ Open Officeにブラウザで使えるOnline版の提供はありません。
 - - -
 ## どれを使えばいい?
 と、ここまでで主な選択肢を上げましたが、実際にどれを使えばいいのか?を考えられるタイプ別に分けてみました。
-<ul>
+
 <li><strong>とにかく、Microsoft Officeが使いたい</strong><br />
 →おすすめは、「[Microsoft Office Online](https://office.com/)」です。
 今までMicrosoft Officeを使っていたからWordやExcelと同じものが使いたい、WindowsでOfficeを使っている方とファイルを共有して使いたい、という方であれば「Online版のMicrosoft Office」がおすすめです。
@@ -79,7 +79,7 @@ Open Officeにブラウザで使えるOnline版の提供はありません。
 <li><strong>複数メンバーでファイルを共有して編集作業したい</strong><br />
 →おすすめは、「[Microsoft Office Online](https://office.com/)」です。
 もちろん、共有するメンバーが全員Appleアカウントを持っている、Googleアカウントを持っている、ということであればiCloudやGoogle docsを使うという手もあるのですが、やはり本家Officeとの互換性は捨て難い。AppleやGoogleのアカウントを持っている方なら、Microsoftアカウントを追加で取ることも難しくは無いはずですから、わざわざMicrosoftアカウントを取ってでも「Microsoft Office Online」を使った方が良いと思います。</li>
-</ul>
+
 
 以上、Macユーザーな私がMicrosoft推しなエントリーを書くことになるとは思いませんでしたが、それぐらい「[Microsoft Office Online](https://office.com/)」はよくできていると思います。
 
