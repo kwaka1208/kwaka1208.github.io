@@ -26,15 +26,12 @@ attitude_sidebarlayout:
 
 サイトのタイトル「crossroads」には「作り手と使い手が交わる交差点」という意味をこめました。どうぞ、よろしくお願いします。 :-)
 
-- [日刊デジタルクリエイターズ](http://blog.dgcr.com/)  
-2013年9月から毎週火曜日配信分に寄稿させていただいていたメルマガです。（2015年7月～12月までの半年間は休載）よかったら購読をお願いします。
-
-## サイトオーナー略歴
+## 略歴
 若林健一 / kwaka1208
 大阪府出身、奈良県在住。
 学生時代は守口市で暮らし、就職を期に奈良へ移り住む。
 大阪府立淀川工業高校(現：淀川工科高校)卒業後、電機メーカーに入社。
-2012年12月、26年6ヶ月間の勤務に終止符をうち、2013年より大阪のソフトウェア会社で勤務。
+2012年12月、26年6ヶ月間の勤務に終止符をうち、現在は教材メーカーに勤務。
 情報セキュリティアドミニストレータ
 
 ## 保有特許
@@ -51,3 +48,15 @@ attitude_sidebarlayout:
 - [Pinterest](http://www.pinterest.com/kwaka1208/)
 - [Yes, I feel fine! (個人blog)](http://pote2.net/kenichi/)
 - [公開鍵](https://github.com/kwaka1208/PublicKey)
+
+## 執筆活動
+- [日刊デジタルクリエイターズ](http://blog.dgcr.com/)  
+2013年9月から毎週火曜日配信分に寄稿させていただいていたメルマガです。（2015年7月～12月までの半年間は休載）よかったら購読をお願いします。
+
+- [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](http://amzn.asia/7KsdVCQ)
+CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。
+
+[![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/aboutme/scratch.jpg)](http://amzn.asia/7KsdVCQ)
+- [紙版](http://amzn.asia/7KsdVCQ)
+- [Kindle版](http://amzn.asia/gcTXZ83)
+- [iBooks版](https://itunes.apple.com/jp/book/coderdojo-japan-gong-shibukku/id1189875071?l=en&mt=11)
