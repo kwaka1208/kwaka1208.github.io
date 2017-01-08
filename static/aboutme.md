@@ -57,6 +57,7 @@ attitude_sidebarlayout:
 CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。
 
 [![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/aboutme/scratch.jpg)](http://amzn.asia/7KsdVCQ)
+
 - [紙版](http://amzn.asia/7KsdVCQ)
 - [Kindle版](http://amzn.asia/gcTXZ83)
 - [iBooks版](https://itunes.apple.com/jp/book/coderdojo-japan-gong-shibukku/id1189875071?l=en&mt=11)
