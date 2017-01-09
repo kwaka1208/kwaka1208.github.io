@@ -56,6 +56,8 @@ attitude_sidebarlayout:
 - [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](http://amzn.asia/7KsdVCQ)
 CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。
 
+[Amazon著者ページ](https://www.amazon.co.jp/-/e/B01MY6BF57)
+
 [![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/aboutme/scratch.jpg)](http://amzn.asia/7KsdVCQ)
 
 - [紙版](http://amzn.asia/7KsdVCQ)
