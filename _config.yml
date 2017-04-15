@@ -28,8 +28,8 @@ sass:
 # Author settings
 author:
   name     : "Wakabayashi, Kenichi"
-  job      : "Software Engineer"
-  bio      : ""
+  job      : "developer"
+  bio      : "I love self brewed coffee, bookstore, Starbucks, MUJI and good things."
   thumb    : /assets/images/author.png
   url      : http://kwaka1208.net
   github   : http://github.com/kwaka1208
