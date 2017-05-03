@@ -17,7 +17,7 @@ attitude_sidebarlayout:
     $("#end_date").datepicker();
   });
 </script>
-
+Googleカレンダー登録用のリンクを作成します。
 <form>
 	<table>
 		<tr>
@@ -67,6 +67,18 @@ attitude_sidebarlayout:
 		loc = document.getElementById("loc").value;
 		start = new Date(document.getElementById("start_date").value + " " + document.getElementById("start_time").value);
 		end = new Date(document.getElementById("end_date").value + " " + document.getElementById("end_time").value);
+
+		error = "";
+		if (start.toString() === "Invalid Date") {
+			error += "開始日時の入力に誤りがあります　";
+		}
+		if (end.toString() === "Invalid Date") {
+			error += "終了日時の入力に誤りがあります　";
+		}
+		if (error != "") {
+			alert(error);
+			return;
+		}
 		link = "http://www.google.com/calendar/event?action=TEMPLATE";
 		link += "&text=" + encodeURIComponent(text);
 		link += "&details=" + encodeURIComponent(details);
