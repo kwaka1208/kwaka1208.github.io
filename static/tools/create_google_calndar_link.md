@@ -35,7 +35,7 @@ Googleカレンダー登録用のリンクを作成します。
 		<tr>
 			<td>場所</td>
 			<td colspan="2">
-				<input type="text" id="loc" name="loc" value="立命館大学大阪いばらきキャンパス(OIC) B棟（立命館いばらきフューチャープラザ）一階イベントホール" placeholder="場所">
+				<input type="text" id="loc" name="loc" value="立命館いばらきフューチャープラザ　イベントホール" placeholder="場所">
 			</td>
 		</tr>
 		<tr>
@@ -44,7 +44,7 @@ Googleカレンダー登録用のリンクを作成します。
 				<input type="text" id="start_date" name="start_date" value="2017/11/4" placeholder="yyyy/mm/dd">
 			</td>
 			<td>
-				<input type="text" id="start_time" name="start_time" value="10:00" placeholder="hh:mm">
+				<input type="text" id="start_time" name="start_time" value="" placeholder="hh:mm">
 			</td>
 		</tr>
 		<tr>
@@ -53,7 +53,7 @@ Googleカレンダー登録用のリンクを作成します。
 				<input type="text" id="end_date" name="end_date" value="2017/11/4" placeholder="yyyy/mm/dd">
 			</td>
 			<td>
-				<input type="text" id="end_time" name="end_time" value="17:00" placeholder="hh:mm">
+				<input type="text" id="end_time" name="end_time" value="" placeholder="hh:mm">
 			</td>
 		</tr>
 	</table>
@@ -67,7 +67,6 @@ Googleカレンダー登録用のリンクを作成します。
 		loc = document.getElementById("loc").value;
 		start = new Date(document.getElementById("start_date").value + " " + document.getElementById("start_time").value);
 		end = new Date(document.getElementById("end_date").value + " " + document.getElementById("end_time").value);
-
 		error = "";
 		if (start.toString() === "Invalid Date") {
 			error += "開始日時の入力に誤りがあります　";
@@ -79,22 +78,30 @@ Googleカレンダー登録用のリンクを作成します。
 			alert(error);
 			return;
 		}
+
+		allday = false;
+		if (document.getElementById("start_time").value == "" || document.getElementById("end_time").value == "") {
+			/* 両方に時刻の入力がなければ終日にする */
+			allday = true;
+		}
 		link = "http://www.google.com/calendar/event?action=TEMPLATE";
 		link += "&text=" + encodeURIComponent(text);
 		link += "&details=" + encodeURIComponent(details);
 		link += "&location=" + encodeURIComponent(loc);
-		link += "&dates=" + convertDateString(start) + "/" + convertDateString(end);
+		link += "&dates=" + convertDateString(start, allday) + "/" + convertDateString(end, allday);
 		document.getElementById("result").innerHTML = link; 
 	}
 
-	function convertDateString(date) {
-		year = ("0000" + date.getFullYear()).slice(-4);
-		month = ("00" + (date.getMonth() + 1)).slice(-2);
-		day = ("00" + date.getDate()).slice(-2);
-		hour = ("00" + date.getHours()).slice(-2);
-		minute = ("00" + date.getMinutes()).slice(-2);
-		return year + month + day + "T" + hour + minute + "00";
+	function convertDateString(date, allday) {
+		var ret;
+
+		ret =  ("0000" + date.getFullYear()).slice(-4);
+		ret += ("00" + (date.getMonth() + 1)).slice(-2);
+		ret += ("00" + date.getDate()).slice(-2);
+		if (!allday) {
+			ret += "T" + ("00" + date.getHours()).slice(-2);
+			ret += ("00" + date.getMinutes()).slice(-2) + "00";
+		}
+		return ret;
 	}
-
-
 </script>
