@@ -14,6 +14,11 @@ categories:
 
 [Coolest Projects 旅行記 : CoderDojo発祥の地アイルランドのイベントではスポンサーの充実度がすごかった・・・](http://coderdojo-nishinomiya.info/coolest-projects-2017-traveling/)
 
+写真はまとめてこちらにアップ...。
+
+[Coolest Projects 2017@Dublin](https://photos.app.goo.gl/P8sUz3sYyiHdPXJJ2)  
+[Go abroad to Ireland 2017](https://photos.app.goo.gl/TyKEAvQtNmkp4iem2)
+
 ## Coolest Projectsについて
 "[Coolest Projects](http://coolestprojects.org/)"とは、アイルランドのCoderDojo Foundationが年一回開催している子供たちのプログラミング作品発表会です。今年は17カ国から約600の作品が展示されていました。
 
