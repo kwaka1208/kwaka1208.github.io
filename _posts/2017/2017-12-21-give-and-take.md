@@ -1,5 +1,5 @@
 ---
-title: CoderDojoのGive &amp; Take
+title: CoderDojoのGive & Take
 date: 2017-12-21T23:59:59 UTC+9
 author: kwaka1208
 layout: post
