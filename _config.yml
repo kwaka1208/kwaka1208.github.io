@@ -1,7 +1,7 @@
 # SEO settings
 title: "crossroads"
 title2: "" # default: ""
-description: "作り手と使い手を繋ぐ"
+description: "dot meets dot"
 keywords: "UX, IU, Interface, CoderDojo, Scratch"
 url: http://kwaka1208.net # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
@@ -45,6 +45,7 @@ twitter_site: "@kwaka1208"
 gems:
   - bourbon
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # navbar pages
 navbar:
