@@ -3,12 +3,14 @@ title: DojoCon Japanの会場を選ぶ上で考えていたこと
 date: 2018-01-08T15:30:00 UTC+9
 author: kwaka1208
 layout: post
-permalink: /dojocon-japan-venue/
+permalink: /how-do-you-decide-the-venue/
 attitude_sidebarlayout:
   - default
 categories:
   - dojocon coderdojo
 ---
+この記事は[DojoCon Japan 2017アドベントカレンダー](https://adventar.org/calendars/2476)5日目の記事です。アドベント期間は終わっていますが、空きがありましたので会場を選ぶ時に考えたことを記録として残しておきたいと思います。
+
 イベントを開催するにあたって重要なことのひとつに会場選びがあります。会場選びはなかなか大変で、私自身も今まで何度かイベント運営を経験しましたが、未だに100点満点の場所はありません。
 
 いえ、今までの会場に不満があると言うわけではないのです、観点（要求事項）が多すぎてそれらをすべて満たすなんていうのは、到底無理なのです。
