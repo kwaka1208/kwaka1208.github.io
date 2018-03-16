@@ -41,7 +41,8 @@ attitude_sidebarlayout:
 - [CoderDojo奈良・CoderDojo生駒 代表](http://coderdojo-nara-ikoma.github.io/)
 - [WordCamp Kansai 2014実行委員](https://kansai.wordcamp.org/2014/organizers)
 - [WordCamp Kansai 2015実行委員](https://kansai.wordcamp.org/2015/organizers/)
-- [DojoCon Japan 2016副実行委員長](http://dojocon.coderdojo.jp/)
+- [DojoCon Japan 2016副実行委員長](http://dojocon2016.coderdojo.jp/)
+- [DojoCon Japan 2017副実行委員長](http://dojocon2017.coderdojo.jp/)
 
 ## SNS
 - [Twitter](https://twitter.com/kwaka1208)
