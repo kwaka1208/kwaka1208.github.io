@@ -9,7 +9,7 @@ attitude_sidebarlayout:
 categories:
   - coderdojo
 ---
-Facebookで案内したら、思った以上に反響があったのでまとめます。そして、自分が発案者でもないのに、勝手にプロジェクト名つけました"The thousands Shuriken project"（千枚手裏剣プロジェクト）です。 :)
+Facebookで案内したら、思った以上に反響があったのでまとめます。そして、自分が発案者でもないのに、勝手にプロジェクト名つけました"Thousands Shuriken project"（千枚手裏剣プロジェクト）です。 :)
 
 ## つまり、どういうこと？
 来月アイルランドで開催される子供たちのプログラミング作品展示会"CoolestProjects"へCoderDojoのメンバーが参加するのですが、その時に折り紙で作った手裏剣を持って行こうという話になっていて、作ってくださる方を募集します、ということです。
