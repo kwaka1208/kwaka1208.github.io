@@ -50,3 +50,6 @@ CoderDojoの有志メンバーでScratchの入門書を書きました。本屋�
 - [紙版](http://amzn.asia/7KsdVCQ)
 - [Kindle版](http://amzn.asia/gcTXZ83)
 - [iBooks版](https://itunes.apple.com/jp/book/coderdojo-japan-gong-shibukku/id1189875071?l=en&mt=11)
+
+## PayPal.Me
+こそっと張っておきます。[PayPal.Me](https://www.paypal.me/kwaka1208/)
