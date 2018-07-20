@@ -3,7 +3,7 @@ title: "crossroads"
 title2: "" # default: ""
 description: "dot meets dot"
 keywords: "UX, IU, Interface, CoderDojo, Scratch"
-url: https://croads.jp # site url
+url: https://kwaka1208.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
@@ -31,7 +31,7 @@ author:
   job      : "developer"
   bio      : "I love self brewed coffee, bookstore, Starbucks, MUJI and good things."
   thumb    : /assets/images/author.png
-  url      : https://croads.jp
+  url      : https://kwaka1208.github.io
   github   : http://github.com/kwaka1208
   twitter  : http://twitter.com/kwaka1208
   facebook : https://www.facebook.com/kwaka1208
