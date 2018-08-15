@@ -9,7 +9,7 @@ attitude_sidebarlayout:
 categories:
   - voice
 ---
-自分がとても気に入っていて友人にも紹介したことのある、[HOLSTEE者のマニフェスト](https://www.holstee.com/pages/manifesto)、[こちらの記事](http://halsinan.com/archives/396)に公式日本語訳が載っているのですが、そもそも原文の抽出で間違っている（"SHARE YOUR PASSION"が"WEAR YOUR PASSION"になってる）ので、修正するついでに私なりの訳してみました。
+自分がとても気に入っていて友人にも紹介したことのある、[HOLSTEE社のマニフェスト](https://www.holstee.com/pages/manifesto)、[こちらの記事](http://halsinan.com/archives/396)に公式日本語訳が載っているのですが、そもそも原文の抽出で間違っている（"SHARE YOUR PASSION"が"WEAR YOUR PASSION"になってる）ので、修正するついでに私なりの訳してみました。
 
 ## Original
 
