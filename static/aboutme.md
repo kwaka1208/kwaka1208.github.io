@@ -39,7 +39,7 @@ attitude_sidebarlayout:
 - [公開鍵](https://github.com/kwaka1208/PublicKey)
 
 ## 執筆活動
-- [日刊デジタルクリエイターズ](bn.dgcr.com/archives/若林健一/)  
+- [日刊デジタルクリエイターズ](http://bn.dgcr.com/archives/%E8%8B%A5%E6%9E%97%E5%81%A5%E4%B8%80/)  
 2013年9月から毎週火曜日配信分に寄稿させていただいていたメルマガです。（2015年7月～12月までの半年間は休載）よかったら購読をお願いします。
 
 - [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](http://amzn.asia/7KsdVCQ)
