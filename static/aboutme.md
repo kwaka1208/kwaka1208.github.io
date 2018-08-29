@@ -36,7 +36,7 @@ attitude_sidebarlayout:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## SNS
-- [Twitter](https://facebook.com/kwaka1208)
+- [Facebook](https://facebook.com/kwaka1208)
 - [Twitter](https://twitter.com/kwaka1208)
 - [Pinterest](http://www.pinterest.com/kwaka1208/)
 - [Yes, I feel fine! (個人blog)](http://pote2.net/kenichi/)
