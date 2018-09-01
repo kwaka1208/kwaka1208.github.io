@@ -17,14 +17,17 @@ attitude_sidebarlayout:
 大阪府出身、奈良県在住。
 学生時代は守口市で暮らし、就職を期に奈良へ移り住む。
 大阪府立淀川工業高校(現：淀川工科高校)卒業後、電機メーカーに入社。
-2012年12月、26年6ヶ月間の勤務に終止符をうち、現在は教材メーカーに勤務。
-情報セキュリティアドミニストレータ
+2012年12月、26年6ヶ月間の勤務に終止符をうち、何度か転職を経験し現在は次の方向性を模索中。
+
+情報セキュリティアドミニストレータ、TOEIC775点（ただし10年以上前の参考スコア）
 
 ## 保有特許
 [CATV必須特許第3775937号](https://pat.reserge.net/PatentDocument.php?an=1999074026&dbid=JPP)
 
 ## 経歴
 - [CoderDojo奈良・CoderDojo生駒 代表](http://coderdojo-nara-ikoma.github.io/)
+- [CoderDojo明日香 代表](http://coderdojo-asuka.github.io/)
+- [CoderDojo田原本 共同代表](http://coderdojo-tawaramoto.github.io/)
 - [WordCamp Kansai 2014実行委員](https://kansai.wordcamp.org/2014/organizers)
 - [WordCamp Kansai 2015実行委員](https://kansai.wordcamp.org/2015/organizers/)
 - [DojoCon Japan 2016副実行委員長](http://dojocon2016.coderdojo.jp/)
@@ -33,6 +36,7 @@ attitude_sidebarlayout:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## SNS
+- [Facebook](https://facebook.com/kwaka1208)
 - [Twitter](https://twitter.com/kwaka1208)
 - [Pinterest](http://www.pinterest.com/kwaka1208/)
 - [Yes, I feel fine! (個人blog)](http://pote2.net/kenichi/)
