@@ -1,6 +1,6 @@
 ---
 title: 学ぶことの意味とロボットの研究（ざっくりまとめ）
-date: 2018-09-91T08:18:00 UTC+9
+date: 2018-09-01T20:30:00 UTC+9
 author: kwaka1208
 layout: post
 permalink: /learn-with-robot/
