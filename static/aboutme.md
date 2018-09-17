@@ -25,13 +25,15 @@ attitude_sidebarlayout:
 [CATV必須特許第3775937号](https://pat.reserge.net/PatentDocument.php?an=1999074026&dbid=JPP)
 
 ## 経歴
-- [CoderDojo奈良・CoderDojo生駒 代表](http://coderdojo-nara-ikoma.github.io/)
-- [CoderDojo明日香 代表](http://coderdojo-asuka.github.io/)
-- [CoderDojo田原本 共同代表](http://coderdojo-tawaramoto.github.io/)
+- [CoderDojo奈良・CoderDojo生駒 代表](https://coderdojo-nara-ikoma.github.io/)
+- [CoderDojo明日香 代表](https://coderdojo-asuka.github.io/)
+- [CoderDojo田原本 共同代表](https://coderdojo-tawaramoto.github.io/)
 - [WordCamp Kansai 2014実行委員](https://kansai.wordcamp.org/2014/organizers)
 - [WordCamp Kansai 2015実行委員](https://kansai.wordcamp.org/2015/organizers/)
-- [DojoCon Japan 2016副実行委員長](http://dojocon2016.coderdojo.jp/)
-- [DojoCon Japan 2017副実行委員長](http://dojocon2017.coderdojo.jp/)
+- [DojoCon Japan 2016副実行委員長](https://dojocon2016.coderdojo.jp/)
+- [DojoCon Japan 2017副実行委員長](https://dojocon2017.coderdojo.jp/)
+- [NASA Space App Challenges 2017@Osaka実行委員](https://spaceappschallenge.space/home/)
+- [NASA Space App Challenges 2018@Osaka実行委員](https://spaceappschallenge.space/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -39,7 +41,6 @@ attitude_sidebarlayout:
 - [Facebook](https://facebook.com/kwaka1208)
 - [Twitter](https://twitter.com/kwaka1208)
 - [Pinterest](http://www.pinterest.com/kwaka1208/)
-- [Yes, I feel fine! (個人blog)](http://pote2.net/kenichi/)
 - [公開鍵](https://github.com/kwaka1208/PublicKey)
 
 ## 執筆活動
@@ -56,6 +57,3 @@ CoderDojoの有志メンバーでScratchの入門書を書きました。本屋�
 - [紙版](http://amzn.asia/7KsdVCQ)
 - [Kindle版](http://amzn.asia/gcTXZ83)
 - [iBooks版](https://itunes.apple.com/jp/book/coderdojo-japan-gong-shibukku/id1189875071?l=en&mt=11)
-
-## PayPal.Me
-こそっと張っておきます。[PayPal.Me](https://www.paypal.me/kwaka1208/)
