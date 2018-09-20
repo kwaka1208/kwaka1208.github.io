@@ -10,7 +10,13 @@ attitude_sidebarlayout:
 ---
 <img src="https://avatars.githubusercontent.com/{{ page.author }}" style="border-radius: 64px; width: 128px;">
 
-世の中には、出会ったらいい人の組み合わせ、人とコトの組み合わせ、人とITの組み合わせってあちこちにあると思うんです。そんな組み合わせを日々の活動を通して実現していきたいと考えています。
+基本的にはソフトウェアエンジニアです。組み込み（4bitマイコン、8bitマイコンの世界）からwebまでやりました。最近はwebの方が多いかな。組み込みは最近のOSが使える組み込みじゃなくて、メモリマップから設計するガチの組み込みでした。もちろん、Stack Overflowもリアルに経験してますし、最近では滅多にお目にかかれないリンクでROM容量超えたとか、そういうことも数々経験してます。
+
+webも昔から関心があって、1996年には自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。
+
+基本的に子供と学校が好きでPTAを4年やったりします（もちろん、全部自分から引き受けました）。
+
+最近の関心事は「人」です、特に若い人。若い人が社会に出られるように育成し、そういった若い人たちが幸せに暮らせる社会の地ならしをしたいと思う今日この頃です。
 
 ## 略歴
 若林健一 / kwaka1208
@@ -21,7 +27,9 @@ attitude_sidebarlayout:
 
 情報セキュリティアドミニストレータ、TOEIC775点（ただし10年以上前の参考スコア）
 
+
 ![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
+
 
 ## 保有特許
 [CATV必須特許第3775937号](https://pat.reserge.net/PatentDocument.php?an=1999074026&dbid=JPP)
