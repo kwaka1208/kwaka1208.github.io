@@ -21,7 +21,7 @@ attitude_sidebarlayout:
 
 情報セキュリティアドミニストレータ、TOEIC775点（ただし10年以上前の参考スコア）
 
-[![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)]
+![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
 
 ## 保有特許
 [CATV必須特許第3775937号](https://pat.reserge.net/PatentDocument.php?an=1999074026&dbid=JPP)
