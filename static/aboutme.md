@@ -26,7 +26,7 @@ attitude_sidebarlayout:
 ## 保有特許
 [CATV必須特許第3775937号](https://pat.reserge.net/PatentDocument.php?an=1999074026&dbid=JPP)
 
-## 経歴
+## コミュニティ活動
 - [CoderDojo奈良・CoderDojo生駒 代表](https://coderdojo-nara-ikoma.github.io/)
 - [CoderDojo明日香 代表](https://coderdojo-asuka.github.io/)
 - [CoderDojo田原本 共同代表](https://coderdojo-tawaramoto.github.io/)
