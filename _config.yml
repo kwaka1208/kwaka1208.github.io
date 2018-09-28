@@ -42,7 +42,7 @@ og_locale: "ja_JP"
 twitter_card: "summary_large_image"
 twitter_site: "@kwaka1208"
 
-gems:
+Plugin:
   - bourbon
   - jekyll-paginate
   - jekyll-seo-tag
