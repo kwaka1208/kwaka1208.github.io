@@ -27,9 +27,11 @@ webも昔から関心があって、1996年には自分のサイト立ててま�
 
 情報セキュリティアドミニストレータ、TOEIC775点（ただし10年以上前の参考スコア）
 
+CoderDojo奈良、CoderDojo明日香代表、CoderDojo生駒、CoderDojo田原本共同代表  
+[Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同モデレータ  
+[一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー
 
 ![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
-
 
 ## 保有特許
 [CATV必須特許第3775937号](https://pat.reserge.net/PatentDocument.php?an=1999074026&dbid=JPP)
@@ -50,12 +52,12 @@ webも昔から関心があって、1996年には自分のサイト立ててま�
 - [DojoCon Japan 2017副実行委員長](https://dojocon2017.coderdojo.jp/)
 - [NASA Space App Challenges 2017@Osaka実行委員](https://spaceappschallenge.space/home/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### 2018年
 - [CoderDojo明日香設立](https://coderdojo-asuka.github.io/)
 - [CoderDojo田原本設立](https://coderdojo-tawaramoto.github.io/)
 - [NASA Space App Challenges 2018@Osaka実行委員](https://spaceappschallenge.space/)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## SNS
 - [Facebook](https://facebook.com/kwaka1208)
