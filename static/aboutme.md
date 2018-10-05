@@ -35,14 +35,24 @@ webも昔から関心があって、1996年には自分のサイト立ててま�
 [CATV必須特許第3775937号](https://pat.reserge.net/PatentDocument.php?an=1999074026&dbid=JPP)
 
 ## コミュニティ活動
-- [CoderDojo奈良・CoderDojo生駒 代表](https://coderdojo-nara-ikoma.github.io/)
-- [CoderDojo明日香 代表](https://coderdojo-asuka.github.io/)
-- [CoderDojo田原本 共同代表](https://coderdojo-tawaramoto.github.io/)
+### 2014年
 - [WordCamp Kansai 2014実行委員](https://kansai.wordcamp.org/2014/organizers)
+- [CoderDojo奈良設立](https://coderdojo-nara-ikoma.github.io/)
+
+### 2015年
 - [WordCamp Kansai 2015実行委員](https://kansai.wordcamp.org/2015/organizers/)
+
+### 2016年
 - [DojoCon Japan 2016副実行委員長](https://dojocon2016.coderdojo.jp/)
+- [CoderDojo生駒設立](https://coderdojo-nara-ikoma.github.io/)
+
+### 2017年
 - [DojoCon Japan 2017副実行委員長](https://dojocon2017.coderdojo.jp/)
 - [NASA Space App Challenges 2017@Osaka実行委員](https://spaceappschallenge.space/home/)
+
+### 2018年
+- [CoderDojo明日香設立](https://coderdojo-asuka.github.io/)
+- [CoderDojo田原本設立](https://coderdojo-tawaramoto.github.io/)
 - [NASA Space App Challenges 2018@Osaka実行委員](https://spaceappschallenge.space/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
