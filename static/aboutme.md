@@ -28,7 +28,7 @@ webも昔から関心があって、1996年には自分のサイト立ててま�
 情報セキュリティアドミニストレータ、TOEIC775点（ただし10年以上前の参考スコア）
 
 CoderDojo奈良、CoderDojo明日香代表、CoderDojo生駒、CoderDojo田原本共同代表  
-[Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同モデレータ  
+[Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同オーガナイザー  
 [一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー
 
 ![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
