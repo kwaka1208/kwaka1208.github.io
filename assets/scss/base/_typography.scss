@@ -23,6 +23,10 @@ h6 {
   font-weight: 300;
 }
 
+h2 {
+  margin: calc($base-spacing * 2) 0 $small-spacing 0;
+}
+
 h1 {
   font-size: rem(30);
 }
