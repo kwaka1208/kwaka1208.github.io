@@ -1,5 +1,5 @@
 ---
-title:プロジェクトを通して学ぶ
+title: プロジェクトを通して学ぶ
 date: 2018-10-24T09:00:00 UTC+9
 author: kwaka1208
 layout: post
