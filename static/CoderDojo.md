@@ -8,7 +8,6 @@ attitude_sidebarlayout:
   - default CoderDojo
 ---
 
-# CoderDojoについて
 CoderDojoは7〜17歳の若い人対象にした非営利のプログラミングコミュニティです。2011年にアイルランドで始まり、世界では100の国と地域で、1,900のDojoが開催されており、日本では全国に150箇所以上で開催されています。
 - [CoderDojo(アイルランド)公式サイト](https://coderdojo.com/)
 - [CoderDojo Japan公式サイト](https://coderdojo.jp/)
