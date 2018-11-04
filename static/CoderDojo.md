@@ -39,7 +39,7 @@ CoderDojoは7〜17歳の若い人対象にした非営利のプログラミン�
 - 活動場所　：調整中
 
 ### [CoderDojo田原本](https://coderdojo-tawaramoto.github.io/)
-<a href="https://www.facebook.com/CoderDojo田原本-1130496720434794/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
+<a href="https://www.facebook.com/CoderDojoTawaramoto/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
 - 設立　　　：2018年8月19日
 - 活動場所　：安養寺
 
