@@ -10,11 +10,11 @@ attitude_sidebarlayout:
 ---
 <img src="https://avatars.githubusercontent.com/{{ page.author }}" style="border-radius: 64px; width: 128px;">
 
-基本的にはソフトウェアエンジニアです。組み込み（4bitマイコン、8bitマイコンの世界）からwebまでやりました。最近はwebの方が多いかな。組み込みは最近のOSが使える組み込みじゃなくて、メモリマップから設計するガチの組み込みでした。もちろん、Stack Overflowもリアルに経験してますし、最近では滅多にお目にかかれないリンクでROM容量超えたとか、そういうことも数々経験してます。
+長い間[某家電メーカー](http://www.sharp.co.jp/)でソフトウェアエンジニアや企画の仕事をやってました。古い人間で、組み込み（4bitマイコン、8bitマイコンの世界）から入りましたが、webとかもやってるので、いわゆる"IoT"の"I"と"T"の両方が（多分）わかります。静的web（いわゆるホームページ）1996年から自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。2014年に出会った[CoderDojo](https://coderdojo.com/)にどっぷりハマってて、休日のほとんどは[CoderDojo](https://coderdojo.com/)に関わってたりします。
 
-webも昔から関心があって、1996年には自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。
+あと、最近は[特定非営利活動法人おてらおやつクラブ](https://otera-oyatsu.club/)のシステム・情報担当としてもお手伝いしています。
 
-基本的に子供と学校が好きでPTAを4年やったりします（もちろん、全部自分から引き受けました）。
+基本的に子供と学校が好きでPTAを4年やりました（もちろん、全部自分から）。
 
 最近の関心事は「人」です、特に若い人。若い人が社会に出られるように育成し、そういった若い人たちが幸せに暮らせる社会の地ならしをしたいと思う今日この頃です。
 
@@ -27,9 +27,9 @@ webも昔から関心があって、1996年には自分のサイト立ててま�
 
 情報セキュリティアドミニストレータ、TOEIC775点（ただし10年以上前の参考スコア）
 
-CoderDojo奈良、CoderDojo明日香代表、CoderDojo生駒、CoderDojo田原本共同代表  
-[Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同オーガナイザー  
-[一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー
+- [CoderDojo奈良、CoderDojo明日香代表、CoderDojo生駒、CoderDojo田原本共同代表](/CoderDojo)
+- [Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同オーガナイザー
+- [一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー
 
 ![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
 
