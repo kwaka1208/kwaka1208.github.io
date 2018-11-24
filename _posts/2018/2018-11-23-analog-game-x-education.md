@@ -3,6 +3,7 @@ title: 今「教育×アナログゲーム」が熱い！〜教育ゲーミン�
 date: 2018-11-24T10:00:00 UTC+9
 author: kwaka1208
 layout: post
+image : /assets/images/2018/2018.11.23/gachikan.jpg
 permalink: /analog-game-x-education
 attitude_sidebarlayout:
   - default
