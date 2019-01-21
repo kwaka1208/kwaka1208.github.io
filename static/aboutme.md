@@ -63,7 +63,7 @@ attitude_sidebarlayout:
 - [Facebook](https://facebook.com/kwaka1208)
 - [Twitter](https://twitter.com/kwaka1208)
 - [Pinterest](http://www.pinterest.com/kwaka1208/)
-- [公開鍵](https://github.com/kwaka1208/PublicKey)
+- [公開鍵](https://github.com/kwaka1208.keys)
 
 ## 執筆活動
 - [日刊デジタルクリエイターズ](http://bn.dgcr.com/archives/%E8%8B%A5%E6%9E%97%E5%81%A5%E4%B8%80/)  
