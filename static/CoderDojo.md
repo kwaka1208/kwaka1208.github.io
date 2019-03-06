@@ -13,7 +13,7 @@ CoderDojoは7〜17歳の若い人対象にした非営利のプログラミン�
 - [CoderDojo Japan公式サイト](https://coderdojo.jp/)
 
 ## 私が関わっているDojo
-若林は以下の4つのDojoに代表者もしくは共同代表者として運営に関わっています。
+若林は以下の4つのDojoに代表者もしくは共同代表者、メンターとして運営に関わっています。
 
 ### [CoderDojo奈良](https://coderdojo-nara-ikoma.github.io/)
 <a href="https://www.facebook.com/CoderDojoNara/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
