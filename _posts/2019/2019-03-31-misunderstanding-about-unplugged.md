@@ -3,7 +3,7 @@ title: アンプラグドに対する誤解
 date: 2019-03-31T21:35:00 UTC+9
 author: kwaka1208
 layout: post
-image : /assets/images/2019/unplugged.png
+image : assets/images/2019/unplugged.png
 permalink: /misunderstanding-about-unplugged
 attitude_sidebarlayout:
   - default
@@ -38,3 +38,5 @@ canonical: https://note.mu/kwaka1208/n/n2c152407d941
 とか書くと「そもそも、コンピュータサイエンスが分かってないのにプログラミングやるの？」とかいう意見も出てくると思いますが、「プログラミングがコンピュータサイエンスに触れる入り口になってもいいんじゃない？」と思ってますし、それはまた別の議論だと考えています。
 
 私は「[CS Unplugged](https://www.csunplugged.org/en/)（[日本語版はこちら](https://csunplugged.jp/)）」がダメだといいたいわけじゃなくて、むしろこの本の内容は素晴らしいと思っています。ただ、その扱い方は難しい。「プログラミング」や「コンピュータサイエンス」に色んな方が関わるようになった今、必ずしもみんながみんなその本質を理解しているとは思えないので、自分たちの都合に合わせて「アンプラグド」という言葉を使うことに警鐘を鳴らしたいのです。
+
+![アンプラグドに対する誤解](assets/images/2019/unplugged.png)
