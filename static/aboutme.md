@@ -27,7 +27,7 @@ attitude_sidebarlayout:
 
 情報セキュリティアドミニストレータ、TOEIC775点（ただし10年以上前の参考スコア）
 
-- [CoderDojo奈良、CoderDojo明日香代表、CoderDojo生駒、CoderDojo田原本共同代表](/CoderDojo)
+- [CoderDojo奈良代表、CoderDojo田原本共同代表、CoderDojo生駒創設者](/CoderDojo)
 - [Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同オーガナイザー
 - [一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー
 
@@ -55,7 +55,6 @@ attitude_sidebarlayout:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 2018年
-- [CoderDojo明日香設立](https://coderdojo-asuka.github.io/)
 - [CoderDojo田原本設立](https://coderdojo-tawaramoto.github.io/)
 - [NASA Space App Challenges 2018@Osaka実行委員](https://spaceappschallenge.space/)
 
