@@ -28,7 +28,7 @@ Maker Faire Kyoto 2019で2016年のTokyoから開催されている「子ども�
 
 （追記）アルバムへのリンクを追加しました。
 - [体験したみなさんの感想メモ](https://photos.app.goo.gl/gvRqCVdc3hM5HJ4S7)
-- [当日様子公開アルバム](https://photos.app.goo.gl/eX9bFmdbT3LZ5G3G9)
+- [子どもプログラミング喫茶京都店2019](https://photos.app.goo.gl/eX9bFmdbT3LZ5G3G9)
 
 ### スタッフに対して
 そして、ボランティアとして関わってくださったスタッフのみなさんに対しては次の3つの目標を掲げました。
