@@ -72,7 +72,7 @@ attitude_sidebarlayout:
 2013年9月から寄稿させていただいていたメルマガです。よかったら購読をお願いします。（2013年9月〜2015年6月、2016年1月～2017年2月、2018年9月〜現在）
 
 - [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](http://amzn.asia/7KsdVCQ)
-CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。
+CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！
 
 MIT media labでScratchを開発しているグループLLKのリーダー、Mitchel Resnick教授のTweetでも登場しました。
 
