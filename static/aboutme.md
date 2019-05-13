@@ -73,16 +73,13 @@ attitude_sidebarlayout:
 
 - [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](http://amzn.asia/7KsdVCQ)
 CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！
-
-MIT media labでScratchを開発しているグループLLKのリーダー、Mitchel Resnick教授のTweetでも登場しました。
-
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">So many Japanese <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@Scratch</a> books! <a href="https://twitter.com/hashtag/Scratch2018Tokyo?src=hash&amp;ref_src=twsrc%5Etfw">#Scratch2018Tokyo</a> <a href="https://t.co/25En7564WV">pic.twitter.com/25En7564WV</a></p>&mdash; Mitchel Resnick (@mres) <a href="https://twitter.com/mres/status/1053779491288363008?ref_src=twsrc%5Etfw">20 October 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [Amazon著者ページ](https://www.amazon.co.jp/-/e/B01MY6BF57)
-
 [![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/aboutme/scratch.jpg)](http://amzn.asia/7KsdVCQ)
 
 - [紙版](http://amzn.asia/7KsdVCQ)
 - [Kindle版](http://amzn.asia/gcTXZ83)
 - [iBooks版](https://itunes.apple.com/jp/book/coderdojo-japan-gong-shibukku/id1189875071?l=en&mt=11)
+
+MIT media labでScratchを開発しているグループLLKのリーダー、Mitchel Resnick教授のTweetでも登場しました。
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">So many Japanese <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@Scratch</a> books! <a href="https://twitter.com/hashtag/Scratch2018Tokyo?src=hash&amp;ref_src=twsrc%5Etfw">#Scratch2018Tokyo</a> <a href="https://t.co/25En7564WV">pic.twitter.com/25En7564WV</a></p>&mdash; Mitchel Resnick (@mres) <a href="https://twitter.com/mres/status/1053779491288363008?ref_src=twsrc%5Etfw">20 October 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
