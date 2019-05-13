@@ -58,6 +58,9 @@ attitude_sidebarlayout:
 - [CoderDojo田原本設立](https://coderdojo-tawaramoto.github.io/)
 - [NASA Space App Challenges 2018@Osaka実行委員](https://spaceappschallenge.space/)
 
+### 2019年
+- [Maker Faire Kyoto 2019子どもプログラミング喫茶京都店マスター](https://pgmsaloon4kids.github.io/kyoto/)
+
 ## SNS
 - [Facebook](https://facebook.com/kwaka1208)
 - [Twitter](https://twitter.com/kwaka1208)
