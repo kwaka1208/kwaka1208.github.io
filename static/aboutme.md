@@ -71,7 +71,7 @@ attitude_sidebarlayout:
 - [日刊デジタルクリエイターズ](http://bn.dgcr.com/archives/%E8%8B%A5%E6%9E%97%E5%81%A5%E4%B8%80/)  
 2013年9月から寄稿させていただいていたメルマガです。よかったら購読をお願いします。（2013年9月〜2015年6月、2016年1月～2017年2月、2018年9月〜現在）
 
-- [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](http://amzn.asia/7KsdVCQ)
+- [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](https://amzn.to/2Hlf9Yo)
 CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！
 
 [Amazon著者ページ](https://www.amazon.co.jp/-/e/B01MY6BF57)
