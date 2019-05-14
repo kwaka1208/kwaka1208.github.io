@@ -78,7 +78,7 @@ MIT media labでScratchを開発しているグループLLKのリーダー、Mit
 
 [Amazon著者ページ](https://www.amazon.co.jp/-/e/B01MY6BF57)
 
-[![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/aboutme/scratch.jpg)](http://amzn.asia/7KsdVCQ)
+[![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/aboutme/scratch.png)](http://amzn.asia/7KsdVCQ)
 
 - [紙版](http://amzn.asia/7KsdVCQ)
 - [Kindle版](http://amzn.asia/gcTXZ83)
