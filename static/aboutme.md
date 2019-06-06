@@ -34,7 +34,7 @@ attitude_sidebarlayout:
 ![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
 
 ## 保有特許
-[CATV必須特許第3775937号](https://pat.reserge.net/PatentDocument.php?an=1999074026&dbid=JPP)
+CATV必須特許第3775937号
 
 ## コミュニティ活動
 ### 2014年
