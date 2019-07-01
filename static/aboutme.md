@@ -73,6 +73,7 @@ CATV必須特許第3775937号
 
 - [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](https://amzn.to/2Hlf9Yo)
 CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！
+
 [![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/aboutme/scratch.png)](https://amzn.to/2Hlf9Yo)
 
   - [紙版](http://amzn.asia/7KsdVCQ)
