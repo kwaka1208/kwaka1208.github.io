@@ -85,6 +85,7 @@ MIT media labでScratchを開発しているグループLLKのリーダー、Mit
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 - [mBotでものづくりをはじめよう](https://www.amazon.co.jp/dp/4873118794/)
+
 [mBot for Makers](https://www.amazon.co.jp/dp/1680452967/)の翻訳を担当しました。mBotをただの車型ロボットで終わらせず、ものづくりのプラットフォームとして活用する本です！
 
 [![mBotでものづくりをはじめよう](/assets/images/aboutme/mBot_for_Makers.png)](https://www.amazon.co.jp/dp/4873118794/)
