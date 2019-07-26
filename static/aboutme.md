@@ -52,7 +52,7 @@ CATV必須特許第3775937号
 - [DojoCon Japan 2017副実行委員長](https://dojocon2017.coderdojo.jp/)
 - [NASA Space App Challenges 2017@Osaka実行委員](https://spaceappschallenge.space/home/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="width: 100%; max-width: 560px; height: 315px;" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 2018年
 - [CoderDojo田原本設立](https://coderdojo-tawaramoto.github.io/)
