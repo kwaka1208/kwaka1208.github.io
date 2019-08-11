@@ -3,7 +3,7 @@ title: メイカーとスタートアップのための量産入門を読んで
 date: 2019-08-11T09:30:00 UTC+9
 author: kwaka1208
 layout: post
-image : assets/images/2019/mfk2019.jpg
+image : assets/images/2019/9784873118840.png
 permalink: /introduction_to_small-scale_production
 attitude_sidebarlayout:
   - default
@@ -42,4 +42,4 @@ categories:
 
 ## 
 
-![メイカーとスタートアップのための量産入門 ―200万円、1500個からはじめる少量生産のすべて](/assets/images/2019/9784873118840.jpg)
+![メイカーとスタートアップのための量産入門 ―200万円、1500個からはじめる少量生産のすべて](/assets/images/2019/9784873118840.png)
