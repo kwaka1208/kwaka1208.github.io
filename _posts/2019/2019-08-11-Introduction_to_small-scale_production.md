@@ -1,5 +1,5 @@
 ---
-title: 
+title: メイカーとスタートアップのための量産入門を読んで
 date: 2019-08-11T09:30:00 UTC+9
 author: kwaka1208
 layout: post
