@@ -4,7 +4,7 @@ date: 2019-08-11T09:30:00 UTC+9
 author: kwaka1208
 layout: post
 image : assets/images/2019/mfk2019.jpg
-permalink: /maker-faire-kyoto-2019
+permalink: /introduction_to_small-scale_production
 attitude_sidebarlayout:
   - default
 categories:
@@ -38,12 +38,8 @@ categories:
 
 この時、大変な思いをしつつも少し懐かしい感じに浸っている自分がいました。「なんか色々やっかいことがあるけど、なんとかしてやろーじゃねーの」そんな思いで進めてました。本というのも、ある意味ものづくりのひとつですね。
 
+話はそれましたが、このリアリティは経験した方でなければわからないところもあるかもしれませんが、これからものづくりを経験する方が予め知っておいて損はないと思いますし、自分がそういう立場になった時に読み返すと参考になることもたくさんあると思います。
 
+## 
 
-
-
-
-
-
-
-![集合写真](/assets/images/2019/mfk2019.jpg)
+![メイカーとスタートアップのための量産入門 ―200万円、1500個からはじめる少量生産のすべて](/assets/images/2019/9784873118840.jpg)
