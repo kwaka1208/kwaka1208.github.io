@@ -26,8 +26,7 @@ micro:bitは単体でも使えますが、周辺部品やロボットキット�
 
 ## 書籍
 ### Scratch
-- [Scratchでつくる!たのしむ!プログラミング道場 改訂第2版 Scratch3.0対応](https://amzn.to/2zgYSjr)   
-本日使用した本です。 
+- [Scratchでつくる!たのしむ!プログラミング道場 改訂第2版 Scratch3.0対応](https://amzn.to/2zgYSjr) ←本日使用した本です。 
 - [使って遊べる！Scratchおもしろプログラミングレシピ](https://amzn.to/2NizvGe)
 - [Scratchで楽しく学ぶ アート&サイエンス](https://amzn.to/2zdGpVe)
 - [できるキッズ 子どもと学ぶ Scratch プログラミング入門](https://amzn.to/2ZgThob)
