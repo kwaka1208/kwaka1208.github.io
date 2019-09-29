@@ -44,7 +44,11 @@ categories:
 
 京都・東京と2回やってみて、色々改善すべきところがわかったので、次回（京都か東京か）にも生かしたいし、他の地域でもMaker Faire以外でも開催できるようにノウハウの共有をやっていきたいです。
 
-
+喫茶集合写真Day1
 ![喫茶集合写真Day1](/assets/images/2019/mft2019a.jpg)
+
+喫茶集合写真Day2
 ![喫茶集合写真Day2](/assets/images/2019/mft2019b.jpg)
+
+前夜祭！
 ![餃子会集合写真](/assets/images/2019/gyoza.jpg)
