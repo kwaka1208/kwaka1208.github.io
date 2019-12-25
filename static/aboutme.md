@@ -65,6 +65,8 @@ CATV必須特許第3775937号
 
 ### 2019年
 - [Maker Faire Kyoto 2019子どもプログラミング喫茶京都店マスター](https://pgmsaloon4kids.github.io/kyoto/)
+- [NASA Space App Challenges KUSHIMOTO 2019実行委員](https://space-apps-kushimoto.github.io/)
+- [Maker Faire Tokyo 2019子どもプログラミング喫茶東京店店員](https://pgmsaloon4kids.github.io/)
 
 ## SNS
 - [Facebook](https://facebook.com/kwaka1208)
@@ -73,26 +75,26 @@ CATV必須特許第3775937号
 - [公開鍵](https://github.com/kwaka1208.keys)
 
 ## 執筆活動
-- [日刊デジタルクリエイターズ](http://bn.dgcr.com/archives/%E8%8B%A5%E6%9E%97%E5%81%A5%E4%B8%80/)  
+- [日刊デジタルクリエイターズ](http://bit.ly/dgcr_kwaka1208)  
 2013年9月から寄稿させていただいていたメルマガです。よかったら購読をお願いします。（2013年9月〜2015年6月、2016年1月～2017年2月、2018年9月〜現在）
 
-- [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](https://www.amazon.co.jp/gp/product/4800712386/)
+- [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](https://amzn.to/35WZ8CX)
 CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！
 
-[![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/aboutme/scratch.png)](https://www.amazon.co.jp/gp/product/4800712386/)
+[![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/aboutme/scratch.png)](https://amzn.to/35WZ8CX)
 
-- [紙版](https://www.amazon.co.jp/gp/product/4800712386/)
-- [Kindle版](https://www.amazon.co.jp/dp/B07S5KLCB8/)
-- [iBooks版](https://books.apple.com/jp/book/coderdojo-japan%E5%85%AC%E5%BC%8F%E3%83%96%E3%83%83%E3%82%AF-scratch%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B-%E3%81%9F%E3%81%AE%E3%81%97%E3%82%80-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E9%81%93%E5%A0%B4-%E6%94%B9%E8%A8%82%E7%AC%AC2%E7%89%88/id1465568349?l=ja)
+- [紙版](https://amzn.to/35WZ8CX)
+- [Kindle版](https://amzn.to/2MtkKzn)
+- [iBooks版](http://bit.ly/ScratchDojo2)
 
 MIT media labでScratchを開発しているグループLLKのリーダー、Mitchel Resnick教授のTweetでも登場しました。
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">So many Japanese <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@Scratch</a> books! <a href="https://twitter.com/hashtag/Scratch2018Tokyo?src=hash&amp;ref_src=twsrc%5Etfw">#Scratch2018Tokyo</a> <a href="https://t.co/25En7564WV">pic.twitter.com/25En7564WV</a></p>&mdash; Mitchel Resnick (@mres) <a href="https://twitter.com/mres/status/1053779491288363008?ref_src=twsrc%5Etfw">20 October 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-- [mBotでものづくりをはじめよう](https://www.amazon.co.jp/dp/4873118794/)
+- [mBotでものづくりをはじめよう](https://amzn.to/2tNuzS5)
 
-[mBot for Makers](https://www.amazon.co.jp/dp/1680452967/)の翻訳を担当しました。mBotをただの車型ロボットで終わらせず、ものづくりのプラットフォームとして活用する本です！
+[mBot for Makers](https://amzn.to/2ZmXcRP)の翻訳を担当しました。mBotをただの車型ロボットで終わらせず、ものづくりのプラットフォームとして活用する本です！
 
-[![mBotでものづくりをはじめよう](/assets/images/aboutme/mBot_for_Makers.png)](https://www.amazon.co.jp/dp/4873118794/)
+[![mBotでものづくりをはじめよう](/assets/images/aboutme/mBot_for_Makers.png)](https://amzn.to/2tNuzS5)
 
-[Amazon著者ページ](https://www.amazon.co.jp/-/e/B01MY6BF57)
+[Amazon著者ページ](https://amzn.to/2s9Jwh5)
