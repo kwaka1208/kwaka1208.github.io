@@ -1,5 +1,5 @@
 ---
-title: profile
+title: Profile
 date: 2019-08-22T0:15:00 UTC+9
 author: kwaka1208
 layout: page
