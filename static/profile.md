@@ -18,5 +18,6 @@ attitude_sidebarlayout:
 初めて使ったパソコンはMZ-2000、言語はBASIC。職業では、4bitマイコンからwebまで開発に関わる。
 
 ## プロフィール用写真
-こちらからダウンロードしてください。
-https://photos.app.goo.gl/hNbi7zXaTWN4nTLy6
+[こちらからダウンロード](https://photos.app.goo.gl/hNbi7zXaTWN4nTLy6)してください。
+
+
