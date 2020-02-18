@@ -7,7 +7,6 @@ permalink: /youth/index.html
 attitude_sidebarlayout:
   - default
 ---
-# For Youth
 若い人（大学生以下全員）が新しい知識や体験・経験を得られる機会についての情報をまとめていきます。
 
 - [一般社団法人 未来志向学会](https://www.futurethinkingsociety.org/)  
