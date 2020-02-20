@@ -37,9 +37,7 @@ attitude_sidebarlayout:
 - [POSシステム UP-3500](http://www.sharpusa.com/ForBusiness/POSSolutions/PointOfSaleSystemsNew/Models/UP3500.aspx#overview)
 - [パーソナルサーバー Galileo](https://jp.sharp/galileo/)
 他にあるけど、リンク先がない。
-
-## 保有特許
-CATV必須特許第3775937号
+- 保有特許：CATV必須特許第3775937号
 
 ## コミュニティ活動
 ### 2014年
@@ -73,6 +71,10 @@ CATV必須特許第3775937号
 - [Twitter](https://twitter.com/kwaka1208)
 - [Pinterest](http://www.pinterest.com/kwaka1208/)
 - [公開鍵](https://github.com/kwaka1208.keys)
+
+## 登壇履歴
+- [関西オープンフォーラム2018「CoderDojoの経験からみたコミュニティの未来」](https://k-of.jp/backend_2018/session/1216.html)
+- [Future Meeting ―これからの子どもたちに必要な学びとは ―](http://www.kansai-u.ac.jp/umeda/event-seminar/future-meeting/future-meeting181216.html)
 
 ## 執筆活動
 - [日刊デジタルクリエイターズ](http://bit.ly/dgcr_kwaka1208)  
