@@ -30,11 +30,9 @@ attitude_sidebarlayout:
 - [CoderDojo奈良代表、CoderDojo田原本共同代表、CoderDojo生駒創設者](/CoderDojo)
 - [Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同オーガナイザー
 - [一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー
+- [Amazon著者ページ](https://amzn.to/2s9Jwh5)
 
 ![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
-
-- [Amazon著者ページ](https://amzn.to/2s9Jwh5)
-- [PayPal.me](https://www.paypal.com/paypalme2/kwaka1208)
 
 ### 開発に関わったもの
 - [POSシステム UP-3500](http://www.sharpusa.com/ForBusiness/POSSolutions/PointOfSaleSystemsNew/Models/UP3500.aspx#overview)
