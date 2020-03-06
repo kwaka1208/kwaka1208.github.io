@@ -86,7 +86,7 @@ attitude_sidebarlayout:
 - [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](https://amzn.to/35WZ8CX)
 CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！
 
-[![CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](/assets/images/aboutme/scratch.png)](https://amzn.to/35WZ8CX)
+<a href="https://amzn.to/35WZ8CX" alt="CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場" target="_blank"><img src="/assets/images/aboutme/scratch.png" style="width:300px; height:auto;"></a>
 
 - [紙版](https://amzn.to/35WZ8CX)
 - [Kindle版](https://amzn.to/2MtkKzn)
@@ -100,4 +100,4 @@ MIT media labでScratchを開発しているグループLLKのリーダー、Mit
 
 [mBot for Makers](https://amzn.to/2ZmXcRP)の翻訳を担当しました。mBotをただの車型ロボットで終わらせず、ものづくりのプラットフォームとして活用する本です！
 
-<a href="https://amzn.to/2tNuzS5" alt="mBotでものづくりをはじめよう" target="_blank"><img src="/assets/images/aboutme/mBot_for_Makers.png" style="width:500px; height:auto;"></a>
+<a href="https://amzn.to/2tNuzS5" alt="mBotでものづくりをはじめよう" target="_blank"><img src="/assets/images/aboutme/mBot_for_Makers.png" style="width:300px; height:auto;"></a>
