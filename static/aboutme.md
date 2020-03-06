@@ -31,6 +31,7 @@ attitude_sidebarlayout:
 - [Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同オーガナイザー
 - [一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー
 - [Amazon著者ページ](https://amzn.to/2s9Jwh5)
+- [公開鍵](https://github.com/kwaka1208.keys)
 
 ![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
 
@@ -71,7 +72,7 @@ attitude_sidebarlayout:
 - [Facebook](https://facebook.com/kwaka1208)
 - [Twitter](https://twitter.com/kwaka1208)
 - [Pinterest](http://www.pinterest.com/kwaka1208/)
-- [公開鍵](https://github.com/kwaka1208.keys)
+- [PayPal.me](https://www.paypal.com/paypalme2/kwaka1208)
 
 ## 登壇履歴
 - [関西オープンフォーラム2018「CoderDojoの経験からみたコミュニティの未来」](https://k-of.jp/backend_2018/session/1216.html)
