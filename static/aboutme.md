@@ -18,7 +18,7 @@ attitude_sidebarlayout:
 
 最近の関心事は「人」です、特に若い人。若い人が社会に出られるように育成し、そういった若い人たちが幸せに暮らせる社会の地ならしをしたいと思う今日この頃です。
 
-## 略歴
+## プロフィール
 若林健一 / kwaka1208
 大阪府出身、奈良県在住。
 学生時代は守口市で暮らし、就職を期に奈良へ移り住む。
@@ -32,6 +32,8 @@ attitude_sidebarlayout:
 - [一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー
 
 ![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
+
+- [PayPal.me](https://www.paypal.com/paypalme2/kwaka1208)
 
 ### 開発に関わったもの
 - [POSシステム UP-3500](http://www.sharpusa.com/ForBusiness/POSSolutions/PointOfSaleSystemsNew/Models/UP3500.aspx#overview)
