@@ -33,6 +33,7 @@ attitude_sidebarlayout:
 
 ![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
 
+- [Amazon著者ページ](https://amzn.to/2s9Jwh5)
 - [PayPal.me](https://www.paypal.com/paypalme2/kwaka1208)
 
 ### 開発に関わったもの
@@ -100,5 +101,3 @@ MIT media labでScratchを開発しているグループLLKのリーダー、Mit
 [mBot for Makers](https://amzn.to/2ZmXcRP)の翻訳を担当しました。mBotをただの車型ロボットで終わらせず、ものづくりのプラットフォームとして活用する本です！
 
 <a href="https://amzn.to/2tNuzS5" alt="mBotでものづくりをはじめよう" target="_blank"><img src="/assets/images/aboutme/mBot_for_Makers.png" style="width:500px; height:auto;"></a>
-
-[Amazon著者ページ](https://amzn.to/2s9Jwh5)
