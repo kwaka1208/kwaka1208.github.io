@@ -93,9 +93,7 @@ CoderDojoの有志メンバーでScratchの入門書を書きました。本屋�
 
 <a href="https://amzn.to/35WZ8CX" alt="CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場" target="_blank"><img src="/assets/images/aboutme/scratch.png" style="width:300px; height:auto;"></a>
 
-- [紙版](https://amzn.to/35WZ8CX)
-- [Kindle版](https://amzn.to/2MtkKzn)
-- [iBooks版](http://bit.ly/ScratchDojo2)
+- [紙版](https://amzn.to/35WZ8CX) / [Kindle版](https://amzn.to/2MtkKzn) / [iBooks版](http://bit.ly/ScratchDojo2)
 
 MIT media labでScratchを開発しているグループLLKのリーダー、Mitchel Resnick教授のTweetでも登場しました。
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">So many Japanese <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@Scratch</a> books! <a href="https://twitter.com/hashtag/Scratch2018Tokyo?src=hash&amp;ref_src=twsrc%5Etfw">#Scratch2018Tokyo</a> <a href="https://t.co/25En7564WV">pic.twitter.com/25En7564WV</a></p>&mdash; Mitchel Resnick (@mres) <a href="https://twitter.com/mres/status/1053779491288363008?ref_src=twsrc%5Etfw">20 October 2018</a></blockquote>
