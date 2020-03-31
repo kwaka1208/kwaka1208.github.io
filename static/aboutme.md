@@ -70,8 +70,9 @@ attitude_sidebarlayout:
 ## SNS
 - [Facebook](https://facebook.com/kwaka1208)
 - [Twitter](https://twitter.com/kwaka1208)
-- [Pinterest](http://www.pinterest.com/kwaka1208/)
-- [PayPal.me](https://www.paypal.com/paypalme2/kwaka1208)
+- [Instagram](https://www.instagram.com/kwaka1208/)
+- [Medium](https://medium.com/@kwaka1208)
+- [Pinterest](https://www.pinterest.jp/kwaka1208/)
 
 ## 登壇履歴
 - [関西オープンフォーラム2018「CoderDojoの経験からみたコミュニティの未来」](https://k-of.jp/backend_2018/session/1216.html)
