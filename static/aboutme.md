@@ -10,15 +10,14 @@ attitude_sidebarlayout:
 ---
 <img src="https://avatars.githubusercontent.com/{{ page.author }}" style="border-radius: 64px; width: 128px;">
 
+## 専門性はありません。広く浅い人です
 長い間[某家電メーカー](http://www.sharp.co.jp/)でソフトウェアエンジニアや企画の仕事をやってました。古い人間で、組み込み（4bitマイコン、8bitマイコンの世界）から入りましたが、webとかもやってるので、いわゆる"IoT"の"I"と"T"の両方が（多分）わかります。静的web（いわゆるホームページ）1996年から自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。2014年に出会った[CoderDojo](https://coderdojo.com/)にどっぷりハマってて、休日のほとんどは[CoderDojo](https://coderdojo.com/)に関わってたりします。
 
-僕は何かを深めることはできないけど、どんなことでも一通りのことを消化するのはできるんですよね。とりあえず一通り取り込んで、それなりに理解して質問するぐらいまでは行ける（それ以上は無理）。なので、浅く広くやるのが得意。それを生かして、色んなところの橋渡しができたらええなと。
-
-基本的に子供と学校が好きでPTAを4年やりました。
+僕は何かを深めることはできないけど、どんなことでも一通りのことを消化するのはできるんですよね。とりあえず一通り取り込んで、それなりに理解して吸収することはできる。「***専門性は高くないけど、浅く広くやるのが得意***」それを生かして、色んなところの橋渡しができたらええなと。
 
 最近の関心事は「人」です、特に若い人。若い人が社会に出られるように育成し、そういった若い人たちが幸せに暮らせる社会の地ならしをしたいと思う今日この頃です。
 
-## プロフィール
+## 略歴
 若林健一 / kwaka1208
 大阪府出身、奈良県在住。
 学生時代は守口市で暮らし、就職を期に奈良へ移り住む。
@@ -71,8 +70,9 @@ attitude_sidebarlayout:
 ## SNS
 - [Facebook](https://facebook.com/kwaka1208)
 - [Twitter](https://twitter.com/kwaka1208)
-- [Pinterest](http://www.pinterest.com/kwaka1208/)
-- [PayPal.me](https://www.paypal.com/paypalme2/kwaka1208)
+- [Instagram](https://www.instagram.com/kwaka1208/)
+- [Medium](https://medium.com/@kwaka1208)
+- [Pinterest](https://www.pinterest.jp/kwaka1208/)
 
 ## 登壇履歴
 - [関西オープンフォーラム2018「CoderDojoの経験からみたコミュニティの未来」](https://k-of.jp/backend_2018/session/1216.html)
@@ -82,21 +82,17 @@ attitude_sidebarlayout:
 - [日刊デジタルクリエイターズ](http://bit.ly/dgcr_kwaka1208)  
 2013年9月から寄稿させていただいていたメルマガです。よかったら購読をお願いします。（2013年9月〜2015年6月、2016年1月～2017年2月、2018年9月〜現在）
 
-- [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](https://amzn.to/35WZ8CX)
-CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！
-
-<a href="https://amzn.to/35WZ8CX" alt="CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場" target="_blank"><img src="/assets/images/aboutme/scratch.png" style="width:300px; height:auto;"></a>
-
-- [紙版](https://amzn.to/35WZ8CX)
-- [Kindle版](https://amzn.to/2MtkKzn)
-- [iBooks版](http://bit.ly/ScratchDojo2)
-
-MIT media labでScratchを開発しているグループLLKのリーダー、Mitchel Resnick教授のTweetでも登場しました。
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">So many Japanese <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@Scratch</a> books! <a href="https://twitter.com/hashtag/Scratch2018Tokyo?src=hash&amp;ref_src=twsrc%5Etfw">#Scratch2018Tokyo</a> <a href="https://t.co/25En7564WV">pic.twitter.com/25En7564WV</a></p>&mdash; Mitchel Resnick (@mres) <a href="https://twitter.com/mres/status/1053779491288363008?ref_src=twsrc%5Etfw">20 October 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 - [mBotでものづくりをはじめよう](https://amzn.to/2tNuzS5)
 
 [mBot for Makers](https://amzn.to/2ZmXcRP)の翻訳を担当しました。mBotをただの車型ロボットで終わらせず、ものづくりのプラットフォームとして活用する本です！
 
 <a href="https://amzn.to/2tNuzS5" alt="mBotでものづくりをはじめよう" target="_blank"><img src="/assets/images/aboutme/mBot_for_Makers.png" style="width:300px; height:auto;"></a>
+
+- [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](https://amzn.to/35WZ8CX)
+CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！（[紙版](https://amzn.to/35WZ8CX) / [Kindle版](https://amzn.to/2MtkKzn) / [iBooks版](http://bit.ly/ScratchDojo2)）
+
+<a href="https://amzn.to/35WZ8CX" alt="CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場" target="_blank"><img src="/assets/images/aboutme/scratch.png" style="width:300px; height:auto;"></a>
+
+MIT media labでScratchを開発しているグループLLKのリーダー、Mitchel Resnick教授のTweetでも登場しました。
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">So many Japanese <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@Scratch</a> books! <a href="https://twitter.com/hashtag/Scratch2018Tokyo?src=hash&amp;ref_src=twsrc%5Etfw">#Scratch2018Tokyo</a> <a href="https://t.co/25En7564WV">pic.twitter.com/25En7564WV</a></p>&mdash; Mitchel Resnick (@mres) <a href="https://twitter.com/mres/status/1053779491288363008?ref_src=twsrc%5Etfw">20 October 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
