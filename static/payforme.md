@@ -8,11 +8,11 @@ attitude_sidebarlayout:
   - default
 ---
 
-Kyash
-<img src="/assets/images/payforme/kyash.png" style="width:300px; height:auto;"></a>
+Kyash<br>
+<img src="/assets/images/payforme/kyash.png" style="width:300px; height:auto;">
 
-PayPal
-<img src="/assets/images/payforme/paypal.png" style="width:300px; height:auto;"></a>
+PayPal<br>
+<img src="/assets/images/payforme/paypal.png" style="width:300px; height:auto;">
 
-PayPay
-<img src="/assets/images/payforme/paypay.png" style="width:300px; height:auto;"></a>
+PayPay<br>
+<img src="/assets/images/payforme/paypay.png" style="width:300px; height:auto;">
