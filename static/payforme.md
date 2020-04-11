@@ -8,6 +8,7 @@ attitude_sidebarlayout:
   - default
 ---
 
+<div style="text-align: center; font-size: 14px;">
 Kyash<br>
 <img src="/assets/images/payforme/kyash.png" style="width:300px; height:auto;">
 
@@ -16,3 +17,4 @@ PayPal<br>
 
 PayPay<br>
 <img src="/assets/images/payforme/paypay.png" style="width:300px; height:auto;">
+</div>
