@@ -11,10 +11,8 @@ attitude_sidebarlayout:
 <div style="text-align: center; font-size: 14px;">
 	<img src="/assets/images/payforme/logo_paypay.png" style="width:auto; height:80px;">
 	<br style="margin: 15px 0;">
-	<a href="https://qr.paypay.ne.jp/RM5Z0eRj5wb4dRj1">
-		<img src="/assets/images/payforme/qr_paypay.png" style="width:300px; height:auto;">
-	</a>
+	<img src="/assets/images/payforme/qr_paypay.png" style="width:300px; height:auto;">
 	<br style="margin: 15px 0;">
 	スマートフォンでのみ利用できます。<br>
-	QRコードをクリックするか、スマートフォンで読み取ってください。
+	QRコードをスマートフォンで読み取ってください。
 </div>
