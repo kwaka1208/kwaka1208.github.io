@@ -9,12 +9,12 @@ attitude_sidebarlayout:
 ---
 
 <div style="text-align: center; font-size: 14px;">
-	<img src="/assets/images/payforme/logo_kyash.png" style="width:auto; height:60px;">
-	<br>
+	<img src="/assets/images/payforme/logo_kyash.png" style="width:auto; height:100px;">
+	<br style="margin: 15px 0;">
 	<a href="kyash://qr/u/3699565239186766293">
 		<img src="/assets/images/payforme/qr_kyash.png" style="width:300px; height:auto;">
 	</a>
-	<br>
+	<br style="margin: 15px 0;">
 	スマートフォンでのみ利用できます。<br>
 	QRコードをタップするか、スマートフォンで読み取ってください。
 </div>
