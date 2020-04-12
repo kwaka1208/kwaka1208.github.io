@@ -8,8 +8,6 @@ attitude_sidebarlayout:
   - default
 ---
 <div style="text-align: center; font-size: 14px;">
-	以下の支払い方法からお選びください。
-	<br style="margin: 15px 0;">
 	<a href="/payforme/kyash/">
 		<img src="/assets/images/payforme/logo_kyash.png" style="width:auto; height:100px;">
 	</a>
