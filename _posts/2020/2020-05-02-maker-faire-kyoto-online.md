@@ -1,10 +1,9 @@
 ---
-title: Maker Faire Kyoto 2020 online - micro:bitでじゃんけんゲーム
+title: Maker Faire Kyoto online - micro:bitでじゃんけんゲーム
 date: 2020-05-02T10:00:00 UTC+9
 author: kwaka1208
 layout: post
-image : /assets/images/2018/2018.11.23/gachikan.jpg
-permalink: /maker-faire-kyoto-2020-online
+permalink: /maker-faire-kyoto-online
 attitude_sidebarlayout:
   - default
 categories:
