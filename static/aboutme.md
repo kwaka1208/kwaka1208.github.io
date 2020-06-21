@@ -41,31 +41,26 @@ attitude_sidebarlayout:
 - 保有特許：CATV必須特許第3775937号
 
 ## コミュニティ活動
-### 2014年
-- [WordCamp Kansai 2014実行委員](https://kansai.wordcamp.org/2014/organizers)
-- [CoderDojo奈良設立](https://coderdojo-nara-ikoma.github.io/)
+- 2014年
+	- [WordCamp Kansai 2014実行委員](https://kansai.wordcamp.org/2014/organizers)
+	- [CoderDojo奈良設立](https://coderdojo-nara-ikoma.github.io/)
+- 2015年
+	- [WordCamp Kansai 2015実行委員](https://kansai.wordcamp.org/2015/organizers/)
+- 2016年
+	- [DojoCon Japan 2016副実行委員長](https://dojocon2016.coderdojo.jp/)
+	- [CoderDojo生駒設立](https://coderdojo-nara-ikoma.github.io/)
+- 2017年
+	- [DojoCon Japan 2017副実行委員長](https://dojocon2017.coderdojo.jp/)
+	- [NASA Space App Challenges 2017@Osaka実行委員](https://spaceappschallenge.space/home/)
+<!-- iframe style="width: 100%; max-width: 560px; height: auto;" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe -->
+- 2018年
+	- [CoderDojo田原本設立](https://coderdojo-tawaramoto.github.io/)
+	- [NASA Space App Challenges 2018@Osaka実行委員](https://spaceappschallenge.space/)
 
-### 2015年
-- [WordCamp Kansai 2015実行委員](https://kansai.wordcamp.org/2015/organizers/)
-
-### 2016年
-- [DojoCon Japan 2016副実行委員長](https://dojocon2016.coderdojo.jp/)
-- [CoderDojo生駒設立](https://coderdojo-nara-ikoma.github.io/)
-
-### 2017年
-- [DojoCon Japan 2017副実行委員長](https://dojocon2017.coderdojo.jp/)
-- [NASA Space App Challenges 2017@Osaka実行委員](https://spaceappschallenge.space/home/)
-
-<iframe style="width: 100%; max-width: 560px; height: auto;" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-### 2018年
-- [CoderDojo田原本設立](https://coderdojo-tawaramoto.github.io/)
-- [NASA Space App Challenges 2018@Osaka実行委員](https://spaceappschallenge.space/)
-
-### 2019年
-- [Maker Faire Kyoto 2019子どもプログラミング喫茶京都店マスター](https://pgmsaloon4kids.github.io/kyoto/)
-- [NASA Space App Challenges KUSHIMOTO 2019実行委員](https://space-apps-kushimoto.github.io/)
-- [Maker Faire Tokyo 2019子どもプログラミング喫茶東京店店員](https://pgmsaloon4kids.github.io/)
+- 2019年
+	- [Maker Faire Kyoto 2019子どもプログラミング喫茶京都店マスター](https://pgmsaloon4kids.github.io/kyoto/)
+	- [NASA Space App Challenges KUSHIMOTO 2019実行委員](https://space-apps-kushimoto.github.io/)
+	- [Maker Faire Tokyo 2019子どもプログラミング喫茶東京店店員](https://pgmsaloon4kids.github.io/)
 
 ## SNS
 - [Facebook](https://facebook.com/kwaka1208)
