@@ -10,6 +10,11 @@ attitude_sidebarlayout:
 ---
 <img src="https://avatars.githubusercontent.com/{{ page.author }}" style="border-radius: 64px; width: 128px;">
 
+- [<i class="fab fa-facebook"></i>Facebook](https://facebook.com/kwaka1208)
+- [<i class="fab fa-twitter"></i>Twitter](https://twitter.com/kwaka1208)
+- [<i class="fab fa-instagram"></i>Instagram](https://www.instagram.com/kwaka1208/)
+- [<i class="fab fa-pinterest"></i>Pinterest](https://www.pinterest.jp/kwaka1208/)
+
 ## 専門性はありません。広く浅い人です
 長い間[某家電メーカー](http://www.sharp.co.jp/)でソフトウェアエンジニアや企画の仕事をやってました。古い人間で、組み込み（4bitマイコン、8bitマイコンの世界）から入りましたが、webとかもやってるので、いわゆる"IoT"の"I"と"T"の両方が（多分）わかります。静的web（いわゆるホームページ）1996年から自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。2014年に出会った[CoderDojo](https://coderdojo.com/)にどっぷりハマってて、休日のほとんどは[CoderDojo](https://coderdojo.com/)に関わってたりします。
 
@@ -61,13 +66,6 @@ attitude_sidebarlayout:
 	- [Maker Faire Kyoto 2019子どもプログラミング喫茶京都店マスター](https://pgmsaloon4kids.github.io/kyoto/)
 	- [NASA Space App Challenges KUSHIMOTO 2019実行委員](https://space-apps-kushimoto.github.io/)
 	- [Maker Faire Tokyo 2019子どもプログラミング喫茶東京店店員](https://pgmsaloon4kids.github.io/)
-
-## SNS
-- [Facebook](https://facebook.com/kwaka1208)
-- [Twitter](https://twitter.com/kwaka1208)
-- [Instagram](https://www.instagram.com/kwaka1208/)
-- [Medium](https://medium.com/@kwaka1208)
-- [Pinterest](https://www.pinterest.jp/kwaka1208/)
 
 ## 登壇履歴
 - [関西オープンフォーラム2018「CoderDojoの経験からみたコミュニティの未来」](https://k-of.jp/backend_2018/session/1216.html)
