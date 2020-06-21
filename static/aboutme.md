@@ -10,10 +10,12 @@ attitude_sidebarlayout:
 ---
 <img src="https://avatars.githubusercontent.com/{{ page.author }}" style="border-radius: 64px; width: 128px;">
 
-- [<i class="fa fa-facebook"></i>Facebook](https://facebook.com/kwaka1208)
-- [<i class="fa fa-twitter"></i>Twitter](https://twitter.com/kwaka1208)
-- [<i class="fa fa-instagram"></i>Instagram](https://www.instagram.com/kwaka1208/)
-- [<i class="fa fa-pinterest"></i>Pinterest](https://www.pinterest.jp/kwaka1208/)
+<div class="sns-icon">
+	<a href="https://twitter.com/kwaka1208" target="blank"><i class="fa fa-twitter"></i></a>
+	<a href="https://www.instagram.com/kwaka1208/" target="blank"><i class="fa fa-instagram"></i></a>
+	<a href="https://facebook.com/kwaka1208" target="blank"><i class="fa fa-facebook"></i></a>
+	<a href="https://www.pinterest.jp/kwaka1208/" target="blank"><i class="fa fa-pinterest"></i></a>
+</div>
 
 ## 専門性はありません。広く浅い人です
 長い間[某家電メーカー](http://www.sharp.co.jp/)でソフトウェアエンジニアや企画の仕事をやってました。古い人間で、組み込み（4bitマイコン、8bitマイコンの世界）から入りましたが、webとかもやってるので、いわゆる"IoT"の"I"と"T"の両方が（多分）わかります。静的web（いわゆるホームページ）1996年から自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。2014年に出会った[CoderDojo](https://coderdojo.com/)にどっぷりハマってて、休日のほとんどは[CoderDojo](https://coderdojo.com/)に関わってたりします。
