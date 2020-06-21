@@ -39,8 +39,6 @@ attitude_sidebarlayout:
 - [Amazon著者ページ](https://amzn.to/2s9Jwh5)
 - [公開鍵](https://github.com/kwaka1208.keys)
 
-![Apple Teacher](/assets/images/aboutme/AppleTeacher_black.svg)
-
 ### 開発に関わったもの
 - [POSシステム UP-3500](http://www.sharpusa.com/ForBusiness/POSSolutions/PointOfSaleSystemsNew/Models/UP3500.aspx#overview)
 - [パーソナルサーバー Galileo](https://jp.sharp/galileo/)
