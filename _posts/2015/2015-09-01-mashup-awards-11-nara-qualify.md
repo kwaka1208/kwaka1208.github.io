@@ -4,7 +4,7 @@ title: Mashup Awards 11
 date: 2015-09-01T00:23:57 UTC+9
 author: kwaka1208
 layout: post
-permalink: /mashup-awards-11-nara-qualify/
+permalink: /note/mashup-awards-11-nara-qualify/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2015/09/IMG_1660.jpg

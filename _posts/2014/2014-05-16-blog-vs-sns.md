@@ -4,7 +4,7 @@ title: blogノススメ
 date: 2014-05-16T08:33:58 UTC+9
 author: kwaka1208
 layout: post
-permalink: /blog-vs-sns/
+permalink: /note/blog-vs-sns/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/05/log.jpg

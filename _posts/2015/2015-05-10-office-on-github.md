@@ -4,7 +4,7 @@ title: Excel用マクロを公開しています
 date: 2015-05-10T01:37:09 UTC+9
 author: kwaka1208
 layout: post
-permalink: /office-on-github/
+permalink: /note/office-on-github/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2015/05/excel.png

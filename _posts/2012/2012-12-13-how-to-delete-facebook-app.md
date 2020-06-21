@@ -4,7 +4,7 @@ title: Facebookの挙動不審(の一部)を改善する:Facebookアプリの削
 date: 2012-12-13T06:55:56 UTC+9
 author: kwaka1208
 layout: post
-permalink: /how-to-delete-facebook-app/
+permalink: /note/how-to-delete-facebook-app/
 image:
   - ""
 seo_follow:

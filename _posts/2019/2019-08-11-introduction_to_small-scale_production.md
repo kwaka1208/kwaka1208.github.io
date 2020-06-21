@@ -4,7 +4,7 @@ date: 2019-08-11T09:30:00 UTC+9
 author: kwaka1208
 layout: post
 image : assets/images/2019/9784873118840.png
-permalink: /introduction_to_small-scale_production
+permalink: /note/introduction_to_small-scale_production
 attitude_sidebarlayout:
   - default
 categories:

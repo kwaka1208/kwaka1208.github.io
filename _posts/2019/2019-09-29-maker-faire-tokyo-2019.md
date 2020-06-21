@@ -4,7 +4,7 @@ date: 2019-09-29T09:00:00 UTC+9
 author: kwaka1208
 layout: post
 image : assets/images/2019/mft2019a.jpg
-permalink: /maker-faire-tokyo-2019
+permalink: /note/maker-faire-tokyo-2019
 attitude_sidebarlayout:
   - default
 categories:

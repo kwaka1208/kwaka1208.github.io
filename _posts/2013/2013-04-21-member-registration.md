@@ -4,7 +4,7 @@ title: 流れを作って会員登録のモチベーションを上げる
 date: 2013-04-21T10:38:50 UTC+9
 author: kwaka1208
 layout: post
-permalink: /member-registration/
+permalink: /note/member-registration/
 categories:
   - for creators
 tags:

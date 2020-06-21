@@ -4,7 +4,7 @@ title: 製品の寿命を考える
 date: 2014-04-10T12:40:48 UTC+9
 author: kwaka1208
 layout: post
-permalink: /product-life-cycle/
+permalink: /note/product-life-cycle/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/04/medium_2772087916.jpg

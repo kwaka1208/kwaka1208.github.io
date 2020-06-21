@@ -4,7 +4,7 @@ title: 親愛なるデザイナーのみなさまへ
 date: 2013-10-29T21:28:59 UTC+9
 author: kwaka1208
 layout: post
-permalink: /dear-desingers/
+permalink: /note/dear-desingers/
 categories:
   - for creators
 tags:

@@ -4,7 +4,7 @@ date: 2019-05-06T23:00:00 UTC+9
 author: kwaka1208
 layout: post
 image : assets/images/2019/mfk2019.jpg
-permalink: /maker-faire-kyoto-2019
+permalink: /note/maker-faire-kyoto-2019
 attitude_sidebarlayout:
   - default
 categories:

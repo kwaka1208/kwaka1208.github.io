@@ -4,7 +4,7 @@ title: 私の考える未来のテレビ
 date: 2015-09-10T12:46:45 UTC+9
 author: kwaka1208
 layout: post
-permalink: /tv-of-near-future/
+permalink: /note/tv-of-near-future/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2015/09/tv.jpg

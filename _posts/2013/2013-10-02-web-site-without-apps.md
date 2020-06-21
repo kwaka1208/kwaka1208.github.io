@@ -4,7 +4,7 @@ title: アプリを入れなくても使えるスマートフォン向けサー�
 date: 2013-10-02T05:53:42 UTC+9
 author: kwaka1208
 layout: post
-permalink: /web-site-without-apps/
+permalink: /note/web-site-without-apps/
 categories:
   - for users
 tags:

@@ -4,7 +4,7 @@ title: ブランド表記は正しく
 date: 2016-02-14T07:54:13 UTC+9
 author: kwaka1208
 layout: post
-permalink: /be-careful-about-brand-name/
+permalink: /note/be-careful-about-brand-name/
 attitude_sidebarlayout:
   - default
 categories:

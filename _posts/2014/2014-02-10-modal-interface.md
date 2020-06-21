@@ -4,7 +4,7 @@ title: モードを意識するインターフェース
 date: 2014-02-10T06:36:00 UTC+9
 author: kwaka1208
 layout: post
-permalink: /modal-interface/
+permalink: /note/modal-interface/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/02/medium_3870552476.jpg

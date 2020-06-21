@@ -4,7 +4,7 @@ title: デジタルの不便性
 date: 2013-07-15T16:34:47 UTC+9
 author: kwaka1208
 layout: post
-permalink: /digital-inconvenience/
+permalink: /note/digital-inconvenience/
 categories:
   - voice
 tags:

@@ -4,7 +4,7 @@ title: ルールを支配する自由
 date: 2015-01-15T08:34:08 UTC+9
 author: kwaka1208
 layout: post
-permalink: /liberty-rule-a-rule/
+permalink: /note/liberty-rule-a-rule/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2015/01/medium_6104169423.jpg

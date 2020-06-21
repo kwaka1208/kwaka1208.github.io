@@ -4,7 +4,7 @@ title: 優れたユーザーインターフェースがコストを下げる理�
 date: 2013-04-25T09:17:52 UTC+9
 author: kwaka1208
 layout: post
-permalink: /good-ui-decrese-the-cost/
+permalink: /note/good-ui-decrese-the-cost/
 categories:
   - for creators
 tags:

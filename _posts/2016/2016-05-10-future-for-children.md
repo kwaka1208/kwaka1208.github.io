@@ -3,7 +3,7 @@ title: 子どもたちの未来予想図
 date: 2016-05-10T07:54:13 UTC+9
 author: kwaka1208
 layout: post
-permalink: /future-for-children/
+permalink: /note/future-for-children/
 attitude_sidebarlayout:
   - default
 categories:

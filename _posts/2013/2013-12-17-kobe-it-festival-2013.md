@@ -4,7 +4,7 @@ title: '神戸ITフェスティバル2013 &#8211; 自慢したくなるスゴい
 date: 2013-12-17T05:31:23 UTC+9
 author: kwaka1208
 layout: post
-permalink: /kobe-it-festival-2013/
+permalink: /note/kobe-it-festival-2013/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2013/12/banner_640x280.jpg

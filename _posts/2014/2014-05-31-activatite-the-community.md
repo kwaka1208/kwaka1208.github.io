@@ -4,7 +4,7 @@ title: コミュニティを活性化する
 date: 2014-05-31T22:31:23 UTC+9
 author: kwaka1208
 layout: post
-permalink: /activatite-the-community/
+permalink: /note/activatite-the-community/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/05/people.jpg

@@ -4,7 +4,7 @@ title: 情報発信メディアとしてのWebの活用(その2:blogとSNS)
 date: 2013-01-15T17:00:43 UTC+9
 author: kwaka1208
 layout: post
-permalink: /use-web-as-media2/
+permalink: /note/use-web-as-media2/
 image:
   - ""
 seo_follow:

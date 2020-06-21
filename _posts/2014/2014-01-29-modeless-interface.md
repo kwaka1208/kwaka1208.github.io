@@ -4,7 +4,7 @@ title: モードを意識させないインターフェース
 date: 2014-01-29T22:53:26 UTC+9
 author: kwaka1208
 layout: post
-permalink: /modeless-interface/
+permalink: /note/modeless-interface/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/01/medium_5388860696.jpg

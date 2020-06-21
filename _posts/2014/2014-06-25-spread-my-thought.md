@@ -4,7 +4,7 @@ title: 自分を表現する決意
 date: 2014-06-25T12:59:53 UTC+9
 author: kwaka1208
 layout: post
-permalink: /spread-my-thought/
+permalink: /note/spread-my-thought/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/06/decide.jpg

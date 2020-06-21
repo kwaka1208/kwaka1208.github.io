@@ -4,7 +4,7 @@ title: 情報感度を高めるために実践すべき２つのこと
 date: 2013-09-30T12:57:15 UTC+9
 author: kwaka1208
 layout: post
-permalink: /sensitivity/
+permalink: /note/sensitivity/
 categories:
   - voice
 tags:

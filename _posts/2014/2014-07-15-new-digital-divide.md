@@ -4,7 +4,7 @@ title: 新種のデジタルディバイド？
 date: 2014-07-15T12:35:45 UTC+9
 author: kwaka1208
 layout: post
-permalink: /new-digital-divide/
+permalink: /note/new-digital-divide/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/07/medium_1455076844.jpg

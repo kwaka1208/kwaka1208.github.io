@@ -4,7 +4,7 @@ title: 'O&#8217;Reilly Ebook Store'
 date: 2013-07-05T12:50:23 UTC+9
 author: kwaka1208
 layout: post
-permalink: /oreilly-ebook-store/
+permalink: /note/oreilly-ebook-store/
 categories:
   - voice
 ---

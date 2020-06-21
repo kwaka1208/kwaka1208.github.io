@@ -4,7 +4,7 @@ title: 悪意のあるTwitterアカウントにご注意！
 date: 2014-01-19T09:54:04 UTC+9
 author: kwaka1208
 layout: post
-permalink: /notice-for-malicious-account/
+permalink: /note/notice-for-malicious-account/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/01/medium_6102173905.jpg

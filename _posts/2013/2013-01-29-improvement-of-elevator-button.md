@@ -4,7 +4,7 @@ title: エレベーターの開閉ボタン操作性改善案
 date: 2013-01-29T09:26:55 UTC+9
 author: kwaka1208
 layout: post
-permalink: /improvement-of-elevator-button/
+permalink: /note/improvement-of-elevator-button/
 categories:
   - for creators
 tags:

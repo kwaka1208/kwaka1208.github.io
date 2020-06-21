@@ -3,7 +3,7 @@ title: プログラミング教育と論理的思考の関係
 date: 2018-10-12T12:00:00 UTC+9
 author: kwaka1208
 layout: post
-permalink: /programming-education-and-logical-thinking
+permalink: /note/programming-education-and-logical-thinking
 attitude_sidebarlayout:
   - default
 categories:

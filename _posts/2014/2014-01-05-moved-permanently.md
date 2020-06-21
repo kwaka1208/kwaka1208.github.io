@@ -4,7 +4,7 @@ title: サーバーを引っ越しました
 date: 2014-01-05T14:19:27 UTC+9
 author: kwaka1208
 layout: post
-permalink: /moved-permanently/
+permalink: /note/moved-permanently/
 attitude_sidebarlayout:
   - default
 categories:

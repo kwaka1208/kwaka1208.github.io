@@ -4,7 +4,7 @@ title: SNSとプライバシー
 date: 2015-09-14T12:36:26 UTC+9
 author: kwaka1208
 layout: post
-permalink: /sns-and-privacy/
+permalink: /note/sns-and-privacy/
 attitude_sidebarlayout:
   - default
 categories:

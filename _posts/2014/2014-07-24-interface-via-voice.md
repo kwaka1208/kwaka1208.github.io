@@ -4,7 +4,7 @@ title: 音声によるインターフェース
 date: 2014-07-24T08:24:41 UTC+9
 author: kwaka1208
 layout: post
-permalink: /interface-via-voice/
+permalink: /note/interface-via-voice/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/07/medium_4164756091.jpg

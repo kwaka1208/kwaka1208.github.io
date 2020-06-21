@@ -4,7 +4,7 @@ title: 節電とインフラ構築のアイデア
 date: 2014-12-21T06:04:24 UTC+9
 author: kwaka1208
 layout: post
-permalink: /power-saving-and-improvement-of-life-infrastructure/
+permalink: /note/power-saving-and-improvement-of-life-infrastructure/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/12/medium_14884682980.jpg

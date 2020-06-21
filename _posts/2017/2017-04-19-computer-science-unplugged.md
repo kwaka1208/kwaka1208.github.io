@@ -3,7 +3,7 @@ title: コンピュータサイエンスアンプラグドに関する雑感
 date: 2017-04-19T00:00:00 UTC+9
 author: kwaka1208
 layout: post
-permalink: /computer-science-unplugged/
+permalink: /note/computer-science-unplugged/
 attitude_sidebarlayout:
   - default
 categories:

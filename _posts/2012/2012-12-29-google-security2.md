@@ -4,7 +4,7 @@ title: Googleサービスのセキュリティを強化する(その2:アプリ�
 date: 2012-12-29T10:49:11 UTC+9
 author: kwaka1208
 layout: post
-permalink: /google-security2/
+permalink: /note/google-security2/
 image:
   - ""
 seo_follow:

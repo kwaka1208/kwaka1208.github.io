@@ -4,7 +4,7 @@ title: 原型をつくる
 date: 2015-01-31T23:29:09 UTC+9
 author: kwaka1208
 layout: post
-permalink: /create-a-model/
+permalink: /note/create-a-model/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2015/01/walkman.jpg

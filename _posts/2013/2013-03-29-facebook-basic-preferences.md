@@ -4,7 +4,7 @@ title: Facebook初心者のための基本設定
 date: 2013-03-29T16:44:38 UTC+9
 author: kwaka1208
 layout: post
-permalink: /facebook-basic-preferences/
+permalink: /note/facebook-basic-preferences/
 categories:
   - for users
 tags:

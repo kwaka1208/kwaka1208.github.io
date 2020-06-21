@@ -4,7 +4,7 @@ title: 現代メッセージング考
 date: 2013-10-08T14:30:25 UTC+9
 author: kwaka1208
 layout: post
-permalink: /mail-and-message/
+permalink: /note/mail-and-message/
 categories:
   - voice
 tags:

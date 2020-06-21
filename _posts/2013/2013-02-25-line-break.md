@@ -4,7 +4,7 @@ title: スマートフォン時代のメールの改行
 date: 2013-02-25T19:43:34 UTC+9
 author: kwaka1208
 layout: post
-permalink: /line-break/
+permalink: /note/line-break/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2013/02/iPhone.jpg

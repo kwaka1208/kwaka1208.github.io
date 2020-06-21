@@ -4,7 +4,7 @@ title: あらためてのお知らせ
 date: 2013-10-14T21:46:31 UTC+9
 author: kwaka1208
 layout: post
-permalink: /announcement/
+permalink: /note/announcement/
 attitude_sidebarlayout:
   - default
 categories:

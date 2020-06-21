@@ -4,7 +4,7 @@ date: 2019-03-31T21:35:00 UTC+9
 author: kwaka1208
 layout: post
 image : assets/images/2019/unplugged.png
-permalink: /misunderstanding-about-unplugged
+permalink: /note/misunderstanding-about-unplugged
 attitude_sidebarlayout:
   - default
 categories:

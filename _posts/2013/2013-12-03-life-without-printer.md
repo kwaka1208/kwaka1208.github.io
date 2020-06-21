@@ -4,7 +4,7 @@ title: 脱プリンタ作戦
 date: 2013-12-03T22:38:07 UTC+9
 author: kwaka1208
 layout: post
-permalink: /life-without-printer/
+permalink: /note/life-without-printer/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2013/12/medium_2794943066.jpg

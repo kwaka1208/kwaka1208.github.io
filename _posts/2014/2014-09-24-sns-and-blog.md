@@ -4,7 +4,7 @@ title: 記録を残したいならFacebookよりblogを使うべき
 date: 2014-09-24T22:43:16 UTC+9
 author: kwaka1208
 layout: post
-permalink: /sns-and-blog/
+permalink: /note/sns-and-blog/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/09/diary.jpg

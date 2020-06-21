@@ -4,7 +4,7 @@ title: 安全で管理しやすいパスワードの作り方
 date: 2012-12-28T18:41:16 UTC+9
 author: kwaka1208
 layout: post
-permalink: /how-to-create-safe-password/
+permalink: /note/how-to-create-safe-password/
 image:
   - ""
 seo_follow:

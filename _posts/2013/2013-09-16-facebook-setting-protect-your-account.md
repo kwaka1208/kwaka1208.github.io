@@ -4,7 +4,7 @@ title: Facebook設定:Part2アカウントを守る
 date: 2013-09-16T13:55:30 UTC+9
 author: kwaka1208
 layout: post
-permalink: /facebook-setting-protect-your-account/
+permalink: /note/facebook-setting-protect-your-account/
 attitude_sidebarlayout:
   - default
 categories:

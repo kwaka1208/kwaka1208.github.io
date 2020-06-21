@@ -4,7 +4,7 @@ title: 子育てアプリハッカソンで優秀賞いただきました！
 date: 2015-03-05T08:31:17 UTC+9
 author: kwaka1208
 layout: post
-permalink: /code4ikoma-hackathon/
+permalink: /note/code4ikoma-hackathon/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2015/03/code4ikoma.jpg

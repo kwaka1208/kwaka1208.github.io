@@ -4,7 +4,7 @@ title: Maker Faire Tokyo 2015
 date: 2015-08-17T08:51:24 UTC+9
 author: kwaka1208
 layout: post
-permalink: /maker-faire-tokyo-2015/
+permalink: /note/maker-faire-tokyo-2015/
 attitude_sidebarlayout:
   - default
 categories:

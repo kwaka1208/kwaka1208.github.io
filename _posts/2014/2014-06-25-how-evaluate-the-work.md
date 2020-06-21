@@ -4,7 +4,7 @@ title: 成果を時間で評価しない働き方
 date: 2014-06-25T13:10:22 UTC+9
 author: kwaka1208
 layout: post
-permalink: /how-evaluate-the-work/
+permalink: /note/how-evaluate-the-work/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/06/work.jpg

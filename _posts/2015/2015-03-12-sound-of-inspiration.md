@@ -4,7 +4,7 @@ title: インスピレーションの音
 date: 2015-03-12T08:19:23 UTC+9
 author: kwaka1208
 layout: post
-permalink: /sound-of-inspiration/
+permalink: /note/sound-of-inspiration/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2015/03/idea.jpg

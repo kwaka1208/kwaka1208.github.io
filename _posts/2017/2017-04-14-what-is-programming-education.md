@@ -3,7 +3,7 @@ title: プログラミング教育と論理的思考
 date: 2017-04-14T00:00:00 UTC+9
 author: kwaka1208
 layout: post
-permalink: /what-is-programming-education/
+permalink: /note/what-is-programming-education/
 attitude_sidebarlayout:
   - default
 categories:

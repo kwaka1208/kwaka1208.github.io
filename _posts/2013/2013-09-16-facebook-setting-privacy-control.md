@@ -4,7 +4,7 @@ title: Facebook設定:Part1プライバシーをコントロールする
 date: 2013-09-16T11:42:10 UTC+9
 author: kwaka1208
 layout: post
-permalink: /facebook-setting-privacy-control/
+permalink: /note/facebook-setting-privacy-control/
 categories:
   - for users
 tags:

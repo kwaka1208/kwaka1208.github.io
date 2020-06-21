@@ -4,7 +4,7 @@ title: 「ブランド」って何だろう?
 date: 2013-04-28T21:59:56 UTC+9
 author: kwaka1208
 layout: post
-permalink: /what-is-brand/
+permalink: /note/what-is-brand/
 categories:
   - voice
 ---

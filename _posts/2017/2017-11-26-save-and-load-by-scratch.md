@@ -3,7 +3,7 @@ title: CoderDojo梅田でゲームのセーブとロードのロジックを作�
 date: 2017-11-26T22:00:00 UTC+9
 author: kwaka1208
 layout: post
-permalink: /save-and-load-by-scratch/
+permalink: /note/save-and-load-by-scratch/
 attitude_sidebarlayout:
   - default
 categories:

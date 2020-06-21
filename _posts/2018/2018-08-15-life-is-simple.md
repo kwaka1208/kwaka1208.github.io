@@ -3,7 +3,7 @@ title: THIS IS YOUR LIFE.
 date: 2018-08-15T08:18:00 UTC+9
 author: kwaka1208
 layout: post
-permalink: /this-is-your-life/
+permalink: /note/this-is-your-life/
 attitude_sidebarlayout:
   - default
 categories:

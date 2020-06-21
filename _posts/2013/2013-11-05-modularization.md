@@ -4,7 +4,7 @@ title: 「モジュール化」これからの機械のカタチ
 date: 2013-11-05T14:30:43 UTC+9
 author: kwaka1208
 layout: post
-permalink: /modularization/
+permalink: /note/modularization/
 attitude_sidebarlayout:
   - default
 categories:

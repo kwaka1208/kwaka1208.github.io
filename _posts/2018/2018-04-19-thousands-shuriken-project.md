@@ -3,7 +3,7 @@ title: Thousands Shuriken project（千枚手裏剣プロジェクト）
 date: 2018-04-19T23:59:59 UTC+9
 author: kwaka1208
 layout: post
-permalink: /thousands-shuriken-project/
+permalink: /note/thousands-shuriken-project/
 attitude_sidebarlayout:
   - default
 categories:

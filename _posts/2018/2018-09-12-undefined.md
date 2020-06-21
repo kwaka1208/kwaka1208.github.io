@@ -3,7 +3,7 @@ title: undefined
 date: 2018-09-12T20:30:00 UTC+9
 author: kwaka1208
 layout: post
-permalink: /undefined
+permalink: /note/undefined
 attitude_sidebarlayout:
   - default
 categories:

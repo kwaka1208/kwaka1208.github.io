@@ -4,7 +4,7 @@ title: 「IoT」の集合で実現するウェアラブルコンピューティ�
 date: 2015-02-03T23:47:31 UTC+9
 author: kwaka1208
 layout: post
-permalink: /componented-wearable-devices/
+permalink: /note/componented-wearable-devices/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2015/02/googleglass.jpg

@@ -4,7 +4,7 @@ title: 厳しすぎるパスワードポリシーは逆効果
 date: 2014-01-31T09:55:42 UTC+9
 author: kwaka1208
 layout: post
-permalink: /too-much-restriction-reduces-security/
+permalink: /note/too-much-restriction-reduces-security/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/01/medium_2175038829.jpg

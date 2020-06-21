@@ -4,7 +4,7 @@ title: スマートフォンで年賀状
 date: 2013-11-26T22:43:38 UTC+9
 author: kwaka1208
 layout: post
-permalink: /new-years-card/
+permalink: /note/new-years-card/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2013/11/small_2167028703.jpg

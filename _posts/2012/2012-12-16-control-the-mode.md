@@ -4,7 +4,7 @@ title: モードを扱う (Control the mode)
 date: 2012-12-16T07:54:09 UTC+9
 author: kwaka1208
 layout: post
-permalink: /control-the-mode/
+permalink: /note/control-the-mode/
 image:
   - ""
 seo_follow:

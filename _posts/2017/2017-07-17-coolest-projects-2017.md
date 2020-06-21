@@ -4,7 +4,7 @@ title: Coolest Projects 2017に行ってきました
 date: 2017-07-05T23:54:00 UTC+9
 author: kwaka1208
 layout: post
-permalink: /coolest-projects-2017/
+permalink: /note/coolest-projects-2017/
 attitude_sidebarlayout:
   - default
 categories:

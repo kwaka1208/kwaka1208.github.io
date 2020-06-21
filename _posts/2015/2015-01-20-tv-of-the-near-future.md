@@ -4,7 +4,7 @@ title: ミライノテレビ
 date: 2015-01-20T12:36:11 UTC+9
 author: kwaka1208
 layout: post
-permalink: /tv-of-the-near-future/
+permalink: /note/tv-of-the-near-future/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2015/01/medium_16035779290.jpg

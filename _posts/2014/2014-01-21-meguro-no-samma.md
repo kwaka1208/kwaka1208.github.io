@@ -4,7 +4,7 @@ title: 目黒のさんま
 date: 2014-01-21T23:09:18 UTC+9
 author: kwaka1208
 layout: post
-permalink: /meguro-no-samma/
+permalink: /note/meguro-no-samma/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/01/medium_2895754066.jpg

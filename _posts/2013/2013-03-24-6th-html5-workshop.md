@@ -4,7 +4,7 @@ title: 第6回HTML5など勉強会
 date: 2013-03-24T10:21:28 UTC+9
 author: kwaka1208
 layout: post
-permalink: /6th-html5-workshop/
+permalink: /note/6th-html5-workshop/
 categories:
   - voice
 ---

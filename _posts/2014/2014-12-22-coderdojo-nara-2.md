@@ -4,7 +4,7 @@ title: 第2回 CoderDojo奈良
 date: 2014-12-22T08:15:59 UTC+9
 author: kwaka1208
 layout: post
-permalink: /coderdojo-nara-2/
+permalink: /note/coderdojo-nara-2/
 attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/12/2014.12.21-CoderDojoNara.jpg
