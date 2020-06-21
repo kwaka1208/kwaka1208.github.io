@@ -13,7 +13,7 @@ twitter_username: "kwaka1208"
 comments: false 
 
 # Build settings
-permalink   : /note/
+permalink   : /note/title.html
 markdown    : kramdown
 highlighter : rouge
 
