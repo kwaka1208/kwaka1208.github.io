@@ -1,7 +1,7 @@
 # SEO settings
 title: "crossroads"
 title2: "" # default: ""
-description: "dot meets dot"
+description: "conneting the dots"
 keywords: "UX, IU, Interface, CoderDojo, Scratch"
 url: https://kwaka1208.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
@@ -27,7 +27,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Wakabayashi, Kenichi"
+  name     : "crossroads"
   job      : "developer"
   bio      : "I love self brewed coffee, bookstore, Starbucks, MUJI and good things."
   thumb    : /assets/images/author.png
