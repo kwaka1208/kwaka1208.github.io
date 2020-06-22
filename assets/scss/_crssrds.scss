@@ -17,10 +17,17 @@
 #top {
 	h2 {
 		display: flex;
-		justify-content: flex-start;
-		align-items: lex-start;
-		border: 1px solid #eeeeee;
+		justify-content: center;
+		align-items: flex-start;
+		border: 1px solid rgb(54, 57, 59);
 		border-radius: 6px;
 		padding: 15px;
+	 	box-shadow:
+			0 1.9px 2.5px rgba(0, 0, 0, 0.057),
+			0 5px 6.1px rgba(0, 0, 0, 0.076),
+			0 10.1px 11.4px rgba(0, 0, 0, 0.086),
+			0 19.2px 19.8px rgba(0, 0, 0, 0.092),
+			0 38.4px 34.8px rgba(0, 0, 0, 0.1),
+			0 101px 74px rgba(0, 0, 0, 0.13);
 	}
 }
