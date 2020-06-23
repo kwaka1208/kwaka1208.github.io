@@ -8,6 +8,7 @@ permalink: /aboutme/index.html
 attitude_sidebarlayout:
   - default
 ---
+<section id="aboutme">
 <img src="https://avatars.githubusercontent.com/{{ page.author }}" style="border-radius: 64px; width: 128px;">
 
 <div class="sns-icon">
@@ -18,12 +19,15 @@ attitude_sidebarlayout:
 </div>
 
 ## 専門性はありません。広く浅い人です
-長い間[某家電メーカー](http://www.sharp.co.jp/)でソフトウェアエンジニアや企画の仕事をやってました。古い人間で、組み込み（4bitマイコン、8bitマイコンの世界）から入りましたが、webとかもやってるので、いわゆる"IoT"の"I"と"T"の両方が（多分）わかります。静的web（いわゆるホームページ）1996年から自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。2014年に出会った[CoderDojo](https://coderdojo.com/)にどっぷりハマってて、休日のほとんどは[CoderDojo](https://coderdojo.com/)に関わってたりします。
-
-僕は何かを深めることはできないけど、どんなことでも一通りのことを消化するのはできるんですよね。とりあえず一通り取り込んで、それなりに理解して吸収することはできる。「***専門性は高くないけど、浅く広くやるのが得意***」それを生かして、色んなところの橋渡しができたらええなと。
-
-最近の関心事は「人」です、特に若い人。若い人が社会に出られるように育成し、そういった若い人たちが幸せに暮らせる社会の地ならしをしたいと思う今日この頃です。
-
+<p>
+	長い間<a href="https://jp.sharp/" target="_blank">シャープ株式会社</a>でソフトウェアエンジニアや企画の仕事をやってました。古い人間で、組み込み（4bitマイコン、8bitマイコンの世界）から入りましたが、webとかもやってるので、いわゆる"IoT"の"I"と"T"の両方が（多分）わかります。静的web（いわゆるホームページ）1996年から自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。2014年に出会った<a href="https://coderdojo.com/" target="_blank">CoderDojo</a>にどっぷりハマってて、休日のほとんどは<a href="https://coderdojo.com/" target="_blank">CoderDojo</a>に関わってたりします。
+</p>
+<p>
+	僕は何かを深めることはできないけど、どんなことでも一通りのことを消化するのはできるんですよね。とりあえず一通り取り込んで、それなりに理解して吸収することはできる。「<strong>専門性は高くないけど、浅く広くやるのが得意</strong>」それを生かして、色んなところの橋渡しができたらええなと。
+</p>
+<p>
+	最近の関心事は「人」です、特に若い人。若い人が社会に出られるように育成し、そういった若い人たちが幸せに暮らせる社会の地ならしをしたいと思う今日この頃です。
+</p>
 <h2>略歴</h2>
 若林健一 / kwaka1208
 大阪府出身、奈良県在住。
@@ -85,3 +89,4 @@ attitude_sidebarlayout:
 CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！（[紙版](https://amzn.to/35WZ8CX) / [Kindle版](https://amzn.to/2MtkKzn) / [iBooks版](http://bit.ly/ScratchDojo2)）
 
 <a href="https://amzn.to/35WZ8CX" alt="CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場" target="_blank"><img src="/assets/images/aboutme/scratch.png" style="width:300px; height:auto;"></a>
+</section>
