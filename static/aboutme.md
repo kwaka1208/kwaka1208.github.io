@@ -21,7 +21,7 @@ attitude_sidebarlayout:
 </div>
 
 <h2>自己紹介</h2>
-<span class="tag-line">専門性はありません。広く浅い人です</span>
+<span class="tag-line">専門性はありません、広く浅い人です</span>
 <p>
 	長い間<a href="https://jp.sharp/" target="_blank">シャープ株式会社</a>でソフトウェアエンジニアや企画の仕事をやってました。古い人間で、組み込み（4bitマイコン、8bitマイコンの世界）から入りましたが、webとかもやってるので、いわゆる"IoT"の"I"と"T"の両方が（多分）わかります。静的web（いわゆるホームページ）1996年から自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。2014年に出会った<a href="https://coderdojo.com/" target="_blank">CoderDojo</a>にどっぷりハマってて、休日のほとんどは<a href="https://coderdojo.com/" target="_blank">CoderDojo</a>に関わってたりします。
 </p>
