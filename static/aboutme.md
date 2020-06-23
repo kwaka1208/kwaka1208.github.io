@@ -59,7 +59,7 @@ attitude_sidebarlayout:
 	</li>
 <p>保有特許：CATV必須特許第3775937号</p>
 <h2>コミュニティ活動</h2>
-<h3>2014年</h3>
+<h3 class="history">2014年</h3>
 <ul>
 	<li>
 		<a href="https://kansai.wordcamp.org/2014/organizers/" target="_blank">
@@ -72,7 +72,7 @@ attitude_sidebarlayout:
 		</a>
 	</li>
 </ul>
-<h3>2015年</h3>
+<h3 class="history">2015年</h3>
 <ul>
 	<li>
 		<a href="https://kansai.wordcamp.org/2015/organizers/" target="_blank">
@@ -80,7 +80,7 @@ attitude_sidebarlayout:
 		</a>
 	</li>
 </ul>
-<h3>2016年</h3>
+<h3 class="history">2016年</h3>
 <ul>
 	<li>
 		<a href="https://dojocon2016.coderdojo.jp/" target="_blank">
@@ -93,7 +93,7 @@ attitude_sidebarlayout:
 		</a>
 	</li>
 </ul>
-<h3>2017年</h3>
+<h3 class="history">2017年</h3>
 <ul>
 	<li>
 		<a href="https://dojocon2017.coderdojo.jp/" target="_blank">
@@ -106,7 +106,7 @@ attitude_sidebarlayout:
 		</a>
 	</li>
 </ul>
-<h3>2018年</h3>
+<h3 class="history">2018年</h3>
 <ul>
 	<li>
 		<a href="https://coderdojo-nara-ikoma.github.io/" target="_blank">
@@ -119,7 +119,7 @@ attitude_sidebarlayout:
 		</a>
 	</li>
 </ul>
-<h3>2019年</h3>
+<h3 class="history">2019年</h3>
 <ul>
 	<li>
 		<a href="https://pgmsaloon4kids.github.io/kyoto/" target="_blank">
