@@ -16,6 +16,8 @@ attitude_sidebarlayout:
 	<a href="https://www.instagram.com/kwaka1208/" target="blank"><i class="fa fa-instagram"></i></a>
 	<a href="https://facebook.com/kwaka1208" target="blank"><i class="fa fa-facebook"></i></a>
 	<a href="https://www.pinterest.jp/kwaka1208/" target="blank"><i class="fa fa-pinterest"></i></a>
+	<a href="https://amzn.to/2s9Jwh5" target="blank"><i class="fa fa-amazon"></i></a>
+
 </div>
 
 <h2>自己紹介</h2>
@@ -40,10 +42,9 @@ attitude_sidebarlayout:
 </ul>
 <ul>
 	<li>情報セキュリティアドミニストレータ</li>
-	<li>[CoderDojo奈良代表、CoderDojo田原本共同代表、CoderDojo生駒創設者](/CoderDojo)</li>
-	<li>Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同オーガナイザー</li>
-	<li>一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー</li>
-	<li>Amazon著者ページ](https://amzn.to/2s9Jwh5)</li>
+	<li><a href="/CoderDojo" target="_blank">CoderDojo奈良代表、CoderDojo田原本共同代表、CoderDojo生駒創設者</a></li>
+	<li><a href="https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/" target="_blank">Kansai WordPress Meetup</a>共同オーガナイザー</li>
+	<li><a href="http://jactes.or.jp/" target="_blank">一般社団法人教育支援人材認証協会</a>認定こどもパートナー</li>
 </ul>
 
 <h2>開発に関わったもの</h2>
