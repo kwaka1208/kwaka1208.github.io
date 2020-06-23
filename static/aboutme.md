@@ -9,8 +9,8 @@ attitude_sidebarlayout:
   - default
 ---
 <section id="aboutme">
-<img src="https://avatars.githubusercontent.com/{{ page.author }}" style="border-radius: 64px; width: 128px;">
-<img src="/assets/images/aboutme/kwaka1208.png" style="border-radius: 64px; width: 128px;">
+<img src="https://avatars.githubusercontent.com/{{ page.author }}" class="profile_image">
+<img src="/assets/images/aboutme/kwaka1208.png" class="profile_image">
 
 <div class="sns-icon">
 	<a href="https://twitter.com/kwaka1208" target="blank"><i class="fa fa-twitter"></i></a>
