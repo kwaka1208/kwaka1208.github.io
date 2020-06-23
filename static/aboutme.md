@@ -19,7 +19,7 @@ attitude_sidebarlayout:
 </div>
 
 <h2>自己紹介</h2>
-<h3>専門性はありません。広く浅い人です</h3>
+<span class="tag-line">専門性はありません。広く浅い人です</span>
 <p>
 	長い間<a href="https://jp.sharp/" target="_blank">シャープ株式会社</a>でソフトウェアエンジニアや企画の仕事をやってました。古い人間で、組み込み（4bitマイコン、8bitマイコンの世界）から入りましたが、webとかもやってるので、いわゆる"IoT"の"I"と"T"の両方が（多分）わかります。静的web（いわゆるホームページ）1996年から自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。2014年に出会った<a href="https://coderdojo.com/" target="_blank">CoderDojo</a>にどっぷりハマってて、休日のほとんどは<a href="https://coderdojo.com/" target="_blank">CoderDojo</a>に関わってたりします。
 </p>
@@ -167,8 +167,10 @@ attitude_sidebarlayout:
 <p>
 	<a href="https://amzn.to/2tNuzS5" alt="mBotでものづくりをはじめよう" target="_blank"><img src="/assets/images/aboutme/mBot_for_Makers.png" style="width:300px; height:auto;"></a>
 </p>
+<h3>
+	<a href="https://amzn.to/35WZ8CX" target="_blank">CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場</a>
+</h3>
 <p>
-	<a href="https://amzn.to/35WZ8CX" target="_blank">CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場</a><br>
 	CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！<br>
 	<a href="https://amzn.to/35WZ8CX" target="_blank">紙版</a>/ <a href="https://amzn.to/2MtkKzn" target="_blank">Kindle版</a> / <a href="http://bit.ly/ScratchDojo2" target="_blank">iBooks版</a>
 </p>
