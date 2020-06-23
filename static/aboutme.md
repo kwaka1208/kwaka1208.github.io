@@ -24,7 +24,7 @@ attitude_sidebarlayout:
 
 最近の関心事は「人」です、特に若い人。若い人が社会に出られるように育成し、そういった若い人たちが幸せに暮らせる社会の地ならしをしたいと思う今日この頃です。
 
-## 略歴
+<h2>略歴</h2>
 若林健一 / kwaka1208
 大阪府出身、奈良県在住。
 学生時代は守口市で暮らし、就職を期に奈良へ移り住む。
@@ -39,13 +39,13 @@ attitude_sidebarlayout:
 - [Amazon著者ページ](https://amzn.to/2s9Jwh5)
 - [公開鍵](https://github.com/kwaka1208.keys)
 
-### 開発に関わったもの
+<h2>開発に関わったもの</h2>
 - [POSシステム UP-3500](http://www.sharpusa.com/ForBusiness/POSSolutions/PointOfSaleSystemsNew/Models/UP3500.aspx#overview)
 - [パーソナルサーバー Galileo](https://jp.sharp/galileo/)
 他にあるけど、リンク先がない。
 - 保有特許：CATV必須特許第3775937号
 
-## コミュニティ活動
+<h2>コミュニティ活動</h2>
 - 2014年
 	- [WordCamp Kansai 2014実行委員](https://kansai.wordcamp.org/2014/organizers)
 	- [CoderDojo奈良設立](https://coderdojo-nara-ikoma.github.io/)
@@ -67,11 +67,11 @@ attitude_sidebarlayout:
 	- [NASA Space App Challenges KUSHIMOTO 2019実行委員](https://space-apps-kushimoto.github.io/)
 	- [Maker Faire Tokyo 2019子どもプログラミング喫茶東京店店員](https://pgmsaloon4kids.github.io/)
 
-## 登壇履歴
+<h2>登壇履歴</h2>
 - [関西オープンフォーラム2018「CoderDojoの経験からみたコミュニティの未来」](https://k-of.jp/backend_2018/session/1216.html)
 - [Future Meeting ―これからの子どもたちに必要な学びとは ―](http://www.kansai-u.ac.jp/umeda/event-seminar/future-meeting/future-meeting181216.html)
 
-## 執筆活動
+<h2>執筆活動</h2>
 - [日刊デジタルクリエイターズ](http://bit.ly/dgcr_kwaka1208)  
 2013年9月から寄稿させていただいていたメルマガです。よかったら購読をお願いします。（2013年9月〜2015年6月、2016年1月～2017年2月、2018年9月〜現在）
 
