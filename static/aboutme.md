@@ -152,12 +152,16 @@ attitude_sidebarlayout:
 </ul>
 
 <h2>執筆活動</h2>
-<p>
+<h3>
 	<a href="http://bit.ly/dgcr_kwaka1208" target="_blank">日刊デジタルクリエイターズ</a><br>
+</h3>
+<p>
 	2013年9月から寄稿させていただいていたメルマガです。よかったら購読をお願いします。（2013年9月〜2015年6月、2016年1月～2017年2月、2018年9月〜現在）
 </p>
-<p>
+<h3>
 	<a href="https://amzn.to/2tNuzS5" target="_blank">mBotでものづくりをはじめよう</a><br>
+</h3>
+<p>
 	<a href="https://amzn.to/2ZmXcRP" target="_blank">"mBot for Makers"</a>の翻訳を担当しました。mBotをただの車型ロボットで終わらせず、ものづくりのプラットフォームとして活用する本です！
 </p>
 <p>
