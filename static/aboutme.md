@@ -57,6 +57,7 @@ attitude_sidebarlayout:
 	<li>
 		他にあるけど、リンク先がない...。
 	</li>
+</ul>
 <p>保有特許：CATV必須特許第3775937号</p>
 <h2>コミュニティ活動</h2>
 <h3 class="history">2014年</h3>
