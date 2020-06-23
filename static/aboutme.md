@@ -18,7 +18,8 @@ attitude_sidebarlayout:
 	<a href="https://www.pinterest.jp/kwaka1208/" target="blank"><i class="fa fa-pinterest"></i></a>
 </div>
 
-## 専門性はありません。広く浅い人です
+<h2>自己紹介</h2>
+<h3>専門性はありません。広く浅い人です</h3>
 <p>
 	長い間<a href="https://jp.sharp/" target="_blank">シャープ株式会社</a>でソフトウェアエンジニアや企画の仕事をやってました。古い人間で、組み込み（4bitマイコン、8bitマイコンの世界）から入りましたが、webとかもやってるので、いわゆる"IoT"の"I"と"T"の両方が（多分）わかります。静的web（いわゆるホームページ）1996年から自分のサイト立ててますが、最近はWordPressかJekyllを使ってることが多いです。2014年に出会った<a href="https://coderdojo.com/" target="_blank">CoderDojo</a>にどっぷりハマってて、休日のほとんどは<a href="https://coderdojo.com/" target="_blank">CoderDojo</a>に関わってたりします。
 </p>
@@ -29,64 +30,145 @@ attitude_sidebarlayout:
 	最近の関心事は「人」です、特に若い人。若い人が社会に出られるように育成し、そういった若い人たちが幸せに暮らせる社会の地ならしをしたいと思う今日この頃です。
 </p>
 <h2>略歴</h2>
-若林健一 / kwaka1208
-大阪府出身、奈良県在住。
-学生時代は守口市で暮らし、就職を期に奈良へ移り住む。
-大阪府立淀川工業高校(現：淀川工科高校)卒業後、[シャープ株式会社](https://jp.sharp/)に入社。
-2012年12月、26年6ヶ月間の勤務に終止符をうち、いくつかの企業を転々としたのち現在はフリーで活動中。2020年度より大阪ハイテクロジー専門学校 AI・ロボット専攻で非常勤講師としてプロジェクト型授業を担当。
-
-情報セキュリティアドミニストレータ、TOEIC775点（ただし10年以上前の参考スコア）
-
-- [CoderDojo奈良代表、CoderDojo田原本共同代表、CoderDojo生駒創設者](/CoderDojo)
-- [Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同オーガナイザー
-- [一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー
-- [Amazon著者ページ](https://amzn.to/2s9Jwh5)
-- [公開鍵](https://github.com/kwaka1208.keys)
+<p>
+	若林健一 / kwaka1208<br>
+	大阪府出身、奈良県在住<br>
+	学生時代は守口市で暮らし、就職を期に奈良へ移り住む。<br>
+	大阪府立淀川工業高校(現：淀川工科高校)卒業後、[シャープ株式会社](https://jp.sharp/)に入社。2012年12月、26年6ヶ月間の勤務に終止符をうち、いくつかの企業を転々としたのち現在はフリーで活動中。2020年度より大阪ハイテクロジー専門学校 AI・ロボット専攻で非常勤講師としてプロジェクト型授業を担当。
+</p>
+<ul>
+	<li>情報セキュリティアドミニストレータ</li>
+	<li>[CoderDojo奈良代表、CoderDojo田原本共同代表、CoderDojo生駒創設者](/CoderDojo)</li>
+	<li>Kansai WordPress Meetup](https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/)共同オーガナイザー</li>
+	<li>一般社団法人教育支援人材認証協会](http://jactes.or.jp/)認定こどもパートナー</li>
+	<li>Amazon著者ページ](https://amzn.to/2s9Jwh5)</li>
+</ul>
 
 <h2>開発に関わったもの</h2>
-- [POSシステム UP-3500](http://www.sharpusa.com/ForBusiness/POSSolutions/PointOfSaleSystemsNew/Models/UP3500.aspx#overview)
-- [パーソナルサーバー Galileo](https://jp.sharp/galileo/)
-他にあるけど、リンク先がない。
-- 保有特許：CATV必須特許第3775937号
-
+<ul>
+	<li>
+		<a href="http://www.sharpusa.com/ForBusiness/POSSolutions/PointOfSaleSystemsNew/Models/UP3500.aspx#overview" target="_blank">POSシステム UP-3500</a>
+	</li>
+	<li>
+		<a href="https://jp.sharp/galileo/" target="_blank">パーソナルサーバー Galileo</a>
+	</li>
+	<li>
+		他にあるけど、リンク先がない...。
+	</li>
+<p>保有特許：CATV必須特許第3775937号</p>
 <h2>コミュニティ活動</h2>
-- 2014年
-	- [WordCamp Kansai 2014実行委員](https://kansai.wordcamp.org/2014/organizers)
-	- [CoderDojo奈良設立](https://coderdojo-nara-ikoma.github.io/)
-- 2015年
-	- [WordCamp Kansai 2015実行委員](https://kansai.wordcamp.org/2015/organizers/)
-- 2016年
-	- [DojoCon Japan 2016副実行委員長](https://dojocon2016.coderdojo.jp/)
-	- [CoderDojo生駒設立](https://coderdojo-nara-ikoma.github.io/)
-- 2017年
-	- [DojoCon Japan 2017副実行委員長](https://dojocon2017.coderdojo.jp/)
-	- [NASA Space App Challenges 2017@Osaka実行委員](https://spaceappschallenge.space/home/)
-<!-- iframe style="width: 100%; max-width: 560px; height: auto;" src="https://www.youtube.com/embed/Cjv31P7O3O4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe -->
-- 2018年
-	- [CoderDojo田原本設立](https://coderdojo-tawaramoto.github.io/)
-	- [NASA Space App Challenges 2018@Osaka実行委員](https://spaceappschallenge.space/)
-
-- 2019年
-	- [Maker Faire Kyoto 2019子どもプログラミング喫茶京都店マスター](https://pgmsaloon4kids.github.io/kyoto/)
-	- [NASA Space App Challenges KUSHIMOTO 2019実行委員](https://space-apps-kushimoto.github.io/)
-	- [Maker Faire Tokyo 2019子どもプログラミング喫茶東京店店員](https://pgmsaloon4kids.github.io/)
-
+<h3>2014年</h3>
+<ul>
+	<li>
+		<a href="https://kansai.wordcamp.org/2014/organizers/" target="_blank">
+			WordCamp Kansai 2014実行委員
+		</a>
+	</li>
+	<li>
+		<a href="https://coderdojo-nara-ikoma.github.io/" target="_blank">
+			CoderDojo奈良設立
+		</a>
+	</li>
+</ul>
+<h3>2015年</h3>
+<ul>
+	<li>
+		<a href="https://kansai.wordcamp.org/2015/organizers/" target="_blank">
+			WordCamp Kansai 2015実行委員
+		</a>
+	</li>
+</ul>
+<h3>2016年</h3>
+<ul>
+	<li>
+		<a href="https://dojocon2016.coderdojo.jp/" target="_blank">
+			DojoCon Japan 2016副実行委員長
+		</a>
+	</li>
+	<li>
+		<a href="https://coderdojo-nara-ikoma.github.io/" target="_blank">
+			CoderDojo生駒設立
+		</a>
+	</li>
+</ul>
+<h3>2017年</h3>
+<ul>
+	<li>
+		<a href="https://dojocon2017.coderdojo.jp/" target="_blank">
+			DojoCon Japan 2017副実行委員長
+		</a>
+	</li>
+	<li>
+		<a href="https://spaceappschallenge.space/" target="_blank">
+			NASA Space App Challenges 2017@Osaka実行委員
+		</a>
+	</li>
+</ul>
+<h3>2018年</h3>
+<ul>
+	<li>
+		<a href="https://coderdojo-nara-ikoma.github.io/" target="_blank">
+			CoderDojo田原本設立
+		</a>
+	</li>
+	<li>
+		<a href="https://spaceappschallenge.space/" target="_blank">
+			NASA Space App Challenges 2018@Osaka実行委員
+		</a>
+	</li>
+</ul>
+<h3>2019年</h3>
+<ul>
+	<li>
+		<a href="https://pgmsaloon4kids.github.io/kyoto/" target="_blank">
+			Maker Faire Kyoto 2019子どもプログラミング喫茶京都店マスター
+		</a>
+	</li>
+	<li>
+		<a href="https://space-apps-kushimoto.github.io/" target="_blank">
+			NASA Space App Challenges KUSHIMOTO 2019実行委員]
+		</a>
+	</li>
+	<li>
+		<a href="https://pgmsaloon4kids.github.io/kyoto/" target="_blank">
+			Maker Faire Tokyo 2019子どもプログラミング喫茶東京店店員
+		</a>
+	</li>
+</ul>
 <h2>登壇履歴</h2>
-- [関西オープンフォーラム2018「CoderDojoの経験からみたコミュニティの未来」](https://k-of.jp/backend_2018/session/1216.html)
-- [Future Meeting ―これからの子どもたちに必要な学びとは ―](http://www.kansai-u.ac.jp/umeda/event-seminar/future-meeting/future-meeting181216.html)
+<ul>
+	<li>
+		<a href="https://k-of.jp/backend_2018/session/1216.html" target="_blank">
+			関西オープンフォーラム2018「CoderDojoの経験からみたコミュニティの未来」
+		</a>
+	</li>
+	<li>
+		<a href="http://www.kansai-u.ac.jp/umeda/event-seminar/future-meeting/future-meeting181216.html" target="_blank">
+			Future Meeting ―これからの子どもたちに必要な学びとは ―
+		</a>
+	</li>
+</ul>
 
 <h2>執筆活動</h2>
-- [日刊デジタルクリエイターズ](http://bit.ly/dgcr_kwaka1208)  
-2013年9月から寄稿させていただいていたメルマガです。よかったら購読をお願いします。（2013年9月〜2015年6月、2016年1月～2017年2月、2018年9月〜現在）
-
-- [mBotでものづくりをはじめよう](https://amzn.to/2tNuzS5)
-
-[mBot for Makers](https://amzn.to/2ZmXcRP)の翻訳を担当しました。mBotをただの車型ロボットで終わらせず、ものづくりのプラットフォームとして活用する本です！
-
-<a href="https://amzn.to/2tNuzS5" alt="mBotでものづくりをはじめよう" target="_blank"><img src="/assets/images/aboutme/mBot_for_Makers.png" style="width:300px; height:auto;"></a>
-
-- [CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場](https://amzn.to/35WZ8CX)
-CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！（[紙版](https://amzn.to/35WZ8CX) / [Kindle版](https://amzn.to/2MtkKzn) / [iBooks版](http://bit.ly/ScratchDojo2)）
-
-<a href="https://amzn.to/35WZ8CX" alt="CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場" target="_blank"><img src="/assets/images/aboutme/scratch.png" style="width:300px; height:auto;"></a>
+<p>
+	<a href="http://bit.ly/dgcr_kwaka1208" target="_blank">日刊デジタルクリエイターズ</a><br>
+	2013年9月から寄稿させていただいていたメルマガです。よかったら購読をお願いします。（2013年9月〜2015年6月、2016年1月～2017年2月、2018年9月〜現在）
+</p>
+<p>
+	<a href="https://amzn.to/2tNuzS5" target="_blank">mBotでものづくりをはじめよう</a><br>
+	<a href="https://amzn.to/2ZmXcRP" target="_blank">"mBot for Makers"</a>の翻訳を担当しました。mBotをただの車型ロボットで終わらせず、ものづくりのプラットフォームとして活用する本です！
+</p>
+<p>
+	<a href="https://amzn.to/2tNuzS5" alt="mBotでものづくりをはじめよう" target="_blank"><img src="/assets/images/aboutme/mBot_for_Makers.png" style="width:300px; height:auto;"></a>
+</p>
+<p>
+	<a href="https://amzn.to/35WZ8CX" target="_blank">CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場</a><br>
+	CoderDojoの有志メンバーでScratchの入門書を書きました。本屋さんで見かけたら手に取ってみてください。2019年5月23日に、Scratch3.0対応改訂版発売です！<br>
+	<a href="https://amzn.to/35WZ8CX" target="_blank">紙版</a>/ <a href="https://amzn.to/2MtkKzn" target="_blank">Kindle版</a> / <a href="http://bit.ly/ScratchDojo2" target="_blank">iBooks版</a>
+</p>
+<p>
+	<a href="https://amzn.to/35WZ8CX" alt="CoderDojo Japan公式ブック Scratch(スクラッチ)でつくる! たのしむ! プログラミング道場" target="_blank">
+		<img src="/assets/images/aboutme/scratch.png" style="width:300px; height:auto;">
+	</a>
+</p>
 </section>
