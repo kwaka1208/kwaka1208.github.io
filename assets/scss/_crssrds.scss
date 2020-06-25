@@ -83,6 +83,7 @@ footer{
 
 	}
 	.note {
+		display: block;
 		font-size: 0.8em;
 		:before {
 			content: "※";
@@ -90,7 +91,6 @@ footer{
 	}
 
 }
-
 
 #aboutme {
 	.profile_image {
