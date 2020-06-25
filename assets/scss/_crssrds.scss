@@ -31,13 +31,13 @@ footer{
 }
 
 .marker {
-	.pink {
+	&.pink {
 		background: linear-gradient(transparent 60%, #ff99cc 0%);
 	}
-	.orange {
+	&.orange {
 		background: linear-gradient(transparent 60%, #ffa500 0%);
 	}
-	.blue {
+	&.blue {
 		background: linear-gradient(transparent 60%, #99ccff 0%);
 	}
 }
