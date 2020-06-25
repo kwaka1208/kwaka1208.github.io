@@ -85,7 +85,7 @@ footer{
 	.note {
 		display: block;
 		font-size: 0.8em;
-		:before {
+		&:before {
 			content: "※";
 		}
 	}
