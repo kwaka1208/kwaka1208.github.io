@@ -41,8 +41,6 @@ author:
 og_locale: "ja_JP"
 twitter_card: "summary_large_image"
 twitter_site: "@kwaka1208"
-image_f: "/assets/images/sns/facebook.png"
-imgge_t: "/assets/images/sns/twitter.png"
 
 Plugin:
   - bourbon
