@@ -30,6 +30,9 @@ footer{
 	}
 }
 
+#organization,
+#selfemployed,
+#etc,
 #top {
 	h2 {
 		margin-top: 30px;
@@ -56,6 +59,8 @@ footer{
 	}
 
 	.more-link {
+		display: box;
+		width: 100%;
 		text-align: right;
 	}
 
