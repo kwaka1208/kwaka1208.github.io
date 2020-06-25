@@ -97,9 +97,6 @@ footer{
 		display: flex;
 		justify-content: flex-start;
 		align-items: center;
-		border: 1px solid rgb(54, 57, 59);
-		border-radius: 6px;
-		padding: 0.8em;
 		font-size: 1.2em;
 		line-height: 1.2em;
 		margin: 2em 0 1em 0;
@@ -126,16 +123,25 @@ footer{
 	}
 
 	.organization {
+		border: 1px solid rgb(54, 57, 59);
+		border-radius: 6px;
+		padding: 0.8em;
 		h2 {
 		}
 	}
 
 	.personal {
+		border: 1px solid rgb(54, 57, 59);
+		border-radius: 6px;
+		padding: 0.8em;
 		h2 {
 		}
 	}
 
 	.etc {
+		border: 1px solid rgb(54, 57, 59);
+		border-radius: 6px;
+		padding: 0.8em;
 		h2 {
 		}
 
