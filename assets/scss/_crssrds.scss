@@ -42,6 +42,13 @@ footer{
 	}
 }
 
+.profile_image {
+	width: 128px;
+	border-radius: 64px;
+	border: 1px solid rgb(54, 57, 59);
+	margin-right: 2em;
+}
+
 #organization,
 #selfemployed,
 #etc,
@@ -110,13 +117,6 @@ footer{
 }
 
 #aboutme {
-	.profile_image {
-		width: 128px;
-		border-radius: 64px;
-		border: 1px solid rgb(54, 57, 59);
-		margin-right: 2em;
-	}
-
 	h2 {
 		display: flex;
 		justify-content: center;
