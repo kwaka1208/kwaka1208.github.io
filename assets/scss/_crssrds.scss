@@ -32,15 +32,15 @@ footer{
 
 /* ボタン */
 .btn-border {
-  display: inline-block;
-  max-width: 100%;
-  text-align: left;
-  border: 2px solid #9ec34b;
+  display: block;
+  width: 100%;
+  text-align: center;
+  border: 2px solid #9ec34b !important;
   font-size: 1.5em;
   color: #9ec34b;
   text-decoration: none;
   font-weight: bold;
-  padding: 8px 16px;
+  padding: 8px 16px !important;
   border-radius: 6px;
   transition: .4s;
 }
@@ -76,12 +76,6 @@ footer{
 	}
 	.profile_main {
 		margin-top: 30px;
-	}
-	.aboutthissite {
-		margin-top: 60px;
-		a {
-			text-decoration: underline;
-		}
 	}
 }
 
