@@ -32,10 +32,10 @@ author:
   bio      : "I love self brewed coffee, bookstore, Starbucks, MUJI and good things."
   thumb    : /assets/images/author.png
   url      : https://crssrds.jp
-  github   : http://github.com/kwaka1208
-  twitter  : http://twitter.com/kwaka1208
+  github   : https://github.com/kwaka1208
+  twitter  : https://twitter.com/kwaka1208
   facebook : https://www.facebook.com/kwaka1208
-  linkedin : http://linkedin.com/in/kwaka1208
+  linkedin : https://linkedin.com/in/kwaka1208
 
 # social settings
 og_locale: "ja_JP"
