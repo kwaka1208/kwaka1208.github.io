@@ -31,7 +31,15 @@ footer{
 }
 
 .marker {
-	background: linear-gradient(transparent 60%, #ff99cc 0%);
+	.pink {
+		background: linear-gradient(transparent 60%, #ff99cc 0%);
+	}
+	.orange {
+		background: linear-gradient(transparent 60%, #ffa500 0%);
+	}
+	.blue {
+		background: linear-gradient(transparent 60%, #99ccff 0%);
+	}
 }
 
 #organization,
