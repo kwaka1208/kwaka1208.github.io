@@ -32,6 +32,7 @@ footer{
 
 #top {
 	h2 {
+		margin-top: 30px;
 
 	}
 	h3 {
@@ -48,6 +49,10 @@ footer{
 
 	ul {
 		margin: 0 15px;
+	}
+
+	li {
+		margin: 0 0 0 15px;
 	}
 
 	.more-link {
@@ -68,6 +73,9 @@ footer{
 		h2 {
 		}
 
+	}
+	.note {
+		font-size: 0.8em;
 	}
 
 }
