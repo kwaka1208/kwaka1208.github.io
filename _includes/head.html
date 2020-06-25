@@ -68,7 +68,7 @@
 {% endif %}
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:title" content="{{ page_title }}">
-  <meta property="og:image" content="{{ page_image }}">
+  <meta property="og:image" content="{{ page_image_f }}">
   <meta property="og:description" content="{{ page_description }}">
   <meta property="og:site_name" content="{{ site.author.name }}">
   <meta property="og:locale" content="{{ site.og_locale }}">
@@ -78,12 +78,7 @@
   <meta name="twitter:site" content="{{ site.twitter_site }}">
   <meta name="twitter:title" content="{{ page_title }}">
   <meta name="twitter:description" content="{{ page_description }}">
-  <meta name="twitter:image:src" content="{{ page_image }}">
-
-  <!-- Social: Google+ / Schema.org  -->
-  <meta itemprop="name" content="{{ page_title }}">
-  <meta itemprop="description" content="{{ page_description }}">
-  <meta itemprop="image" content="{{ page_image }}">
+  <meta name="twitter:image:src" content="{{ page_image_t }}">
 
   <!-- rel prev and next -->
   {% if paginator.previous_page %}
