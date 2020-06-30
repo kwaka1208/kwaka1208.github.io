@@ -1,6 +1,6 @@
 ---
 title: 老害ってなんだ
-date: 2020-06-23T18:06:00 UTC+9
+date: 2020-06-22T18:06:00 UTC+9
 author: kwaka1208
 layout: post
 permalink: /note/what-is-rougai
