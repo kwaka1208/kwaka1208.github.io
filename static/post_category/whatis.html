@@ -7,7 +7,7 @@ permalink: /note/whatis/
 <section class="post-list">
   <div class="container">
     {% for post in site.posts %}
-      {% if post.categories == this_category %}
+      {% if post.categories[0] == this_category %}
         {% unless post.next %}
           <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
         {% else %}
