@@ -3,7 +3,8 @@ layout: default
 ---
 <section class="post-list">
   <div class="container">
-    <h2>{{ page.title }}</h2>
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
     {% for post in site.posts %}
       {% if post.categories[0] == page.category %}
         {% unless post.next %}
