@@ -9,7 +9,7 @@ attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/02/GREEN_TU20140125500.png
 categories:
-  - for creators
+  - living_with_others
 tags:
   - モノづくり
   - 修正

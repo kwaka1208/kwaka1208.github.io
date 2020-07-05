@@ -9,7 +9,7 @@ attitude_sidebarlayout:
   - default
 image: /wp-content/uploads/2014/01/medium_2895754066.jpg
 categories:
-  - for creators
+  - living_with_others
 tags:
   - モノづくりの現場から
   - 自己保身
