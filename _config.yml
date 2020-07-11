@@ -46,7 +46,6 @@ Plugin:
   - bourbon
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-redirect-from
 
 # navbar pages
 navbar:
