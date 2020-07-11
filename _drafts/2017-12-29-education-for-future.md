@@ -1,7 +1,7 @@
 ---
 title: 未来の教育の形
 date: 2017-12-23T23:59:59 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /education-for-future/
 attitude_sidebarlayout:
