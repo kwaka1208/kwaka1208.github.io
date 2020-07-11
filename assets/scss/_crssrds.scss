@@ -226,14 +226,18 @@ footer{
 	}
 	.role {
 		text-transform: capitalize;
+		margin-bottom: 0;
 	}
 	.name {
 		font-size: 2em;
+		margin-bottom: 0;
 	}
 	.name_english {
 		text-transform: capitalize;
+		margin-bottom: 0;
 	}
 	.contact_info {
 		margin-top: 30px;
+		text-align: left;
 	}
 }
