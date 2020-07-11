@@ -205,17 +205,15 @@ footer{
 }
 
 #contact {
-	article {
-		text-align: center;
-	}
 	h2 {
-		margin-top: 0;
+		display: block;
+		margin: 0 auto;
 	}
 	img {
 		display: block;
 		max-width: 300px;
 		width: 100%;
 		height: auto;
-		margin-top: 15px;
+		margin: 15px auto 0 auto;
 	}
 }
