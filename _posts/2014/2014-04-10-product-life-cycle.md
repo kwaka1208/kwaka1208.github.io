@@ -2,7 +2,7 @@
 id: 1272
 title: 製品の寿命を考える
 date: 2014-04-10T12:40:48 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/product-life-cycle/
 attitude_sidebarlayout:

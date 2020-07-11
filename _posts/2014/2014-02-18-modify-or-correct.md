@@ -2,7 +2,7 @@
 id: 1177
 title: 変更と修正の適切な使い分け
 date: 2014-02-18T12:32:56 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/modify-or-correct/
 attitude_sidebarlayout:

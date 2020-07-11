@@ -2,7 +2,7 @@
 id: 1589
 title: インスピレーションの音
 date: 2015-03-12T08:19:23 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sound-of-inspiration/
 attitude_sidebarlayout:

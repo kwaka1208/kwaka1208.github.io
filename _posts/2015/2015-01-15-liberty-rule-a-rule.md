@@ -2,7 +2,7 @@
 id: 1518
 title: ルールを支配する自由
 date: 2015-01-15T08:34:08 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/liberty-rule-a-rule/
 attitude_sidebarlayout:

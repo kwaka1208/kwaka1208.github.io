@@ -2,7 +2,7 @@
 id: 529
 title: あらためてのお知らせ
 date: 2013-10-14T21:46:31 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/announcement/
 attitude_sidebarlayout:

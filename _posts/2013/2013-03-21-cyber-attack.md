@@ -2,7 +2,7 @@
 id: 387
 title: 初心者でも分かる韓国のサイバー攻撃でどんなことが起こったか?
 date: 2013-03-21T21:16:32 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/cyber-attack/
 attitude_sidebarlayout:

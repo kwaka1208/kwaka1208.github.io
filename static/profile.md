@@ -1,7 +1,7 @@
 ---
 title: Profile
 date: 2019-08-22T0:15:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: page
 permalink: /profile/index.html
 attitude_sidebarlayout:

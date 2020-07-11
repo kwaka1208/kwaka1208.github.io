@@ -1,7 +1,7 @@
 ---
 title: Pay for me
 date: 2020-02-18T12:45:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: page
 permalink: /payforme/kyash/
 attitude_sidebarlayout:

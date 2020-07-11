@@ -1,7 +1,7 @@
 ---
 title: イノベーションってなんだ
 date: 2020-06-27T014:33:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-innovation
 attitude_sidebarlayout:

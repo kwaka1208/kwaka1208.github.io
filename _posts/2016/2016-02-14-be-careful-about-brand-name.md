@@ -2,7 +2,7 @@
 id: 1780
 title: ブランド表記は正しく
 date: 2016-02-14T07:54:13 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/be-careful-about-brand-name/
 attitude_sidebarlayout:

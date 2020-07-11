@@ -1,7 +1,7 @@
 ---
 title: コンピュータサイエンスアンプラグドに関する雑感
 date: 2017-04-19T00:00:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/computer-science-unplugged/
 attitude_sidebarlayout:

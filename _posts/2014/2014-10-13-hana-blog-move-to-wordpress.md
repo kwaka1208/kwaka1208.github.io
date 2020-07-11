@@ -2,7 +2,7 @@
 id: 1438
 title: blogの移転をお手伝いしました。
 date: 2014-10-13T22:27:25 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/hana-blog-move-to-wordpress/
 attitude_sidebarlayout:

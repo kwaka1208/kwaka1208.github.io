@@ -2,7 +2,7 @@
 id: 1620
 title: 見たことのない組み合わせを
 date: 2015-04-12T14:47:53 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/the-pattern-that-you-have-never-seen/
 attitude_sidebarlayout:

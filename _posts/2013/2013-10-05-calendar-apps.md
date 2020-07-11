@@ -2,7 +2,7 @@
 id: 505
 title: 口コミで見つける、iOS7標準Appに代わるカレンダーApp
 date: 2013-10-05T06:41:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/calendar-apps/
 categories:

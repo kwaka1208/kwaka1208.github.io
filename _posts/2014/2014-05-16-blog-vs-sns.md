@@ -2,7 +2,7 @@
 id: 1299
 title: blogノススメ
 date: 2014-05-16T08:33:58 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/blog-vs-sns/
 attitude_sidebarlayout:

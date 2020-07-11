@@ -2,7 +2,7 @@
 id: 545
 title: ヒトに優しいキカイをつくる
 date: 2013-11-12T14:30:46 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/machines-for-human/
 image: /wp-content/uploads/2013/11/medium_6870614936.jpg

@@ -1,7 +1,7 @@
 ---
 title: DojoCon Japanの会場を選ぶ上で考えていたこと
 date: 2018-01-08T15:30:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/how-do-you-decide-the-venue/
 attitude_sidebarlayout:

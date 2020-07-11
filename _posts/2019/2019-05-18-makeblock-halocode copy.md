@@ -1,7 +1,7 @@
 ---
 title: 大卒以外の選択肢
 date: 2019-06-23T18:20:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 image : assets/images/2019/mfk2019.jpg
 permalink: /note/no-

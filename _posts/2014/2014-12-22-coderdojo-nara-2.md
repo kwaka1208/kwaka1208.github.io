@@ -2,7 +2,7 @@
 id: 1493
 title: 第2回 CoderDojo奈良
 date: 2014-12-22T08:15:59 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/coderdojo-nara-2/
 attitude_sidebarlayout:

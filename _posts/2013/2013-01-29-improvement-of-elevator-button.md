@@ -2,7 +2,7 @@
 id: 305
 title: エレベーターの開閉ボタン操作性改善案
 date: 2013-01-29T09:26:55 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/improvement-of-elevator-button/
 categories:

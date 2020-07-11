@@ -2,7 +2,7 @@
 id: 1559
 title: 「IoT」の集合で実現するウェアラブルコンピューティング
 date: 2015-02-03T23:47:31 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/componented-wearable-devices/
 attitude_sidebarlayout:

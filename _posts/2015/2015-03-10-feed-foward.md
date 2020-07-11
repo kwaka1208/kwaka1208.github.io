@@ -1,7 +1,7 @@
 ---
 title: 「使いやすい」を生み出すための工夫
 date: 2015-03-10T12:36:11 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/feed-foward/
 attitude_sidebarlayout:

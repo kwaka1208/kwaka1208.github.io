@@ -1,7 +1,7 @@
 ---
 title: 今「教育×アナログゲーム」が熱い！〜教育ゲーミングを体験しよう！@奈良女子大学
 date: 2018-11-24T10:00:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 image : /assets/images/2018/2018.11.23/gachikan.jpg
 permalink: /note/analog-game-x-education

@@ -2,7 +2,7 @@
 id: 1374
 title: 新種のデジタルディバイド？
 date: 2014-07-15T12:35:45 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/new-digital-divide/
 attitude_sidebarlayout:

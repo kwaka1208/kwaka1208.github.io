@@ -2,7 +2,7 @@
 id: 1576
 title: 子育てアプリハッカソンで優秀賞いただきました！
 date: 2015-03-05T08:31:17 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/code4ikoma-hackathon/
 attitude_sidebarlayout:

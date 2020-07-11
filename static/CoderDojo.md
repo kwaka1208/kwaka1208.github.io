@@ -1,7 +1,7 @@
 ---
 title: About CoderDojo
 date: 2018-11-01T00:00:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: page
 permalink: /CoderDojo/index.html
 attitude_sidebarlayout:

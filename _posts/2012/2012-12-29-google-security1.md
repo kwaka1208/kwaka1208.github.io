@@ -2,7 +2,7 @@
 id: 188
 title: Googleサービスのセキュリティを強化する(その1:二段階認証の設定)
 date: 2012-12-29T07:05:21 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/google-security1/
 image:

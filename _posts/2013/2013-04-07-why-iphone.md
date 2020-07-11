@@ -2,7 +2,7 @@
 id: 427
 title: 'iPhoneを好きになる理由。- Why you&#8217;ll love an iPhone &#8211;'
 date: 2013-04-07T16:48:06 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/why-iphone/
 categories:

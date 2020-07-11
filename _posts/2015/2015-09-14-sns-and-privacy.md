@@ -2,7 +2,7 @@
 id: 1727
 title: SNSとプライバシー
 date: 2015-09-14T12:36:26 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sns-and-privacy/
 attitude_sidebarlayout:

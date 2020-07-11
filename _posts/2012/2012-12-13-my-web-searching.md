@@ -2,7 +2,7 @@
 id: 9
 title: 私流Web検索
 date: 2012-12-13T06:30:06 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/my-web-searching/
 image:

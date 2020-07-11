@@ -2,7 +2,7 @@
 id: 1130
 title: モードを意識させないインターフェース
 date: 2014-01-29T22:53:26 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/modeless-interface/
 attitude_sidebarlayout:

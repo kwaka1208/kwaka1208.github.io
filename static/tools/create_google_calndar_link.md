@@ -1,7 +1,7 @@
 ---
 title: Create Google Calendar 
 date: 2017-5-3T17:00:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: page
 permalink: /tools/create-google-calndar-link.html
 attitude_sidebarlayout:

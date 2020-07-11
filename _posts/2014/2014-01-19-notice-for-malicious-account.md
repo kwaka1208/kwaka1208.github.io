@@ -2,7 +2,7 @@
 id: 1045
 title: 悪意のあるTwitterアカウントにご注意！
 date: 2014-01-19T09:54:04 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/notice-for-malicious-account/
 attitude_sidebarlayout:

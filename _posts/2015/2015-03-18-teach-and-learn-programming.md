@@ -2,7 +2,7 @@
 id: 1598
 title: プログラミングを学ぶ、教える
 date: 2015-03-18T08:32:07 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/teach-and-learn-programming/
 attitude_sidebarlayout:

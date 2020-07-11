@@ -2,7 +2,7 @@
 id: 464
 title: 'O&#8217;Reilly Ebook Store'
 date: 2013-07-05T12:50:23 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/oreilly-ebook-store/
 categories:

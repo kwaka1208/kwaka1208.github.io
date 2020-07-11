@@ -2,7 +2,7 @@
 id: 1100
 title: 'オライリー本を買うなら、本家O&#8217;Reilly Mediaが良い理由'
 date: 2014-01-23T22:50:55 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/why-i-recommend-oreilly-media/
 attitude_sidebarlayout:

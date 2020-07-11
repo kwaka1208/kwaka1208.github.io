@@ -2,7 +2,7 @@
 id: 1413
 title: 「Appleらしさ」とは
 date: 2014-09-24T00:15:24 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-apple/
 attitude_sidebarlayout:

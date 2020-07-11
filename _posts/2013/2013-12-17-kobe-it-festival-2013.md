@@ -2,7 +2,7 @@
 id: 570
 title: '神戸ITフェスティバル2013 &#8211; 自慢したくなるスゴいIT &#8211;'
 date: 2013-12-17T05:31:23 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/kobe-it-festival-2013/
 attitude_sidebarlayout:

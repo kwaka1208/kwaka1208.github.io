@@ -2,7 +2,7 @@
 id: 1242
 title: トイレのユーザーインターフェース
 date: 2014-02-25T12:33:11 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/user-interface-of-toilet/
 attitude_sidebarlayout:

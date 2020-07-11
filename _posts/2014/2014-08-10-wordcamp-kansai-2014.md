@@ -2,7 +2,7 @@
 id: 1385
 title: WordCamp Kansai 2014に実行委員として参加しました。
 date: 2014-08-10T00:56:51 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/wordcamp-kansai-2014/
 attitude_sidebarlayout:

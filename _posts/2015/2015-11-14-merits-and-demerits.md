@@ -2,7 +2,7 @@
 id: 1742
 title: 功罪
 date: 2015-11-14T23:33:55 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/merits-and-demerits/
 attitude_sidebarlayout:

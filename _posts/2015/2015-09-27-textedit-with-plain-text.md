@@ -2,7 +2,7 @@
 id: 1733
 title: 「テキストエディット」は「標準フォーマット」で使おう
 date: 2015-09-27T23:51:57 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/textedit-with-plain-text/
 attitude_sidebarlayout:

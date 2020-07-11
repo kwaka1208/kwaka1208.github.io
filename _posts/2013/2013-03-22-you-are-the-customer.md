@@ -2,7 +2,7 @@
 id: 390
 title: 「お客様目線」は他人ごとじゃなくて自分ごとで
 date: 2013-03-22T07:51:17 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/you-are-the-customer/
 attitude_sidebarlayout:

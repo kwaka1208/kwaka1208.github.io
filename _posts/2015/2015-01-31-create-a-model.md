@@ -2,7 +2,7 @@
 id: 1542
 title: 原型をつくる
 date: 2015-01-31T23:29:09 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/create-a-model/
 attitude_sidebarlayout:

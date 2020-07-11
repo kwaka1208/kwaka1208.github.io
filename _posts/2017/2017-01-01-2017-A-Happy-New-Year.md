@@ -1,7 +1,7 @@
 ---
 title: Happy New Year 2017
 date: 2017-01-01T00:00:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/a-happy-new-year-2017/
 attitude_sidebarlayout:

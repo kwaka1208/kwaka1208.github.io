@@ -2,7 +2,7 @@
 id: 1481
 title: 節電とインフラ構築のアイデア
 date: 2014-12-21T06:04:24 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/power-saving-and-improvement-of-life-infrastructure/
 attitude_sidebarlayout:

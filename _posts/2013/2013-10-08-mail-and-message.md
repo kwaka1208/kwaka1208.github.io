@@ -2,7 +2,7 @@
 id: 516
 title: 現代メッセージング考
 date: 2013-10-08T14:30:25 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/mail-and-message/
 categories:

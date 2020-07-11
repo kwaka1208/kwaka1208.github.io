@@ -2,7 +2,7 @@
 id: 495
 title: Facebook設定:Part2アカウントを守る
 date: 2013-09-16T13:55:30 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-setting-protect-your-account/
 attitude_sidebarlayout:

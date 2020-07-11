@@ -2,7 +2,7 @@
 id: 1172
 title: モードを意識するインターフェース
 date: 2014-02-10T06:36:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/modal-interface/
 attitude_sidebarlayout:

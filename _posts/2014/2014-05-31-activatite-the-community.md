@@ -2,7 +2,7 @@
 id: 1329
 title: コミュニティを活性化する
 date: 2014-05-31T22:31:23 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/activatite-the-community/
 attitude_sidebarlayout:

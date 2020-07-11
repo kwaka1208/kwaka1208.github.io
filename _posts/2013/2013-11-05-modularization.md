@@ -2,7 +2,7 @@
 id: 537
 title: 「モジュール化」これからの機械のカタチ
 date: 2013-11-05T14:30:43 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/modularization/
 attitude_sidebarlayout:

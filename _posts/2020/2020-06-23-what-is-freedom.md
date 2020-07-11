@@ -1,7 +1,7 @@
 ---
 title: 自由ってなんだ
 date: 2020-06-23T06:03:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-freedom
 attitude_sidebarlayout:

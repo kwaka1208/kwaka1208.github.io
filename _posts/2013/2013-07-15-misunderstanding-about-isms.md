@@ -2,7 +2,7 @@
 id: 462
 title: 「情報セキュリティ」に関する誤解
 date: 2013-07-15T18:38:43 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/misunderstanding-about-isms/
 categories:

@@ -2,7 +2,7 @@
 id: 1296
 title: Firefox Developers Conference 2014 in Kyoto
 date: 2014-05-04T09:28:22 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/firefox-developers-conference-2014-in-kyoto/
 attitude_sidebarlayout:

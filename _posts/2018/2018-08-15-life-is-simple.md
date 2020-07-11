@@ -1,7 +1,7 @@
 ---
 title: THIS IS YOUR LIFE.
 date: 2018-08-15T08:18:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/this-is-your-life/
 attitude_sidebarlayout:

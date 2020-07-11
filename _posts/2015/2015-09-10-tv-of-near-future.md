@@ -2,7 +2,7 @@
 id: 1719
 title: 私の考える未来のテレビ
 date: 2015-09-10T12:46:45 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/tv-of-near-future/
 attitude_sidebarlayout:

@@ -2,7 +2,7 @@
 id: 174
 title: 安全で管理しやすいパスワードの作り方
 date: 2012-12-28T18:41:16 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/how-to-create-safe-password/
 image:

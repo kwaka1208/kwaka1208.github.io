@@ -1,7 +1,7 @@
 ---
 title: なぜプログラミング教育が必要なのか
 date: 2017-07-05T23:54:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/why-do-we-have-to-learn-programming/
 attitude_sidebarlayout:

@@ -2,7 +2,7 @@
 id: 411
 title: 「ブランド」って何だろう?
 date: 2013-04-28T21:59:56 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-brand/
 categories:

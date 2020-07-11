@@ -2,7 +2,7 @@
 id: 1587
 title: プログラミングの魅力を語ろう！～いま目指している人、どんな世界か知りたい人へ～
 date: 2015-03-05T23:52:47 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/seminar-matsumoto-yukihiro/
 attitude_sidebarlayout:

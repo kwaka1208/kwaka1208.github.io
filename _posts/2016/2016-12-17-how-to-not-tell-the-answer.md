@@ -2,7 +2,7 @@
 id: 1810
 title: 答えを教えないためのたったひとつの法則
 date: 2016-12-17T14:26:50 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/how-to-not-tell-the-answer/
 attitude_sidebarlayout:

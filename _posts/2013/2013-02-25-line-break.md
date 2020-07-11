@@ -2,7 +2,7 @@
 id: 367
 title: スマートフォン時代のメールの改行
 date: 2013-02-25T19:43:34 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/line-break/
 attitude_sidebarlayout:

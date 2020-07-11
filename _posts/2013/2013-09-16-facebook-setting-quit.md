@@ -2,7 +2,7 @@
 id: 498
 title: Facebook設定:Part3 Facebookをやめる
 date: 2013-09-16T15:25:59 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-setting-quit/
 categories:

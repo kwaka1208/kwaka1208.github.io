@@ -2,7 +2,7 @@
 id: 1391
 title: 音声によるインターフェース
 date: 2014-07-24T08:24:41 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/interface-via-voice/
 attitude_sidebarlayout:

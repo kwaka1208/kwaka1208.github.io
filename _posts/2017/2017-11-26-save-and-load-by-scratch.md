@@ -1,7 +1,7 @@
 ---
 title: CoderDojo梅田でゲームのセーブとロードのロジックを作った話
 date: 2017-11-26T22:00:00 UTC+9
-author: kwaka1208
+author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/save-and-load-by-scratch/
 attitude_sidebarlayout:
