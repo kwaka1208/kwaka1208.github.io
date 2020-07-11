@@ -205,6 +205,9 @@ footer{
 }
 
 #contact {
+	article {
+		text-align: center;
+	}
 	h2 {
 		margin-top: 0;
 	}
@@ -213,6 +216,6 @@ footer{
 		max-width: 300px;
 		width: 100%;
 		height: auto;
-		margin: 30px auto;
+		margin-top: 15px;
 	}
 }
