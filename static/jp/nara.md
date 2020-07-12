@@ -35,3 +35,12 @@ attitude_sidebarlayout:
 - [COFFEE STAND moi + i.m.oDesign(@moi.imodesign) • Instagram](https://www.instagram.com/moi.imodesign/?hl=ja)
 - [ROKUMEI COFFEE CO.](https://www.rococo-coffee.co.jp/)
 - [珈琲豆蔵](https://goo.gl/maps/GQj7d68vN4EVGEmS7)
+
+## 宿泊
+- [天川村ゲストハウス POST INN](https://www.facebook.com/post.inn.tenkawa/)
+
+## コワーキングスペース・シェアオフィス
+- [BONCHI](https://bonchi.fun/)
+- [イコマド](https://ikoma-do.com/)
+- [奈良サテライトオフィス35](https://narasatellite35.jp/)
+
