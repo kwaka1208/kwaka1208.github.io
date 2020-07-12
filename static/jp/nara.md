@@ -3,7 +3,7 @@ title: なら情報まとめ
 date: 2020-07-11T12:31:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: page
-permalink: /nara/index.html
+permalink: /nara/
 attitude_sidebarlayout:
   - default
 ---
