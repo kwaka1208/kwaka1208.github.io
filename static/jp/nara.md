@@ -38,6 +38,7 @@ attitude_sidebarlayout:
 
 ## 宿泊
 - [天川村ゲストハウス POST INN](https://www.facebook.com/post.inn.tenkawa/)
+- [あすかで民泊](http://asuka-minpaku.com/)
 
 ## コワーキングスペース・シェアオフィス
 - [BONCHI](https://bonchi.fun/)
