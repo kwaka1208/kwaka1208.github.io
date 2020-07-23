@@ -9,7 +9,7 @@ attitude_sidebarlayout:
 categories:
   - note
 ---
-「[初心者ライター勉強会](https://ayaynaririri.wixsite.com/writer-studymtg)」という勉強会に参加しました。
+7月20日（月）「[初心者ライター勉強会](https://ayaynaririri.wixsite.com/writer-studymtg)」という勉強会に参加しました。
 
 この勉強会はライターになりたて、もしくはこれからライターの仕事を始めようという方のために、現在ライターとして活動している有志のみなさんによって企画・運営されているものです。
 
@@ -17,7 +17,7 @@ categories:
 
 ## 勉強会の概要
 
-勉強会の内容は、大きく次の２つで構成されています。
+勉強会はZoomを使ったオンライン開催で、内容は大きく次の２つで構成されています。
 
 1. ライターのためのSEOの知識
 2. 文章を書く上での基礎知識
