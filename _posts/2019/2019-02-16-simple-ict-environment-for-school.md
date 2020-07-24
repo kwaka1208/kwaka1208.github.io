@@ -3,7 +3,6 @@ title: 学校には特定のソフトウェアに依存しないICT環境が必�
 date: 2019-02-16T10:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
-image : /assets/images/2018/2018.11.23/gachikan.jpg
 permalink: /note/simple-ict-environment-for-school
 attitude_sidebarlayout:
   - default

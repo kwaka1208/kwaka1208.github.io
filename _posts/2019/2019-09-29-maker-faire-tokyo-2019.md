@@ -3,7 +3,7 @@ title: Maker Faire Tokyo 2019で子どもプログラミング喫茶やってき
 date: 2019-09-29T09:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
-image : assets/images/2019/mft2019a.jpg
+image : /assets/images/2019/mft2019a.jpg
 permalink: /note/maker-faire-tokyo-2019
 attitude_sidebarlayout:
   - default
