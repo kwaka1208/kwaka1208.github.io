@@ -13,10 +13,6 @@ footer{
 	width: 100%;
 }
 
-h2 {
-	margin-top: 2em;
-}
-
 #post {
 	.title_image {
 		width: 100%;
@@ -27,6 +23,10 @@ h2 {
 
 	h1.post-title {
 		margin-bottom: 0;
+	}
+
+	h2 {
+		margin-top: 2em;
 	}
 
 	.post-meta {
