@@ -13,24 +13,27 @@ footer{
 	width: 100%;
 }
 
-.title_image {
-	width: 100%;
-	height: auto;
-	max-height: 300px;
-	object-fit: cover;
+#id {
+	.title_image {
+		width: 100%;
+		height: auto;
+		max-height: 300px;
+		object-fit: cover;
+	}
+
+	h1.post-title {
+		margin-bottom: 0;
+	}
+
+	.post-meta {
+		margin-bottom: 1em;
+	}
+
+	article.post h2 {
+		margin-top: 2em;
+	}
 }
 
-h1.post-title {
-	margin-bottom: 0;
-}
-
-.post-meta {
-	margin-bottom: 1em;
-}
-
-article.post h2 {
-	margin-top: 2em;
-}
 
 .midashi {
   padding: 15px 10px;
