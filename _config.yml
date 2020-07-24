@@ -54,4 +54,7 @@ navbar:
   - slug : blog
     title: Blog
 
+kramdown:
+  auto_ids          : false
+
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
