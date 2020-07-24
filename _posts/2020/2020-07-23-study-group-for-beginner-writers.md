@@ -39,6 +39,6 @@ categories:
 
 ## 職業ライターを目指す方にはおすすめ
 
-今後も継続的に開催されるようですので、内容を詳しく知りたい方は[初心者ライター勉強会のwebサイト](https://ayaynaririri.wixsite.com/writer-studymtg)をチェックしたり、主宰である[成澤あや子さんのTwitter](https://twitter.com/ayk_031)のフォローしておくと良いでしょう。
+今後も継続的に開催されるようですので、内容を詳しく知りたい方は[初心者ライター勉強会のwebサイト](https://ayaynaririri.wixsite.com/writer-studymtg)をチェックしたり、主宰である[成澤あや子さんのTwitter](https://twitter.com/ayk_031)をフォローしておくと良いでしょう。
 
 仕事としてライターになりたい、自分の仕事やプロジェクトなどで情報発信をしていくためにライティングのスキルを身につけたいという方にはおすすめの勉強会でした。
