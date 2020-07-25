@@ -1,5 +1,4 @@
 ---
-id: 19
 title: Facebookの挙動不審(の一部)を改善する:Facebookアプリの削除
 date: 2012-12-13T06:55:56 UTC+9
 author: Wakabayashi, Kenichi

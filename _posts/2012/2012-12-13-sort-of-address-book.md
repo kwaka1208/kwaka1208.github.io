@@ -1,5 +1,4 @@
 ---
-id: 25
 title: iPhoneやMacの連絡先をアルファベット順に並べる
 date: 2012-12-13T07:00:09 UTC+9
 author: Wakabayashi, Kenichi
