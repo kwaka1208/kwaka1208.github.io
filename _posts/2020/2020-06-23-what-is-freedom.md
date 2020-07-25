@@ -4,6 +4,7 @@ date: 2020-06-23T06:03:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-freedom
+image : /assets/images/2020/what-is-freedom.png
 attitude_sidebarlayout:
   - default
 categories:
