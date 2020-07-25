@@ -10,7 +10,7 @@ attitude_sidebarlayout:
 categories:
   - education event
 ---
-2018年11月23日、奈良女子大学で開催された[今「教育×アナログゲーム」が熱い！〜教育ゲーミングを体験しよう！](https://educational-gaming.wixsite.com/symposium2018)というイベントに参加してきました。
+2018年11月23日、奈良女子大学で開催された[今「教育×アナログゲーム」が熱い！〜教育ゲーミングを体験しよう！](https://educational-gaming.wixsite.com/symposium2018){:target="_blank"}というイベントに参加してきました。
 
 イベントは午前と午後に分かれ、午前はアナログゲームを教育に取り入れている各大学の先生方の自己紹介を兼ねた事例紹介、同じ先生方パネルディスカッション。午後は紹介のあった各ゲームを実際にプレイしたり、自分で新しいゲームを企画・製作できる場が用意されていました。企画・製作の方は、基本的な考え方を指導してくださり、それに基づいてシナリオを作りゲームのマテリアルを製作します。マテリアルを製作するための素材も用意してくださっていました。
 
@@ -19,13 +19,13 @@ categories:
 「ロールプレイングゲーム」というと「ドラゴンクエスト」が有名ですが、ドラゴンクエストは自分が勇者としてゲームの世界を冒険するゲームであり、勇者という役割（"Role"）を体験するゲームというわけです。
 ですので、今回紹介されたゲームはほぼすべて「ロールプレイングゲーム」と理解しています。
 
-- [環境をトークでバトルする！「がちかん」](http://www.e.ics.nara-wu.ac.jp/~nalab/gachi-can_3.html)
-- [まちを面白くするアイディアを考えよう！「メイキット」](http://makeit-kotohira.strikingly.com/)
+- [環境をトークでバトルする！「がちかん」](http://www.e.ics.nara-wu.ac.jp/~nalab/gachi-can_3.html){:target="_blank"}
+- [まちを面白くするアイディアを考えよう！「メイキット」](http://makeit-kotohira.strikingly.com/){:target="_blank"}
 - 空き家を解消しよう！「今日から僕も行政官Lite」
-- [細胞を育成しよう！「幹細胞研究やってみよう！」](http://www.icems.kyoto-u.ac.jp/j/pr/2015/10/07-nr.html)
-- [縦割り組織で生き抜く力を育てろ！「TATEWARI」](http://www.cosaic.co.jp/games/tatewari.html)  
-このゲームは[Amazon](https://amzn.to/2TJNWEi)で買える！
-- [宇宙開発を体験！「PERITUS-Strategy for Space Mission」](http://site.icee.tottori-u.ac.jp/tusep/peritus/)
+- [細胞を育成しよう！「幹細胞研究やってみよう！」](http://www.icems.kyoto-u.ac.jp/j/pr/2015/10/07-nr.html){:target="_blank"}
+- [縦割り組織で生き抜く力を育てろ！「TATEWARI」](http://www.cosaic.co.jp/games/tatewari.html){:target="_blank"}  
+このゲームは[Amazon](https://amzn.to/2TJNWEi){:target="_blank"}で買える！
+- [宇宙開発を体験！「PERITUS-Strategy for Space Mission」](http://site.icee.tottori-u.ac.jp/tusep/peritus/){:target="_blank"}
 
 それを言ったら「インベーダー」だって地球を侵略するインベーダーと戦う地球防衛軍という役割を体験する、という意味で「ロールプレイングゲーム」と呼べるように思われるかもしれませんが、一般的に「ロールプレイングゲーム」とは詳細なシナリオが用意されていて、ゲームの進行がある程度プレイヤーの裁量に任されているものをいいます。
 
@@ -37,19 +37,19 @@ categories:
 それを参照し当日の発言を反映してさらにコメントを重ねていくというやり方だったので、一般的なパネルディスカッションよりも効率がよく分かりやすい進行だったと思います。パネルディスカッションって、パネラーの紹介の後テーマに対するトークがちらっと入った後、司会があらかじめ用意した結論に無理やりまとめるみたいなことが多いのですが、今回のこのやり方は各パネラーさんの意見がしっかり知ることができて良かったと思います。
 
 ## 午後の部
-私が試遊したのは、[「がちかん」](http://www.e.ics.nara-wu.ac.jp/~nalab/gachi-can_3.html)と[「PERITUS-Strategy for Space Mission」](http://site.icee.tottori-u.ac.jp/tusep/peritus/)の2つです。
+私が試遊したのは、[「がちかん」](http://www.e.ics.nara-wu.ac.jp/~nalab/gachi-can_3.html){:target="_blank"}と[「PERITUS-Strategy for Space Mission」](http://site.icee.tottori-u.ac.jp/tusep/peritus/){:target="_blank"}の2つです。
 
-### [「がちかん」](http://www.e.ics.nara-wu.ac.jp/~nalab/gachi-can_3.html) 
+### [「がちかん」](http://www.e.ics.nara-wu.ac.jp/~nalab/gachi-can_3.html){:target="_blank"} 
 このゲームは、各プレイヤーがひとつの国を統治する人（国王）になり、開発と環境保全という二つの選択肢（カード）を駆使して国力（スコア）を上げてきます。開発を選択すると環境リスクが上がっていき、環境保全を選択するとリスクを下げられる可能性が高くなります。ゲーム中に発生した環境問題に対してこれらのカードを使って対応していくのですが、単にカードをあてがうだけではなく、そのカードの意味や背景について自分の考えを巡らせ、プレゼンテーションしないと対策できないという仕組みになっています。プレイヤーには環境に対する知識はもちろん発想力や話力などが求められるゲームで、ゲームの進行に関わる判断もプレイヤーの裁量に任されているところが先に書いた「テーブルトーク・ロールプレイングゲーム」に近い性質のものでした。
 
 いざ、環境問題について考えよう議論しようといってもなかなか難しいものです、何を話していいかわからない環境問題といっても色々ある。でも、このゲームを通してであれば、広いテーマでの環境問題について考えたり、自分の知らない環境問題を知ることができるのではないかなと思いました。
 
-このゲームは奈良女子大学の「[NaLab. (ならぼ)](http://www.e.ics.nara-wu.ac.jp/~nalab/gachi-can_3.html)」で企画・製作されたもので購入もできます。
+このゲームは奈良女子大学の「[NaLab. (ならぼ)](http://www.e.ics.nara-wu.ac.jp/~nalab/gachi-can_3.html){:target="_blank"}」で企画・製作されたもので購入もできます。
 
 ![がちかん](/assets/images/2018/2018.11.23/gachikan.jpg)
 
 
-### [宇宙開発を体験！「PERITUS-Strategy for Space Mission」](http://site.icee.tottori-u.ac.jp/tusep/peritus/)
+### [宇宙開発を体験！「PERITUS-Strategy for Space Mission」](http://site.icee.tottori-u.ac.jp/tusep/peritus/){:target="_blank"}
 このゲームは、各プレイヤーが宇宙開発事業プロジェクトの責任者となって宇宙開発事業を推進するというもので、限られた予算の中でプロジェクトを成立させる難しさを体験できます。開発カードとイベントカードが用意されていて、一定の決まりにそったカードを集めると開発が完了します。しかしカードを揃えるだけではダメで、開発したものをロケットに搭載して打ち上げないといけませんが、ロケットにも開発・製造のタイミングがあり、それに合わないと打ち上げることができません。また、打ち上げに失敗することもあり失敗するとそれまでの開発（揃えたカード）が水泡に帰すという鬼のようなゲームです（実際に自分は失敗しました）。
 
 もうひとつのファクターとして予算があり、プロジェクトに対する国の評価や国民の評価によって左右されます。
@@ -58,7 +58,7 @@ categories:
 
 宇宙開発はもちろん、国家プロジェクトに一般の人が関わるようなことはないので、これもそういったテーマが体験できるという意味でとてもおもしろいと思いました。
 
-こちらは、[鳥取大学](http://site.icee.tottori-u.ac.jp/tusep/peritus/)において企画・製作されたもので購入はできませんが、用途と製作意図が合致すれば貸し出しを受けることもできるようです。
+こちらは、[鳥取大学](http://site.icee.tottori-u.ac.jp/tusep/peritus/){:target="_blank"}において企画・製作されたもので購入はできませんが、用途と製作意図が合致すれば貸し出しを受けることもできるようです。
 
 ![PERITUS](/assets/images/2018/2018.11.23/peritus.jpg)
 
@@ -94,7 +94,7 @@ categories:
 じゃ、デジタルがダメかというとそんなことはなくて、デジタルの特性として「コストが抑えられる」「複製が簡単」というメリットがあります。
 複製が簡単なので多くの方にプレイしてもらうことができますし、マテリアルにかかるコストも抑えることができます。
 
-作る上でのハードルは[Scratch](https://scratch.mit.edu/)のようなツールを使うことで圧倒的に下がっていますし、実際に多くの小学生はこれでオリジナルのゲームを作っています。
+作る上でのハードルは[Scratch](https://scratch.mit.edu/){:target="_blank"}のようなツールを使うことで圧倒的に下がっていますし、実際に多くの小学生はこれでオリジナルのゲームを作っています。
 
 このように、アナログとデジタルは「どっちがいいか？」ではなくて「どう使い分けるか？」という話なんだと思います。
 

@@ -10,7 +10,7 @@ attitude_sidebarlayout:
 categories:
   - makerfaire kyoto programming
 ---
-Maker Faire Kyoto 2019で2016年のTokyoから開催されている「[子どもプログラミング喫茶](https://pgmsaloon4kids.github.io/kyoto/)」を開催しました。
+Maker Faire Kyoto 2019で2016年のTokyoから開催されている「[子どもプログラミング喫茶](https://pgmsaloon4kids.github.io/kyoto/){:target="_blank"}」を開催しました。
 「子どもプログラミング喫茶」とは喫茶店のようにメニューから好きなものを選んで注文できるスタイルのプログラミング体験ワークショップで、今回はmicro:bit、Scratch、Scratch+micro:bit、Unity、Processingを使ったメニューを用意して開店しました。用意したといっても、私が用意したのではなく「子どもプログラミング喫茶」のチームメンバーによる持ち寄りです。
 
 思い返せば当日までにも当日にも多くのことがあり、書きたいことは山ほどあるのですが、今回の「子どもプログラミング喫茶」開催の目的に沿ってまとめてみたいと思います。
@@ -27,8 +27,8 @@ Maker Faire Kyoto 2019で2016年のTokyoから開催されている「[子ども
 二日間を終えてみて、みなさんがどう感じられたのかはわからない部分の方が多いのですが、きっと両方を感じ取っていただけたのではないかと思います。体験終了後子ども達には付箋紙に一言感想を買いてもらって壁に貼ってもらったのですが、その中にも「またやりたい」「持って帰りたい」「続きをやりたい」「難しかったけど楽しかった」といったコメントがたくさんありました。これらの付箋紙は一枚一枚写真に納めて記録していますので、整理ができたら後日公開します。
 
 （追記）アルバムへのリンクを追加しました。
-- [子どもプログラミング喫茶京都店2019](https://photos.app.goo.gl/tmYLfDhunEky6zhk7)
-- [体験したみなさんの感想メモ](https://photos.app.goo.gl/BNm3M8D8TbpAsk2HA)
+- [子どもプログラミング喫茶京都店2019](https://photos.app.goo.gl/tmYLfDhunEky6zhk7){:target="_blank"}
+- [体験したみなさんの感想メモ](https://photos.app.goo.gl/BNm3M8D8TbpAsk2HA){:target="_blank"}
 
 ### スタッフに対して
 そして、ボランティアとして関わってくださったスタッフのみなさんに対しては次の3つの目標を掲げました。

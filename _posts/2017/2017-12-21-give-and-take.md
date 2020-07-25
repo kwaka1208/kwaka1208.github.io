@@ -9,7 +9,7 @@ attitude_sidebarlayout:
 categories:
   - coderdojo, contribution
 ---
-この記事は[CoderDojo Advent Calendar 2017](https://adventar.org/calendars/2184)の21日目の記事です（若干遅刻したけど）。
+この記事は[CoderDojo Advent Calendar 2017](https://adventar.org/calendars/2184){:target="_blank"}の21日目の記事です（若干遅刻したけど）。
 
 「CoderDojoはボランティアの運営によるコーディングクラブです	」というのが、CoderDojoを紹介する時のひとつの表現方法です。
 
@@ -30,7 +30,7 @@ CoderDojoにおいて、メンターさんが提供しているもの「Give」�
 
 翻訳による貢献は、プログラミングとは別のスキルが必要とされますので、なかなか進んでいないのが実情。自分も少しずつ翻訳していってますが、システムは生き物なのでシステムが変わればまた翻訳が必要。この分野でもお手伝いしてくださる方が増えてくれるととても助かります。
 
-[Zen Community Platform](https://crowdin.com/project/zen-community-platform)
+[Zen Community Platform](https://crowdin.com/project/zen-community-platform){:target="_blank"}
 
 ## CoderDojoにおける「Take」
 ではメンターさんが得られるものは何でしょう？

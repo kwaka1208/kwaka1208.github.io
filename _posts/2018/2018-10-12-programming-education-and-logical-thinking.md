@@ -50,7 +50,7 @@ MECE（Mutually Exclusice and Collectively Exhaustive）と言われる「重複
 それらをまとめると「適切な軸を設定してそれぞれの軸に沿って多面的に考えること」なのかなと理解しています。
 ただ、それも抽象的すぎて伝わらない感じではありますが。
 
-[「MECE」な思考でロジカル・シンキングの効果を高める](https://www.ti.tohmatsu.co.jp/column_report/column/hrd_column_52_171121.html)
+[「MECE」な思考でロジカル・シンキングの効果を高める](https://www.ti.tohmatsu.co.jp/column_report/column/hrd_column_52_171121.html){:target="_blank"}
 
 ## プログラミング教育で実践すべきこと
 もちろん、きちんと準備から組み立てまでを実践すればプログラミングで論理的思考を身につけることは可能です。

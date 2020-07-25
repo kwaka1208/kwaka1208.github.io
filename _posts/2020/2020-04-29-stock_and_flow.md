@@ -54,23 +54,23 @@ categories:
 
 具体的にどんなツールがフローやストックに分類されるのかをみていきましょう。
 
-フローで情報を扱うためのツール代表格といえばチャットツールで、「[チャットワーク](https://go.chatwork.com/ja/)」や「[Slack](https://slack.com/intl/ja-jp/)」が有名ですね。
+フローで情報を扱うためのツール代表格といえばチャットツールで、「[チャットワーク](https://go.chatwork.com/ja/){:target="_blank"}」や「[Slack](https://slack.com/intl/ja-jp/){:target="_blank"}」が有名ですね。
 
 
-また最近はやりのオンライン会議システムもフローのひとつと言えます。有名なものに[zoom](https://zoom.us/)、[Skype](https://www.skype.com/ja/)、[Teams](https://www.microsoft.com/ja-jp/microsoft-365/microsoft-teams/group-chat-software)があります。
+また最近はやりのオンライン会議システムもフローのひとつと言えます。有名なものに[zoom](https://zoom.us/){:target="_blank"}、[Skype](https://www.skype.com/ja/){:target="_blank"}、[Teams](https://www.microsoft.com/ja-jp/microsoft-365/microsoft-teams/group-chat-software){:target="_blank"}があります。
 
 ## ストックで情報を扱うためのツール
 
-「ストック」で情報を管理するためのツールには、クラウドストレージサービスがあります。有名なところでは、[Google Drive](https://www.google.com/intl/ja_ALL/drive/)や[Dropbox](https://www.dropbox.com/)などです。
+「ストック」で情報を管理するためのツールには、クラウドストレージサービスがあります。有名なところでは、[Google Drive](https://www.google.com/intl/ja_ALL/drive/){:target="_blank"}や[Dropbox](https://www.dropbox.com/){:target="_blank"}などです。
 
 
 また、最近増えているチーム内情報共有ツールもあまり知られていませんが、議事録のような文字中心の情報管理には便利です。例えていうなら、チーム内Wikipediaのようなものですね。
 
-- [esa](https://esa.io/)
-- [Kibela (キベラ)](https://kibe.la/ja)
-- [Confluence](https://www.atlassian.com/ja/software/confluence)
-- [Qiita Team](https://teams.qiita.com/)
-- [NotePM](https://notepm.jp/)
+- [esa](https://esa.io/){:target="_blank"}
+- [Kibela (キベラ)](https://kibe.la/ja){:target="_blank"}
+- [Confluence](https://www.atlassian.com/ja/software/confluence){:target="_blank"}
+- [Qiita Team](https://teams.qiita.com/){:target="_blank"}
+- [NotePM](https://notepm.jp/){:target="_blank"}
 
 クラウドストレージサービスはファイル単位で扱う大きなデータ（画像や映像）を扱うのに便利なのに対して、チーム内情報共有ツールは編集・閲覧・検索の速さが優れているのでこれらを組み合わせるとさらに便利になると思います。
 

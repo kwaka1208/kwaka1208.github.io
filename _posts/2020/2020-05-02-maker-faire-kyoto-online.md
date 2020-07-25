@@ -13,7 +13,7 @@ categories:
 
 2台以上のmicro:bitを使ってじゃんけんができるもので、作品そのものはずいぶん前に作ったものですが、新型コロナウイルスで #STAYHOME な現在、自宅で簡単に楽しめてプログラム（勝ち負けの判定）にもそれなりに工夫ポイントがありますので、参考になるかなと思い、出展することとしました。
 
-プログラムは[micro:bit MakeCode](https://makecode.microbit.org/_PWXYgJWsWect)で公開しています。
+プログラムは[micro:bit MakeCode](https://makecode.microbit.org/_PWXYgJWsWect){:target="_blank"}で公開しています。
 
 ## 操作方法
 A,Bボタンの押し方によって、以下の通り自分の手によってアイコンが表示されます。

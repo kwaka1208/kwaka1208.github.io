@@ -10,14 +10,14 @@ attitude_sidebarlayout:
 categories:
   - voice
 ---
-6月17日にアイルランドのダブリンで開催された"[Coolest Projects](http://coolestprojects.org/)"に参加してきました。"Coolest Projects"の様子はもちろん、道中やダブリンの様子を交えてまとめていきます。CoderDojo西宮/梅田の細谷さんが早々に記事を公開されていますので、こちらも合わせてご覧ください。
+6月17日にアイルランドのダブリンで開催された"[Coolest Projects](http://coolestprojects.org/){:target="_blank"}"に参加してきました。"Coolest Projects"の様子はもちろん、道中やダブリンの様子を交えてまとめていきます。CoderDojo西宮/梅田の細谷さんが早々に記事を公開されていますので、こちらも合わせてご覧ください。
 
-[Coolest Projects 旅行記 : CoderDojo発祥の地アイルランドのイベントではスポンサーの充実度がすごかった・・・](http://coderdojo-nishinomiya.info/coolest-projects-2017-traveling/)
+[Coolest Projects 旅行記 : CoderDojo発祥の地アイルランドのイベントではスポンサーの充実度がすごかった・・・](http://coderdojo-nishinomiya.info/coolest-projects-2017-traveling/){:target="_blank"}
 
 写真はまとめてこちらにアップ...。
 
-[Coolest Projects 2017@Dublin](https://photos.app.goo.gl/P8sUz3sYyiHdPXJJ2)  
-[Go abroad to Ireland 2017](https://photos.app.goo.gl/TyKEAvQtNmkp4iem2)
+[Coolest Projects 2017@Dublin](https://photos.app.goo.gl/P8sUz3sYyiHdPXJJ2){:target="_blank"}  
+[Go abroad to Ireland 2017](https://photos.app.goo.gl/TyKEAvQtNmkp4iem2){:target="_blank"}
 
 ## Coolest Projectsについて
 "[Coolest Projects](http://coolestprojects.org/)"とは、アイルランドのCoderDojo Foundationが年一回開催している忍者たちのプログラミング作品発表会です。今年は17カ国から約600の作品が展示されていました。
@@ -86,7 +86,7 @@ meet up後は同じchqの中にあるEPICというアイルランドの歴史が
 入り口でパスポートをもらって各コーナーでスタンプを押していくと最後に電子絵葉書的なものをメールで送れるという仕掛けになっているのですが、このパスポートのスタンプ押しを一緒に参加した5歳の日本の女の子に押してもらうのも楽しかったです。
 
 # Coolest Projects 2017
-3日目はいよいよ今回の訪問の目的[Coolest Projects 2017](http://coolestprojects.org/)です。会場はDublinの中心部から少し南に行ったところにある[RDS](https://www.rds.ie/)という大きなホールです。2つの大きなホールに約600の忍者たちのProjectが展示されています。600と聞いた時に「そんなにたくさんの作品をどうやって展示するのかな？本当に600もあるのかな、僕らの英語の理解が間違っているのかな？」と思っていましたが、会場に行って分かりました本当に600ありました。会場には、細長い箱のような台が建てられていて、その上にPCや自分が作った電子工作の作品を置いて発表するのですが、一人当たりのスペースはかなり狭かったです。特にScratch作品のように、PCだけで展示できる忍者にはPC一台分のスペースしかありませんでした。これなら600展示できるのに納得です。
+3日目はいよいよ今回の訪問の目的[Coolest Projects 2017](http://coolestprojects.org/){:target="_blank"}です。会場はDublinの中心部から少し南に行ったところにある[RDS](https://www.rds.ie/){:target="_blank"}という大きなホールです。2つの大きなホールに約600の忍者たちのProjectが展示されています。600と聞いた時に「そんなにたくさんの作品をどうやって展示するのかな？本当に600もあるのかな、僕らの英語の理解が間違っているのかな？」と思っていましたが、会場に行って分かりました本当に600ありました。会場には、細長い箱のような台が建てられていて、その上にPCや自分が作った電子工作の作品を置いて発表するのですが、一人当たりのスペースはかなり狭かったです。特にScratch作品のように、PCだけで展示できる忍者にはPC一台分のスペースしかありませんでした。これなら600展示できるのに納得です。
 
 作品は、Scratch、ハードウェア（電子工作）、モバイルアプリ、web、ゲームなどのカテゴリーに別れてそれぞれゾーニングされて展示されています。これらの作品はすべて審査員による審査を受け、イベント最後の表彰式で受賞作品の発表が行われます。
 

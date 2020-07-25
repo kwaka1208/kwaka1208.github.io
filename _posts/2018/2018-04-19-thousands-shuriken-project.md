@@ -42,4 +42,4 @@ CoderDojoに参加する子供たちのことを"ニンジャ"と呼んでいる
 - 5月11日をめどに若林宛に届けば、アイルランドへ持って行く手配をします。手渡し、宅配便のどちらでも結構です。手渡しの場合は、お会いする機会をできるだけ調整します。送り先は個別にご連絡します。
 
 ## 若林への連絡方法
-[Facebook](https://www.facebook.com/kwaka1208)、[Twitter](https://twitter.com/kwaka1208)で、ご連絡ください。
+[Facebook](https://www.facebook.com/kwaka1208){:target="_blank"}、[Twitter](https://twitter.com/kwaka1208){:target="_blank"}で、ご連絡ください。

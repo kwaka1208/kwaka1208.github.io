@@ -15,10 +15,10 @@ categories:
 
 もう少し先に目を向けると、SF映画「バック・トゥ・ザ・フューチャー」に出てくるホバーボードのようなものや（まだ飛べる時間が短く、ジェットエンジンなので街中を自由にとは行かないいようですが）、「TRON:Legacy」の中の対戦ゲームとほぼ同じものが、近い将来身近に利用できそうな形になってきています。
 
-- [映画「バック・トゥ・ザ・フューチャー」のホバーボード](https://youtu.be/TkyLnWm1iCs)
-- [Flyboard Air Test 1（ジェットエンジンで空中を自由に移動できるボード）](https://youtu.be/KEDrMriKsFM)
-- [映画「TRON: Legacy」のディスク対戦ゲーム](https://youtu.be/a2H6TRdHF_s)
-- [Project Arena（ヘッドマウントディスプレイを使ったVRディスク対戦ゲーム）](https://youtu.be/SIfGuPW_mMs)
+- [映画「バック・トゥ・ザ・フューチャー」のホバーボード](https://youtu.be/TkyLnWm1iCs){:target="_blank"}
+- [Flyboard Air Test 1（ジェットエンジンで空中を自由に移動できるボード）](https://youtu.be/KEDrMriKsFM){:target="_blank"}
+- [映画「TRON: Legacy」のディスク対戦ゲーム](https://youtu.be/a2H6TRdHF_s){:target="_blank"}
+- [Project Arena（ヘッドマウントディスプレイを使ったVRディスク対戦ゲーム）](https://youtu.be/SIfGuPW_mMs){:target="_blank"}
 
 ## 子どもたちはどんな未来を夢みる？
 こんな現代において、今の子どもたちは未来にどんなイメージを持っているんでしょうね。
