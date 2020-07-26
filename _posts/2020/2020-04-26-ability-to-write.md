@@ -3,8 +3,8 @@ title: 読む力より書く力
 date: 2020-04-26T06:21:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
-permalink: /note/ability-to-write-clear-sentences
-image : /assets/images/2020/ability-to-write-clear-sentences.png
+permalink: /note/ability-to-write
+image : /assets/images/2020/ability-to-write.png
 attitude_sidebarlayout:
   - default
 categories:
@@ -82,6 +82,8 @@ PISAの調査結果や文部科学省のサイトに公開されていますし�
 
 ## 分かりにくい文章を読み解く力よりも分かりやすい文章を書く力
 若い人の読解力低下については、PISAの調査結果よりも前に「AI vs. 教科書が読めない子どもたち」という本で話題になっていました。
+
+[AI vs. 教科書が読めない子どもたち](https://www.amazon.co.jp/dp/4492762396/)
 
 この本を書いた方と先ほどの「アミラーゼ問題」の記事を書いた方は同一人物で、東大合格を目指すAI「東ロボくん」の開発に関わっておられます。この方によると学生の読解力はAIにも劣っていて、もっと読解力を鍛える必要があるそうです。
 
