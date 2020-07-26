@@ -13,8 +13,7 @@ tags:
   - 犠牲的アーキテクチャ
 ---
 最近Facebookで繋がってくださった方のblogを読んでいて見つけた記事、色々思うことがありました。<br />
-<a href="http://blog.oimou.com/shen-gong-shi-nian-qian-gong-toikenie-sheng-de-akitekutiyaaf27a09a/">神宮式年遷宮と犠牲的アーキテクチャ
-</a>
+[神宮式年遷宮と犠牲的アーキテクチャ](http://blog.oimou.com/shen-gong-shi-nian-qian-gong-toikenie-sheng-de-akitekutiyaaf27a09a/)
 
 まず、「犠牲的アーキテクチャ」なんて言葉を知らなかった。その言葉を知っていることが大切かどうかはさておいても、新しいものに触れてないことに気づいたので、もうちょっとベクトルを変えて色んなものに接しないとなということ。
 

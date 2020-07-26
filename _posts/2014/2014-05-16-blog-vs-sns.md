@@ -64,12 +64,10 @@ WordPressでblogをやっている方から、仕事でWordPressを使われる�
 
 ただいま、公式サイトで参加登録受付中！みなさまのご参加をお待ちしています！是非是非、会場でお会いしましょう！
 
-<p>
-「WordCamp Kansai 2014 | 知識と経験の灯をわかちあおう」</ br>
-日時：6月7日（土）8日（日）</ br>
-会場：グランフロント大阪 ナレッジキャピタルカンファレンスルーム TowerC</ br>
-参加費：2,000円</ br>
-[[caption id="attachment_1270" align="alignnone" width="250"]![WordCamp Kansai 2014](/assets/images/2014/04/bnr-250x250.gif) WordCamp Kansai 2014[/caption]](http://2014.kansai.wordcamp.org/)
-</p>
+- 「WordCamp Kansai 2014 | 知識と経験の灯をわかちあおう」  
+日時：6月7日（土）8日（日）  
+会場：グランフロント大阪 ナレッジキャピタルカンファレンスルーム TowerC  
+参加費：2,000円  
+[![WordCamp Kansai 2014](/assets/images/2014/04/bnr-250x250.gif)](http://2014.kansai.wordcamp.org/)
 
 photo credit: [chiaralily](http://www.flickr.com/photos/chiaralily/4653058104/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)
