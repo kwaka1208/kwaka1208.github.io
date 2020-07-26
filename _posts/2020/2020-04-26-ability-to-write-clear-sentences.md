@@ -4,6 +4,7 @@ date: 2020-04-26T06:21:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/ability-to-write-clear-sentences
+image : /assets/images/2020/ability-to-write-clear-sentences.png
 attitude_sidebarlayout:
   - default
 categories:
