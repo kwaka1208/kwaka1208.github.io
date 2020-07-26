@@ -1,5 +1,4 @@
 ---
-id: 1016
 title: サーバーを引っ越しました
 date: 2014-01-05T14:19:27 UTC+9
 author: Wakabayashi, Kenichi

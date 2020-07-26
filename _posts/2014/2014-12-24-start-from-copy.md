@@ -1,5 +1,4 @@
 ---
-id: 1500
 title: 真似から始めよう！
 date: 2014-12-24T08:11:49 UTC+9
 author: Wakabayashi, Kenichi

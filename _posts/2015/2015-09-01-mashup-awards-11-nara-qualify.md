@@ -1,5 +1,4 @@
 ---
-id: 1700
 title: Mashup Awards 11
 date: 2015-09-01T00:23:57 UTC+9
 author: Wakabayashi, Kenichi

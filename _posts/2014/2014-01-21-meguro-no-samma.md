@@ -1,5 +1,4 @@
 ---
-id: 1050
 title: 目黒のさんま
 date: 2014-01-21T23:09:18 UTC+9
 author: Wakabayashi, Kenichi

@@ -1,5 +1,4 @@
 ---
-id: 481
 title: 情報感度を高めるために実践すべき２つのこと
 date: 2013-09-30T12:57:15 UTC+9
 author: Wakabayashi, Kenichi

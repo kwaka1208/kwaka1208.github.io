@@ -1,5 +1,4 @@
 ---
-id: 1242
 title: トイレのユーザーインターフェース
 date: 2014-02-25T12:33:11 UTC+9
 author: Wakabayashi, Kenichi

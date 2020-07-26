@@ -1,5 +1,4 @@
 ---
-id: 1789
 title: Arduinoのテンプレートを書きました
 date: 2016-02-27T00:51:47 UTC+9
 author: Wakabayashi, Kenichi

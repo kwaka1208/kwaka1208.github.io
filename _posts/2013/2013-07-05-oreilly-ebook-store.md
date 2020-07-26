@@ -1,6 +1,5 @@
 ---
-id: 464
-title: 'O&#8217;Reilly Ebook Store'
+title: 'O'Reilly Ebook Store'
 date: 2013-07-05T12:50:23 UTC+9
 author: Wakabayashi, Kenichi
 layout: post

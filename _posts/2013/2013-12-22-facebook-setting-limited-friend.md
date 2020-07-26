@@ -1,5 +1,4 @@
 ---
-id: 548
 title: Facebook設定:Part5 特定の人に自分の書き込みを読めないようにする
 date: 2013-12-22T22:26:27 UTC+9
 author: Wakabayashi, Kenichi

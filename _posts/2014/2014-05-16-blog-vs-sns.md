@@ -1,5 +1,4 @@
 ---
-id: 1299
 title: blogノススメ
 date: 2014-05-16T08:33:58 UTC+9
 author: Wakabayashi, Kenichi

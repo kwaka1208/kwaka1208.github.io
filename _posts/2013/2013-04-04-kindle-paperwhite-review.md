@@ -1,5 +1,4 @@
 ---
-id: 424
 title: Kindle Paperwhiteを欲しいなと思っている方へ
 date: 2013-04-04T23:16:24 UTC+9
 author: Wakabayashi, Kenichi

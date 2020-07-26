@@ -1,5 +1,4 @@
 ---
-id: 1503
 title: ブックマークでIDとパスワードを管理する Tips for Firefox
 date: 2014-12-25T08:18:24 UTC+9
 author: Wakabayashi, Kenichi

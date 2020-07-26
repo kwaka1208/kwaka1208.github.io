@@ -1,5 +1,4 @@
 ---
-id: 1518
 title: ルールを支配する自由
 date: 2015-01-15T08:34:08 UTC+9
 author: Wakabayashi, Kenichi

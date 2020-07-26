@@ -1,5 +1,4 @@
 ---
-id: 1320
 title: 続：MacでOfficeを使う
 date: 2014-05-26T08:39:29 UTC+9
 author: Wakabayashi, Kenichi
@@ -18,6 +17,7 @@ tags:
   - Office
 ---
 ![Mac](/assets/images/2014/05/medium_3248317574-300x199.jpg)
+
 以前、「["MacでOfficeを使う"](/office-with-mac/)」と題して、Macで利用できるOfficeアプリを紹介し「Microsoft Office Online」をおすすめとしていましたが、今はすっかり「Google Drive」に乗り換え、Googleのドキュメントやスプレッドシートを主に利用しています。
 
 乗り換えに至った決定的なポイントはスプレッドシートで、「シートの複製ができる」でした。「Microsoft Office Online」ではシートの複製が出来ないのが厳しい。

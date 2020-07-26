@@ -1,5 +1,4 @@
 ---
-id: 356
 title: iPhoneがスライド操作でロック解除な理由
 date: 2013-02-13T19:58:47 UTC+9
 author: Wakabayashi, Kenichi

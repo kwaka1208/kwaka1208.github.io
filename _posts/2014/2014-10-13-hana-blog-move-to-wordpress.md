@@ -1,5 +1,4 @@
 ---
-id: 1438
 title: blogの移転をお手伝いしました。
 date: 2014-10-13T22:27:25 UTC+9
 author: Wakabayashi, Kenichi

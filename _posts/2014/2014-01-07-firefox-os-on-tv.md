@@ -1,5 +1,4 @@
 ---
-id: 1025
 title: Firefox OS搭載スマートTVに期待すること
 date: 2014-01-07T22:54:32 UTC+9
 author: Wakabayashi, Kenichi

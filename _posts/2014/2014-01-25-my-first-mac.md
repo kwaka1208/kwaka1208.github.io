@@ -1,5 +1,4 @@
 ---
-id: 1123
 title: 私の初Mac / Macintoshの30周年を祝して
 date: 2014-01-25T13:32:41 UTC+9
 author: Wakabayashi, Kenichi

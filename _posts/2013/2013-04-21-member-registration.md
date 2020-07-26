@@ -1,5 +1,4 @@
 ---
-id: 440
 title: 流れを作って会員登録のモチベーションを上げる
 date: 2013-04-21T10:38:50 UTC+9
 author: Wakabayashi, Kenichi

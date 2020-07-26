@@ -1,5 +1,4 @@
 ---
-id: 1810
 title: 答えを教えないためのたったひとつの法則
 date: 2016-12-17T14:26:50 UTC+9
 author: Wakabayashi, Kenichi

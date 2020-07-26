@@ -1,5 +1,4 @@
 ---
-id: 556
 title: 脱プリンタ作戦
 date: 2013-12-03T22:38:07 UTC+9
 author: Wakabayashi, Kenichi

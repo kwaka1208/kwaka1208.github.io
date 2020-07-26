@@ -1,5 +1,4 @@
 ---
-id: 1374
 title: 新種のデジタルディバイド？
 date: 2014-07-15T12:35:45 UTC+9
 author: Wakabayashi, Kenichi
@@ -12,16 +11,16 @@ categories:
   - voice
 ---
 ![DVD](/assets/images/2014/07/medium_1455076844.jpg)
-<p>少し古い話で恐縮ですが、今年の春頃にiPhoneのコネクタが現在のLightningからmicro USBに変わるという噂がネット上で流れていました。
+少し古い話で恐縮ですが、今年の春頃にiPhoneのコネクタが現在のLightningからmicro USBに変わるという噂がネット上で流れていました。
 
 [さらばLightning？ iPhoneの充電規格もmicroUSBに統一へ](http://buzzap.jp/news/20140314-iphone-micro-usb/)
 
-LightningはApple独自の規格で、専用ケーブルが高いという理由で歓迎という方も多いようです。</p>
+LightningはApple独自の規格で、専用ケーブルが高いという理由で歓迎という方も多いようです。
 私自身は、独自規格だからとか価格が高いとかいうことは気にならないのですが（金に糸目をつけないというわけではありません）、それよりもLightningケーブルの接点が露出しているという点で、今のLightningから変わればいいなと思っています。
 
-<p>iPhone5以降に発売されたiPhone/iPadをお持ちの方なら分かると思いますが、現在のiPhone/iPadのコネクタ規格であるLightningは、接点をカバーするものがありません。
+iPhone5以降に発売されたiPhone/iPadをお持ちの方なら分かると思いますが、現在のiPhoneiPadのコネクタ規格であるLightningは、接点をカバーするものがありません。
 
-[Lightningコネクタって何がいいの？　何がすごいの？](http://news.mynavi.jp/articles/2013/03/28/iphone_why36/)</p>
+[Lightningコネクタって何がいいの？　何がすごいの？](http://news.mynavi.jp/articles/2013/03/28/iphone_why36/)
 
 この「電気が流れるであろう部分が露出している」というのが大変気になる私は、LightningケーブルでiPhoneを接続する時、まずiPhone側を接続しUSB側をMacやACアダプタに接続する、という手順を必ずとっています。
 
@@ -44,7 +43,5 @@ LightningはApple独自の規格で、専用ケーブルが高いという理由
 確かに、小型化のためにはケースやカバーはない方がいいのですが、だからといって安全に使える仕組みを省いていいとは言えない。人間が意識しながら使わなければならない操作性は「優れたインターフェース」とはいえないし、より多くの方が安心して使えるようにするためには「優れたインターフェース」を採用するべきだ、と私は思います。
 
 でも、やっぱり私はデジタルディバイドになりつつあるんだろうか？
-
-#人にやさしいIT
 
 photo credit: [Hani Amir](https://www.flickr.com/photos/haniamir/1455076844/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

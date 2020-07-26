@@ -1,6 +1,5 @@
 ---
-id: 570
-title: '神戸ITフェスティバル2013 &#8211; 自慢したくなるスゴいIT &#8211;'
+title: '神戸ITフェスティバル2013「自慢したくなるスゴいIT」
 date: 2013-12-17T05:31:23 UTC+9
 author: Wakabayashi, Kenichi
 layout: post

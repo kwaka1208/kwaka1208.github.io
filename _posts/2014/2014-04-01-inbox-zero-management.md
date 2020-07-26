@@ -1,5 +1,4 @@
 ---
-id: 1266
 title: 「inbox zero」を実践するためのメール削除のルール
 date: 2014-04-01T12:40:53 UTC+9
 author: Wakabayashi, Kenichi

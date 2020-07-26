@@ -1,5 +1,4 @@
 ---
-id: 1780
 title: ブランド表記は正しく
 date: 2016-02-14T07:54:13 UTC+9
 author: Wakabayashi, Kenichi

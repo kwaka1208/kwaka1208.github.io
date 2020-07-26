@@ -1,5 +1,4 @@
 ---
-id: 237
 title: PDFの活用を(世の中Officeユーザーばかりじゃない!!)
 date: 2013-01-07T17:50:30 UTC+9
 author: Wakabayashi, Kenichi

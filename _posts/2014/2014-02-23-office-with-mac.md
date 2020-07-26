@@ -1,5 +1,4 @@
 ---
-id: 1207
 title: MacでOfficeを使う
 date: 2014-02-23T21:42:11 UTC+9
 author: Wakabayashi, Kenichi

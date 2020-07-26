@@ -1,5 +1,4 @@
 ---
-id: 472
 title: デジタルの不便性
 date: 2013-07-15T16:34:47 UTC+9
 author: Wakabayashi, Kenichi

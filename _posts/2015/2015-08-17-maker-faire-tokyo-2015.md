@@ -1,5 +1,4 @@
 ---
-id: 1675
 title: Maker Faire Tokyo 2015
 date: 2015-08-17T08:51:24 UTC+9
 author: Wakabayashi, Kenichi

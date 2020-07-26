@@ -1,5 +1,4 @@
 ---
-id: 529
 title: あらためてのお知らせ
 date: 2013-10-14T21:46:31 UTC+9
 author: Wakabayashi, Kenichi
