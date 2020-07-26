@@ -6,7 +6,7 @@ layout: post
 permalink: /note/kobe-it-festival-2013/
 attitude_sidebarlayout:
   - default
-image: /assets/images/2013/12/banner_640x280-620x271.jpg
+image: /assets/images/2013/12/banner_640x280.jpg
 categories:
   - voice
 tags:
