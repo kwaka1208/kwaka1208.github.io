@@ -6,7 +6,7 @@ layout: post
 permalink: /note/an-idea-of-tangible-user-interface/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/07/tansible.jpg
+image: /assets/images/2014/07/tansible.jpg
 categories:
   - for creators
 tags:
@@ -15,8 +15,6 @@ tags:
   - ユーザーインターフェース
   - 触れる
 ---
-![tansible](/assets/images/2014/07/tansible.jpg)
-
 前回、DVDやLightningケーブルのように、記録面や接点が露出しているデリケートなメディアを嫌がる自分は、新種のデジタルディバイドなのかな？　ということを書きましたが、今回はその続きです。
 
 取り扱いしにくいメディアがある一方で、その心配のないメディアの答えは既に出ていて、それが「ネット配信」であったり、ハードディスクのような「大容量メディア」だったりします。「ネット配信」だったらそもそも物理的なメディアが存在しませんし、「大容量メディア」は取り出すことがないので、うっかり壊してしまう心配はありません。
@@ -55,5 +53,7 @@ tags:
 - [MUJI Passport Android版](https://play.google.com/store/apps/details?id=net.muji.passport.android&hl=ja)
 
 個人的には、POSやレジスタの開発を長らくやっていたこともあって、バーコードにはそこそこ愛着があるのですが、とはいえ今更バーコードでもないので、これからはもっとモダンなインターフェース、例えば音声認識が有望なのかもしれません。ということで、次回は音声認識を使ったインターフェースについて書いてみたいと思います。
+
+![tansible](/assets/images/2014/07/tansible.jpg)
 
 photo credit: [aguscr](https://www.flickr.com/photos/a6u571n/3207185886/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

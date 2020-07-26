@@ -6,7 +6,7 @@ layout: post
 permalink: /note/inbox-zero-management/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/04/medium_15283297.jpg
+image: /assets/images/2014/04/medium_15283297.jpg
 categories:
   - for users
 tags:

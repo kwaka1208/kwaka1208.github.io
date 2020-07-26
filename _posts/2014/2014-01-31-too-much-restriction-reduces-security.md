@@ -6,7 +6,7 @@ layout: post
 permalink: /note/too-much-restriction-reduces-security/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/01/medium_2175038829.jpg
+image: /assets/images/2014/01/medium_2175038829.jpg
 categories:
   - voice
 tags:
@@ -17,8 +17,6 @@ tags:
   - パスワード
   - ポリシー
 ---
-![password have to be changed](/assets/images/2014/01/medium_2175038829.jpg)
-
 主に企業、それも大企業に多いお話。
 
 最近の大企業なら、イントラネットが構築されているところが普通です。
@@ -67,7 +65,8 @@ IT部門の方々は、社内のセキュリティを守るために、こうし
 
 もちろん、利用者の意識も大切ですから、↓この記事を参考に安全で管理しやすいパスワードを作ってくださいね！
 
-[browser-shot width="150" url="/how-to-create-safe-password/"] 
 [安全で管理しやすいパスワードの作り方](/how-to-create-safe-password/)
+
+![password have to be changed](/assets/images/2014/01/medium_2175038829.jpg)
 
 photo credit: [akeg](http://www.flickr.com/photos/akeg/2175038829/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)

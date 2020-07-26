@@ -6,7 +6,7 @@ layout: post
 permalink: /note/firefox-developers-conference-2014-in-kyoto/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/05/2014-04-19-16.17.46.jpg
+image: /assets/images/2014/05/2014-04-19-16.17.46.jpg
 categories:
   - voice
 tags:
@@ -14,8 +14,6 @@ tags:
   - Firefox OS
   - mozilla
 ---
-![Firefox Deveopers Conference 2014 in Kyoto](/assets/images/2014/05/2014-04-19-16.17.46.jpg)
-
 2週間前になりますが、4月19日(土)に京都で開催されていた[Firefox Developers Conference](http://www.mozilla.jp/events/devcon/2014/kyoto/)(略して、FxDevCon)に行ってきました。
 
 前回の大阪も行ったのですが、その時の[エントリーを読む](http://pote2.net/kenichi/firefox-developers-conference-2012-in-osaka/)と...なんか思いっきり気合い入れて書いてる！今回は2週間も放置してたのに... orz
@@ -25,3 +23,5 @@ tags:
 開発者向けのイベントなので、全体的に「他のプラットフォームと遜色無い」「HTMLベースの開発資産や環境が使える！」といった話が多かったのですが、やはり後発のプラットフォームとしては、利用者の方に魅力を感じてもらう必要があると感じます。ユーザーインターフェースが、iOSやAndroidと変わらない（むしろやや古臭いイメージもあり）など、利用者が見て「何が違うの？何がええの？」が分かるようなものをアピールする／できるようになっていないと、mozillaさんの掲げる理想には近づいていかないのではないかな、と思いました。
 
 決して否定しているのではなく、Firefox OS面白いと思っているので、エールの意味で、です。 :)
+
+![Firefox Deveopers Conference 2014 in Kyoto](/assets/images/2014/05/2014-04-19-16.17.46.jpg)

@@ -6,7 +6,7 @@ layout: post
 permalink: /note/modeless-interface/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/01/medium_5388860696.jpg
+image: /assets/images/2014/01/medium_5388860696.jpg
 categories:
   - for creators
 tags:
@@ -19,10 +19,6 @@ tags:
   - モード
   - ユーザーインターフェース
 ---
-![pinch](/assets/images/2014/01/medium_5388860696.jpg)
-
-photo credit: [dirac3000](http://www.flickr.com/photos/jenik/5388860696/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
-
 操作するためのモノの形や画面などの「ユーザーインターフェース」は、作り手と使い手が対話する最前線。ITが気軽に使えるものに、人にやさしいものになるためには、「操作性」がとても重要です。
 
 「操作の分かりやすさ」「操作することの楽しさ」に注目され始めたきっかけのひとつに、iPhoneの登場がありました。
@@ -61,3 +57,7 @@ Photoshopのパレット操作のように、パレット上のボタンを押�
 
 出来上がったものを見てあれこれ言うのは簡単ですが、発想するのも、使えるものにするのも大変、エンジニアもデザイナーも相当な苦労があったはず。
 こんな努力のひとつひとつが、作り手のメッセージ。こういう良い対話が進めば、ITはもっと人にやさしいものになるはずです。
+
+![pinch](/assets/images/2014/01/medium_5388860696.jpg)
+
+photo credit: [dirac3000](http://www.flickr.com/photos/jenik/5388860696/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

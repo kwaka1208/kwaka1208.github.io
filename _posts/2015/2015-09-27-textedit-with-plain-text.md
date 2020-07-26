@@ -6,7 +6,7 @@ layout: post
 permalink: /note/textedit-with-plain-text/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/09/setting.png
+image: /assets/images/2015/09/setting.png
 categories:
   - for users
 tags:

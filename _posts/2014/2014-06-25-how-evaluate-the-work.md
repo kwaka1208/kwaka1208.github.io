@@ -6,7 +6,7 @@ layout: post
 permalink: /note/how-evaluate-the-work/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/06/work.jpg
+image: /assets/images/2014/06/work.jpg
 categories:
   - voice
 tags:
@@ -15,8 +15,6 @@ tags:
   - 給与
   - 評価
 ---
-![work](/assets/images/2014/06/work.jpg)
-
 ここのところ話題になっている「残業ゼロ法案」。どちらかというと雇用者
 （Employer)に有利で、被雇用者(Employee)に不利な法案、ということで批判的な議論の対象になっていますが、きちんとした議論をすることで被雇用者にもメリットのある、バランスの取れた制度になるはずだと思います。<br />
 
@@ -42,5 +40,7 @@ tags:
 もちろん、プライベートな時間ですからどう使おうがそれは彼の自由です。しかし、「エンジニアは時間を会社に提供してお金に変えているのではなく、自分のスキルを提供して、それに対する対価を得ている。だから提供できるスキルが上がれば当然待遇もよくなるのだから」と彼には伝えていて、それを表面的なことではなく現実のものにしたいのです。
 
 彼らが頑張ってスキルアップすることは、日本全体の技術力の向上にもなるわけですから、国を挙げて評価できる体制を作っていきたいものです。
+
+![work](/assets/images/2014/06/work.jpg)
 
 photo credit: [UGArdener](http://www.flickr.com/photos/ugardener/2499663609/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

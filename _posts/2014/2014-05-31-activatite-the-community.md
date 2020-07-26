@@ -6,7 +6,7 @@ layout: post
 permalink: /note/activatite-the-community/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/05/people.jpg
+image: /assets/images/2014/05/people.jpg
 categories:
   - for users
 tags:
@@ -16,7 +16,6 @@ tags:
   - 序列
   - 活性化
 ---
-![People](/assets/images/2014/05/people.jpg)
 私たちが生活する上で、会社、学校、地域など様々な場面で組織として活動することがあります。
 
 最近では、勉強会や各種イベントなどIT系のユーザー活動が活発で、私自身も出来るだけ多くのコミュニティに参加し、自分も勉強しながら、逆に私が伝えられることを少しでも提供出来ればと考えています。
@@ -69,5 +68,7 @@ tags:
 - リーダーなど、運営上の最低限の序列は存在するけれど、自由にモノを言える雰囲気があって、特定の人に依存しない。それぞれの得意分野、専門分野を尊重し、信頼して運営を進めることができる。
 
 こうして読むとかなり良いことだらけで、そんなコミュニティ実在しないと思われるかもしれませんが、実際にこんなコミュニティが存在しますし、不可能ではありません。もし、みなさんのコミュニティが「いつも内輪ネタで盛り上がってる」とか「絶対逆らえない神がいる」と思うところがあれば危険信号かもしれません。</p>
+
+![People](/assets/images/2014/05/people.jpg)
 
 photo credit: [Thomas Hawk](http://www.flickr.com/photos/thomashawk/6954844640/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

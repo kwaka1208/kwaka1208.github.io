@@ -6,7 +6,7 @@ layout: post
 permalink: /note/tv-of-the-near-future/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/01/medium_16035779290.jpg
+image: /assets/images/2015/01/medium_16035779290.jpg
 categories:
   - for creators
 tags:
@@ -18,8 +18,6 @@ tags:
   - テレビ
   - 未来
 ---
-![TV](/assets/images/2015/01/medium_16035779290.jpg)
-
 毎年この時期にアメリカで開催される世界最大の家電ショー「CES」での発表内容に注目しているのですが、今年はスマートフォンに採用されているOSがテレビにも搭載されることが大きなトピックなひとつだったようです。
 [CESから見えた「モダンOS」による第2世代デジタルテレビ](http://bit.ly/1Bs5JmQ) 
 
@@ -40,3 +38,5 @@ tags:
 日本のメーカーには、この視点で世界に先んじて欲しいと思いますし、このあたりのアイデアの具体化には個人的にも挑戦していくつもりです。
 
 photo credit: [Anthony Quintano](https://www.flickr.com/photos/quintanomedia/16035779290/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)
+
+![TV](/assets/images/2015/01/medium_16035779290.jpg)

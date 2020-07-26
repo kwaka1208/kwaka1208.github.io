@@ -6,7 +6,7 @@ layout: post
 permalink: /note/sound-of-inspiration/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/03/idea.jpg
+image: /assets/images/2015/03/idea.jpg
 categories:
   - voice
 tags:

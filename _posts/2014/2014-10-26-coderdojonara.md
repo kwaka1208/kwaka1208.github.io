@@ -6,7 +6,7 @@ layout: post
 permalink: /note/coderdojonara/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/10/CoderDojoNara.jpg
+image: /assets/images/2014/10/CoderDojoNara.jpg
 categories:
   - voice
 tags:
@@ -15,8 +15,6 @@ tags:
   - Web
   - 奈良
 ---
-![CoderDojoNara](/assets/images/2014/10/CoderDojoNara.jpg)
-
 本日、奈良で初めてのCoderDojo「CoderDojo奈良」をスタートしました。「CoderDojo」とは、子ども達にプログラミングやWeb制作を学ぶ場を提供する、アイルランド発祥の世界的な活動です。
 
 元はといえば、今年の7月にWordPressのコミュニティイベント開催の打ち合わせのため、JR奈良駅近くの「Women’s Future Center」を訪れた際、「CoderDojoを奈良でもやりたいですね！」「CoderDojoって何？」というやり取りから始まりました。
@@ -41,3 +39,5 @@ Dojo終了後、忍者たちからは「USJで遊ぶのと同じぐらい楽し�
 メンターの多くはエンジニアやWebデザイナーなどのプロ。大企業の偉いさんもいらっしゃいましたが、子どもたちのために会場内を奔走してくださり、みんなで支えた「CoderDojo奈良」となりました。
 
 第一回目は理想の形で開催することができましたので、これをきっかけに教わった子ども達が将来教える側になる」このサイクルを回せる継続的な活動となるようにしたいと思っています。次回は二ヶ月先の１２月２１日になります、奈良県在住に限らず、近隣県の方の参加も歓迎ですので、是非遊びにいらしてください！
+
+![CoderDojoNara](/assets/images/2014/10/CoderDojoNara.jpg)

@@ -4,7 +4,7 @@ date: 2013-12-22T22:26:27 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-setting-limited-friend/
-image: /wp-content/uploads/2013/12/medium_4638981545.jpg
+image: /assets/images/2013/12/medium_4638981545.jpg
 categories:
   - for users
 tags:

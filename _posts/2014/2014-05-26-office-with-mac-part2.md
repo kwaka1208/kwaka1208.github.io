@@ -6,7 +6,7 @@ layout: post
 permalink: /note/office-with-mac-part2/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/05/medium_3248317574.jpg
+image: /assets/images/2014/05/medium_3248317574-300x199.jpg
 categories:
   - for users
 tags:
@@ -16,8 +16,6 @@ tags:
   - Microsoft
   - Office
 ---
-![Mac](/assets/images/2014/05/medium_3248317574-300x199.jpg)
-
 以前、「["MacでOfficeを使う"](/office-with-mac/)」と題して、Macで利用できるOfficeアプリを紹介し「Microsoft Office Online」をおすすめとしていましたが、今はすっかり「Google Drive」に乗り換え、Googleのドキュメントやスプレッドシートを主に利用しています。
 
 乗り換えに至った決定的なポイントはスプレッドシートで、「シートの複製ができる」でした。「Microsoft Office Online」ではシートの複製が出来ないのが厳しい。
@@ -57,5 +55,7 @@ GoogleかMicrosoftかを問わず、Online版だと同じファイルを複数�
 前回は「Microsoft Office Online」押しでしたが、現時点では「Google Drive」との間で甲乙つけがたい状況です。
 
 「Microsoft Office」の操作性に近いけれど、機能的にやや劣る「Microsoft Office Online」と、機能は高いけれど多少おかしな動作がある「Google Drive」と考えれば、初心者の方には「Microsoft Office Online」、多少の困難は自分で乗り切れる自信のある方には「Google Drive」がおすすめですね。
+
+![Mac](/assets/images/2014/05/medium_3248317574-300x199.jpg)
 
 photo credit: [Håkan Dahlström](http://www.flickr.com/photos/dahlstroms/3248317574/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

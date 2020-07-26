@@ -6,7 +6,7 @@ layout: post
 permalink: /note/modify-or-correct/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/02/GREEN_TU20140125500.png
+image: /assets/images/2014/02/GREEN_TU20140125500.png
 categories:
   - living_with_others
 tags:
@@ -15,8 +15,6 @@ tags:
   - 変更
   - 対話
 ---
-![変更か修正か](/assets/images/2014/02/GREEN_TU20140125500.png)
-
 よりよいモノづくりのためには、作り手の中での対話も重要。ここがいい加減だと、使い手不在のモノづくりになってしまうことがよくあります。
 
 私自身は、仕事を「委託先」にお願いする「発注元」として働いた期間が長いのですが、「委託先」との対話の中で「変更」と「修正」のふたつの言葉の使い分けを、特に意識していました。
@@ -55,4 +53,4 @@ tags:
 
 特に「発注元」の方々には、この使い分けをきちんと貫き通す仕事をひとつして、良好な関係での仕事が、どんなにいいものなのかを経験していただきたい、と心から願うばかりです。
 
-#モノづくりの現場から
+![変更か修正か](/assets/images/2014/02/GREEN_TU20140125500.png)

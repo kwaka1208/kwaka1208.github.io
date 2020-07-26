@@ -6,7 +6,7 @@ layout: post
 permalink: /note/office-on-github/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/05/excel.png
+image: /assets/images/2015/05/excel.png
 categories:
   - for users
 tags:
@@ -15,8 +15,6 @@ tags:
   - マクロ
   - 文字列置換
 ---
-![Excel](/assets/images/2015/05/excel.png)
-
 仕事上の必要に迫られて、複数の文字列置換を一括で実行するExcel用マクロを作りましたので、GitHubで公開しています。必要な方がいらっしゃいましたら自由にお使いください。
 
 [https://github.com/kwaka1208/office](https://github.com/kwaka1208/office)

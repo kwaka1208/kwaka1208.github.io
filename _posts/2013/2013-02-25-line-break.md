@@ -6,7 +6,7 @@ layout: post
 permalink: /note/line-break/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2013/02/iPhone.jpg
+image: /assets/images/2013/02/iPhone.jpg
 categories:
   - for users
 tags:
@@ -16,8 +16,6 @@ tags:
   - 改行
   - 読みやすさ
 ---
-![iPhone](/assets/images/2013/02/iPhone.jpg)
-
 最近メールを書く時に悩むことがあります。それは改行位置です。古くは35文字ぐらいを目安に改行しましょうとか、メーラーが送信時に強制的に改行を挿入してしまうようなものもありました。
 しかし、そうするとスマートフォンや携帯電話で見るとあまり美しくないことが多いのです。
 
@@ -49,3 +47,5 @@ PCでメールをあまりしない方、妙なところで改行が入ってい
 このように、改行の使い方だけでも読みやすいメールになります。blogなどの文章も同じですね、ひとつの段落の中では改行しないようにすると、PCでもスマートフォンでも読みやすい文章になります。
 
 是非、心がけてみてください。
+
+![iPhone](/assets/images/2013/02/iPhone.jpg)

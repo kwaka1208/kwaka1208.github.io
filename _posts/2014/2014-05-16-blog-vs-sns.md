@@ -6,7 +6,7 @@ layout: post
 permalink: /note/blog-vs-sns/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/05/log.jpg
+image: /assets/images/2014/05/log.jpg
 categories:
   - for users
   - voice
@@ -17,7 +17,7 @@ tags:
   - 想い出
   - 記録
 ---
-![memory](/assets/images/2014/05/log.jpg)
+
 ## 記録を残すということ
 インターネットを使った個人の情報発信の方法として、いわゆるホームページに始まって、blogが登場し、最近はソーシャルネットワークへの主流が変化してきました。
 
@@ -69,5 +69,7 @@ WordPressでblogをやっている方から、仕事でWordPressを使われる�
 会場：グランフロント大阪 ナレッジキャピタルカンファレンスルーム TowerC  
 参加費：2,000円  
 [![WordCamp Kansai 2014](/assets/images/2014/04/bnr-250x250.gif)](http://2014.kansai.wordcamp.org/)
+
+![memory](/assets/images/2014/05/log.jpg)
 
 photo credit: [chiaralily](http://www.flickr.com/photos/chiaralily/4653058104/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc/2.0/)

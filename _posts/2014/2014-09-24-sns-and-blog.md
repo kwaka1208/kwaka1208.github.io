@@ -6,7 +6,7 @@ layout: post
 permalink: /note/sns-and-blog/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/09/diary.jpg
+image: /assets/images/2014/09/diary.jpg
 categories:
   - for users
 tags:
@@ -15,8 +15,6 @@ tags:
   - Twitter
   - 記録
 ---
-![diary](/assets/images/2014/09/diary.jpg)
-
 以前からことあるごとに述べてきたことなのですが、先日ある方と会話した時に同じ意見だったので、改めて書きます。
 結論としては、「FacebookやTwitterのようなソーシャルメディアは、記録向きではないので自分の想いや考え方を書くのであれば、blogに書いた方がいい。FacebookやTwitterにはそのリンクを流せばいい」ということです。
 
@@ -27,5 +25,7 @@ tags:
 書いた時には、読み返せなくてもいいと思っていたことでも、年月が経って読み返した時に懐かしい気持ちになったり、新たな発見があるものです。
 
 せっかく同じだけの労力をかけて書くのですから、新しい発見ができた方がいいですよね？Facebookに自分の想いや考え方、素敵なメッセージを書いておられる方には、それらをblogに書き、リンクをFacebookやTwitterに置くことで友人・知人に読んでもらう、この流れを実践していただきたいです。あまりにももったいない。
+
+![diary](/assets/images/2014/09/diary.jpg)
 
 photo credit: [Paul Watson](https://www.flickr.com/photos/paulwatson/5184351/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

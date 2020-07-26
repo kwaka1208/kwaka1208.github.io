@@ -6,17 +6,13 @@ layout: post
 permalink: /note/the-pattern-that-you-have-never-seen/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/04/7755784678_2bdca437fb.jpg
+image: /assets/images/2015/04/7755784678_2bdca437fb.jpg
 categories:
   - for creators
 tags:
   - デザインパターン
   - 組み合わせ
 ---
-![look!](/assets/images/2015/04/7755784678_2bdca437fb.jpg)
-
-photo credit: [](http://www.flickr.com/photos/50523792@N03/7755784678) via [photopin](http://photopin.com) [(license)](https://creativecommons.org/licenses/by/2.0/)
-
 今回は、モノづくりとパターンについてのお話。
 
 ある日、テレビを見ていると、コマーシャルでこんなキャッチコピーが流れていました。
@@ -57,3 +53,7 @@ photo credit: [](http://www.flickr.com/photos/50523792@N03/7755784678) via [phot
 「株式会社　恐怖」でもホラー系コンテンツ会社の名前としては悪くないと思うのですが、省略してこのサイトを呼んだ時に「恐怖のサイト」と呼ぶのと「闇のサイト」と呼ぶのでは、明らかに「闇のサイト」の方が怪しげです。そもそも、ホラー系なのかどうかすらわからない。もし、そこまで考えてのネーミングだったらなら、よく考えたものだと思います。
 
 話がそれましたが、世の中の多くのものはパターンで出来ている、「見たことのないものより、見たことのない組み合わせを」見つけることが新しいものを生み出すということでもあるのです。
+
+![look!](/assets/images/2015/04/7755784678_2bdca437fb.jpg)
+
+photo credit: [](http://www.flickr.com/photos/50523792@N03/7755784678) via [photopin](http://photopin.com) [(license)](https://creativecommons.org/licenses/by/2.0/)

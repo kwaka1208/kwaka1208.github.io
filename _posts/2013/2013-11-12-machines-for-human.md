@@ -4,7 +4,7 @@ date: 2013-11-12T14:30:46 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/machines-for-human/
-image: /wp-content/uploads/2013/11/medium_6870614936.jpg
+image: /assets/images/2013/11/medium_6870614936.jpg
 categories:
   - for creators
 tags:
@@ -14,10 +14,6 @@ tags:
   - 鉄道
   - 駅
 ---
-![ticket](/assets/images/2013/11/medium_6870614936.jpg)
-
-photo credit: [Sigfrid Lundberg](http://www.flickr.com/photos/sigfridlundberg/6870614936/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)
-
 機械に囲まれて暮らしている現代、使いにくい機械がたくさんあります。
 その中でも、駅の「自動券売機」と「自動改札」は、もっと人に優しくなって欲しい機械の一つです。
 
@@ -47,3 +43,7 @@ photo credit: [Sigfrid Lundberg](http://www.flickr.com/photos/sigfridlundberg/68
 「自動券売機」と「自動改札」を例に挙げましたが、これらだけが悪いわけではありません。
 
 色んな分野の技術が協力しあって、今までに無い「ヒトに優しいキカイ」を作り出せたら、そしてそういったものを日本から世界に送り届けられたらどんなに良いだろうか？と思うと、他人ごとではなく、自分も頑張らなくては、と思うのでした。
+
+![ticket](/assets/images/2013/11/medium_6870614936.jpg)
+
+photo credit: [Sigfrid Lundberg](http://www.flickr.com/photos/sigfridlundberg/6870614936/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)

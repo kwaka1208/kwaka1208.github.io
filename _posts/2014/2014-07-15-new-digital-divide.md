@@ -6,11 +6,10 @@ layout: post
 permalink: /note/new-digital-divide/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/07/medium_1455076844.jpg
+image: /assets/images/2014/07/medium_1455076844.jpg
 categories:
   - voice
 ---
-![DVD](/assets/images/2014/07/medium_1455076844.jpg)
 少し古い話で恐縮ですが、今年の春頃にiPhoneのコネクタが現在のLightningからmicro USBに変わるという噂がネット上で流れていました。
 
 [さらばLightning？ iPhoneの充電規格もmicroUSBに統一へ](http://buzzap.jp/news/20140314-iphone-micro-usb/)
@@ -43,5 +42,7 @@ iPhone5以降に発売されたiPhone/iPadをお持ちの方なら分かると�
 確かに、小型化のためにはケースやカバーはない方がいいのですが、だからといって安全に使える仕組みを省いていいとは言えない。人間が意識しながら使わなければならない操作性は「優れたインターフェース」とはいえないし、より多くの方が安心して使えるようにするためには「優れたインターフェース」を採用するべきだ、と私は思います。
 
 でも、やっぱり私はデジタルディバイドになりつつあるんだろうか？
+
+![DVD](/assets/images/2014/07/medium_1455076844.jpg)
 
 photo credit: [Hani Amir](https://www.flickr.com/photos/haniamir/1455076844/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

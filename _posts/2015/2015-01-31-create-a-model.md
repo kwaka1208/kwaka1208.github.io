@@ -6,15 +6,13 @@ layout: post
 permalink: /note/create-a-model/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/01/walkman.jpg
+image: /assets/images/2015/01/walkman.jpg
 categories:
   - voice
 tags:
   - Daliy Life
   - Innovation
 ---
-![walkman](/assets/images/2015/01/walkman.jpg)
-
 あちらこちらで使われるようになって、一般的になった「イノベーション」という言葉。このところ「イノベーション」の安売りが始まった感がしています。
 
 「イノベーション」とはどういうものか？ということについて、それぞれ意見が分かれるところではあると思うのですが、私の中での「イノベーション」とは、「原型をつくること」と定義しています。
@@ -34,5 +32,7 @@ iPod登場後はその地位を奪われたと言われていましたが、ポ�
 その具体的な例としてよく説明に使っているのは、「温水洗浄便座」です。「ウォシュレット」と言った方がわかりやすいと思います。今、家庭や商業施設はもちろん、古いオフィスや公共施設にも「温水洗浄便座」が採用されていて、むしろ「温水洗浄便座」でないトイレを見かけることが少ないほど。私も、すっかり「温水洗浄便座」に慣れてしまって、いわゆる普通の便座のトイレで用を足さなければならない時には、なんとなく嫌な感じがするほどになっています。
 
 このように、いつの間にか人々の生活の中で当たり前の存在になり、生活の中で無くてはならない存在、そういった生活の中の原型を創出したい。それが私の目標なのです。
+
+![walkman](/assets/images/2015/01/walkman.jpg)
 
 photo credit: [Tim Bradshaw](https://www.flickr.com/photos/timbradshaw/2836028342/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

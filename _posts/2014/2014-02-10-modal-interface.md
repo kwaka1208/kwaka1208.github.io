@@ -6,7 +6,7 @@ layout: post
 permalink: /note/modal-interface/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/02/medium_3870552476.jpg
+image: /assets/images/2014/02/medium_3870552476.jpg
 categories:
   - for creators
 tags:

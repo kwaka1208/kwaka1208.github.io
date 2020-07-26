@@ -6,7 +6,7 @@ layout: post
 permalink: /note/meguro-no-samma/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/01/medium_2895754066.jpg
+image: /assets/images/2014/01/medium_2895754066.jpg
 categories:
   - living_with_others
 tags:
@@ -15,10 +15,6 @@ tags:
   - 自己満足
   - 顧客視点
 ---
-![さんま](/assets/images/2014/01/medium_2895754066.jpg)
-
-photo credit: [ymorimo](http://www.flickr.com/photos/ymorimo/2895754066/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)
-
 突然ですが、古典落語の「目黒のさんま」をご存知ですか？
 
 外出先で立ち寄った長屋で、「焼きさんま」をご馳走になった殿様が、お城に帰ってからも「さんまを食べたい」と言います。しかし家来達は、「骨がささっては大変」と骨を抜き、「脂は体に悪い」と脂を抜き、カスカスになった「さんま」を食べられるものにするために、「さんまのつみれ汁」にして殿様に出したところ、殿様は「これは私の知っている、さんま、ではない」という噺です。
@@ -51,7 +47,9 @@ photo credit: [ymorimo](http://www.flickr.com/photos/ymorimo/2895754066/) via [p
 
 しかし、利用者にとっても、メーカーにとっても不幸な結果をもたらしている今の構図を見ると、双方が対話し歩み寄ることが、日本のモノづくりを復活させるために必要な要素のひとつだと、私は考えています。
 
-[目黒のさんま　@Wikipedia](http://ja.wikipedia.org/wiki/目黒のさんま)
-[目黒のさんま 十代目馬生さん @YouTube](http://www.youtube.com/watch?v=j985ow8kGpI)
+- [目黒のさんま　@Wikipedia](http://ja.wikipedia.org/wiki/目黒のさんま)
+- [目黒のさんま 十代目馬生さん @YouTube](http://www.youtube.com/watch?v=j985ow8kGpI)
 
-#モノづくりの現場から
+![さんま](/assets/images/2014/01/medium_2895754066.jpg)
+
+photo credit: [ymorimo](http://www.flickr.com/photos/ymorimo/2895754066/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

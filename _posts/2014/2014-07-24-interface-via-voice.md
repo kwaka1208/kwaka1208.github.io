@@ -6,7 +6,7 @@ layout: post
 permalink: /note/interface-via-voice/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/07/medium_4164756091.jpg
+image: /assets/images/2014/07/medium_4164756091.jpg
 categories:
   - voice
 tags:
@@ -18,8 +18,6 @@ tags:
   - ユーザーインターフェース
   - 音声認識
 ---
-![Voice](/assets/images/2014/07/medium_4164756091.jpg)
-
 手で操作しなくても、話せばその通り動いてくれる、応えてくれるというのは、まるでSF映画の世界のような華やかなインターフェースです。
 しかし、音声認識はユーザーインターフェースの主流になり得るのだろうか？と思う部分もあります。
 
@@ -57,5 +55,7 @@ GUIでは、主に画面のアイコンやメニューを順に操作して目�
 現在の検索でも、検索キーワードの入力途中で候補が出てくるように、まだまだ文字入力の方が便利に使えそうですが、対話によって自然にユーザーの意図をくむようになれば音声認識の方が使いやすいということになるような気がします。
 
 「聴く」ことはもちろん、「いかに上手く話すか」の課題を解決して「応答速度」と「応答精度」が上がり、利用者との対話がスムーズに進むようになれば「音声認識」はもっと実用的なインターフェースになるのでしょう。この部分についてはもう少し考えてみたいと思っていますが、もし何か良いアイデアが出てきそうなら紹介させていただきます。
+
+![Voice](/assets/images/2014/07/medium_4164756091.jpg)
 
 photo credit: [Florian SEROUSSI](https://www.flickr.com/photos/cizake/4164756091/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

@@ -6,7 +6,7 @@ layout: post
 permalink: /note/notice-for-malicious-account/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/01/medium_6102173905.jpg
+image: /assets/images/2014/01/medium_6102173905.jpg
 categories:
   - for users
 tags:

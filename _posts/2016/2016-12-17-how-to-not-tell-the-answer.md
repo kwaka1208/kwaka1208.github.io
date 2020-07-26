@@ -6,7 +6,7 @@ layout: post
 permalink: /note/how-to-not-tell-the-answer/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2016/12/3.jpg
+image: /assets/images/2016/12/3.jpg
 categories:
   - voice
 tags:

@@ -6,7 +6,7 @@ layout: post
 permalink: /note/spread-my-thought/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/06/decide.jpg
+image: /assets/images/2014/06/decide.jpg
 categories:
   - voice
 tags:
@@ -14,7 +14,6 @@ tags:
   - 発信
   - 表現
 ---
-![decide](/assets/images/2014/06/decide.jpg)
 自分の考え方やものの見方を発信していこうと、2012年12月にこのblogを立ち上げて少しずつ記事を書いていましたが、そんな時に「デジクリに書きませんか？」ということでお声がけいただき、2013年の9月から現在までの約10ヶ月、通算40回弱の記事を「[日刊デジタルクリエイターズ](http://dgcr.com/)」で書いてきました。
 
 自分が物書きをしようと思った理由はいくつかあるのですが、その中でも「作る人と使う人」のように立場の異なる人同士の対話をもっと促進したい、ということが大きな目標のひとつ。
@@ -56,5 +55,7 @@ tags:
 これまでは、積極的に呼びかけていませんでしたが、私の記事を読んだ感想など、いただければ幸いです。「共感する」とか「それはちゃうやろ！」とかどんな意見でも結構ですので、何か感じるところがあれば是非お願いしたいです。コメントでもTwitterでも、Facebookでも。
 
 ただし、「それはちゃうやろ」的なコメントは、やんわり頂ければ幸いです、ガラスのハートなので。 ;) 
+
+![decide](/assets/images/2014/06/decide.jpg)
 
 photo credit: [mattwi1s0n](http://www.flickr.com/photos/piccadillywilson/162622550/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

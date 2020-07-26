@@ -6,7 +6,7 @@ layout: post
 permalink: /note/role-of-it-community/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/09/medium_14088231730.jpg
+image: /assets/images/2014/09/medium_14088231730.jpg)
 categories:
   - voice
 tags:
@@ -14,7 +14,6 @@ tags:
   - ボランティア
   - 災害
 ---
-![help](/assets/images/2014/09/medium_14088231730.jpg)
 9月1日の「防災の日」にちなんで、というわけではないのですが、災害発生時におけるIT系コミュニティの役割について、自分自身の考え方を書いてみます。
 
 現在も西日本の各地では、豪雨による土砂災害の復旧活動が行われています。この数年というもの、大規模な救援活動が必要な災害の発生が続き、各地で市民の救援活動が立ち上がるたびに感じるのが、「平時からのコミュニティの必要性」です。
@@ -38,5 +37,7 @@ FacebookやTwitterなどのSNSの普及により、例えばグループやハ�
 また、既存のサービスをそのまま使うのではなく、独自に専用の掲示板を作ったり、地図情報と組み合わせた災害支援情報を作りだすといった、新しい情報共有の仕組みを作り出すといったように、必要な情報基盤を自分たちで立ち上げられるのも強み。
 
 もちろん、実際の支援活動はITスキルだけでなく、様々なスキルの人が集まって行われなければなりません。IT分野の人間として、自分たちのコミュニティとその強みが災害時にも機能して社会の役に立てばいいな、そのように考えています。
+
+![help](/assets/images/2014/09/medium_14088231730.jpg)
 
 photo credit: [dany_masson](https://www.flickr.com/photos/danymasson/14088231730/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

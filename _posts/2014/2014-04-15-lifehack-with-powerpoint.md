@@ -6,7 +6,7 @@ layout: post
 permalink: /note/lifehack-with-powerpoint/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/04/medium_748083829.jpg
+image: /assets/images/2014/04/medium_748083829.jpg
 categories:
   - voice
 tags:
@@ -17,7 +17,6 @@ tags:
   - ファイルシステム
   - 管理
 ---
-![Power Point](/assets/images/2014/04/medium_748083829.jpg)
 実は私、先日の某記者会見で出た「パワポで画像管理」にとっても反応してしています。
 「パワポで画像管理するのか？（苦笑）」「パワポって何？」と様々な反応が飛び交っているようですが、騒動の中身とは全然関係なく、また皮肉でも何でもなく、情報管理の手法としてそういうやり方を実践している方もいるのか！という意味で、非常に興味深くみています。
 
@@ -63,5 +62,7 @@ Windowsの方はというと、ファイルの種類によってコメントや�
 画像ファイルに限定するのであれば「写真管理アプリ」を使うというのもひとつの手。普段、家族や旅行の写真を見るアプリで、細胞の画像を見るのは違和感があるかもしれませんが...。
 
 でも、やっぱりパワポで画像管理が気になる私。もしかしたら、ものすごく斬新な管理手法で、そっちの方が現在のファイルシステムの考え方を破壊するような大発明かもしれない、ってことだったら面白いですね。
+
+![Power Point](/assets/images/2014/04/medium_748083829.jpg)
 
 photo credit: [garethjmsaunders](http://www.flickr.com/photos/garethjmsaunders/748083829/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-sa/2.0/)

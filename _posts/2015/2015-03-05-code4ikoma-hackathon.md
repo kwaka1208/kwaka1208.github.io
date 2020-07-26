@@ -6,7 +6,7 @@ layout: post
 permalink: /note/code4ikoma-hackathon/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/03/code4ikoma.jpg
+image: /assets/images/2015/03/code4ikoma.jpg
 categories:
   - event
 tags:
@@ -15,8 +15,6 @@ tags:
   - 子育て
   - 生駒
 ---
-![子育てアプリハッカソン](/assets/images/2015/03/code4ikoma.jpg)
-
 奈良県生駒市で開催された[CODE for IKOMA](http://code4ikoma.org/)主催の「子育てアプリアイデアワークショップ」に続き、このアイデアワークショップで出たアプリのアイデアを具体的な形にする「子育てアプリハッカソン」に参加しました。結果は、なんと「優秀賞」（最優秀賞に次ぐ第二位）という名誉ある賞をいただくことができました（パチパチパチパチ）。
 
 ## まず、アイデアの見直しから始まりました
@@ -73,3 +71,5 @@ tags:
 そういった方の参加が多かったからこそ、子育てに関する具体的なアイデアをまとめることができたという面もあったと思います。
 
 今回は、アイデアとプレゼン力で勝ち取った入賞（だと思っている）でしたが、次回はエンジニアとしての本来の力を発揮して、ぜひ一番良い賞を取りに行きたいと思います。
+
+![子育てアプリハッカソン](/assets/images/2015/03/code4ikoma.jpg)

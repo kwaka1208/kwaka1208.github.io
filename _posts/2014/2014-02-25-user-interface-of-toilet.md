@@ -6,7 +6,7 @@ layout: post
 permalink: /note/user-interface-of-toilet/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/02/toilet.jpg
+image: /assets/images/2014/02/toilet.jpg
 categories:
   - for creators
 tags:
@@ -14,8 +14,6 @@ tags:
   - トイレ
   - ユーザーインターフェース
 ---
-![toilet](/assets/images/2014/02/toilet.jpg)
-
 ITの話ではないですけど、日常にあるユーザーインターフェースの話ということで。
 
 ## 自動で流れるトイレ
@@ -53,6 +51,6 @@ ITの話ではないですけど、日常にあるユーザーインターフェ
 
 「トイレで水を流す」ということだけでも、使いやすいものにするための工夫が、まだまだありそうです。
 
-#ひとにやさしいIT (ITの話じゃないけど)
+![toilet](/assets/images/2014/02/toilet.jpg)
 
 photo credit: [arnoKath](http://www.flickr.com/photos/typoatelier/4848221755/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)

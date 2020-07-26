@@ -6,7 +6,7 @@ layout: post
 permalink: /note/life-without-printer/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2013/12/medium_2794943066.jpg
+image: /assets/images/2013/12/medium_2794943066.jpg
 categories:
   - voice
 tags:
@@ -14,10 +14,6 @@ tags:
   - コンビニ
   - プリンタ
 ---
-![コンビニエンスストア](/assets/images/2013/12/medium_2794943066.jpg)
-
-photo credit: [NCinDC](http://www.flickr.com/photos/ncindc/2794943066/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nd/2.0/)
-
 [前回の記事](/new-years-card/)で、「年賀状もスマートフォンで作れるようになったから、PC要らないよね～」と書いた私ですが、私自身はPC（Mac）が不要になるわけもなく、でもプリンタの方はなんとかなしにできないか？　と考えてます。
 
 我が家のプリンタは、2005年に購入したもの。8年にもなれば、いつ壊れてもおかしくない年頃です。
@@ -65,7 +61,11 @@ photo credit: [NCinDC](http://www.flickr.com/photos/ncindc/2794943066/) via [pho
 この記事を書いていて、「印刷してからミスに気付いたら、修正しに家に帰ることになるのか」などなど考えていたのですが、最近のコンビニはイートインスペースがあるし、コンビニコーヒーが流行ってるし、いっそのことPC持ち込んで作業すればいいじゃん！　ってことに気付きました。来年は、「コンビニでドヤリング」元年になること間違いなしです！
 
 以下、コンビニ各社のプリントサービスへのリンクです。
-[セブンイレブン](http://www.sej.co.jp/services/index.html)
-[ローソン](http://www.lawson.co.jp/service/counter/)
-[サークルKサンクス](http://www.circleksunkus.jp/service/multicopy/index-top.html)
-[ファミリーマート](http://www.family.co.jp/services/print/)
+- [セブンイレブン](http://www.sej.co.jp/services/index.html)
+- [ローソン](http://www.lawson.co.jp/service/counter/)
+- [サークルKサンクス](http://www.circleksunkus.jp/service/multicopy/index-top.html)
+- [ファミリーマート](http://www.family.co.jp/services/print/)
+
+![コンビニエンスストア](/assets/images/2013/12/medium_2794943066.jpg)
+
+photo credit: [NCinDC](http://www.flickr.com/photos/ncindc/2794943066/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nd/2.0/)

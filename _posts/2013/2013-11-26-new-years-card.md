@@ -6,7 +6,7 @@ layout: post
 permalink: /note/new-years-card/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2013/11/small_2167028703.jpg
+image: /assets/images/2013/11/small_2167028703.jpg
 categories:
   - for users
 tags:
@@ -14,10 +14,6 @@ tags:
   - タブレット
   - 年賀状
 ---
-![年賀状](/assets/images/2013/11/small_2167028703.jpg)
-
-photo credit: [midorisyu](http://www.flickr.com/photos/midorisyu/2167028703/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)
-
 11月も終わりが近づき、そろそろ年賀状を書き始める時期になりました。
 スマートフォンやタブレットが登場した後も、年賀状作りはPCでなければできないことが多かったのですが、今年はスマートフォンやタブレットから年賀状印刷できるアプリやサービスが増え、いよいよ「PCが置き換えられる」時代が来たようです。
 
@@ -59,3 +55,7 @@ PCの年賀状作成アプリが、ただの宛名印刷アプリでないポイ
 
 住所が分からない相手にもSNSのIDやメールアドレスで送れるサービスもあり、年賀状ってなんだっけ？みたいな状態に陥っています……。
 そんな私の年賀状は、宛名も文面もすべて手書きです（笑）。
+
+![年賀状](/assets/images/2013/11/small_2167028703.jpg)
+
+photo credit: [midorisyu](http://www.flickr.com/photos/midorisyu/2167028703/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

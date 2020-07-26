@@ -6,7 +6,7 @@ layout: post
 permalink: /note/product-life-cycle/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/04/medium_2772087916.jpg
+image: /assets/images/2014/04/medium_2772087916.jpg
 categories:
   - voice
 tags:
@@ -16,8 +16,6 @@ tags:
   - 寿命
   - 製品
 ---
-![closed](/assets/images/2014/04/medium_2772087916.jpg)
-
 日本時間の2014年4月9日、Windows XPのサポートが終了しました。
 
 サポートが終了したからといって、Windows XPのPCが起動できなくなるわけではありません。セキュリティ対策が提供されなくなるため、将来Windows XPが持つ脆弱性が発見されたとしても修正するパッチが提供されず、継続して使うことが危険な状態になる。つまり実質的に使えない、というわけです。
@@ -47,6 +45,6 @@ Windows XPの場合、本来のサポート期間を5年間延長しましたの
 ## 製品の寿命を定義して売り買いする時代？
 製品の寿命が動物と同じように自然にやってきた時代は終わり、メーカーが寿命を定義して、消費者がその寿命と価格を判断してモノを買う、そんな時代になるのでしょうか。何もかもあらかじめ決められなければ、自分で判断して使うこともできない、それはそれで寂しい気もするのですが……。
 
-#モノづくりの現場から
+![closed](/assets/images/2014/04/medium_2772087916.jpg)
 
 photo credit: [slimmer_jimmer](http://www.flickr.com/photos/slimjim/2772087916/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)

@@ -6,7 +6,7 @@ layout: post
 permalink: /note/software-engineer-should-be-close-for-english/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/03/code.jpg
+image: /assets/images/2015/03/code.jpg
 categories:
   - for creators
 tags:
@@ -15,9 +15,6 @@ tags:
   - Software
   - 英語
 ---
-![code](/assets/images/2015/03/code.jpg)
-credit: [toolmantim](http://www.flickr.com/photos/57794886@N00/6170448143/) via [FindCC](http://findcc.net)
-
 今回は、エンジニアが取り組むべき英語についてのお話です。
 「英語」に関して、誰もが「ある程度できた方が良い」と考えていると思うのですが、ではどの程度できたらいいのでしょうか？
 もちろん、ネイティブなみにバリバリできればそれに越したことはありませんが、全員がネイティブレベルになるというのは無理な話。
@@ -58,3 +55,6 @@ Apple Watchの「グランス」が「ひとめで見る」ためのユーザー
 
 言葉の意味、綴り、品詞による違いをその都度調べるのは面倒だと思いますが、慣れるまでは仕方がありません。
 ソフトウェアやWebサイトをコーディングする人は、ネイティブレベルとは言わないまでも、品詞の使い方や綴り間違いを「気持ち悪い」と感じるぐらいのセンスは持ち合わせていたいものです。
+
+![code](/assets/images/2015/03/code.jpg)
+credit: [toolmantim](http://www.flickr.com/photos/57794886@N00/6170448143/) via [FindCC](http://findcc.net)

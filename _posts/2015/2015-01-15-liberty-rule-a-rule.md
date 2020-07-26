@@ -6,15 +6,13 @@ layout: post
 permalink: /note/liberty-rule-a-rule/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/01/medium_6104169423.jpg
+image: /assets/images/2015/01/medium_6104169423.jpg
 categories:
   - voice
 tags:
   - liberty
   - rule
 ---
-![Liberty](/assets/images/2015/01/medium_6104169423.jpg)
-
 私は、長らく大手電機メーカーに勤務し多くのルールの中で働いてきました。
 大手企業の業績が低迷し、スタートアップ企業の成長が顕著になった昨今では、「ルールに縛られるのは悪いこと、もっと自由な風土が必要」といった論調が目立っているように思いますが、ここは誤解があってはならないところ。
 
@@ -37,4 +35,5 @@ tags:
 こういった「様式」も「ルール」のひとつであり、仕事をする上で必要な「フレームワーク」。実態に合っていないルールを改善していくことができなければ「縛られた感」を感じるでしょうし、それらを変えられる「自由さ」が必要ということなのだと考えています。
 つまり、やはり「ルール」は必要で、「ルールをつかいこなしていく自由さ」こそが「ルール」と「自由」が両立できるポイントなのだと、私は考えています。
 
+![Liberty](/assets/images/2015/01/medium_6104169423.jpg)
 photo credit: [Kyle Taylor, Dream It. Do It.](https://www.flickr.com/photos/kyletaylor/6104169423/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

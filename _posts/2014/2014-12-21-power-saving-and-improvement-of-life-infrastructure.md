@@ -6,7 +6,7 @@ layout: post
 permalink: /note/power-saving-and-improvement-of-life-infrastructure/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/12/medium_14884682980.jpg
+image: /assets/images/2014/12/medium_14884682980.jpg
 categories:
   - voice
 tags:
@@ -15,8 +15,6 @@ tags:
   - 災害対策
   - 節電
 ---
-![convinience store](/assets/images/2014/12/medium_14884682980.jpg)
-
 東日本大震災以降、特にエアコンによる電力需要が高まるこの時期に、「節電」ということが言われます。しかし、観ないテレビは消しましょうとか、部屋の電気は小まめに消しましょうといった程度では節電の効果はしれていて、もっと効果の高い節電策をうちださなければ目に見える効果が表れるようにはならないと思います。
 
 ## コンビニの適正な配置による節電
@@ -46,5 +44,7 @@ tags:
 コンビニ関係の政策を国が積極的に展開すれば、節電と温暖化対策、両方に対応できるのではないかな？
 【参考リンク】
 [24時間コンビニは電気のムダ遣いでは？](http://www.nikkeibp.co.jp/article/tk/20100406/219710/)
+
+![convinience store](/assets/images/2014/12/medium_14884682980.jpg)
 
 photo credit: [Dick Thomas Johnson](https://www.flickr.com/photos/31029865@N06/14884682980/) via [photopin](http://photopin.com) [cc](http://creativecommons.org/licenses/by/2.0/)

@@ -6,7 +6,7 @@ layout: post
 permalink: /note/mashup-awards-11-nara-qualify/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/09/IMG_1660.jpg
+image: /assets/images/2015/09/IMG_1660.jpg
 categories:
   - event
 ---

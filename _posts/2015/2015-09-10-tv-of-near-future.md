@@ -6,7 +6,7 @@ layout: post
 permalink: /note/tv-of-near-future/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2015/09/tv.jpg
+image: /assets/images/2015/09/tv.jpg
 categories:
   - voice
 tags:
@@ -14,8 +14,6 @@ tags:
   - テレビ
   - 未来
 ---
-![TV](/assets/images/2015/09/tv.jpg)
-
 この話は以前にも書いたのですが、新しいApple テレビが発表されたこともあっていいタイミングなのでもう一度整理して書くことにします。
 
 ### 私の考える未来のテレビ
@@ -82,5 +80,7 @@ Apple TVで何かを観ようと思ったら….
 国内であれば、任天堂が一番可能性が高いと思っていたのですが、Wiiの後にWii Uを出してきた時に、ダメだなと思いました。Wii Uのタイミングで任天堂が「テレビを作ります」と言って出ていればと思いますし、そのために私は任天堂に行きたいとも思っていました。しかし、任天堂はそこをやるつもりはなさそうですね。
 
 でも、Appleならできそうな気がします。AppleがApple TVとモニターをテレビ売り場に置くようになる日を、私は楽しみにしています。
+
+![TV](/assets/images/2015/09/tv.jpg)
 
 photo credit: [TV Abandoned](http://www.flickr.com/photos/22882274@N04/16035779290) via [photopin](http://photopin.com) [(license)](https://creativecommons.org/licenses/by/2.0/)

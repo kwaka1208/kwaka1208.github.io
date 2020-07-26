@@ -6,7 +6,7 @@ layout: post
 permalink: /note/my-first-mac/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/01/macintosh.jpg
+image: /assets/images/2014/01/macintosh.jpg
 categories:
   - voice
 tags:
@@ -14,8 +14,6 @@ tags:
   - Mac
   - Macintosh
 ---
-![Macintosh](/assets/images/2014/01/macintosh.jpg)
-
 Macintoshが30周年記念ということで、自分のMacintoshとの出会いをちょっと書いてみたいと思います。
 
 ## Macintoshとの出会い
@@ -48,8 +46,7 @@ Macintosh30周年、本当におめでとうございます。
 ## one more thing
 米国Appleのサイトで、初めて使ったMacのモデルと用途を募っています。Macユーザーの方は是非入力してみてください。
 
-[your first mac @ apple.com](http://www.apple.com/30-years/your-first-mac/)
+- [your first mac @ apple.com](http://www.apple.com/30-years/your-first-mac/)
+- [Thirty years of Mac](http://www.apple.com/30-years/)
 
-[Thirty years of Mac](http://www.apple.com/30-years/)
-
-#初Mac
+![Macintosh](/assets/images/2014/01/macintosh.jpg)

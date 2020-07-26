@@ -6,7 +6,7 @@ layout: post
 permalink: /note/office-with-mac/
 attitude_sidebarlayout:
   - default
-image: /wp-content/uploads/2014/02/office.png
+image: /assets/images/2014/02/office.png
 categories:
   - for users
 tags:
@@ -66,19 +66,16 @@ Open Officeにブラウザで使えるOnline版の提供はありません。
 ## どれを使えばいい?
 と、ここまでで主な選択肢を上げましたが、実際にどれを使えばいいのか?を考えられるタイプ別に分けてみました。
 
-<li><strong>とにかく、Microsoft Officeが使いたい</strong><br />
+- とにかく、Microsoft Officeが使いたい  
 →おすすめは、「[Microsoft Office Online](https://office.com/)」です。
 今までMicrosoft Officeを使っていたからWordやExcelと同じものが使いたい、WindowsでOfficeを使っている方とファイルを共有して使いたい、という方であれば「Online版のMicrosoft Office」がおすすめです。
 アプリ版を購入するという選択肢もありますが、定価で2万円近くしますし、今はMacをネットに接続しないで使っている方はほとんど居ないと思いますので、無料で使えるOnline版がおすすめです。
-</li>
-<li><strong>ネットが使えない環境でも使いたい</strong><br />
+- ネットが使えない環境でも使いたい  
 →おすすめは、Appleの[Pages](http://www.apple.com/jp/mac/pages/)/[Numbers](http://www.apple.com/jp/mac/numbers/)/[KeyNote](http://www.apple.com/jp/mac/keynote/)です。
 無料で使えるOpenOfficeという選択肢もあるのですが、メニューや画面の美しさがMacにそぐわないというのが正直な感想で、Macでアプリ版のOfficeを使うならやはりデザインの美しいApple製を使った方がいいかなと思います。
-</li>
-<li><strong>複数メンバーでファイルを共有して編集作業したい</strong><br />
+- 複数メンバーでファイルを共有して編集作業したい  
 →おすすめは、「[Microsoft Office Online](https://office.com/)」です。
-もちろん、共有するメンバーが全員Appleアカウントを持っている、Googleアカウントを持っている、ということであればiCloudやGoogle docsを使うという手もあるのですが、やはり本家Officeとの互換性は捨て難い。AppleやGoogleのアカウントを持っている方なら、Microsoftアカウントを追加で取ることも難しくは無いはずですから、わざわざMicrosoftアカウントを取ってでも「Microsoft Office Online」を使った方が良いと思います。</li>
-
+もちろん、共有するメンバーが全員Appleアカウントを持っている、Googleアカウントを持っている、ということであればiCloudやGoogle docsを使うという手もあるのですが、やはり本家Officeとの互換性は捨て難い。AppleやGoogleのアカウントを持っている方なら、Microsoftアカウントを追加で取ることも難しくは無いはずですから、わざわざMicrosoftアカウントを取ってでも「Microsoft Office Online」を使った方が良いと思います。
 
 以上、Macユーザーな私がMicrosoft推しなエントリーを書くことになるとは思いませんでしたが、それぐらい「[Microsoft Office Online](https://office.com/)」はよくできていると思います。
 
