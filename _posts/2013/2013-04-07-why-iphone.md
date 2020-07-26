@@ -1,5 +1,5 @@
 ---
-title: 'iPhoneを好きになる理由。- Why you'll love an iPhone'
+title: iPhoneを好きになる理由。- Why you'll love an iPhone
 date: 2013-04-07T16:48:06 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
