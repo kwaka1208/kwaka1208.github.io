@@ -24,7 +24,8 @@ CPUとはPCの頭脳にあたる部分で、この性能が高いほど性能の
 
 また同じCPUでも世代が異なればより新しい世代の方が性能が良いことがほとんどです。同じCPU（例えばCore i5）を搭載しているモデルなのに極端に安い場合は世代が古いものである可能性があります。必ず世代まで確認しましょう。世代の見分け方についてはこちらを参照してください。
 
-[【Intel CPU】Core i9, Core i7, Core i5, Core i3の世代の一覧・見分け方のまとめ](https://pssection9.com/archives/intel-corei7-corei5-corei3-gen-list-how-to-identify.html){:target="_blank"}
+- [【Intel CPU】Core i9, Core i7, Core i5, Core i3の世代の一覧・見分け方のまとめ](https://pssection9.com/archives/intel-corei7-corei5-corei3-gen-list-how-to-identify.html){:target="_blank"}
+- [わかりやすい！CPUの表記の見方](https://student-notepc.com/cpu_how.html){:target="_blank"}
 
 ### メモリ容量
 アプリを起動した時に必要になるものです。メモリも次のストレージも「容量」の大きさが性能に関係してきますが、メモリはアプリを立ち上げた時の動作の快適さに影響します。オフィスに例えると、机の上のスペースみたいなものです。容量の多い方が（机の上が広い方が）一度にたくさんのアプリを起動できて快適に作業できます。最低で8GBあれば良いでしょう。もちろん多い方がいいですが、後は予算との相談です。
