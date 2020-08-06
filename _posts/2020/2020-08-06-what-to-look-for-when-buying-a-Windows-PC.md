@@ -20,7 +20,7 @@ CPUとはPCの頭脳にあたる部分で、この性能が高いほど性能の
 
 ただし、Ryzenの方がコストパフォーマンスが高いと聞きます。Core iとRyzenの違いは以下の記事を参照してください。
 
-[「Core i」と「Ryzen」の違いを比較【ざっくり解説】](https://pcfreebook.com/article/corei-ryzen-comparison-difference.html){:target="_blank"}
+- [「Core i」と「Ryzen」の違いを比較【ざっくり解説】](https://pcfreebook.com/article/corei-ryzen-comparison-difference.html){:target="_blank"}
 
 また同じCPUでも世代が異なればより新しい世代の方が性能が良いことがほとんどです。同じCPU（例えばCore i5）を搭載しているモデルなのに極端に安い場合は世代が古いものである可能性があります。必ず世代まで確認しましょう。世代の見分け方についてはこちらを参照してください。
 
