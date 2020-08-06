@@ -77,18 +77,24 @@ PCとは別にソフトだけ購入するもので、支払いは購入時の一
 
 企業の戦略としてサブスクリプション版に誘導したいのはわかりますが、似たような名前で微妙な差があるのは初心者には難しいと思います。
 
-### 無料Officeの選択肢
+### 無料Officeという選択肢
 どうしてもMicrosoft Officeでないとダメというわけではないけれど、ワープロや表計算を使いたいという方には無料のOfficeソフトを使うという選択肢があります。
 
+- Web版Microsoft Offie  
+Microsoftが提供する[Web版 Microsoft Office]は無料で使えます。クラウドサービス型のOfficeで利用にはインターネット接続が必要で、機能も一部制限されていますがMicrosoft自身が提供しているので、データの互換性の面で安心して使えます。サブスクリプション版の[Microsoft 365](https://www.microsoft.com/ja-jp/microsoft-365/buy/compare-all-microsoft-365-products)の機能限定版と言えます。
+
+- Googleの無料Office  
 ひとつは、Googleが提供する[Googleドキュメント](https://www.google.com/intl/ja_jp/docs/about/){:target="_blank"}、[Googleスライド](https://www.google.com/intl/ja_jp/slides/about/){:target="_blank"}、[Googleスプレッドシート](https://www.google.com/intl/ja_jp/sheets/about/){:target="_blank"}です。これらは、クラウドで動作するものでブラウザから利用します。
 
+- Libre Office  
 クラウドサービスの場合、インターネットに接続できる環境がなければ使えませんが、オフラインでも使いたいという方には[Libre Office](https://ja.libreoffice.org/){:target="_blank"}というものがあります。こちらはソフトウェアをダウンロードしインストールするタイプのソフトウェア（アプリ）ですが無料で使えます。
 
-いずれも、Microsoft Officeで作ったファイルを開いたり、Microsoft Officeと同じファイル形式で保存できますが、完全に同じではないためレイアウトが崩れたり一部の機能が正しく動作しない場合があります。
+
+Microsoft社製以外のOfficeでも、Microsoft Officeで作ったファイルを開いたり、Microsoft Officeと同じファイル形式で保存できますが、完全に同じではないためレイアウトが崩れたり一部の機能が正しく動作しない場合があります。
 
 メニューの構成や機能の有無が一部違うものの、多くの場合でMicrosoft Officeと同等の使い方ができます。
 
-Microsoft Officeで作ったファイルを開いたり、Microsoft Officeと同じファイル形式で保存できるとはいうもののMicrosoft Officeを使っている方とファイルのやり取りすることが多く、何か問題が発生した時に自分で解決する自信が無い方はMicrosoft Officeを使った方が無難かもしれません。
+Microsoft Officeで作ったファイルを開いたり、Microsoft Officeと同じファイル形式で保存できるとはいうもののMicrosoft Officeを使っている方とファイルのやり取りすることが多く、何か問題が発生した時に自分で解決する自信が無い方はWeb版Microsoft Officeや有料のMicrosoft Officeを使った方が無難かもしれません。
 
 ### 類似の有料Officeには手を出すな
 Officeソフトウェアには、上に書いたMicrosoft OfficeとGoogleドキュメントなどやLibre Officeのような無料のもの以外に、有料のOfficeソフトウェアもあります。
