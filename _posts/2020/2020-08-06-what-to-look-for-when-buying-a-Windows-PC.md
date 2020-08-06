@@ -44,7 +44,7 @@ CPUとはPCの頭脳にあたる部分で、この性能が高いほど性能の
 ## Windowsのバージョンについて
 現時点(2020年8月)のWindowsの最新版はWindows 10でそれ以前のWindowsはすべてサポート期限が切れており使うことができません。今、新品で購入できるWindows PCにはすべてWindows 10がインストールされています。もし中古での購入を検討している場合は、Windows 10がインストールされていることを必ず確認してください。
 
-### ProとHomeの違い
+### HomeとProの違い
 Windows 10にはHomeとProがあり、ハードウェア仕様が同じなら、Home搭載機種の方がPro搭載機種よりも安くなります。ProとHomeの違いについては以下のリンク先を見ていただければわかりますが、Proはごく一部ユーザー向けですのでProでなければならない明確な理由がある方以外はHomeで大丈夫です。その理由って何？という方もHomeで問題ありません。
 
 [Windows 10 HomeとProの違い](https://www.microsoft.com/ja-jp/windows/compare-windows-10-home-vs-pro){:target="_blank"}
