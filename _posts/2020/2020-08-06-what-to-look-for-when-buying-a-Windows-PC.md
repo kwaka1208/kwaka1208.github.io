@@ -18,7 +18,7 @@ PC本体を選ぶ際のポイントは、「CPU性能」「メモリ容量」「
 ### CPU性能
 CPUとはPCの頭脳にあたる部分で、この性能が高いほど性能の高いPCと言えます。一番いいやつ、とは言いませんがあまり性能の低いものを選ぶと後悔することになるので、Intel Core i5以上、もしくはAMD Ryzen5以上（最後の数字の大きい方が性能が高い）を選んでおくと良いでしょう。
 
-ただし、Ryzenの方がコストパフォーマンスが高いと聞きます。CoreiとRyzenの違いは以下の記事を参照してください。
+ただし、Ryzenの方がコストパフォーマンスが高いと聞きます。Core iとRyzenの違いは以下の記事を参照してください。
 
 [「Core i」と「Ryzen」の違いを比較【ざっくり解説】](https://pcfreebook.com/article/corei-ryzen-comparison-difference.html){:target="_blank"}
 
