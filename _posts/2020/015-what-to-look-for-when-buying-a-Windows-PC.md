@@ -1,6 +1,6 @@
 ---
-title: [初心者向け]Windows PCを購入する時のポイントまとめ[2020年8月]
-date: 2020-08-06T15:00:00 UTC+9
+title: 【初心者向け】Windows PCを購入する時のポイントまとめ(2020年8月)
+date: 2020-08-06T20:43:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-to-look-for-when-buying-a-Windows-PC
@@ -47,10 +47,7 @@ Microsoft Officeの購入形態としては、「バンドル版」「永続版�
 
 ### 無料Officeの選択肢
 
-
 ### 類似の有料Officeには手を出すな
-
-
 
 ## 安いものを探す
 値段優先で探したい場合は、[価格.com](https://kakaku.com/){:target="_blank"}が分かりやすいです。ただし、価格が安いのにはそれなりに理由がありますので内容をよく確認してください。
