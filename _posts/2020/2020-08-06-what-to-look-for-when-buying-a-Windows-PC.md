@@ -84,7 +84,7 @@ PCとは別にソフトだけ購入するもので、支払いは購入時の一
 Microsoft社が提供する[Web版 Microsoft Office]は無料で使えます。クラウドサービス型のOfficeで利用にはインターネット接続が必要で、機能も一部制限されていますがMicrosoft自身が提供しているので、データの互換性の面で安心して使えます。サブスクリプション版の[Microsoft 365](https://www.microsoft.com/ja-jp/microsoft-365/buy/compare-all-microsoft-365-products)の機能限定版と言えます。
 
 - Googleの無料Office  
-Google社が提供する[Google Drive](https://www.google.com/intl/ja_ALL/drive/){:target="_blank"}の中で使えるOfficeサービスも無料で使えます。[Googleドキュメント](https://www.google.com/intl/ja_jp/docs/about/){:target="_blank"}、[Googleスライド](https://www.google.com/intl/ja_jp/slides/about/){:target="_blank"}、[Googleスプレッドシート](https://www.google.com/intl/ja_jp/sheets/about/){:target="_blank"}です。これらは、クラウドで動作するものでブラウザから利用します。
+Google社が提供する[Google Drive](https://www.google.com/intl/ja_ALL/drive/){:target="_blank"}の中で使えるOfficeサービスも無料で使えます。[Googleドキュメント](https://www.google.com/intl/ja_jp/docs/about/){:target="_blank"}、[Googleスライド](https://www.google.com/intl/ja_jp/slides/about/){:target="_blank"}、[Googleスプレッドシート](https://www.google.com/intl/ja_jp/sheets/about/){:target="_blank"}です。これらもクラウドで動作するものでブラウザから利用します。利用にはインターネット接続が必要です。
 
 - Libre Office  
 クラウドサービスの場合、インターネットに接続できる環境がなければ使えませんが、オフラインでも使いたいという方には[Libre Office](https://ja.libreoffice.org/){:target="_blank"}というものがあります。こちらはソフトウェアをダウンロードしインストールするタイプのソフトウェア（アプリ）ですが無料で使えます。
