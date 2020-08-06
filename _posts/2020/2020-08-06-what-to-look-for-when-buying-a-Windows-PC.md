@@ -50,7 +50,7 @@ Windows 10にはHomeとProがあり、ハードウェア仕様が同じなら、
 [Windows 10 HomeとProの違い](https://www.microsoft.com/ja-jp/windows/compare-windows-10-home-vs-pro){:target="_blank"}
 
 ### Sモードについて
-Windows 10 Pro、Homeともに「Sモード」というものがあります。このSモードはセキュリティを向上させるために、アプリをMicrosoft Storeからしかインストールできないなどの制限が加えられたWindows 10のモードです。Sモードと表示されたWindowsでもSモードを解除すると従来のWindows 10と同様に使えます。ただし、一度Sモードを解除すると再びSモードに戻すことはできません。詳しくは以下のリンク先をご覧ください。
+Windows 10 Home、Proともに「Sモード」というものがあります。Sモードはセキュリティを向上させるため、アプリをMicrosoft Storeからしかインストールできないようにするなどの制限が加えたWindows 10のひとつのモードです。Sモードと表示されたWindowsでもSモードを解除すると従来のWindows 10と同様に使えます。ただし、一度Sモードを解除すると再びSモードに戻すことはできません。詳しくは以下のリンク先をご覧ください。
 
 [Windows 10 (S モード) に関してよくあるご質問](https://support.microsoft.com/ja-jp/help/4020089/windows-10-in-s-mode-faq){:target="_blank"}
 
