@@ -59,7 +59,7 @@ Sモードに対応したWindows 10搭載モデルであれば最初はSモー�
 ## Microsoft Officeは必要？
 ここの判断は難しいですが、必ずしもなくて良いと思います。会社でMicrosoft Officeを使っていて同じものを使いたい、就職した時のことを考えてMicrosoft Officeの練習をしておきたい、というのであれば買っても良いかと思いますが、そうでなければ不要かと思います。
 
-Microsoft Officeを購入するのであれば「バンドル版」「永続版」「サブスクリプション版」の3つの購入形態を検討する必要があります。
+Microsoft Officeを購入するのであれば「バンドル版」「永続版」「サブスクリプション版」の3つの購入形態から検討する必要があります。
 
 - **バンドル版**  
 PCに最初から付いているものです。メーカーの直販サイトであれば、購入時にOfficeの有無を選ぶことができる場合が多いです。「バンドル版」については、そのPCでしか使えないという点に注意が必要です。次にPCを買い換えるタイミングで、Office無しを選んでOfficeだけを前のPCから移し替えることができません。ただし、次の「永続版」よりも安いというメリットがあります。
@@ -71,8 +71,12 @@ PCとは別にソフトだけ購入するもので、支払いは購入時の一
 [Microsoft 365](https://www.microsoft.com/ja-jp/microsoft-365){:target="_blank"}
 
 ### Microsoft Officeのバリエーション
-バンドル版と永続版のMicrosoft Officeにはいくつかのバリエーションがあります。その中で特に気をつけるべき違いは「PowerPointがついているか？」ということ。
-**[Microsoft Office Personal 2019](https://amzn.to/3ifoZfj)にはPowerPointは入っていません**が、[Microsoft Office Home & Business 2019](https://amzn.to/2DtT9N9)ならPowerPointが入っています。PowerPointを利用したい方は多いと思いますので、価格が安いからといって"Personal"を選ぶと安物買いの銭失いになりますので注意しましょう。
+「バンドル版」もしくは「永続版」を購入する場合、バリエーションの違いに注意してください。ポイントは「PowerPointがついているか？」ということ。
+
+- [Microsoft Office Personal 2019](https://amzn.to/3ifoZfj)：PowerPoint**無し**
+- [Microsoft Office Home & Business 2019](https://amzn.to/2DtT9N9)：PowerPoint**有り**
+
+PowerPointを利用したい方は多いと思いますので、価格が安いからといって"Personal"を選ぶと安物買いの銭失いになりますので注意しましょう。
 
 ややこしいのは、サブスクリプション版の[Microsoft 365](https://www.microsoft.com/ja-jp/microsoft-365/buy/compare-all-microsoft-365-products){:target="_blank"}であれば"Personal"でもPowerPointが含まれていることです。
 
