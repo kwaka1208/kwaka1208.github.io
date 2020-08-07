@@ -123,9 +123,10 @@ Officeソフトウェアには、上に書いたMicrosoft OfficeとGoogleドキ�
 - [富士通](https://www.fujitsu-webmart.com/pc/webmart/ui3811.jsp){:target="_blank"}
 - [マウスコンピューター](https://www.mouse-jp.co.jp/){:target="_blank"}
 - [VAIO（元ソニー）](https://store.vaio.com/){:target="_blank"}
+- [NECパーソナルコンピュータ](https://www.nec-lavie.jp/){:target="_blank"}
 
 ### 海外
-- [Hewlett Packerd（アメリカ）](https://www8.hp.com/jp/ja/home.html){:target="_blank"}
+- [hp(元Hewlett Packerd)（アメリカ）](https://www8.hp.com/jp/ja/home.html){:target="_blank"}
 - [DELL（アメリカ）](https://www.dell.com/ja-jp){:target="_blank"}
 - [ASUS（台湾）](https://www.asus.com/jp/){:target="_blank"}
 - [Lenovo（中国）](https://www.lenovo.com/jp/ja/){:target="_blank"}
