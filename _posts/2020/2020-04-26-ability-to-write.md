@@ -1,6 +1,6 @@
 ---
 title: 読む力より書く力
-date: 2020-04-26T06:21:00 UTC+9
+date: 2019-12-28T06:21:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/ability-to-write
