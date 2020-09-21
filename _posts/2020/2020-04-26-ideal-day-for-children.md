@@ -1,5 +1,5 @@
 ---
-title: 読む力より書く力
+title: 私の思う子どもたちの理想的な一日
 date: 2020-04-26T06:07:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
