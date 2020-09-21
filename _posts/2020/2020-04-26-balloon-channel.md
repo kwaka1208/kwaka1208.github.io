@@ -12,7 +12,7 @@ categories:
 ---
 企業のブランディングやデザインコンサルティングを手がけるBalloon株式会社が運営するstand.fmの番組「Balloon Channel」で「プログラミング教育観」というテーマでお話しさせていただきました。stand.fmデビューです！
 
-[17_若林健一さんに聞く「プログラミング教育観」 - Balloon Channel | stand.fm](https://stand.fm/episodes/5e99a4186c967d6a3137ea3c){:target="_blank"}
+[17_若林健一さんに聞く「プログラミング教育観」Balloon Channel](https://stand.fm/episodes/5e99a4186c967d6a3137ea3c){:target="_blank"}
 
 もしかするとみなさんが思う「プログラミング教育」のイメージと違うかもしれませんが、よかったら聴いてみてください。かなり自由に喋らせていただきました。 :D
 
