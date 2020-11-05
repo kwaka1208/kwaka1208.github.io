@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="post container" itemscope itemtype="http://schema.org/BlogPosting" id="post">
+  <header class="post-header">
+    {% if page.image %}
+      <img src="{{ page.image | prepend: site.baseurl | prepend: site.url }}" class="title_image">
+    {% endif %}
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+    {% include post-share.html %}
+  </div>
+</article>
