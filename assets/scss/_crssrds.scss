@@ -282,3 +282,34 @@ footer{
 		margin: 15px auto 0 auto;
 	}
 }
+
+#lab {
+	button {
+	}
+	.btn {
+		margin: 0 20px 40px;
+		padding: 1em 2em;
+		border: none;
+		display: inline-block;
+		background-color: #5A7AB3;
+		box-shadow: 0 6px #4063A4;
+		font-size: 114%;
+		line-height: 1;
+		color: #fff;
+		position: relative;
+		cursor: pointer;
+
+		border-radius: 3px;
+		box-shadow: 0 1px 1px rgba(0,0,0,.5);
+		top: 0;
+		transition: .2s all;
+	}
+	.btn:hover {
+		top: -2px;
+		box-shadow: 0 2px 10px rgba(0,0,0,.5);
+	}
+	.btn:active {
+		box-shadow: 0 1px 1px rgba(0,0,0,.5);
+		top: 0;
+	}
+}
