@@ -284,9 +284,14 @@ footer{
 }
 
 #lab {
-	h2 {
+	.marker {
 		background: linear-gradient(transparent 60%, #ffff66 60%);
 	}
+
+	.message {
+		font-size: 3em;
+	}
+
 	.btn {
 		margin: 0 20px 40px;
 		padding: 1em 2em;
