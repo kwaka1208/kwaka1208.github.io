@@ -65,7 +65,7 @@ IT部門の方々は、社内のセキュリティを守るために、こうし
 
 もちろん、利用者の意識も大切ですから、↓この記事を参考に安全で管理しやすいパスワードを作ってくださいね！
 
-[安全で管理しやすいパスワードの作り方](/how-to-create-safe-password/)
+[安全で管理しやすいパスワードの作り方](/note/how-to-create-safe-password/)
 
 ![password have to be changed](/assets/images/2014/01/medium_2175038829.jpg)
 
