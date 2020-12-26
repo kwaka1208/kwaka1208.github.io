@@ -4,6 +4,7 @@ date: 2014-07-15T12:35:45 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/new-digital-divide/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/07/medium_1455076844.jpg

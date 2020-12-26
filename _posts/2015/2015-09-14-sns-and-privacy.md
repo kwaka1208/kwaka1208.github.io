@@ -4,6 +4,7 @@ date: 2015-09-14T12:36:26 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sns-and-privacy/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

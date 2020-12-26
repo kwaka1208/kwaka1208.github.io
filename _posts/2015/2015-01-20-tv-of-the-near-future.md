@@ -4,9 +4,9 @@ date: 2015-01-20T12:36:11 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/tv-of-the-near-future/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
-image: /assets/images/2015/01/medium_16035779290.jpg
 categories:
   - for creators
 tags:

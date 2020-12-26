@@ -4,6 +4,7 @@ date: 2013-11-06T07:17:05 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-setting-hide-away/
+image : /assets/images/common/ogp.png
 categories:
   - for users
 tags:

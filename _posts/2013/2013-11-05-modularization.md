@@ -4,6 +4,7 @@ date: 2013-11-05T14:30:43 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/modularization/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

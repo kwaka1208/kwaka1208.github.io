@@ -4,6 +4,7 @@ date: 2013-02-13T19:58:47 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/iphone-unlock-ui/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

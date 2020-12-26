@@ -4,6 +4,7 @@ date: 2014-09-24T22:43:16 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sns-and-blog/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/09/diary.jpg

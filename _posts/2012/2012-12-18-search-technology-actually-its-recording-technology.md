@@ -4,6 +4,7 @@ date: 2012-12-18T06:32:39 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/search-technology-actually-its-recording-technology/
+image : /assets/images/common/ogp.png
 categories:
   - voice
 ---

@@ -4,6 +4,7 @@ date: 2013-10-08T14:30:25 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/mail-and-message/
+image : /assets/images/common/ogp.png
 categories:
   - voice
 tags:

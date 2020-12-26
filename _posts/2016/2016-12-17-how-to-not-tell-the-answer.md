@@ -4,9 +4,9 @@ date: 2016-12-17T14:26:50 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/how-to-not-tell-the-answer/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
-image: /assets/images/2016/12/3.jpg
 categories:
   - voice
 tags:

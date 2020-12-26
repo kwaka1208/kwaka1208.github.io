@@ -4,6 +4,7 @@ date: 2013-01-29T09:26:55 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/improvement-of-elevator-button/
+image : /assets/images/common/ogp.png
 categories:
   - for creators
 tags:

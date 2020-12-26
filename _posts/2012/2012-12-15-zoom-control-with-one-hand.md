@@ -4,8 +4,7 @@ date: 2012-12-15T16:09:34 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/zoom-control-with-one-hand/
-image:
-  - ""
+image : /assets/images/common/ogp.png
 seo_follow:
   - 'false'
 seo_noindex:

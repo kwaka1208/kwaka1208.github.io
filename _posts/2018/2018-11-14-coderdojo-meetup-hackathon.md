@@ -4,6 +4,7 @@ date: 2018-11-14T18:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/coderdojo-meetup-hackathon
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

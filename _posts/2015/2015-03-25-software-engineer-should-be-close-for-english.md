@@ -4,9 +4,9 @@ date: 2015-03-25T22:34:48 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/software-engineer-should-be-close-for-english/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
-image: /assets/images/2015/03/code.jpg
 categories:
   - for creators
 tags:

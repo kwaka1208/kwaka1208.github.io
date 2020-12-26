@@ -4,6 +4,7 @@ date: 2013-04-07T16:48:06 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/why-iphone/
+image : /assets/images/common/ogp.png
 categories:
   - voice
 tags:

@@ -4,6 +4,7 @@ date: 2014-08-10T00:56:51 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/wordcamp-kansai-2014/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/07/WordCampKansai2014.jpg

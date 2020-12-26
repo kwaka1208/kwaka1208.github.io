@@ -4,6 +4,7 @@ date: 2014-06-25T13:10:22 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/how-evaluate-the-work/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/06/work.jpg

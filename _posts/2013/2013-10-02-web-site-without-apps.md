@@ -4,6 +4,7 @@ date: 2013-10-02T05:53:42 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/web-site-without-apps/
+image : /assets/images/common/ogp.png
 categories:
   - for users
 tags:

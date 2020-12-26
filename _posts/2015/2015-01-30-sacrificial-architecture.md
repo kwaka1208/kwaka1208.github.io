@@ -4,6 +4,7 @@ date: 2015-01-30T13:09:22 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sacrificial-architecture/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

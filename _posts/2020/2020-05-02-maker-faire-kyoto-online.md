@@ -4,6 +4,7 @@ date: 2020-05-02T10:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/maker-faire-kyoto-online
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

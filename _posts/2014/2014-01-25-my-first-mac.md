@@ -4,6 +4,7 @@ date: 2014-01-25T13:32:41 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/my-first-mac/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/01/macintosh.jpg

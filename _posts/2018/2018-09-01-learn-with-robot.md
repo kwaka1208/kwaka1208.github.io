@@ -4,6 +4,7 @@ date: 2018-09-01T20:30:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/learn-with-robot/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

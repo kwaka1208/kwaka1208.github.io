@@ -4,6 +4,7 @@ date: 2013-07-15T18:38:43 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/misunderstanding-about-isms/
+image : /assets/images/common/ogp.png
 categories:
   - voice
 tags:

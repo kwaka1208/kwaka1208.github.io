@@ -4,6 +4,7 @@ date: 2014-01-31T09:55:42 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/too-much-restriction-reduces-security/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/01/medium_2175038829.jpg

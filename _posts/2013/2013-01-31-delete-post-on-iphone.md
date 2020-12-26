@@ -4,6 +4,7 @@ date: 2013-01-31T14:45:36 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/delete-post-on-iphone/
+image : /assets/images/common/ogp.png
 categories:
   - for users
 tags:

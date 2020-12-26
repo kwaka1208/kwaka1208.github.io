@@ -4,6 +4,7 @@ date: 2016-02-27T00:51:47 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sketchtemplate/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

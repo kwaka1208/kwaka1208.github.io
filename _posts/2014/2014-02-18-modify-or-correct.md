@@ -4,6 +4,7 @@ date: 2014-02-18T12:32:56 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/modify-or-correct/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/02/GREEN_TU20140125500.png

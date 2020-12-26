@@ -5,6 +5,7 @@ date: 2017-07-05T23:54:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/coolest-projects-2017/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

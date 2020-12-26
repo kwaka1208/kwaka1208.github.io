@@ -4,6 +4,7 @@ date: 2016-05-10T07:54:13 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/future-for-children/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

@@ -4,9 +4,9 @@ date: 2015-05-10T01:37:09 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/office-on-github/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
-image: /assets/images/2015/05/excel.png
 categories:
   - for users
 tags:

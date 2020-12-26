@@ -4,6 +4,7 @@ date: 2013-07-05T12:50:23 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/oreilly-ebook-store/
+image : /assets/images/common/ogp.png
 categories:
   - voice
 ---

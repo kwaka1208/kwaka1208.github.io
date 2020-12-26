@@ -4,6 +4,7 @@ date: 2013-04-25T09:17:52 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/good-ui-decrese-the-cost/
+image : /assets/images/common/ogp.png
 categories:
   - for creators
 tags:

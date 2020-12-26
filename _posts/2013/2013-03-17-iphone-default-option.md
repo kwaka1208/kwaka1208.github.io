@@ -4,6 +4,7 @@ date: 2013-03-17T19:36:15 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/iphone-default-option/
+image : /assets/images/common/ogp.png
 categories:
   - voice
 tags:

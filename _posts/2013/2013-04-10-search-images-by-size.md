@@ -4,6 +4,7 @@ date: 2013-04-10T07:37:18 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/search-images-by-size/
+image : /assets/images/common/ogp.png
 categories:
   - for users
 tags:

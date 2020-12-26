@@ -4,9 +4,9 @@ date: 2015-01-31T23:29:09 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/create-a-model/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
-image: /assets/images/2015/01/walkman.jpg
 categories:
   - voice
 tags:

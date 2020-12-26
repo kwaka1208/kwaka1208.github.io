@@ -4,6 +4,7 @@ date: 2018-04-19T23:59:59 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/thousands-shuriken-project/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

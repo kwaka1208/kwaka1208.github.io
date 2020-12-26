@@ -4,6 +4,7 @@ date: 2017-04-19T00:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/computer-science-unplugged/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

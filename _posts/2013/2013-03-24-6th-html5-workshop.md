@@ -4,6 +4,7 @@ date: 2013-03-24T10:21:28 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/6th-html5-workshop/
+image : /assets/images/common/ogp.png
 categories:
   - voice
 ---

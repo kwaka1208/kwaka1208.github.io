@@ -4,6 +4,7 @@ date: 2014-12-21T06:04:24 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/power-saving-and-improvement-of-life-infrastructure/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/12/medium_14884682980.jpg

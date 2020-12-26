@@ -5,6 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-setting-limited-friend/
 image: /assets/images/2013/12/medium_4638981545.jpg
+image : /assets/images/common/ogp.png
 categories:
   - for users
 tags:

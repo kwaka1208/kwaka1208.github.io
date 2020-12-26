@@ -4,6 +4,7 @@ date: 2014-07-24T08:24:41 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/interface-via-voice/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/07/medium_4164756091.jpg

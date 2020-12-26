@@ -4,6 +4,7 @@ date: 2017-01-01T00:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/a-happy-new-year-2017/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

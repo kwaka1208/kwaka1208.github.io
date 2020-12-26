@@ -4,9 +4,9 @@ date: 2015-02-03T23:47:31 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/componented-wearable-devices/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
-image: /assets/images/2015/02/googleglass.jpg
 categories:
   - voice
 tags:

@@ -4,6 +4,7 @@ date: 2014-01-21T23:09:18 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/meguro-no-samma/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/01/medium_2895754066.jpg

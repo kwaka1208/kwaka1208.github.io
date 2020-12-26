@@ -4,6 +4,7 @@ date: 2014-06-25T12:59:53 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/spread-my-thought/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/06/decide.jpg

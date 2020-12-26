@@ -4,6 +4,7 @@ date: 2013-03-29T16:44:38 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-basic-preferences/
+image : /assets/images/common/ogp.png
 categories:
   - for users
 tags:

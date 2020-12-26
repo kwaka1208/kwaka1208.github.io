@@ -4,6 +4,7 @@ date: 2014-01-07T22:54:32 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/firefox-os-on-tv/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

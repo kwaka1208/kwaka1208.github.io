@@ -4,6 +4,7 @@ date: 2014-04-10T12:40:48 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/product-life-cycle/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/04/medium_2772087916.jpg

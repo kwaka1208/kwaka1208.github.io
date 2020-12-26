@@ -4,8 +4,7 @@ date: 2012-12-29T07:05:21 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/google-security1/
-image:
-  - ""
+image : /assets/images/common/ogp.png
 seo_follow:
   - 'false'
 seo_noindex:

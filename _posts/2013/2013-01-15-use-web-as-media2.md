@@ -4,8 +4,7 @@ date: 2013-01-15T17:00:43 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/use-web-as-media2/
-image:
-  - ""
+image : /assets/images/common/ogp.png
 seo_follow:
   - 'false'
 seo_noindex:

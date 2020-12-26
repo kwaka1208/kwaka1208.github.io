@@ -4,6 +4,7 @@ date: 2013-09-30T12:57:15 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sensitivity/
+image : /assets/images/common/ogp.png
 categories:
   - voice
 tags:

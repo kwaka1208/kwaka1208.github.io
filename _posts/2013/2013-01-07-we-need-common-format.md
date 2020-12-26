@@ -4,8 +4,7 @@ date: 2013-01-07T17:50:30 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/we-need-common-format/
-image:
-  - ""
+image : /assets/images/common/ogp.png
 seo_follow:
   - 'false'
 seo_noindex:

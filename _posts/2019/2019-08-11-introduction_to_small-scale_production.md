@@ -3,8 +3,8 @@ title: メイカーとスタートアップのための量産入門を読んで
 date: 2019-08-11T09:30:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
-image : /assets/images/2019/9784873118840.png
 permalink: /note/introduction_to_small-scale_production
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

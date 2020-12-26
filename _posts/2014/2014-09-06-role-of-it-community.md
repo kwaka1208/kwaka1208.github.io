@@ -4,6 +4,7 @@ date: 2014-09-06T08:35:56 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/role-of-it-community/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/09/medium_14088231730.jpg)

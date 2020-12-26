@@ -4,8 +4,7 @@ date: 2012-12-28T18:41:16 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/how-to-create-safe-password/
-image:
-  - ""
+image : /assets/images/common/ogp.png
 seo_follow:
   - 'false'
 seo_noindex:

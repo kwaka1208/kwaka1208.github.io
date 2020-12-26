@@ -4,9 +4,9 @@ date: 2015-04-12T14:47:53 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/the-pattern-that-you-have-never-seen/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
-image: /assets/images/2015/04/7755784678_2bdca437fb.jpg
 categories:
   - for creators
 tags:

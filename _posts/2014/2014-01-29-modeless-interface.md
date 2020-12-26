@@ -4,6 +4,7 @@ date: 2014-01-29T22:53:26 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/modeless-interface/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/01/medium_5388860696.jpg

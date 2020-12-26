@@ -4,6 +4,7 @@ date: 2013-10-15T14:30:15 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/signifier/
+image : /assets/images/common/ogp.png
 categories:
   - voice
 tags:

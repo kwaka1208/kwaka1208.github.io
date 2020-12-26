@@ -4,6 +4,7 @@ date: 2018-08-15T08:18:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/this-is-your-life/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

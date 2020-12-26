@@ -4,9 +4,9 @@ date: 2015-01-15T08:34:08 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/liberty-rule-a-rule/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
-image: /assets/images/2015/01/medium_6104169423.jpg
 categories:
   - voice
 tags:

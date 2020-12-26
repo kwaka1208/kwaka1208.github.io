@@ -4,6 +4,7 @@ date: 2013-10-05T06:41:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/calendar-apps/
+image : /assets/images/common/ogp.png
 categories:
   - for users
 tags:

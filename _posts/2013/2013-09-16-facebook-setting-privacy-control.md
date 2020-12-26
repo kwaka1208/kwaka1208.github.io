@@ -4,6 +4,7 @@ date: 2013-09-16T11:42:10 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-setting-privacy-control/
+image : /assets/images/common/ogp.png
 categories:
   - for users
 tags:

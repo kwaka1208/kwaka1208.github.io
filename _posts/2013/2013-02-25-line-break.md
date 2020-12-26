@@ -4,6 +4,7 @@ date: 2013-02-25T19:43:34 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/line-break/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2013/02/iPhone.jpg

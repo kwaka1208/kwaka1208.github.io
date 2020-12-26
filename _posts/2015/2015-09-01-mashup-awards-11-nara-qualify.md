@@ -4,9 +4,9 @@ date: 2015-09-01T00:23:57 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/mashup-awards-11-nara-qualify/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
-image: /assets/images/2015/09/IMG_1660.jpg
 categories:
   - event
 ---

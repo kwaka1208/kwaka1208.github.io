@@ -4,6 +4,7 @@ date: 2013-09-16T15:25:59 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-setting-quit/
+image : /assets/images/common/ogp.png
 categories:
   - for users
 tags:

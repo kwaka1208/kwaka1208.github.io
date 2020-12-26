@@ -4,6 +4,7 @@ date: 2013-10-29T21:28:59 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/dear-desingers/
+image : /assets/images/common/ogp.png
 categories:
   - for creators
 tags:

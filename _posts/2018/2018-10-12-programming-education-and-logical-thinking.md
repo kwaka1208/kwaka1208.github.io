@@ -4,6 +4,7 @@ date: 2018-10-12T12:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/programming-education-and-logical-thinking
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

@@ -4,6 +4,7 @@ date: 2014-10-26T22:06:18 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/coderdojonara/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/10/CoderDojoNara.jpg

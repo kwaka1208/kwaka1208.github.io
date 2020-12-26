@@ -3,8 +3,8 @@ title: 今「教育×アナログゲーム」が熱い！〜教育ゲーミン�
 date: 2018-11-24T10:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
-image : /assets/images/2018/2018.11.23/gachikan.jpg
 permalink: /note/analog-game-x-education
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

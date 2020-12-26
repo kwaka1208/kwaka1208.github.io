@@ -4,9 +4,9 @@ date: 2015-03-05T08:31:17 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/code4ikoma-hackathon/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
-image: /assets/images/2015/03/code4ikoma.jpg
 categories:
   - event
 tags:

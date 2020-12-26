@@ -4,6 +4,7 @@ date: 2014-12-25T08:18:24 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/password-management-on-the-bookmark/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/12/property-1024x240.png

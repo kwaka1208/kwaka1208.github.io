@@ -4,6 +4,7 @@ date: 2015-03-05T23:52:47 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/seminar-matsumoto-yukihiro/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

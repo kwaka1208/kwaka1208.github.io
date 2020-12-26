@@ -4,6 +4,7 @@ date: 2013-09-16T13:55:30 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-setting-protect-your-account/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:

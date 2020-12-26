@@ -4,6 +4,7 @@ date: 2014-02-23T21:42:11 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/office-with-mac/
+image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 image: /assets/images/2014/02/office.png

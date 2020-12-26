@@ -4,6 +4,7 @@ date: 2013-04-28T21:59:56 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-brand/
+image : /assets/images/common/ogp.png
 categories:
   - voice
 ---

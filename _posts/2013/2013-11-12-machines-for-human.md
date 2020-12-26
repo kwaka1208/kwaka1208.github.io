@@ -5,6 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/machines-for-human/
 image: /assets/images/2013/11/medium_6870614936.jpg
+image : /assets/images/common/ogp.png
 categories:
   - for creators
 tags:

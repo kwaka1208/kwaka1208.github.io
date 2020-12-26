@@ -7,6 +7,7 @@ permalink: /note/life-without-printer/
 attitude_sidebarlayout:
   - default
 image: /assets/images/2013/12/medium_2794943066.jpg
+image : /assets/images/common/ogp.png
 categories:
   - voice
 tags:
