@@ -13,7 +13,7 @@
   pre {
     margin: 0;
     padding: $base-spacing;
-    white-space: pre;
+    // white-space: pre;
     line-height: 23px;
     overflow-x: auto;
     margin-bottom: 0;
@@ -25,11 +25,11 @@
     }
 
     code {
-      white-space: pre;
+      // white-space: pre;
       padding: 0 !important;
 
       * {
-        white-space: nowrap; // this sets all children inside to nowrap
+        // white-space: nowrap; // this sets all children inside to nowrap
       }
     }
   }
