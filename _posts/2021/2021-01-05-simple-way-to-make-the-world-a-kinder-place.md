@@ -3,8 +3,8 @@ title: 世界を優しくするためのシンプルな方法
 date: 2021-01-05T21:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
-permalink: /note/how-to-be-a-gentle-world/
-image : /assets/images/2021/how-to-be-a-gentle-world.png
+permalink: /note/simple-way-to-make-the-world-a-kinder-place/
+image : /assets/images/2021/simple-way-to-make-the-world-a-kinder-place.png
 attitude_sidebarlayout:
   - default
 categories:
