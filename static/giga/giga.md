@@ -32,7 +32,7 @@ attitude_sidebarlayout:
 ```
 
 - アンケート実施者：若林健一（[プロフィールはこちらをご覧ください](https://crssrds.jp/aboutme/){:target="_blank"}）
-- 実施者への連絡先：kwaka1208 * gmail.coom (* を @に変更してください)
+- 実施者への連絡先：kwaka1208 * gmail.com (* を @に変更してください)
 
 
 
