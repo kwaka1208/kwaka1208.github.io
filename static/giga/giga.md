@@ -1,6 +1,6 @@
 ---
 title: GIGAスクールPCを使いたおそう！
-date: 2018-11-01T00:00:00 UTC+9
+date: 2021-01-13T23:30:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: static
 permalink: /giga_pc/index.html
