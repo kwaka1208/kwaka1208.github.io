@@ -13,7 +13,7 @@ CoderDojoは7〜17歳の若い人対象にした非営利のプログラミン�
 - [CoderDojo Japan公式サイト](https://coderdojo.jp/)
 
 ## 私が関わっているDojo
-若林は以下の4つのDojoに代表者もしくは共同代表者、メンターとして運営に関わっています。
+若林は以下の2つのDojoに代表者もしくはメンターとして運営に関わっています。
 
 ### [CoderDojo奈良](https://coderdojo-nara-ikoma.github.io/)
 <a href="https://www.facebook.com/CoderDojoNara/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
@@ -32,13 +32,5 @@ CoderDojoは7〜17歳の若い人対象にした非営利のプログラミン�
 - 活動場所　：生駒市市民活動センターららポート
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.525501527698!2d135.6960562148688!3d34.69192329119674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600123b9089edb75%3A0x72f3641027e35691!2z55Sf6aeS5biC5b255omAIOW4guawkea0u-WLleaOqOmAsuOCu-ODs-OCv-ODvOOCieOCieODneODvOODiA!5e0!3m2!1sja!2sjp!4v1460431723394" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-### [CoderDojo田原本](https://coderdojo-tawaramoto.github.io/)
-<a href="https://www.facebook.com/CoderDojoTawaramoto/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
-- 設立　　　：2018年8月19日
-- 活動日　　：月一回不定期
-- 活動場所　：安養寺
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.5484765918122!2d135.79204795055682!3d34.5649859803737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600133d4176ea5f1%3A0xf6a4400d529e01a9!2z5a6J6aSK5a-6!5e0!3m2!1sja!2sjp!4v1532757944937" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 CoderDojoは、上記以外にもさまざまな地域で開催されています。日本国内で開催されているDojoについては、[こちら](https://coderdojo.jp/)をご覧ください。
