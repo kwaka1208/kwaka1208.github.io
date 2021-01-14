@@ -3,20 +3,20 @@ limited_posts: 5
 
 magazines:
   - category: kids
-    title: 子ども
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    title: 子どもたちの未来と成長研究室
+    text: Children's Future and Growth Lab.
   - category: social
-    title: 社会
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - category: aaa
-    title: aaa
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - category: bbb
-    title: bbb
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - category: ccc
-    title: ccc
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - category: ddd
-    title: ddd
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    title: 他者と生きる研究室
+    text: Living with others Lab.
+  - category: prepare
+    title: 設立準備室
+    text: Preparation room
+  - category: lounge
+    title: ラウンジ
+    text: Lounge
+  - category:  reference
+    title: 資料室
+    text: Reference
+  - category: whatis
+    title: なんだ研究室
+    text: NANDA Lab.
