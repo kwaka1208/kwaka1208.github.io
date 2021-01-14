@@ -328,3 +328,24 @@ pre {
 		top: 0;
 	}
 }
+
+.shelf {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	gap: 10px;
+	.box {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: 150px 1em 50px;
+		img {
+			width: 100%;
+			height: auto;
+		}
+			
+		p {
+			width: 100%;
+			height: auto;
+		}
+	}
+		
+}

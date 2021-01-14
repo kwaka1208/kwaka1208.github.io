@@ -1,0 +1,22 @@
+# note parameter
+limited_posts: 5
+
+magazines:
+  - category: kids
+    title: 子ども
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - category: social
+    title: 社会
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - category: aaa
+    title: aaa
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - category: bbb
+    title: bbb
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - category: ccc
+    title: ccc
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - category: ddd
+    title: ddd
+    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.

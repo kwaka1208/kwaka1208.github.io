@@ -7,21 +7,26 @@ image : /assets/images/common/ogp.png
 <section class="post-list">
   <div class="container">
     <h1 style="font-size:3em;">crossnote</h1>
-    {% for post in site.posts %}
-      {% unless post.next %}
-        <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
-      {% else %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if year != nyear %}
-          <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
-        {% endif %}
-      {% endunless %}
+    <h2>Newest posts</h2>
+    {% assign limited_posts = site.data.note.limited_posts | to_integer %}
+    {% for post in site.posts limit:limited_posts %}
       <article class="post-item">
         <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
       </article>
     {% endfor %}
+    <hr>
+    <h2>magazine</h2>
+    <div class="shelf">
+      {% for magazine in site.data.note.magazines %}
+      <div class="magazine">
+        <a href="/note/{{ magazine.category }}">
+          <img src="/assets/images/magazine/{{ magazine.category }}.png" alt="{{ magazine.title }}">
+          <p>{{ magazine.text }}</p>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
   </div>
 
 </section>
