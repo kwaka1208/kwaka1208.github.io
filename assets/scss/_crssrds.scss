@@ -331,12 +331,10 @@ pre {
 
 .shelf {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-	gap: 10px;
-	.box {
-		display: grid;
-		grid-template-columns: 1fr;
-		grid-template-rows: 150px 1em 50px;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	column-gap: 15px;
+	row-gap: 2em;
+	.magazine {
 		img {
 			width: 100%;
 			height: auto;
@@ -345,7 +343,14 @@ pre {
 		p {
 			width: 100%;
 			height: auto;
+			margin: .5em 0 1.5em 0;
+		}
+		.post-item {
+			margin-bottom: 0.5em;
+		}
+		.post-date {
+			margin-right: .5em;
 		}
 	}
-		
 }
+

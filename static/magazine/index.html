@@ -20,10 +20,22 @@ image : /assets/images/common/ogp.png
     <div class="shelf">
       {% for magazine in site.data.note.magazines %}
       <div class="magazine">
-        <a href="/note/{{ magazine.category }}">
-          <img src="/assets/images/magazine/{{ magazine.category }}.png" alt="{{ magazine.title }}">
+        <a href="/note/{{ magazine.category }}/">
+          <img src="/assets/images/note/{{ magazine.category }}.png" alt="{{ magazine.title }}">
           <p>{{ magazine.text }}</p>
         </a>
+        {% assign sorted-posts = site.posts | where: "categories", magazine.category %}
+        {% for post in sorted-posts limit: 5 %}
+        <article class="post-item">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            <span class="post-date">{{ post.date | date: "%Y/%m/%d" }}</span>
+            {{ post.title }}
+          </a>
+        </article>
+      {% endfor %}
+        {% if sorted-posts.count > 2 %}
+          <a href="/note/{{ magazine.category }}">and more</a>
+          {% endif %}
       </div>
       {% endfor %}
     </div>
