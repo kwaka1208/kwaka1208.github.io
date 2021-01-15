@@ -8,7 +8,7 @@ image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:
-  - note
+  - kids
 ---
 子どもたちと一緒にプログラミングやっていると「もっとちゃんとしなさい」「もっと丁寧にしなさい」「もっときれいにしなさい」という親がいます。
 

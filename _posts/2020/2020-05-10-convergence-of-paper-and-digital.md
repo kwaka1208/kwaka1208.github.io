@@ -8,7 +8,7 @@ image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:
-  - note
+  - kids
 ---
 今日、とある学校の先生とメッセージでやりとりしていました。その先生もオンラインツールを使った教室・授業の研究を個人でずっとやっておられて、自分で色んなツールを使いながらどんなやり方があるのか、どんなやり方がいいのかを独自に研究しておられます。
 

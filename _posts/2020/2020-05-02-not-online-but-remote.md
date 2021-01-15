@@ -8,7 +8,7 @@ image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:
-  - note
+  - lounge
 ---
 今朝、とあるウェビナーに参加しながら頭の整理ができたので書き残しておきます。
 

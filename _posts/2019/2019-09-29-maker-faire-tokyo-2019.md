@@ -8,7 +8,7 @@ image : /assets/images/2019/mft2019a.jpg
 attitude_sidebarlayout:
   - default
 categories:
-  - makerfaire tokyo programming
+  - kids
 ---
 5月にMaker Faire Kyoto 2019で開催した「子どもプログラミング喫茶」の東京本店をお手伝いしてきました。
 

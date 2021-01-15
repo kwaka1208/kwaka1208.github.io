@@ -8,7 +8,7 @@ image : /assets/images/2020/ideal-day-for-children.png
 attitude_sidebarlayout:
   - default
 categories:
-  - living_with_others
+  - kids
 ---
 自分がこんな風になったらいいなと思う、子どもたちの一日です。
 

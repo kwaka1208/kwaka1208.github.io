@@ -8,7 +8,7 @@ image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:
-  - note
+  - kids
 ---
 「いわゆるプログラミング教育」の議論の中で「デバッグ」という言葉がちらほら見えます。そこで言われる「デバッグ」とは「プログラムのバグを見つけて修正すること」という意味で使われています。
 

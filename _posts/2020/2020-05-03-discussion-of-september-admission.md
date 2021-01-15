@@ -8,7 +8,7 @@ image : /assets/images/2020/discussion-of-september-admission.png
 attitude_sidebarlayout:
   - default
 categories:
-  - livinng_with_others
+  - kids
 ---
 休校が続く中、9月入学制にしてはどうかという議論が熱を帯びています。賛成派の意見、反対派の意見、色々あってそれぞれに同意できる部分があるのですが、私は「小中をひとつにした単位制」の導入を検討してはどうかと思っているので、そのことについて述べてみたいと思います。
 

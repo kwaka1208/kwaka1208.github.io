@@ -8,7 +8,7 @@ image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:
-  - note
+  - kids
 ---
 子ども向けのワークショップなどを開催している方に知っておいて欲しいことがあります。自分たちの用意したテーマが自分たちの想定した結果にならなかった時、それは子どもたちが「できなかった」わけではないかもしれないということを。
 
