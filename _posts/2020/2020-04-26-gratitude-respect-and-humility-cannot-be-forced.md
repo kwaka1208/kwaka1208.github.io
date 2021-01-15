@@ -8,7 +8,7 @@ image : /assets/images/common/ogp.png
 attitude_sidebarlayout:
   - default
 categories:
-  - lounge
+  - note
 ---
 SNSを見てると一定数「感謝の気持ちが足りない」「敬意を示すべき」「謙虚さが足りない」という投稿を見ることがある。
 

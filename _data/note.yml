@@ -11,12 +11,9 @@ magazines:
   - category: whatis
     title: なんだ研究室
     text: 意味が共有されてなさそうな言葉をピックアップして定義します。
-  - category: prepearation
-    title: 設立準備室
-    text: 新しいテーマを探求しています
-  - category:  reference
+  - category: reference
     title: 資料室
-    text: 各種資料の公開を行なっています。
-  - category: lounge
-    title: ラウンジ
-    text: 雑談的な話はこちらに。
+    text: まとめ記事などを掲載しています
+  - category: note
+    title: 雑記
+    text: その他の話題はこちら
