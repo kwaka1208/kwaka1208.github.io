@@ -10,13 +10,13 @@ magazines:
     text: 社会の中で他者と接して生きるために必要なことを考えていきます。
   - category: whatis
     title: なんだ研究室
-    text: みんなが普段使ってるけど、意味が共有されてなさそうな言葉をピックアップして定義していきます。
+    text: 意味が共有されてなさそうな言葉をピックアップして定義します。
   - category: prepearation
     title: 設立準備室
-    text: 各研究室のテーマ以外のテーマのものを集めています。ひとつのテーマが生まれた時、ここから新しい研究室が生まれます。
+    text: 新しいテーマを探求しています
   - category:  reference
     title: 資料室
-    text: こちらでは各種資料の公開を行なっています。
+    text: 各種資料の公開を行なっています。
   - category: lounge
     title: ラウンジ
     text: 雑談的な話はこちらに。
