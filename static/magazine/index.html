@@ -7,7 +7,7 @@ image : /assets/images/common/ogp.png
 <section class="post-list">
   <div class="container">
     <h1 style="font-size:3em;">crossnote</h1>
-    <h2>Newest posts</h2>
+    <h2>Recent posts</h2>
     {% assign limited_posts = site.data.note.limited_posts | to_integer %}
     {% for post in site.posts limit:limited_posts %}
       <article class="post-item">
@@ -16,7 +16,7 @@ image : /assets/images/common/ogp.png
       </article>
     {% endfor %}
     <hr>
-    <h2>magazine</h2>
+    <h2>Magazine</h2>
     <div class="shelf">
       {% for magazine in site.data.note.magazines %}
       <div class="magazine">
