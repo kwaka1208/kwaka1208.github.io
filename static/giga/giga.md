@@ -20,6 +20,8 @@ attitude_sidebarlayout:
 
 - [奈良県域GIGAスクール構想の推進](http://www.e-net.nara.jp/kenkyo/index.cfm/27,2191,109,html){:target="_blank"}
 
+こういうこともあまり知られていないかと思いますので、日本全国の状況の共有も進めていきたいと思います。なにしろ、日本全国レベルの取り組みなのですから。
+
 ## アンケートにご協力お願いします！
 だったら、積極的に活用しなきゃもったいないじゃん！ということで、ひとり一台のPCをつかいたおしてやろうということで、活用するための情報交換の場や活用方法を考える場、実践する場を作っていきたいと考えています。
 
@@ -28,6 +30,8 @@ attitude_sidebarlayout:
 <a href="https://forms.gle/ErWzBFaJ2jyDYNNG7" target="_blank" style="font-size:2em; padding:0.5em; margin: 10px 0">→GIGAスクールPC活用状況・意向アンケート</a>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf62jpt1k_d1b-L8QjKUXKAPlYcqeEOvYexaHYtRag5sVQU5A/viewanalytics" target="_blank"  style="font-size:2em; padding:0.5em; margin: 20px 0 0 0">→最新の集計結果はこちら</a>
+
+**当初、奈良県在住、在勤の方を主な対象として作ったのですが、他の地域でもやりたいという声をいただいたので、途中から都道府県の選択を追加しました。その関係で集計結果がやや変な形になっていますが、これは後日再集計いたします。**
 
 ```
 本アンケートの結果は今後予定されている「GIGAスクールPCをつかいたおす」活動のために利用し、それ以外の目的には使用いたしません。
