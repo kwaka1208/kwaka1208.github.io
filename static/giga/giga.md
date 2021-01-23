@@ -34,7 +34,7 @@ attitude_sidebarlayout:
 ```
 
 - アンケート実施者：若林健一（[プロフィールはこちらをご覧ください](https://crssrds.jp/aboutme/){:target="_blank"}）
-- 実施者への連絡先：kwaka1208 * gmail.com (* を @に変更してください)
+- 実施者への連絡先：giga_pc * crssrds.jp (* を @に変更してください)
 
 ## みんなでGIGAスクールPCを使いたおそう！
 本アンケートの結果は2月中旬を目処に、このページ上で個人が特定できない形で集計し公開いたします。
