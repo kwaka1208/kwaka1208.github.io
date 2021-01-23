@@ -25,16 +25,16 @@ attitude_sidebarlayout:
 
 それに先立って、主に奈良県内の「GIGAスクールPC」活用状況や保護者や教員の方の意向をお聞きすべくアンケートを作成しました。ぜひご協力をお願いいたします（奈良県以外の方の参加も歓迎です！）。
 
-<a href="https://forms.gle/ErWzBFaJ2jyDYNNG7" target="_blank" style="font-size:2em; background-color:white; padding:0.5em; margin: 10px 0">→GIGAスクールPC活用状況・意向アンケート</a>
+<a href="https://forms.gle/ErWzBFaJ2jyDYNNG7" target="_blank" style="font-size:2em; padding:0.5em; margin: 10px 0">→GIGAスクールPC活用状況・意向アンケート</a>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf62jpt1k_d1b-L8QjKUXKAPlYcqeEOvYexaHYtRag5sVQU5A/viewanalytics" target="_blank"  style="font-size:2em; padding:0.5em; margin: 20px 0 0 0">→最新の集計結果はこちら</a>
 
 ```
-本アンケートの結果はこのページ上で個人が特定できない形で集計し公開するとともに、今後予定されている「GIGAスクールPCをつかいたおす」活動のために利用し、それ以外の目的には使用いたしません。
+本アンケートの結果は今後予定されている「GIGAスクールPCをつかいたおす」活動のために利用し、それ以外の目的には使用いたしません。
 ```
 
 - アンケート実施者：若林健一（[プロフィールはこちらをご覧ください](https://crssrds.jp/aboutme/){:target="_blank"}）
 - 実施者への連絡先：kwaka1208 * gmail.com (* を @に変更してください)
-
-
 
 ## みんなでGIGAスクールPCを使いたおそう！
 本アンケートの結果は2月中旬を目処に、このページ上で個人が特定できない形で集計し公開いたします。
