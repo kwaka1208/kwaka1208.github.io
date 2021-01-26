@@ -13,11 +13,11 @@ categories:
 私が使っている情報管理ツールをさらしてみます。
 
 - 紙のノート  
-ずっと使ってた[モレスキンポケット](https://www.moleskine.co.jp/){:target="_blank"}から[ダイアログノート](https://dialognotebook.com/){:target="_blank"}に移行中です。
+ずっと使ってた[モレスキンポケット](https://www.moleskine.co.jp/){:target="_blank"}から[ダイアログノート](https://dialognotebook.com/){:target="_blank"}に移行中。+レポートパッド。
 
 ペンは[ユニボールシグノの0.28mmブルーブラック](https://www.mpuni.co.jp/products/ballpoint_pens/gel/signo/signo.html){:target="_blank"}と[Juice up 03ブラック](https://www.pilot.co.jp/products/pen/ballpen/gel_ink/juice_up/){:target="_blank"}がメイン。
 
-万年筆の[コクーン](https://www.pilot.co.jp/products/pen/fountain/fountain/cocoon/){:target="_blank"}も持ってますが、最近は出番がない、レポートパッドも併用しているので、レポートパッドでは万年筆を復活させようかな。
+万年筆の[コクーン](https://www.pilot.co.jp/products/pen/fountain/fountain/cocoon/){:target="_blank"}も持ってますが、小さなノートがメインになったので最近は出番がない。レポートパッドも併用しているので、レポートパッドでは万年筆を復活させようかな。
 
 - タスク管理  
 [TickTick](https://ticktick.com/){:target="_blank"}使ってます。
