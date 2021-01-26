@@ -1,5 +1,5 @@
 ---
-title: [2021年1月版]私の情報管理ツール
+title: 【2021年1月版】私の情報管理ツール
 date: 2021-01-26T21:33:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
