@@ -20,7 +20,7 @@ categories:
 万年筆の[コクーン]https://www.pilot.co.jp/products/pen/fountain/fountain/cocoon/){:target="_blank"}も持ってますが、最近は出番がない、レポートパッドも併用しているので、レポートパッドでは万年筆を復活させようかな。
 
 - タスク管理  
-[TickTick](https://ticktick.com/){:target="_blank"}を使ってます。
+[TickTick](https://ticktick.com/){:target="_blank"}使ってます。
 
 
 - メール  
