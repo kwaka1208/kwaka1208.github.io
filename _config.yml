@@ -1,8 +1,8 @@
 # SEO settings
-title: "crossroads"
+title: "crossroads lab."
 title2: "" # default: ""
 description: "connecting the dots"
-keywords: "UX, IU, Interface, CoderDojo, Scratch"
+keywords: "UX, IU, Interface, CoderDojo, kids, "
 url: https://crssrds.jp # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
@@ -27,7 +27,7 @@ sass:
 
 # Author settings
 author:
-  name     : "crossroads"
+  name     : "crossroads lab."
   job      : "connecting the dots"
   bio      : "I love self brewed coffee, bookstore, Starbucks, MUJI and good things."
   thumb    : https://avatars.githubusercontent.com/kwaka1208

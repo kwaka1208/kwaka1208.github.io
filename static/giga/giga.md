@@ -16,25 +16,23 @@ attitude_sidebarlayout:
 - [文部科学省：GIGAスクール構想の実現について](https://www.mext.go.jp/a_menu/other/index_00001.htm){:target="_blank"}
 - [子供たち一人ひとりに個別最適化され、創造性を育む教育 ICT 環境の実現に向けて ~令和時代のスタンダードとしての1人1台端末環境~ ≪文部科学大臣メッセージ≫](https://www.mext.go.jp/content/20191225-mxt_syoto01_000003278_03.pdf){:target="_blank"}
 
-このGIGAスクールPC、奈良県ではChromebookというGoogleが開発したOSの動作するPCが県内すべての小中学校で配布されており、ほぼすべての学校での導入が終わっているようです。この取り組み、日本の中でも奈良はかなり進んでいるのをご存知ですか？
-
-- [奈良県域GIGAスクール構想の推進](http://www.e-net.nara.jp/kenkyo/index.cfm/27,2191,109,html){:target="_blank"}
-
 ## アンケートにご協力お願いします！
 だったら、積極的に活用しなきゃもったいないじゃん！ということで、ひとり一台のPCをつかいたおしてやろうということで、活用するための情報交換の場や活用方法を考える場、実践する場を作っていきたいと考えています。
 
-それに先立って、主に奈良県内の「GIGAスクールPC」活用状況や保護者や教員の方の意向をお聞きすべくアンケートを作成しました。ぜひご協力をお願いいたします（奈良県以外の方の参加も歓迎です！）。
+それに先立って「GIGAスクールPC」活用状況や保護者や教員の方の意向をお聞きすべくアンケートを作成しました。ぜひご協力をお願いいたします。
 
-<a href="https://forms.gle/ErWzBFaJ2jyDYNNG7" target="_blank" style="font-size:2em; background-color:white; padding:0.5em; margin: 10px 0">→GIGAスクールPC活用状況・意向アンケート</a>
+<a href="https://forms.gle/ErWzBFaJ2jyDYNNG7" target="_blank" style="font-size:2em; padding:0.5em; margin: 10px 0">→GIGAスクールPC活用状況・意向アンケート</a>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf62jpt1k_d1b-L8QjKUXKAPlYcqeEOvYexaHYtRag5sVQU5A/viewanalytics" target="_blank"  style="font-size:2em; padding:0.5em; margin: 20px 0 0 0">→最新の集計結果はこちら</a>
+
+**当初、奈良県在住、在勤の方を主な対象として作ったのですが、他の地域でもやりたいという声をいただいたので、途中から都道府県の選択を追加しました。その関係で集計結果がやや変な形になっていますが、これは後日再集計いたします。**
 
 ```
-本アンケートの結果はこのページ上で個人が特定できない形で集計し公開するとともに、今後予定されている「GIGAスクールPCをつかいたおす」活動のために利用し、それ以外の目的には使用いたしません。
+本アンケートの結果は今後予定されている「GIGAスクールPCをつかいたおす」活動のために利用し、それ以外の目的には使用いたしません。
 ```
 
 - アンケート実施者：若林健一（[プロフィールはこちらをご覧ください](https://crssrds.jp/aboutme/){:target="_blank"}）
-- 実施者への連絡先：kwaka1208 * gmail.com (* を @に変更してください)
-
-
+- 実施者への連絡先：giga_pc * crssrds.jp (* を @に変更してください)
 
 ## みんなでGIGAスクールPCを使いたおそう！
 本アンケートの結果は2月中旬を目処に、このページ上で個人が特定できない形で集計し公開いたします。
