@@ -6,8 +6,7 @@ layout: post
 permalink: /note/seminar-matsumoto-yukihiro/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - event
+categories: note
 tags:
   - Ruby
   - まつもとゆきひろ

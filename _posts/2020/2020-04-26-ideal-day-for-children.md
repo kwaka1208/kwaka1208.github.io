@@ -6,8 +6,7 @@ layout: post
 permalink: /note/ideal-day-for-children/
 image : /assets/images/2020/ideal-day-for-children.png
 attitude_sidebarlayout: default
-categories:
-  - kids
+categories: kids
 ---
 自分がこんな風になったらいいなと思う、子どもたちの一日です。
 

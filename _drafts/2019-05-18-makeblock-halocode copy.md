@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/no-
 attitude_sidebarlayout: default
-categories:
-  - education company 
+categories: note
 ---
 そんな私が関心のあることのひとつに「子供たちの選択肢を増やすこと」があります。
 誰もが同じことを学び、同じ道を進むのではなく、自分の選択肢を見つけること。

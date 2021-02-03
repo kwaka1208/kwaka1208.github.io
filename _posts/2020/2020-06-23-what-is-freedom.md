@@ -6,8 +6,7 @@ layout: post
 permalink: /note/what-is-freedom
 image : /assets/images/2020/what-is-freedom.png
 attitude_sidebarlayout: default
-categories:
-  - whatis
+categories: whatis
 ---
 前回の「老害ってなんだ？」につづく「なんだ」シリーズの第２弾です（第２弾で終わりかもしれない）。今回は、若い人特に学生さんに読んでいただきたいと思ってます。
 

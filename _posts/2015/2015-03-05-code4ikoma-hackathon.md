@@ -6,8 +6,7 @@ layout: post
 permalink: /note/code4ikoma-hackathon/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - event
+categories: note
 tags:
   - CODE for IKOMA
   - Hackthon

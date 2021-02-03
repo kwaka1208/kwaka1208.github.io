@@ -6,8 +6,7 @@ layout: post
 permalink: /note/coderdojo-give-and-take/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - coderdojo, contribution
+categories: kids
 ---
 この記事は[CoderDojo Advent Calendar 2017](https://adventar.org/calendars/2184){:target="_blank"}の21日目の記事です（若干遅刻したけど）。
 

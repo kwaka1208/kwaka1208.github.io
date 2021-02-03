@@ -6,8 +6,7 @@ layout: post
 permalink: /note/mashup-awards-11-nara-qualify/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - event
+categories: note
 ---
 8/29、30と奈良先端大で開催された「Mashup Awards」の予選に参加しました。テーマは、「CIVIC TECHで創ろう未来の生駒・奈良」ということで、スマートホーム、スマートシティ、スマートライフのいずれかをテーマにし、参加各企業の提供するAPIやデバイスを使って新しいアプリやサービスの開発を行うハッカソンです。
 

@@ -6,8 +6,7 @@ layout: post
 permalink: /note/misunderstanding-about-unplugged
 image : /assets/images/2019/unplugged.png
 attitude_sidebarlayout: default
-categories:
-  - kids
+categories: kids
 canonical: https://note.mu/kwaka1208/n/n2c152407d941
 ---
 「いわゆるプログラミング教育」界隈で誤解（曲解？）されている言葉のひとつに「アンプラグド」という言葉があります。

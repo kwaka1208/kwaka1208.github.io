@@ -7,8 +7,7 @@ permalink: /note/meguro-no-samma/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
 image: /assets/images/2014/01/medium_2895754066.jpg
-categories:
-  - living_with_others
+categories: living_with_others
 tags:
   - モノづくりの現場から
   - 自己保身

@@ -6,8 +6,7 @@ layout: post
 permalink: /note/how-do-you-decide-the-venue/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - dojocon coderdojo
+categories: note
 ---
 この記事は[DojoCon Japan 2017アドベントカレンダー](https://adventar.org/calendars/2476){:target="_blank"}5日目の記事です。アドベント期間は終わっていますが、空きがありましたので会場を選ぶ時に考えたことを記録として残しておきたいと思います。
 

@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/simple-ict-environment-for-school
 attitude_sidebarlayout: default
-categories:
-  - education event
+categories: kids
 ---
 近頃、私の周りで「学校のPCにおけるIE問題」が賑やかになってきています。
 

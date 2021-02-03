@@ -6,8 +6,7 @@ layout: post
 permalink: /note/maker-faire-tokyo-2015/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - event
+categories: kids
 ---
 8月1日と2日の二日間、東京お台場の「東京ビッグサイト」で開催された"Maker Faire Tokyo 2015"にCoderDojo Japanとして出展してきました。
 

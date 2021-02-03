@@ -6,8 +6,7 @@ layout: post
 permalink: /note/thousands-shuriken-project/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - coderdojo
+categories: kids
 ---
 Facebookで案内したら、思った以上に反響があったのでまとめます。そして、自分が発案者でもないのに、勝手にプロジェクト名つけました"Thousands Shuriken project"（千枚手裏剣プロジェクト）です。 :)
 

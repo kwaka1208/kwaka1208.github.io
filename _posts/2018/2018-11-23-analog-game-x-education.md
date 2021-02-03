@@ -6,8 +6,7 @@ layout: post
 permalink: /note/analog-game-x-education
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - education event
+categories: note
 ---
 2018年11月23日、奈良女子大学で開催された[今「教育×アナログゲーム」が熱い！〜教育ゲーミングを体験しよう！](https://educational-gaming.wixsite.com/symposium2018){:target="_blank"}というイベントに参加してきました。
 

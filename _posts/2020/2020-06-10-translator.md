@@ -6,8 +6,7 @@ layout: post
 permalink: /note/translator
 image : /assets/images/2020/translator.png
 attitude_sidebarlayout: default
-categories:
-  - living_with_others
+categories: living_with_others
 ---
 ある専門学校の授業の中で「ダウンロードフォルダの中をみてください」で意味が通じず、Google Driveで「フォルダを作る」説明をする前にエクスプローラーでフォルダの意味を説明しなければならないことがあってその時は驚いたけれど、今はアプリをストアからインストールできるし、データのやり取りも全てアプリ内で完結していれば、ファイル管理の概念をしらなくてもそらそうだよなと思いなおした。
 

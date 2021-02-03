@@ -6,8 +6,7 @@ layout: post
 permalink: /note/what-is-rougai
 image : /assets/images/2020/what-is-rougai.png
 attitude_sidebarlayout: default
-categories:
-  - whatis
+categories: whatis
 ---
 いろんなところで「老害」という言葉が使われますが、自分も52歳にもなるとこの言葉にとても敏感になります。
 
