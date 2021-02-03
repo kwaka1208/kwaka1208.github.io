@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-rougai
 image : /assets/images/2020/what-is-rougai.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - whatis
 ---

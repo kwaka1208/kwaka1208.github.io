@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/an-idea-of-tangible-user-interface/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/07/tansible.jpg
 categories:
   - for creators

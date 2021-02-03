@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/ideal-day-for-children/
 image : /assets/images/2020/ideal-day-for-children.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - kids
 ---

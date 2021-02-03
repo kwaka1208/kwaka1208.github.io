@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/meguro-no-samma/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/01/medium_2895754066.jpg
 categories:
   - living_with_others

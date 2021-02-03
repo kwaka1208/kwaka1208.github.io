@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/modal-interface/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/02/medium_3870552476.jpg
 categories:
   - for creators

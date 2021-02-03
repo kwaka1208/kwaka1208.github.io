@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/hana-blog-move-to-wordpress/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/10/hana.png
 categories:
   - voice

@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-to-look-for-when-buying-a-Windows-PC
 image : /assets/images/2020/what-to-look-for-when-buying-a-Windows-PC.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - reference
 ---

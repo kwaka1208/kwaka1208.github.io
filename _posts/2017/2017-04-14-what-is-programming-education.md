@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-programming-education/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - voice
 ---

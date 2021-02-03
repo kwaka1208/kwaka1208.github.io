@@ -4,8 +4,7 @@ date: 2019-02-16T10:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/simple-ict-environment-for-school
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - education event
 ---

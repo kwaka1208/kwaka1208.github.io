@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/covid-19-changes-the-world
 image : /assets/images/2020/covid-19-changes-the-world.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - living_with_others
 ---

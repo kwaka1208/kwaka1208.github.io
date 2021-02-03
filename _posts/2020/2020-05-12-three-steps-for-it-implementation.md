@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/three-steps-for-it-implementation
 image : /assets/images/2020/three-steps-for-it-implementation.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - note
 ---

@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/round-table-discussion
 image : /assets/images/2020/round-table-discussion.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - living_with_others
 ---

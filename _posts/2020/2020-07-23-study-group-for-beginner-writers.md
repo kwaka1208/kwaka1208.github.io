@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/study-group-for-beginner-writers
 image : /assets/images/2020/study-group-for-beginner-writers.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - note
 ---

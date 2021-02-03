@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/maker-faire-kyoto-2019
 image : /assets/images/2019/mfk2019.jpg
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - kids
 ---

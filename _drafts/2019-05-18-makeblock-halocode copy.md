@@ -4,8 +4,7 @@ date: 2019-06-23T18:20:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/no-
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - education company 
 ---

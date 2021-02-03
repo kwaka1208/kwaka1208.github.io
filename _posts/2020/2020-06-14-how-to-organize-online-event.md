@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/how-to-organize-online-event
 image : /assets/images/2020/how-to-organize-online-event.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - reference
 ---

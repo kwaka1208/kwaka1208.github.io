@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/misunderstanding-about-unplugged
 image : /assets/images/2019/unplugged.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - kids
 canonical: https://note.mu/kwaka1208/n/n2c152407d941

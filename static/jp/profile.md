@@ -4,8 +4,7 @@ date: 2019-08-22T0:15:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: page
 permalink: /profile/index.html
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 ---
 ## プロフィール1（167文字）
 若林健一（1967年大阪生まれ　奈良在住）  

@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-innovation
 image : /assets/images/2020/what-is-innovation.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - whatis
 ---

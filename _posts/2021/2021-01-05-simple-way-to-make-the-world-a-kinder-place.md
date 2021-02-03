@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/simple-way-to-make-the-world-a-kinder-place/
 image : /assets/images/2021/simple-way-to-make-the-world-a-kinder-place.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 categories:
   - note
 ---

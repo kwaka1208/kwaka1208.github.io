@@ -4,8 +4,7 @@ date: 2019-9-16T19:44:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: page
 permalink: /KidsProgramming/index.html
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 ---
 
 ## プログラミングツール
