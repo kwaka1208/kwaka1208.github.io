@@ -5,10 +5,6 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/control-the-mode/
 image : /assets/images/common/ogp.png
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
 categories:
   - for creators
 tags:

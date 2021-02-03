@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/google-security2/
 image : /assets/images/common/ogp.png
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
+
+
 attitude_sidebarlayout: default
 categories:
   - for users

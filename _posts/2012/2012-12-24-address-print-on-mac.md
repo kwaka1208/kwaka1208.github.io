@@ -5,10 +5,6 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/address-print-on-mac/
 image : /assets/images/common/ogp.png
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
 categories:
   - for users
 tags:
