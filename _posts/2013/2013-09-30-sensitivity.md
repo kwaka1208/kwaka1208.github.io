@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sensitivity/
 image : /assets/images/common/ogp.png
-categories:
-  - voice
+categories: note
 tags:
   - アンテナ
   - 情報感度

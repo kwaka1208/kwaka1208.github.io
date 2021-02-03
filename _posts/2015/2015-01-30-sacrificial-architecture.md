@@ -6,8 +6,7 @@ layout: post
 permalink: /note/sacrificial-architecture/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 tags:
   - architecture
   - 犠牲的アーキテクチャ

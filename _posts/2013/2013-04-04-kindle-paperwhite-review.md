@@ -6,8 +6,7 @@ layout: post
 permalink: /note/kindle-paperwhite-review/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 [自分のblogにKindle Paperwhiteを買ったことを書いた](http://pote2.net/kenichi/kindle-has-come/)ところ、「自分も欲しいと思っているんです」という声がありましたので、参考になるかなと思うところを簡単にレビューしたいと思います。
 - - -

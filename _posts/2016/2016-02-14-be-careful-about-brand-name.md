@@ -6,8 +6,7 @@ layout: post
 permalink: /note/be-careful-about-brand-name/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 突然ですけど、名前の表記は正しくしましょうね、というお話。例えば。
 

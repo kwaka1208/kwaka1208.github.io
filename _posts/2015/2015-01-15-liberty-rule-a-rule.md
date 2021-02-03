@@ -6,8 +6,7 @@ layout: post
 permalink: /note/liberty-rule-a-rule/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 tags:
   - liberty
   - rule

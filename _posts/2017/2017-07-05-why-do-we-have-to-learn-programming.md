@@ -6,8 +6,7 @@ layout: post
 permalink: /note/why-do-we-have-to-learn-programming/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 2020年に小学校でプログラミング教育が必修化になるということで、にわかにプログラミング教育が注目を集めていますが、プログラミング教育が必要だということについてその理由や目標は人によって異なっていると思います。
 

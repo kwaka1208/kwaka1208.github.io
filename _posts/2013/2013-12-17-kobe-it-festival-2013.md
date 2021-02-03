@@ -7,8 +7,7 @@ permalink: /note/kobe-it-festival-2013/
 attitude_sidebarlayout: default
 image: /assets/images/2013/12/banner_640x280.jpg
 image : /assets/images/common/ogp.png
-categories:
-  - voice
+categories: note
 tags:
   - ボランティア
   - 神戸ITフェスティバル

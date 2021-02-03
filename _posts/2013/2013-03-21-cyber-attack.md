@@ -6,8 +6,7 @@ layout: post
 permalink: /note/cyber-attack/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 tags:
   - security
   - サイバー攻撃

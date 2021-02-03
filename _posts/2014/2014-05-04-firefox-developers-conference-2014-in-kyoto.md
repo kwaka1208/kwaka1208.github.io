@@ -7,8 +7,7 @@ permalink: /note/firefox-developers-conference-2014-in-kyoto/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
 image: /assets/images/2014/05/2014-04-19-16.17.46.jpg
-categories:
-  - voice
+categories: note
 tags:
   - Firefox
   - Firefox OS

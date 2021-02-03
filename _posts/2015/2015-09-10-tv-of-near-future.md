@@ -6,8 +6,7 @@ layout: post
 permalink: /note/tv-of-near-future/
 attitude_sidebarlayout: default
 image: /assets/images/2015/09/tv.jpg
-categories:
-  - voice
+categories: note
 tags:
   - Apple TV
   - テレビ

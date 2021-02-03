@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-brand/
 image : /assets/images/common/ogp.png
-categories:
-  - voice
+categories: note
 ---
 ![Cartier](/assets/images/2013/04/small__6501030849.jpg)
 

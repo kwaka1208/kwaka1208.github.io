@@ -6,8 +6,7 @@ layout: post
 permalink: /note/you-are-the-customer/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 ![天狗](/assets/images/2013/03/small_2799064377.jpg)
 

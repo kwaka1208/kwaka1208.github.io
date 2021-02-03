@@ -6,8 +6,7 @@ layout: post
 permalink: /note/announcement/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 昨年の12月にこのblogを起こしました。
 

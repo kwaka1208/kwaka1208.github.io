@@ -6,8 +6,7 @@ layout: post
 permalink: /note/start-from-copy/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 新しいことを始める時、全くのゼロからでは何から手をつけていいかわからない。そんな時は、まず真似することから始めると良いでしょう。これは、12月21日のCoderDojo奈良でも少しお話ししたことでもあります。
 

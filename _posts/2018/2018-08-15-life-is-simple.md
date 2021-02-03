@@ -6,8 +6,7 @@ layout: post
 permalink: /note/this-is-your-life/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 自分がとても気に入っていて友人にも紹介したことのある、[HOLSTEE社のマニフェスト](https://www.holstee.com/pages/manifesto){:target="_blank"}、[こちらの記事](http://halsinan.com/archives/396){:target="_blank"}に公式日本語訳が載っているのですが、そもそも原文の抽出で間違っている（"SHARE YOUR PASSION"が"WEAR YOUR PASSION"になってる）ので、修正するついでに私なりの訳してみました。
 

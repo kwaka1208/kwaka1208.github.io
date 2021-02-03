@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/6th-html5-workshop/
 image : /assets/images/common/ogp.png
-categories:
-  - voice
+categories: note
 ---
 ![第6回HTML5など勉強会](/assets/images/2013/03/562914_10200652689901097_537976344_n.jpg)
 

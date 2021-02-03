@@ -6,8 +6,7 @@ layout: post
 permalink: /note/iphone-unlock-ui/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 tags:
   - iPhone
   - Lock

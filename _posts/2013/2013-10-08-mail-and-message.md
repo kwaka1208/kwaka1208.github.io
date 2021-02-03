@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/mail-and-message/
 image : /assets/images/common/ogp.png
-categories:
-  - voice
+categories: note
 tags:
   - iMessage
   - LINE

@@ -7,8 +7,7 @@ permalink: /note/what-is-apple/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
 image: /assets/images/2014/09/T2hKfNG9.jpg
-categories:
-  - voice
+categories: note
 ---
 今年もまた、新しいiPhoneが発表されましたね。私の周りでも、「6の64GB」だの「Plusの128GB」だのと予約完了の声が聞こえてきますが、私は来年の春まで2年縛りが残っているので、とりあえずは様子見です。
 

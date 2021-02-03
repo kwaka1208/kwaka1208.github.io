@@ -6,8 +6,7 @@ layout: post
 permalink: /note/computer-science-unplugged/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 コンピュータサイエンスアンプラグドに関する雑感です。雑感なので、結論とか難しいことは求めないでください。徒然なるままに書いているだけです。
 

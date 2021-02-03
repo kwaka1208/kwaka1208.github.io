@@ -6,8 +6,7 @@ layout: post
 permalink: /note/merits-and-demerits/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 フランスのパリで同時多発テロが発生し、現地の様子や安否情報が瞬く間に流れ始めました。
 

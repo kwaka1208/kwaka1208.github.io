@@ -6,8 +6,7 @@ layout: post
 permalink: /note/firefox-os-on-tv/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 tags:
   - Firefox OS
   - Panasonic

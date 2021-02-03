@@ -6,8 +6,7 @@ layout: post
 permalink: /note/teach-and-learn-programming/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 tags:
   - CoderDojo
   - Education

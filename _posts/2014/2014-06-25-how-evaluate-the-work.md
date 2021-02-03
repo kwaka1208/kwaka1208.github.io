@@ -7,8 +7,7 @@ permalink: /note/how-evaluate-the-work/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
 image: /assets/images/2014/06/work.jpg
-categories:
-  - voice
+categories: note
 tags:
   - 労働
   - 残業

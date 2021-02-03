@@ -6,8 +6,7 @@ layout: post
 permalink: /note/what-is-programming-education/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 「プログラミング教育」がもたらす成果の一つとして「論理的思考が身につく」といわれますね。
 

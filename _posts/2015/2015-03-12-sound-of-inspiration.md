@@ -6,8 +6,7 @@ layout: post
 permalink: /note/sound-of-inspiration/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 tags:
   - インスピレーション
   - 想う

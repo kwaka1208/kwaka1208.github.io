@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/digital-inconvenience/
 image : /assets/images/common/ogp.png
-categories:
-  - voice
+categories: note
 tags:
   - Alalog
   - Digital

@@ -7,8 +7,7 @@ permalink: /note/spread-my-thought/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
 image: /assets/images/2014/06/decide.jpg
-categories:
-  - voice
+categories: note
 tags:
   - 意志
   - 発信

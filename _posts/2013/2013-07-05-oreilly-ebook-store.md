@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/oreilly-ebook-store/
 image : /assets/images/common/ogp.png
-categories:
-  - voice
+categories: note
 ---
 ![PHP](/assets/images/2013/07/PHP.gif)
 

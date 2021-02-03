@@ -6,8 +6,7 @@ layout: post
 permalink: /note/we-need-common-format/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 ---
 ![Resume](/assets/images/2012/12/small_2631535001.jpg)
 

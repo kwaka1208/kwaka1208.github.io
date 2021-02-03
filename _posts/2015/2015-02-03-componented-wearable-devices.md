@@ -6,8 +6,7 @@ layout: post
 permalink: /note/componented-wearable-devices/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - voice
+categories: note
 tags:
   - Apple WATCH
   - Google Glass
