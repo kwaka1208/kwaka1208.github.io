@@ -343,20 +343,20 @@ pre {
 		p {
 			width: 100%;
 			height: auto;
-			margin: .5em 0 1.5em 0;
+			margin: 0 0 1.5em 0;
 		}
-		.post-item {
-			margin-bottom: 0.5em;
-		}
+		.post-item,
 		.post-date {
-			margin-right: .5em;
+			margin-bottom: 0.5em;
 		}
 	}
 }
 
 @media (max-width: 600px) {
 	.post-item {
-		border: 0;
+		border-top: 0;
+		border-left: 0;
+		border-right: 0;
 	}
 }
 

@@ -5,7 +5,9 @@ layout: default
   <div class="container">
   {% for magazine in site.data.note.magazines %}
     {% if magazine.category == page.category %}
-      <h1>{{ magazine.title }}</h1>
+    <h1>
+      <img src="/assets/images/note/{{ page.category }}.png" alt="{{ magazine.title }}">
+    </h1>
       <p style="margin-bottom: 30px;">{{ magazine.text }}</p>
     {% endif %}
   {% endfor %}
