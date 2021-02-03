@@ -7,8 +7,7 @@ permalink: /note/user-interface-of-toilet/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
 image: /assets/images/2014/02/toilet.jpg
-categories:
-  - for creators
+categories: note
 tags:
   - User Interface
   - トイレ

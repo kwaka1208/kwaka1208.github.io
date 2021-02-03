@@ -6,8 +6,7 @@ layout: post
 permalink: /note/facebook-setting-protect-your-account/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - for users
+categories: note
 tags:
   - Facebook
   - アカウント

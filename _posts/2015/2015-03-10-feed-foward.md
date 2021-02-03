@@ -6,8 +6,7 @@ layout: post
 permalink: /note/feed-foward/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - for creators
+categories: note
 tags:
   - iPhone
 ---

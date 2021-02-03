@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/control-the-mode/
 image : /assets/images/common/ogp.png
-categories:
-  - for creators
+categories: note
 tags:
   - UI
   - User Interface

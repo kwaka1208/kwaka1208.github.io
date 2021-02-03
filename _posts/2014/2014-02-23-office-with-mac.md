@@ -7,8 +7,7 @@ permalink: /note/office-with-mac/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
 image: /assets/images/2014/02/office.png
-categories:
-  - for users
+categories: note
 tags:
   - Excel
   - Google Docs

@@ -6,8 +6,7 @@ layout: post
 permalink: /note/tv-of-the-near-future/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - for creators
+categories: note
 tags:
   - Android
   - Firefox OS

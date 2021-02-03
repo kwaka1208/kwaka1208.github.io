@@ -6,8 +6,7 @@ layout: post
 permalink: /note/textedit-with-plain-text/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - for users
+categories: note
 tags:
   - テキストエディタ
   - テキストエディット

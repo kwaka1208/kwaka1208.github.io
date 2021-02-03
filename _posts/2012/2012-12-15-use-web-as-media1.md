@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/use-web-as-media1/
 image : /assets/images/common/ogp.png
-categories:
-  - for users
+categories: note
 tags:
   - media
   - Web

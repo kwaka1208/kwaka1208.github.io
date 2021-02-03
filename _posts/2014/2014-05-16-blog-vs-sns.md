@@ -7,8 +7,7 @@ permalink: /note/blog-vs-sns/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
 image: /assets/images/2014/05/log.jpg
-categories:
-  - for users
+categories: note
   - voice
 tags:
   - blog

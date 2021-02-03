@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/search-images-by-size/
 image : /assets/images/common/ogp.png
-categories:
-  - for users
+categories: note
 tags:
   - Google
   - Hack

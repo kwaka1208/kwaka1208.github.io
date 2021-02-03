@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/improvement-of-elevator-button/
 image : /assets/images/common/ogp.png
-categories:
-  - for creators
+categories: note
 tags:
   - User Interface
   - ユーザーインターフェース

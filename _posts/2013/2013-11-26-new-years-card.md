@@ -7,8 +7,7 @@ permalink: /note/new-years-card/
 attitude_sidebarlayout: default
 image: /assets/images/2013/11/small_2167028703.jpg
 image : /assets/images/common/ogp.png
-categories:
-  - for users
+categories: note
 tags:
   - スマートフォン
   - タブレット

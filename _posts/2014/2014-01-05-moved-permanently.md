@@ -6,8 +6,7 @@ layout: post
 permalink: /note/moved-permanently/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - for creators
+categories: note
   - voice
 tags:
   - エンジニア

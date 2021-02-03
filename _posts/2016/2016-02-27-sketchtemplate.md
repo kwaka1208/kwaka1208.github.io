@@ -6,8 +6,7 @@ layout: post
 permalink: /note/sketchtemplate/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
-categories:
-  - for creators
+categories: note
   - for users
 tags:
   - Arduino

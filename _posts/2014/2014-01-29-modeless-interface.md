@@ -7,8 +7,7 @@ permalink: /note/modeless-interface/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default
 image: /assets/images/2014/01/medium_5388860696.jpg
-categories:
-  - for creators
+categories: note
 tags:
   - iPhone
   - mode

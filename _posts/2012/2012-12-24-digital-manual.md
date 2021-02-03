@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/digital-manual/
 image : /assets/images/common/ogp.png
-categories:
-  - for users
+categories: note
 tags:
   - Hack
   - PDF

@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/how-to-create-safe-password/
 image : /assets/images/common/ogp.png
-categories:
-  - for users
+categories: note
 tags:
   - Hack
   - パスワード

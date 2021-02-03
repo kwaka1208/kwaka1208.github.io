@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sort-of-address-book/
 image : /assets/images/common/ogp.png
-categories:
-  - for users
+categories: note
 tags:
   - Hack
   - iPad
