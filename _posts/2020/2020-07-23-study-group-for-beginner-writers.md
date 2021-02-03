@@ -6,8 +6,7 @@ layout: post
 permalink: /note/study-group-for-beginner-writers
 image : /assets/images/2020/study-group-for-beginner-writers.png
 attitude_sidebarlayout: default
-categories:
-  - note
+categories: note
 ---
 7月20日（月）「[初心者ライター勉強会](https://ayaynaririri.wixsite.com/writer-studymtg){:target="_blank"}」という勉強会に参加しました。
 

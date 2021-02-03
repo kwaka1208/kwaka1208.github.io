@@ -6,8 +6,7 @@ layout: post
 permalink: /note/simple-way-to-make-the-world-a-kinder-place/
 image : /assets/images/2021/simple-way-to-make-the-world-a-kinder-place.png
 attitude_sidebarlayout: default
-categories:
-  - note
+categories: note
 ---
 2021年最初の記事は優しい世界を作るための方法ついて。
 
