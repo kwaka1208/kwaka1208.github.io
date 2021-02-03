@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/save-and-load-by-scratch/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - coderdojo
+attitude_sidebarlayout: default
+categories: kids
 ---
 今日は、CoderDojo梅田で伝説のニンジャのサポートをしました。彼が「RPGのゲームデータをセーブできるようにしたい」というので、データをシリアライズする方法を考えてレクチャーし、一緒に作っていきました。いわゆる「ふっかつのじゅもん」方式で、難しい言葉でいうと「シリアライズ」と「デシリアライズ」です。その時の方法をこちらのプロジェクトに再現してみました。
 

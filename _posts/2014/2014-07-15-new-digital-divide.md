@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/new-digital-divide/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/07/medium_1455076844.jpg
-categories:
-  - voice
+categories: note
 ---
 少し古い話で恐縮ですが、今年の春頃にiPhoneのコネクタが現在のLightningからmicro USBに変わるという噂がネット上で流れていました。
 

@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/office-on-github/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - for users
+attitude_sidebarlayout: default
+categories: note
 tags:
   - Excel
   - VBA

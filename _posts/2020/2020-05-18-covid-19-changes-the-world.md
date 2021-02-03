@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/covid-19-changes-the-world
 image : /assets/images/2020/covid-19-changes-the-world.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - living_with_others
+attitude_sidebarlayout: default
+categories: living_with_others
 ---
 新型コロナウイルスに影響を受けて、これからの社会が変わっていくという論調や考え方をネット上でチラホラ見かけます。それらは「afterコロナ」だとか、いやいやこれからは新型コロナが完全に終息するわけではいだろうから、afterじゃなくて「withコロナ」だみたいなやりとりが行われていますが、実際のところafterなのかwithなのかは細かい話なのでどうでもよくて、どちらかというと短期と長期の2つの変化を考えなければならないと私は考えています。
 

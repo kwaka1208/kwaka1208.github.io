@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/signifier/
 image : /assets/images/common/ogp.png
-categories:
-  - voice
+categories: note
 tags:
   - Apple
   - iOS

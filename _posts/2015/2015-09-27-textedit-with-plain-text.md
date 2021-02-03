@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/textedit-with-plain-text/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - for users
+attitude_sidebarlayout: default
+categories: note
 tags:
   - テキストエディタ
   - テキストエディット

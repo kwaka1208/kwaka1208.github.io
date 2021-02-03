@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/inbox-zero-management/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/04/medium_15283297.jpg
-categories:
-  - for users
+categories: note
 tags:
   - inbox zero
   - Mail

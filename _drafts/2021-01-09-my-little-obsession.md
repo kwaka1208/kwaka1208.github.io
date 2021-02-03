@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/my-little-obsession/
 image : /assets/images/2021/my-little-obsession.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - note
+attitude_sidebarlayout: default
+categories: note
 ---
 誰かの名前を呼ぶ時に「〇〇さん」「〇〇くん」という敬称がよく使われます。
 しかし、私はある一定の年齢以上（小学校高学年か中学生ぐらいが目安）の人を呼ぶ時には「さん付け」で呼ぶようにしています。

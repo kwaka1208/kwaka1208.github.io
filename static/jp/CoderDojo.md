@@ -4,8 +4,7 @@ date: 2018-11-01T00:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: page
 permalink: /CoderDojo/index.html
-attitude_sidebarlayout:
-  - default CoderDojo
+attitude_sidebarlayout: default CoderDojo
 ---
 
 CoderDojoは7〜17歳の若い人対象にした非営利のプログラミングコミュニティです。2011年にアイルランドで始まり、世界では100の国と地域で1,900以上のDojoが開催されており、日本全国では200以上が開催されています。

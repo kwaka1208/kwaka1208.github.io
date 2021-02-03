@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/stock_and_flow
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - living_with_others
+attitude_sidebarlayout: default
+categories: living_with_others
 ---
 起こりがちなのがこのマガジンの最初の記事として情報の管理方法を考える時に役に立つ「ストック」と「フロー」について話してみます。
 

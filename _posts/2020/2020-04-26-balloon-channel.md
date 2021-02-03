@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/balloon-channel
 image : /assets/images/2020/balloon-channel.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - living_with_others
+attitude_sidebarlayout: default
+categories: kids
 ---
 企業のブランディングやデザインコンサルティングを手がけるBalloon株式会社が運営するstand.fmの番組「Balloon Channel」で「プログラミング教育観」というテーマでお話しさせていただきました。stand.fmデビューです！
 

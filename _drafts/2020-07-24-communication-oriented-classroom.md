@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/communication-oriented-classroom
 image : /assets/images/2020/communication-oriented-classroom.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - note
+attitude_sidebarlayout: default
+categories: note
 ---
 （ヘッダー画像はあくまでもイメージです）
 

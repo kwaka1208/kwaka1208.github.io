@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/learn-with-robot/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - voice
+attitude_sidebarlayout: default
+categories: note
 ---
 8月31日に開催された、[オープンテクノロジーセンター Robo&Peace オープニングセミナー『ICT教育による今後の日本教育の課題と可能性』](http://iroobo.jp/rp-open18/){:target="_blank"}こちらの中で、大阪大学の石黒先生の話を箇条書きではありますが、まとめてみました。
 

@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sns-and-privacy/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - for users
+attitude_sidebarlayout: default
+categories: note
 ---
 最近、SNS上におけるプライバシーの取り扱いについて気になる事例をいくつか見かけたので、プライバシーに関することを書き留めておきたいと思います。後日整理したいとは思いますが、取り急ぎの走り書きで。
 

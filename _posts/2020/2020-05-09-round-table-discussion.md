@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/round-table-discussion
 image : /assets/images/2020/round-table-discussion.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - living_with_others
+attitude_sidebarlayout: default
+categories: living_with_others
 ---
 2020年度が始まりましたが4月以降、在宅勤務だったり業種によってはいきなり休業になっているところもあるかと思います。新卒入社の方はもちろん、2年目でも研修が終わっていよいよ本格始動だったはずが、出鼻を挫かれた感もあるかもしれません。
 

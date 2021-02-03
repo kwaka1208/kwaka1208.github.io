@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/misunderstanding-about-isms/
 image : /assets/images/common/ogp.png
-categories:
-  - voice
+categories: note
 tags:
   - security
   - 可用性

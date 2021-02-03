@@ -5,12 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/zoom-control-with-one-hand/
 image : /assets/images/common/ogp.png
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
-categories:
-  - for creators
+categories: note
 tags:
   - Googe Map
   - User Interface

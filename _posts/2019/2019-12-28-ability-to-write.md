@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/ability-to-write
 image : /assets/images/2020/ability-to-write.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - living_with_others
+attitude_sidebarlayout: default
+categories: kids
 tags:
   - 子ども
   - 文章力

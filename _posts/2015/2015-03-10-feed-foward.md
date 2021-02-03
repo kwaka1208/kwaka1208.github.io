@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/feed-foward/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - for creators
+attitude_sidebarlayout: default
+categories: note
 tags:
   - iPhone
 ---

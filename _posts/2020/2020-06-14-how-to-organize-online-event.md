@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/how-to-organize-online-event
 image : /assets/images/2020/how-to-organize-online-event.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - reference
+attitude_sidebarlayout: default
+categories: reference
 ---
 知り合いの方から「イベント企画・運営時のオンラインツールの活用」について教えて欲しいというお話しがありましたので、その時にお話しした内容をスライドにまとめました。
 

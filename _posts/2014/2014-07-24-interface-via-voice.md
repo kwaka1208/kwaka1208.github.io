@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/interface-via-voice/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/07/medium_4164756091.jpg
-categories:
-  - voice
+categories: note
 tags:
   - Apple
   - CarPlay

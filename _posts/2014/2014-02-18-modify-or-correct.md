@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/modify-or-correct/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/02/GREEN_TU20140125500.png
-categories:
-  - living_with_others
+categories: living_with_others
 tags:
   - モノづくり
   - 修正

@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/member-registration/
 image : /assets/images/common/ogp.png
-categories:
-  - for creators
+categories: note
 tags:
   - User Interface
   - Web

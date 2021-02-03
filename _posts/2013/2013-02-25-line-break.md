@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/line-break/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2013/02/iPhone.jpg
-categories:
-  - for users
+categories: note
 tags:
   - スマートフォン
   - メール

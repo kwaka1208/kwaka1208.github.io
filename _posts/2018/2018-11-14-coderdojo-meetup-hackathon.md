@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/coderdojo-meetup-hackathon
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - coderdojo
+attitude_sidebarlayout: default
+categories: kids
 ---
 2018年11月3日、大阪吹田市のパナソニックスタジアム吹田で「CoderDojo Meetup & Hackathon」を開催しました。
 

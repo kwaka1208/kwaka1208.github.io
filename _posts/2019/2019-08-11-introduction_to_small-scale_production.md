@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/introduction_to_small-scale_production
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - maker book
+attitude_sidebarlayout: default
+categories: note
 ---
 8月9日にオライリー・ジャパン社から発売された「[メイカーとスタートアップのための量産入門 ―200万円、1500個からはじめる少量生産のすべて](https://www.oreilly.co.jp/books/9784873118840/){:target="_blank"}」を読みました。その感想を簡単にまとめてみたいと思います。
 

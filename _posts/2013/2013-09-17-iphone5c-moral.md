@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/iphone5c-moral/
 image : /assets/images/common/ogp.png
-categories:
-  - voice
+categories: note
 tags:
   - iPhone
   - ネット

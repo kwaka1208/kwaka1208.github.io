@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/cyber-attack/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - voice
+attitude_sidebarlayout: default
+categories: note
 tags:
   - security
   - サイバー攻撃

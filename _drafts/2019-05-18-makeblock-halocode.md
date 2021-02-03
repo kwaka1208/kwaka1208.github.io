@@ -4,10 +4,8 @@ date: 2019-05-06T23:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/halocode
-attitude_sidebarlayout:
-  - default
-categories:
-  - makeblock halocode kids programming
+attitude_sidebarlayout: default
+categories: kids
 ---
 前から気になっていた、MakeblockのHaloCodeというプログラミング学習用デバイス。サイトの説明には、このようにあります。
 https://www.makeblock.com/jp/steam-kits/halocode

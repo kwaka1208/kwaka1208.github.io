@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/dont-tell-me-to-do-more/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - note
+attitude_sidebarlayout: default
+categories: kids
 ---
 子どもたちと一緒にプログラミングやっていると「もっとちゃんとしなさい」「もっと丁寧にしなさい」「もっときれいにしなさい」という親がいます。
 

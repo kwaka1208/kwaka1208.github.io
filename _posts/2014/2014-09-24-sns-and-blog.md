@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/sns-and-blog/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/09/diary.jpg
-categories:
-  - for users
+categories: note
 tags:
   - blog
   - Facebook

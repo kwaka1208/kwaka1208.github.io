@@ -4,11 +4,9 @@ date: 2015-09-10T12:46:45 UTC+9
 author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/tv-of-near-future/
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2015/09/tv.jpg
-categories:
-  - voice
+categories: note
 tags:
   - Apple TV
   - テレビ

@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/good-ui-decrese-the-cost/
 image : /assets/images/common/ogp.png
-categories:
-  - for creators
+categories: note
 tags:
   - User Interface
   - コスト

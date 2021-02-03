@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/difference-between-disk-and-memory/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/02/medium_4278899378.jpg
-categories:
-  - for users
+categories: note
 tags:
   - HDD
   - memory

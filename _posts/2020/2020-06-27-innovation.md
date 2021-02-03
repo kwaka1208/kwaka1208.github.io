@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-innovation
 image : /assets/images/2020/what-is-innovation.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - whatis
+attitude_sidebarlayout: default
+categories: whatis
 ---
 ついに「なんだ」シリーズも三本目を迎えました。このテーマ続けられそうです。
 

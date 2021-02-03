@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-preview/
 image : /assets/images/common/ogp.png
-categories:
-  - for users
+categories: note
 tags:
   - Facebook
   - Hack

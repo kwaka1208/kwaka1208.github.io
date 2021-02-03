@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/maker-faire-kyoto-online
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - event maker kids
+attitude_sidebarlayout: default
+categories: kids
 ---
 今年（2020年）のMaker Faire Kyotoがオンライン開催になったので、micro:bitのプログラム作品を出展します。
 

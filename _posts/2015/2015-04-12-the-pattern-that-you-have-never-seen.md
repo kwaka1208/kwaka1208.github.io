@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/the-pattern-that-you-have-never-seen/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - for creators
+attitude_sidebarlayout: default
+categories: note
 tags:
   - デザインパターン
   - 組み合わせ

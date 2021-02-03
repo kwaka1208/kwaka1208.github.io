@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/three-steps-for-it-implementation
 image : /assets/images/2020/three-steps-for-it-implementation.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - note
+attitude_sidebarlayout: default
+categories: note
 ---
 [さくらインターネットの田中さんが「ITの導入段階を勝手に雑く3段階に分けてみた」という面白い記事](https://note.com/kunihirotanaka/n/ne5683f57af68){:target="_blank"}を書かれていたので、それを真似してみました。こういう構造化って、現在と未来の状態比較、分野ごとの横方向の比較ができて良い整理の仕方だなと思います、さすがです。
 

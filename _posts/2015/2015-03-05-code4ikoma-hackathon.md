@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/code4ikoma-hackathon/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - event
+attitude_sidebarlayout: default
+categories: note
 tags:
   - CODE for IKOMA
   - Hackthon

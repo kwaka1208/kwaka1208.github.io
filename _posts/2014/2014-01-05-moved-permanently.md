@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/moved-permanently/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - for creators
+attitude_sidebarlayout: default
+categories: note
   - voice
 tags:
   - エンジニア

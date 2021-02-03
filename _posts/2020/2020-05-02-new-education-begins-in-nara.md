@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/new-education-begins-in-nara/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - note
+attitude_sidebarlayout: default
+categories: kids
 ---
 少し前に奈良市から「GSuite for Education」の導入が発表されていましたが、県内の国公立校すべてで導入されることが発表されました。
 

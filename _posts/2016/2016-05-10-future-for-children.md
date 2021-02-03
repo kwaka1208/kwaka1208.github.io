@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/future-for-children/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - voice
+attitude_sidebarlayout: default
+categories: note
 ---
 私たち（アラフィフ世代）が子どもの頃にイメージしていた未来といえば、「空を飛ぶ車」やウルトラセブンやスタートレックにでてくるような「腕時計型の電話」、「人間と同じように振る舞うロボット」などがありました。
 

@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-is-logical-thinking/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - note
+attitude_sidebarlayout: default
+categories: kids
 ---
 プログラミングを学ぶと論理的思考が身に付くという話がよく言われていますが、それは正しくもあり間違いでもあります。という話は今回のメインの話ではないのでさておきますが、プログラミングにおいて論理的に考えることが求められることは確かにあります。
 

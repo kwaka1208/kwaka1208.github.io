@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/inventive-minds/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - note
+attitude_sidebarlayout: default
+categories: kids
 ---
 オライリー・ジャパン刊の「創造する心」発売前から気になったので、早速購入して読んでみました。大人、特にお子さんのいる方や学校の先生など子どもと接する機会の多い方は読んだ方がいいと思いました。
 

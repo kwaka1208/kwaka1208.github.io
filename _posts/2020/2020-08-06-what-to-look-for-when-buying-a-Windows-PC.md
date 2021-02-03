@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-to-look-for-when-buying-a-Windows-PC
 image : /assets/images/2020/what-to-look-for-when-buying-a-Windows-PC.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - reference
+attitude_sidebarlayout: default
+categories: reference
 ---
 最近、Windows PCの購入について相談を受けることが何度かありましたので、購入機種を選ぶ際のポイントについてまとめてみました。あくまでも私が初心者向けにアドバイスした場合に以下のポイントを教えますというもので、PCに詳しい方やこだわりのある方は違う観点で選ばれる方もいらっしゃると思います。この点、ご理解の上参考にしていただければと思います。
 

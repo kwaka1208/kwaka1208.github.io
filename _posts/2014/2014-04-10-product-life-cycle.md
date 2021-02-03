@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/product-life-cycle/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/04/medium_2772087916.jpg
-categories:
-  - voice
+categories: note
 tags:
   - コスト
   - サポート

@@ -5,14 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/we-need-common-format/
 image : /assets/images/common/ogp.png
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
-attitude_sidebarlayout:
-  - default
-categories:
-  - voice
+attitude_sidebarlayout: default
+categories: note
 ---
 ![Resume](/assets/images/2012/12/small_2631535001.jpg)
 

@@ -5,14 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/my-web-searching/
 image : /assets/images/common/ogp.png
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
-attitude_sidebarlayout:
-  - default
-categories:
-  - for users
+categories: note
 tags:
   - Hack
   - Web検索

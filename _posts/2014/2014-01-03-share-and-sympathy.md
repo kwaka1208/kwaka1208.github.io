@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/share-and-sympathy/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - for users
+attitude_sidebarlayout: default
+categories: note
 tags:
   - Facebook
   - シェア

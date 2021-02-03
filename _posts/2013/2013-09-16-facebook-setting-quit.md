@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/facebook-setting-quit/
 image : /assets/images/common/ogp.png
-categories:
-  - for users
+categories: note
 tags:
   - Facebook
   - やめる

@@ -6,10 +6,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/coolest-projects-2017/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - voice
+attitude_sidebarlayout: default
+categories: note
 ---
 6月17日にアイルランドのダブリンで開催された"[Coolest Projects](http://coolestprojects.org/){:target="_blank"}"に参加してきました。"Coolest Projects"の様子はもちろん、道中やダブリンの様子を交えてまとめていきます。CoderDojo西宮/梅田の細谷さんが早々に記事を公開されていますので、こちらも合わせてご覧ください。
 

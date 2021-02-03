@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/password-management-on-the-bookmark/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/12/property-1024x240.png
-categories:
-  - for users
+categories: note
 tags:
   - Firefox
   - ID

@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/ideal-day-for-children/
 image : /assets/images/2020/ideal-day-for-children.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - living_with_others
+attitude_sidebarlayout: default
+categories: kids
 ---
 自分がこんな風になったらいいなと思う、子どもたちの一日です。
 

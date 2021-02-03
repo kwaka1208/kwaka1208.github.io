@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/information-management-tools-2021-01/
 image : /assets/images/2021/information-management-tools-2021-01.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - note
+attitude_sidebarlayout: default
+categories: note
 ---
 私が使っている情報管理ツールをさらしてみます。
 

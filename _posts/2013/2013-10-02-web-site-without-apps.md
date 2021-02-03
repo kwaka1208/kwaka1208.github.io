@@ -5,8 +5,7 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/web-site-without-apps/
 image : /assets/images/common/ogp.png
-categories:
-  - for users
+categories: note
 tags:
   - Web
   - アプリ

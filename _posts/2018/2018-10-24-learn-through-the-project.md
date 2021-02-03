@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/learn-through-the-project
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - voice development
+attitude_sidebarlayout: default
+categories: note development
 ---
 10月20日、21日に世界的に開催された「NASA Space Apps Challenge」の大阪会場のスタッフとして参加し、メンター的なことは何もする必要はなかったけれど一応技術メンターとして名を連ねさせていただきました。
 

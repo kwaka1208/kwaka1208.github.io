@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/seminar-matsumoto-yukihiro/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - event
+attitude_sidebarlayout: default
+categories: note
 tags:
   - Ruby
   - まつもとゆきひろ

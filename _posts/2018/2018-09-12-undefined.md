@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/undefined
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - voice
+attitude_sidebarlayout: default
+categories: note
 ---
 今の世の中を複雑にしている要因のひとつに「なんにでも名前をつける」ということがあるんじゃないかって思ってます。テレビやネットの記事を見てても「へー、それってそんな風に呼ばれるんや」って思うことが多々あり。
 

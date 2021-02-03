@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/what-i-want-to-achieve/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - note
+attitude_sidebarlayout: default
+categories: note
 ---
 自分は「若い人が成長できる環境づくりと、若い人が出ていける社会の環境づくり」ということをやっていきたいと考えています。「それって具体的にいうとどういうことなんだろ」と自問自答し続けているので、壁打ちのつもりでアウトプットしてみます。
 

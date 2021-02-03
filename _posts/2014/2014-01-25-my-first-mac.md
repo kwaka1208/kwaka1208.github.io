@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/my-first-mac/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/01/macintosh.jpg
-categories:
-  - voice
+categories: note
 tags:
   - LC575
   - Mac

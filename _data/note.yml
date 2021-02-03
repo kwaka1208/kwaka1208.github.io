@@ -1,0 +1,19 @@
+# note parameter
+limited_posts: 5
+
+magazines:
+  - category: kids
+    title: 子どもたちの未来と成長研究室
+    text: 子どもたちの多様性を尊重し、ひとりひとりの能力を伸ばすために大人が果たすべき役割について考えています。
+  - category: living_with_others
+    title: 他者と生きる研究室
+    text: 社会の中で他者と接して生きるために必要なことを考えていきます。
+  - category: whatis
+    title: なんだ研究室
+    text: 意味が共有されてなさそうな言葉をピックアップして定義します。
+  - category: reference
+    title: 資料室
+    text: まとめ記事などを掲載しています
+  - category: note
+    title: 雑記
+    text: その他の話題はこちら

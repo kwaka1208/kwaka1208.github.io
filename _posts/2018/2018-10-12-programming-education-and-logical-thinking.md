@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/programming-education-and-logical-thinking
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - voice education
+attitude_sidebarlayout: default
+categories: note education
 ---
 プログラミング教育の文脈で「プログラミングをやると論理的思考が身につく」と言われますが、私は「プログラミングをやっている人の思考が必ずしも論理的な人ではない」と考えています。それがどういうことか？論理的思考とはどういうことか？について、自分の中で整理したことを書き留めておきます。
 

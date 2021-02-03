@@ -5,10 +5,8 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/tv-of-the-near-future/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
-categories:
-  - for creators
+attitude_sidebarlayout: default
+categories: note
 tags:
   - Android
   - Firefox OS

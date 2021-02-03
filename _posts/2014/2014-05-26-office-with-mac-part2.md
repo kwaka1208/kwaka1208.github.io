@@ -5,11 +5,9 @@ author: Wakabayashi, Kenichi
 layout: post
 permalink: /note/office-with-mac-part2/
 image : /assets/images/common/ogp.png
-attitude_sidebarlayout:
-  - default
+attitude_sidebarlayout: default
 image: /assets/images/2014/05/medium_3248317574-300x199.jpg
-categories:
-  - for users
+categories: note
 tags:
   - Google
   - Google Drive
