@@ -3,8 +3,12 @@ layout: default
 ---
 <section class="post-list">
   <div class="container">
-    <h1>{{ page.title }}</h1>
-    <p>{{ page.description }}</p>
+  {% for magazine in site.data.note.magazines %}
+    {% if magazine.category == page.category %}
+      <h1>{{ magazine.title }}</h1>
+      <p style="margin-bottom: 30px;">{{ magazine.text }}</p>
+    {% endif %}
+  {% endfor %}
     {% for post in site.posts %}
       {% if post.categories[0] == page.category %}
         {% unless post.next %}
