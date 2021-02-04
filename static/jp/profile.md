@@ -5,6 +5,7 @@ author: Wakabayashi, Kenichi
 layout: page
 permalink: /profile/index.html
 attitude_sidebarlayout: default
+sitemap: false
 ---
 ## プロフィール1（167文字）
 若林健一（1967年大阪生まれ　奈良在住）  
