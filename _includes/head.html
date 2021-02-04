@@ -31,6 +31,13 @@
       {{ page_title | strip | rstrip | lstrip | escape | strip_newlines }}
   {% endcapture %}
 
+  {% capture site_zone %}{{ page.url | slice: 0,6 }}{% endcapture %}
+  {% if site_zone == "/note/" %}
+    {% capture page_title %}
+      {{ page.title }} / crossnote | {{ site.title }}
+    {% endcapture %}
+  {% endif %}
+
   <title>{{ page_title }}</title>
 
   {% assign page_description = '' %}
