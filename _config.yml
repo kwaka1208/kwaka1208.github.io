@@ -20,6 +20,9 @@ highlighter : rouge
 source: ./
 destination: ./_site
 
+gems:
+  - jekyll-sitemap
+
 # Sass configuration
 sass:
   sass_dir: assets/scss
