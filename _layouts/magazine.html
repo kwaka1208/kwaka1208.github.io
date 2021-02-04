@@ -6,9 +6,8 @@ layout: default
   {% for magazine in site.data.note.magazines %}
     {% if magazine.category == page.category %}
     <h1>
-      <img src="/assets/images/note/{{ page.category }}.png" alt="{{ magazine.title }}">
+      <img src="/assets/images/note/{{ page.category }}.png" alt="「{{ magazine.title }}」{{ magazine.text }}" title="「{{ magazine.title }}」{{ magazine.text }}" style="border-radius: 15px;">
     </h1>
-      <p style="margin-bottom: 30px;">{{ magazine.text }}</p>
     {% endif %}
   {% endfor %}
     {% assign count = 0 %}

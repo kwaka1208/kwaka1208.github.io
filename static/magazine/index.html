@@ -20,8 +20,7 @@ image : /assets/images/common/ogp.png
       {% for magazine in site.data.note.magazines %}
       <div class="magazine">
         <a href="/note/{{ magazine.category }}/">
-          <img src="/assets/images/note/{{ magazine.category }}.png" alt="{{ magazine.title }}">
-          <p>{{ magazine.text }}</p>
+          <img src="/assets/images/note/{{ magazine.category }}.png" alt="「{{ magazine.title }}」{{ magazine.text }}" title="「{{ magazine.title }}」{{ magazine.text }}" style="border-radius: 15px;">
         </a>
         {% assign sorted-posts = site.posts | where: "categories", magazine.category %}
         {% for post in sorted-posts limit: 5 %}
