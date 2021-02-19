@@ -10,8 +10,11 @@ layout: default
       <img src="/assets/images/common/ogp.png" class="title_image">
     {% endif %}
       <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+      <p class="post-meta">posted: <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    {% if page.update %}
+      <p class="post-meta">updated: <time datetime="{{ page.update | date_to_xmlschema }}" itemprop="datePublished">{{ page.update | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+      {% endif %}
+    </header>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
     {% include post-share.html %}
