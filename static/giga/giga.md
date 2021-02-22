@@ -4,7 +4,7 @@ date: 2021-01-13T23:30:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: static
 permalink: /giga_pc/index.html
-image : /assets/images/static/giga_pc.png
+image : /assets/images/OGP/giga_pc.png
 attitude_sidebarlayout:
   - static
 ---
