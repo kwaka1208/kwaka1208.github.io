@@ -354,6 +354,28 @@ pre {
 	}
 }
 
+#thanks {
+	.box {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+		column-gap: 15px;
+		row-gap: 2em;
+		margin-top: 30px;
+		.item {
+			img {
+				width: 100%;
+				height: auto;
+			}
+				
+			p {
+				width: 100%;
+				height: auto;
+				margin: 0 0 1.5em 0;
+			}
+		}
+	}
+}
+
 @media (max-width: 600px) {
 	.post-item {
 		border-top: 0;
