@@ -65,11 +65,21 @@ pre {
 .sns-icon {
 	display: flex;
 	justify-content: flex-start;
-	align-items: lex-start;
+	align-items: flex-start;
 	margin-top: 0.5em;
+	a {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: 44px;
+		height: 44px;
+		border-radius: 22px;
+		border: solid 1px gray;
+		margin-right: 10px;
+	}
 	i {
-		font-size: 2em;
-		margin: 0 0.5em 0 0;
+		padding-top: 3px;
+		font-size: 20px;
 	}
 }
 
