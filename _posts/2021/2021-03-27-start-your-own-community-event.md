@@ -70,7 +70,7 @@ Peatixでグループを作成する時に必要な画像は次の通りです�
 ## イベントページを作ろう
 グループを作ったらイベントを立てましょう。
 
-細かいことは、リアル会場で開催の場合は[こちら](https://help-organizer.peatix.com/ja-JP/support/solutions/articles/44001821716-グループ-イベントを作成する（会場で実施するイベント）#イベントの作成方法)){:target="_blank"}、オンラインでの開催の場合は[こちら](https://help-organizer.peatix.com/ja-JP/support/solutions/articles/44001934576-グループ-イベントを作成する（オンラインイベント）#イベントの作成方法){:target="_blank"}を見てください、公式に勝る情報はありません。このページは丁寧に書かれているので、わかりやすいと思います。
+細かいことは、[リアル会場で開催の場合はこちら](https://help-organizer.peatix.com/ja-JP/support/solutions/articles/44001821716-グループ-イベントを作成する（会場で実施するイベント）#イベントの作成方法){:target="_blank"}、[オンラインでの開催の場合はこちら](https://help-organizer.peatix.com/ja-JP/support/solutions/articles/44001934576-グループ-イベントを作成する（オンラインイベント）#イベントの作成方法){:target="_blank"}を見てください、公式に勝る情報はありません。このページは丁寧に書かれているので、わかりやすいと思います。
 
 SNSでシェアされた時にわかりやすいので、イベントカバー画像も設定しておいた方が良いです。
 
