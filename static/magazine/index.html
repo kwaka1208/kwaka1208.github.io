@@ -19,22 +19,22 @@ image : /assets/images/common/ogp.png
     <div class="shelf">
       {% for magazine in site.data.note.magazines %}
       <div class="magazine">
-        <a href="/note/{{ magazine.category }}/">
-          <img src="/assets/images/note/{{ magazine.category }}.png" alt="「{{ magazine.title }}」{{ magazine.text }}" title="「{{ magazine.title }}」{{ magazine.text }}" style="border-radius: 15px;">
-        </a>
+        <img src="/assets/images/note/{{ magazine.category }}.png" alt="「{{ magazine.title }}」{{ magazine.text }}" title="「{{ magazine.title }}」{{ magazine.text }}" style="border-radius: 15px;">
         {% assign sorted-posts = site.posts | where: "categories", magazine.category %}
         {% for post in sorted-posts limit: 5 %}
-        <article class="post-item">
+        <article class="post-item" style="padding: 0 5px;">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
           </a>
         </article>
       {% endfor %}
-        {% if sorted-posts.count > 2 %}
-          <a href="/note/{{ magazine.category }}">and more</a>
-          {% endif %}
+        <div style="display: flex; justify-content: flex-end;">
+        {% if sorted-posts.size > 2 %}
+          <a href="/note/{{ magazine.category }}"> &gt;&gt; 一覧を表示</a>
+        {% endif %}
+        </div>
       </div>
-      {% endfor %}
+    {% endfor %}
     </div>
   </div>
 

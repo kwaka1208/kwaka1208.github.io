@@ -6,7 +6,7 @@ layout: post
 permalink: /note/start-your-own-community-event/
 image : /assets/images/2021/start-your-own-community-event.png
 attitude_sidebarlayout: default
-categories: living_with_others
+categories: reference
 ---
 突然ですが、自分のコミュニティやグループでイベントを作って告知したい、参加者管理したい！という方のために、イベント管理サービスでのグループの作成から運営開始までをざっくりまとめてみました。
 
