@@ -2,7 +2,6 @@
 title: about me
 subtitle: 私について
 description: 私について
-featured_image: /images/demo/about.jpg
 permalink: /aboutme/
 ---
 ## プロフィール

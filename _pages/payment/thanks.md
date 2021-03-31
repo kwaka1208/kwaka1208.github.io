@@ -10,7 +10,7 @@ image : /assets/images/OGP/thanks.png
 対価の提供方法は２つ。Amazonの欲しいものリストからの物品提供、もうひとつは電子マネーです。ただし「電子マネー」の場合は500円以上でお願いしています。<span style="font-weight:bold">「いや、500円の価値はないな」と思われた場合には、何もしなくても結構です。</span>「なにもしない」か「500円以上」かの選択ということになります。たとえば、100円とか1円とかだとかえって凹むので、それなら潔く何も無い方がマシという考え方によるものです。
 上記の点についてご理解のほどよろしくお願いいたします。
 
-## 
+## 欲しいものリスト
 <a href="https://www.amazon.jp/hz/wishlist/ls/22IMRU0USQ9LV" target="_blank">
 	<img src="/assets/images/payment/amazon.png"  style="width: 300px; margin-top: 30px;">
 </a>
