@@ -27,10 +27,10 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/f/mqkwzrgw'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+  email_subject: 'お問い合わせフォームからの連絡'
+  send_button_text: '送信'
 
 social_settings:
   facebook_url: 'https://www.facebook.com/kwaka1208/'
