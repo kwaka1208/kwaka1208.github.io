@@ -1,6 +1,6 @@
 basic_settings:
   site_title: crossroads lab.
-  favicon_image: /images/favicon.png
+  favicon_image: /assets/icons/favicon/favicon.png
 
 header_settings:
   logo_image: 
@@ -8,17 +8,17 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'projects'
       url: '/'
-    - title: 'Blog'
+    - title: 'blog'
       url: '/blog/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'about'
+      url: '/aboutme/'
+    - title: 'contact'
+      url: '/contact/'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: connecting the dots.
 
 hero_settings:
   overlay_opacity: 0.8
@@ -33,7 +33,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/kwaka1208/'
   twitter_url: 'https://twitter.com/kwaka1208'
   instagram_url: 'https://www.instagram.com/kwaka1208/'
   snapchat_url: ''
@@ -43,7 +43,7 @@ social_settings:
   pinterest_url: ''
   medium_url: ''
   quora_url: ''
-  amazon_url: ''
+  amazon_url: 'http://amzn.to/2PDXseF'
   apple_url: ''
   android_url: ''
   tumblr_url: ''
