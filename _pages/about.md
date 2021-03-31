@@ -1,7 +1,7 @@
 ---
 title: about me
-subtitle: The ordinary man
-description: The ordinary man
+subtitle: 私について
+description: 私について
 featured_image: /images/demo/about.jpg
 permalink: /aboutme/
 ---

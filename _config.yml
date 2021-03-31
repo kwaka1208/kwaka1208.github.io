@@ -54,4 +54,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/note/page:num/"
-  
