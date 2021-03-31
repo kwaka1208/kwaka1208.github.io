@@ -28,7 +28,7 @@ post_settings:
 
 contact_settings:
   form_action: 'https://formspree.io/f/mqkwzrgw'
-  confirmation_url: '/thanks'
+  confirmation_url: '/complete'
   email_subject: 'お問い合わせフォームからの連絡'
   send_button_text: '送信'
 
