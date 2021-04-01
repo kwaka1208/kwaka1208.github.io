@@ -1,6 +1,6 @@
 basic_settings:
   site_title: crossroads lab.
-  favicon_image: /assets/icons/favicon/favicon.png
+  favicon_image: /assets/icons/favicon/favicon.ico
 
 header_settings:
   logo_image: 
