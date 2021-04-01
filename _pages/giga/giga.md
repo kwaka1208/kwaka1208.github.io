@@ -5,8 +5,6 @@ author: Wakabayashi, Kenichi
 layout: page
 permalink: /giga_pc/index.html
 image : /assets/images/OGP/giga_pc.png
-attitude_sidebarlayout:
-  - default
 ---
 ## 子どもひとり一台PCの時代へ
 現在、文部科学省主導で子どもひとりひとりが一台のPCを持つ環境を目指して「GIGAスクール構想」というのが進められているのをご存知ですか？

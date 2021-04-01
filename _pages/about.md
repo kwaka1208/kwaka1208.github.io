@@ -4,6 +4,7 @@ subtitle: 私について
 description: 私について
 permalink: /aboutme/
 featured_image: /assets/images/cover/about.png
+image: /assets/images/cover/about.png
 ---
 ## プロフィール
 - 若林健一 / kwaka1208
