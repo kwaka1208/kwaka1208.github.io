@@ -1,5 +1,15 @@
-<footer class="site-footer">
-  <div class="container">
-    <small class="block">&copy; {{ site.author.name }} All rights reserved. <a href="/aboutthesite/">about this site</a></small>
-  </div>
+<footer class="footer">
+
+	<div class="wrap">
+
+		<p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p>
+
+		<div class="footer__copyright">
+			<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
+		</div>
+
+		{% include socials.html %}
+
+	</div>
+
 </footer>

@@ -1,63 +1,56 @@
-# SEO settings
-title: "crossroads lab."
-title2: "" # default: ""
-description: "connecting the dots"
-keywords: "UX, IU, Interface, CoderDojo, kids, "
-url: https://crssrds.jp # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+site: crossroads lab.
 
-google_analytics: UA-36921937-1
-repo: http://github.com/kwaka1208/kwaka1208.github.io
-twitter_username: "kwaka1208"
-comments: false 
+url: https://crssrds.jp/
+baseurl: 
 
-# Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /note/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
-source: ./
-destination: ./_site
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
 
-gems:
-  - jekyll-sitemap
-
-# Sass configuration
-sass:
-  sass_dir: assets/scss
-  style: compressed # expanded
-
-# Author settings
-author:
-  name     : "crossroads lab."
-  job      : "connecting the dots"
-  bio      : "I love self brewed coffee, bookstore, Starbucks, MUJI and good things."
-  thumb    : https://avatars.githubusercontent.com/kwaka1208
-  url      : https://crssrds.jp
-  github   : https://github.com/kwaka1208
-  twitter  : https://twitter.com/kwaka1208
-  facebook : https://www.facebook.com/kwaka1208
-  linkedin : https://linkedin.com/in/kwaka1208
-
-# social settings
-og_locale: "ja_JP"
-twitter_card: "summary_large_image"
-twitter_site: "@kwaka1208"
-
-Plugin:
-  - bourbon
-  - jekyll-paginate
-  - jekyll-seo-tag
-
-# navbar pages
-navbar:
-  - slug : aboutme
-    title: Aboutme
-  - slug : blog
-    title: Blog
+markdown: kramdown
 
 kramdown:
-  auto_ids: false
+  input: GFM
+  syntax_highlighter: rouge
+  
+sass:
+  style: compressed
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+paginate_path: "/note/page:num/"
