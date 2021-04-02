@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 author: kwaka1208
-title: connpass：CoderDojo奈良・生駒・田原本
+title: connpass：CoderDojo奈良・生駒
 permalink: /contact/connpass_coderdojo/
 ---
-<article class="page container" id="contact">
-	<h2>connpass：CoderDojo</h2>
-	<img src="/assets/images/contact/connpass_coderdojo.png" width="100%" height="auto">
-</article>
+QRコードをタップ（クリック）するか、スマートフォンで読み取ってください。
+[![connpass：CoderDojo奈良・生駒](/assets/images/contact/connpass_coderdojo.png)](https://coderdojo-nara-ikoma.connpass.com/){:target="_blank"}

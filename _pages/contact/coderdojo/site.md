@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 author: kwaka1208
-title: 公式サイト：CoderDojo奈良・生駒・田原本
+title: 公式サイト：CoderDojo奈良・生駒
 permalink: /contact/coderdojo-nara/
 ---
-<article class="page container" id="contact">
-	<h2>公式サイト：CoderDojo</h2>
-	<img src="/assets/images/contact/coderdojo-nara.png" width="100%" height="auto">
-</article>
+QRコードをタップ（クリック）するか、スマートフォンで読み取ってください。
+[![公式サイト：CoderDojo奈良・生駒](/assets/images/contact/coderdojo-nara.png)](https://coderdojo-nara-ikoma.github.io/){:target="_blank"}
