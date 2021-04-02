@@ -16,7 +16,7 @@ permalink: /contact_a3c/
 ## ビジネスカード
 - [Business Card](/contact/business_1ws/)
 
-## CoderDojo奈良・生駒・田原本
+## CoderDojo奈良・生駒
 - [公式サイト](/contact/coderdojo-nara/)
 - [connpass](/contact/connpass_coderdojo/)
 

@@ -14,6 +14,7 @@ image : /assets/images/OGP/thanks.png
 <a href="https://www.amazon.jp/hz/wishlist/ls/22IMRU0USQ9LV" target="_blank">
 	<img src="/assets/images/payment/amazon.png"  style="width: 300px; margin-top: 30px;">
 </a>
+
 ## PayPay
 <a href="https://qr.paypay.ne.jp/VtyKfWddUjEQkR0j">
 	<img src="/assets/images/payment/qr_paypay.png" style="width: 300px">
