@@ -12,6 +12,7 @@ layout: default
 
 		<h1>{{ page.title }}</h1>
 		<p>{{ page.date | date_to_long_string }}</p>
+		{% include podcast_icons.html %}
 
 	</div>
 
@@ -27,9 +28,7 @@ layout: default
 			<audio src="{{ site.data.podcast.audio_base_url }}{{ page.audio_file }}" controls>
 				<p>お使いのブラウザでは再生できません。最新のSafari、Chrome、edgeをお使いください。</p>
 			</audio>
-			<p style="margin-bottom: 60px;">
-				”crosstalk”は、<a hre="https://podcasts.apple.com/jp/podcast/crosstalk-by-crossroads-lab/id1494990721" target="_blank">Apple Podcast</a>他でも聴くことができます。
-			</p>
+
 			{% endif %}
 
 			{{ page.content }}
