@@ -9,7 +9,9 @@ layout: null
     <title>{{ site.data.podcast.title }}</title>
     <description>{{ site.data.podcast.description | xml_escape }}</description>
     <media:keywords>{{ site.keywords }}</media:keywords>
-    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    {% for category in site.data.podcast.category %}
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">{{ category | xml_escape }}</media:category>
+    {% endfor %}
     <language>{{ site.data.podcast.laungage }}</language>
     <itunes:subtitle>{{ site.data.podcast.description | xml_escape }}</itunes:subtitle>
     <itunes:author>{{ site.data.podcast.author }}</itunes:author>
@@ -20,7 +22,9 @@ layout: null
       <itunes:email>{{ site.data.podcast.email }}</itunes:email>
     </itunes:owner>
     <itunes:image href="{{ site.url }}/assets/images/podcast/artwork.png" />
-    <itunes:category text="{{ site.data.podcast.category }}"/>
+    {% for category in site.data.podcast.category %}
+    <itunes:category text="{{ category | xml_escape }}"/>
+    {% endfor %}
     <itunes:explicit>no</itunes:explicit>
     {% for post in site.posts %}
     {% if post.podcast %}
