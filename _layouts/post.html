@@ -23,6 +23,12 @@ layout: default
 
 		<article class="single-post">
 
+			{% if page.audio_file %}
+			<audio src="{{ site.data.podcast.audio_base_url }}{{ page.audio_file }}" controls>
+				<p>お使いのブラウザでは再生できません。最新のSafari、Chrome、edgeをお使いください。</p>
+			</audio>
+			{% endif %}
+
 			{{ page.content }}
 
 		</article>
