@@ -5,12 +5,12 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="{{ site.language }}">
   <channel>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    <link>{{ site.url}}/{{site.data.podcast.url}}/</link>
+    <link>{{ site.url}}{{site.data.podcast.url}}/</link>
     <title>{{ site.data.podcast.title }}</title>
     <description>{{ site.data.podcast.description | xml_escape }}</description>
     <media:keywords>{{ site.keywords }}</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
-    <language>{{ site.language }}</language>
+    <language>{{ site.data.podcast.laungage }}</language>
     <itunes:subtitle>{{ site.data.podcast.description | xml_escape }}</itunes:subtitle>
     <itunes:author>{{ site.data.podcast.author }}</itunes:author>
     <itunes:summary>{{ site.data.podcast.description | xml_escape }}</itunes:summary>
