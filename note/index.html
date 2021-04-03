@@ -26,6 +26,7 @@ image: /assets/images/cover/note.png
 	<div class="wrap">
 
 		{% for post in paginator.posts %}
+		{% unless post.podcast %}
 
 		<article class="post">
 
@@ -43,6 +44,7 @@ image: /assets/images/cover/note.png
 
 		</article>
 
+		{% endunless %}
 		{% endfor %}
 
 	</div>
