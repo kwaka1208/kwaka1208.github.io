@@ -1,7 +1,9 @@
 ---
+title: Kyash
+subtitle: 
+description: 
 layout: page
 author: kwaka1208
-title: PayPal
 permalink: /pay/kyash/
 ---
 スマートフォンでのみ利用できます。QRコードをタップするか、スマートフォンで読み取ってください。

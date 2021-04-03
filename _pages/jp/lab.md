@@ -1,5 +1,7 @@
 ---
 title: crossroads lab.
+subtitle: 
+description: 
 date: 2020-11-05T22:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: page

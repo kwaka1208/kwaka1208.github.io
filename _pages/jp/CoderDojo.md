@@ -1,5 +1,7 @@
 ---
 title: About CoderDojo
+subtitle: CoderDojoは大人と子どものプログラミングコミュニティです
+description: CoderDojoは大人と子どものプログラミングコミュニティです
 date: 2018-11-01T00:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: page

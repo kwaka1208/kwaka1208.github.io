@@ -1,7 +1,9 @@
 ---
+title: PayPal
+subtitle: 
+description: 
 layout: page
 author: kwaka1208
-title: PayPal
 permalink: /pay/paypal/
 ---
 PC、スマートフォンどちらでも利用できます。QRコードをタップ（クリック）するか、スマートフォンで読み取ってください。

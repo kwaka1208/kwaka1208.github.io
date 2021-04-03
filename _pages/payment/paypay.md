@@ -1,7 +1,9 @@
 ---
+title: PayPay
+subtitle: 
+description: 
 layout: page
 author: kwaka1208
-title: PayPay
 permalink: /pay/paypay/
 ---
 スマートフォンでのみ利用できます。QRコードをタップするか、スマートフォンで読み取ってください。

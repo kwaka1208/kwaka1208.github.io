@@ -1,7 +1,9 @@
 ---
+title: Pay for me
+subtitle: 
+description: 
 layout: page
 author: Wakabayashi, Kenichi
-title: Pay for me
 permalink: /pay/
 ---
 - [PayPal](/pay/paypay/)

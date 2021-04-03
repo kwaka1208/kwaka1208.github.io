@@ -1,5 +1,7 @@
 ---
 title: crosstalk
+subtitle: crossroads lab.のpodcast
+description: crossroads lab.のpodcast
 date: 2021-04-03T12:00:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: page

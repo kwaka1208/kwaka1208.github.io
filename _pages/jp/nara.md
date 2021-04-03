@@ -1,5 +1,7 @@
 ---
 title: なら情報まとめ
+subtitle: 
+description: 
 date: 2020-07-11T12:31:00 UTC+9
 author: Wakabayashi, Kenichi
 layout: page
