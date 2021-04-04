@@ -20,7 +20,7 @@ menu_settings:
       url: '/contact/'
 
 footer_settings:
-  footer_tagline: Connecting the dots.
+  footer_tagline: connecting the dots.
 
 hero_settings:
   overlay_opacity: 0.8
