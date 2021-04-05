@@ -1,7 +1,7 @@
 ---
 title: エレクトリニクスラボ　サポートページ
-subtitle: 
-description: 
+subtitle: Electronics Lab Support Page
+description: Electronics Lab
 permalink: /ElectronicsLab/
 featured_image: /assets/images/support/ElectronicsLab/cover.png
 image: /assets/images/support/ElectronicsLab/cover.png
