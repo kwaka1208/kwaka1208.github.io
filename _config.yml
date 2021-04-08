@@ -1,7 +1,7 @@
 site: crossroads lab.
 
 url: https://crssrds.jp/
-baseurl: 
+baseurl: https://crssrds.jp
 
 collections:
   pages:
