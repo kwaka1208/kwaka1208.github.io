@@ -4,7 +4,7 @@ subtitle: Electronics Lab Support Page
 description: Electronics Lab
 permalink: /ElectronicsLab/
 featured_image: /assets/images/support/ElectronicsLab/cover.png
-image: /assets/images/support/ElectronicsLab/cover.png
+image: /assets/images/OGP/ElectronicsLab.png
 ---
 ## はじめに
 このたびは、オライリー・ジャパン刊「[エレクトロニクスラボ - ものの仕組みがわかる18の電子工作](https://www.oreilly.co.jp/books/9784873119243/){:target="_blank"}をお買い上げいただき、ありがとうございます。
