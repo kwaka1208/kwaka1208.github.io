@@ -36,8 +36,9 @@
 			@include scale(1.2);
 		}
 
+		.podcast__content,
 		.post__content {
-			@include box-shadow(0, 6px, 16px, rgba(0,0,0,0.1));
+				@include box-shadow(0, 6px, 16px, rgba(0,0,0,0.1));
 		}
 
 		.post__title a {
@@ -114,6 +115,7 @@
 	}
 }
 
+.podcast__content,
 .post__content {
 	position: relative;
 	margin-top: -20px;
