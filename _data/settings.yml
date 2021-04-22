@@ -23,7 +23,7 @@ footer_settings:
   footer_tagline: connecting the dots.
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0
 
 post_settings:
   grid_spacing: 10
@@ -70,7 +70,8 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#3498db'
   border_color: '#dddddd'
-  hero_background_color: '#132930'
+  # hero_background_color: '#132930'
+  hero_background_color: '#156da5'
   hero_text_color: '#ffffff'
   error_color: '#D64541'
 
@@ -135,12 +136,12 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 18
-    medium_size: 20
-    large_size: 22
+    small_size: 16
+    medium_size: 16
+    large_size: 16
     weight: 400
     letter_spacing: 0
-    line_height: 1.6
+    line_height: 1.8
   blockquote:
     small_size: 25
     medium_size: 35

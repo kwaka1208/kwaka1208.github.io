@@ -34,17 +34,21 @@
 
 	@include mq(tabletp) {
 		margin-top: -60px;
-		padding: 32px 40px;
+//		padding: 32px 40px;
+		padding: 80px 100px;
 		@include box-shadow(0, 10px, 20px, rgba(0,0,0,0.05));
 	}
 
 	@include mq(tabletl) {
-		padding: 50px 60px;
+		padding: 120px 140px;
 	}
 
 	@include mq(laptop) {
-		padding: 70px 80px;
+		padding: 120px 140px;
 		@include box-shadow(0, 14px, 26px, rgba(0,0,0,0.05));
+		width: 980px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	hr {
@@ -74,6 +78,10 @@
 		padding: 0;
 	}
 
+	p {
+		margin-bottom: 2em;
+		text-align: justify;
+	}
 	p a {
 		font-weight: $bold-weight;
 		border-bottom: 2px solid $accent-color;
