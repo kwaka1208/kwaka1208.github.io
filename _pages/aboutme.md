@@ -7,30 +7,30 @@ featured_image: /assets/images/cover/about.png
 image: /assets/images/cover/about.png
 ---
 ## プロフィール
-- 若林健一 / kwaka1208
+### 若林健一 / kwaka1208
 - 大阪府出身、奈良県在住
 - 学生時代は守口市で暮らし、就職を期に奈良へ移り住む。
 - 大阪府立淀川工業高校(現：淀川工科高校)卒業後、<a href="https://jp.sharp/" target="_blank">シャープ株式会社</a>に入社。2012年12月、26年6ヶ月間の勤務に終止符をうち、いくつかの企業を転々としたのち現在はフリーで活動中。2020年度より大阪ハイテクロジー専門学校 AI・ロボット専攻で非常勤講師としてプロジェクト型授業を担当。
 
-## 資格
+### 資格
 - 情報セキュリティアドミニストレータ
 - <a href="/CoderDojo" target="_blank">CoderDojo奈良代表、CoderDojo生駒創設者</a>
 - <a href="https://www.meetup.com/ja-JP/Kansai-WordPress-Meetup/" target="_blank">Kansai WordPress Meetup</a>共同オーガナイザー
 - <a href="http://jactes.or.jp/" target="_blank">一般社団法人教育支援人材認証協会</a>認定こどもパートナー
 - 保有特許：CATV必須特許第3775937号
 
-## 開発
+### 開発
 - [POSシステム UP-3500](http://www.sharpusa.com/ForBusiness/POSSolutions/PointOfSaleSystemsNew/Models/UP3500.aspx#overview)
 - [パーソナルサーバー Galileo](https://jp.sharp/galileo/)
 他
 
-## 登壇・メディア出演
+### 登壇・メディア出演
 - [NHK奈良「ならナビ」2021年1月20日放送「プログラミングで作ってあそぼ！」でCoderDojoや奈良市美術館で開催したワークショップの様子を取り上げていただきました。](https://www.nhk.or.jp/nara/program/naracolle/index.html)
 - [Balloon Channel #17 若林健一さんに聞く「プログラミング教育観」](https://stand.fm/episodes/5e99a4186c967d6a3137ea3c)
 - [Future Meeting ―これからの子どもたちに必要な学びとは ―](http://www.kansai-u.ac.jp/umeda/event-seminar/future-meeting/future-meeting181216.html)
 - [関西オープンフォーラム2018「CoderDojoの経験からみたコミュニティの未来」](https://k-of.jp/backend_2018/session/1216.html)
 
-## 執筆活動
+### 執筆活動
 - [日刊デジタルクリエイターズ](http://bit.ly/dgcr_kwaka1208)  
 2013年9月から寄稿させていただいていたメルマガです。よかったら購読をお願いします。（2013年9月〜2015年6月、2016年1月～2017年2月、2018年9月〜現在）
 - [CodeCampus](https://bit.ly/codecampus_kwak1208)  
@@ -54,39 +54,39 @@ CoderDojoの有志メンバーでScratchの入門書を書きました。本屋�
 	<img src="/assets/images/aboutme/scratch.png" style="width:300px; height:auto;">
 </a>
 
-## Podcastはじめました
+### Podcastはじめました
 <iframe src="https://embed.podcasts.apple.com/jp/podcast/crosstalk/id1494990721?itsct=podcast_box&amp;itscg=30200" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 752px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe>
 
-## その他活動
+### その他活動
 
-### 2014年
+#### 2014年
 - [WordCamp Kansai 2014実行委員](https://kansai.wordcamp.org/2014/organizers/)
 - [CoderDojo奈良設立](https://coderdojo-nara-ikoma.github.io/)
 
-### 2015年
+#### 2015年
 - [WordCamp Kansai 2015実行委員](https://kansai.wordcamp.org/2015/organizers/)
 
-### 2016年
+#### 2016年
 - [DojoCon Japan 2016副実行委員長](https://dojocon2016.coderdojo.jp/)
 - [CoderDojo生駒設立](https://coderdojo-nara-ikoma.github.io/)
 
-### 2017年
+#### 2017年
 - [DojoCon Japan 2017副実行委員長](https://dojocon2017.coderdojo.jp/)
 - [NASA Space App Challenges 2017@Osaka実行委員](https://spaceappschallenge.space/)
 
-### 2018年
+#### 2018年
 - [CoderDojo田原本設立](https://coderdojo-nara-ikoma.github.io/)
 - [NASA Space App Challenges 2018@Osaka実行委員](https://spaceappschallenge.space/)
 
-### 2019年
+#### 2019年
 - [Maker Faire Kyoto 2019子どもプログラミング喫茶京都店マスター](https://pgmsaloon4kids.github.io/kyoto/)
 - [NASA Space App Challenges KUSHIMOTO 2019実行委員](https://space-apps-kushimoto.github.io/)
 - [Maker Faire Tokyo 2019子どもプログラミング喫茶東京店店員](https://pgmsaloon4kids.github.io/)
 
-### 2020年
+#### 2020年
 - CoderDojo田原本・CoderDojo明日香活動終了
 
-### 2021年
+#### 2021年
 - [みたことがないトイレをつくろうワークショップ（奈良市美術館）](https://bit.ly/toilet-never-seen)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QaKO70kiCzk?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
