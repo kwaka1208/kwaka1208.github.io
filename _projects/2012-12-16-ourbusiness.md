@@ -4,6 +4,8 @@ subtitle: 'our business'
 date: 2012-12-16 08:00:00
 description: crossroads lab.にできること、みなさまに提供できる価値について
 permalink: /business/
+featured_image: /assets/images/projects/ourbusiness.png
+image: /assets/images/projects/ourbusiness.png
 ---
 crossroads lab.では以下のような役割でみなさまのお手伝いをしています。
 いずれにおいても、何をするかだけでなく「なぜするのか？」に重きを置いて、みなさまと「なぜ」を共有しながら進めておりますので、お気軽にお問い合わせください。[お問い合わせはこちらから](/contact/)
