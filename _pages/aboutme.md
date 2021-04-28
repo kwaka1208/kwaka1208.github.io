@@ -19,8 +19,6 @@ image: /assets/images/cover/about.png
 - [一般社団法人教育支援人材認証協会](http://jactes.or.jp/){:target="_blank"}認定こどもパートナー
 - 保有特許：[特許第3775937号](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-3775937/4EBB0528119A061E6620803410D86868E7EEC5C33982B217573C8416D0EE3DA6/15/ja){:target="_blank"}
 
-)
-
 ### 開発
 - [POSシステム UP-3500](http://www.sharpusa.com/ForBusiness/POSSolutions/PointOfSaleSystemsNew/Models/UP3500.aspx#overview){:target="_blank"}
 - [パーソナルサーバー Galileo](https://jp.sharp/galileo/){:target="_blank"}
