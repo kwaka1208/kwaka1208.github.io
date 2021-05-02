@@ -15,7 +15,7 @@ categories: kids
 
 スタッフの中には、初ワークショップのファシリテーション、初イベント運営、初プログラミングなど多くの初がありました。
 
-自分も[初インタビュアーに挑戦](https://youtu.be/FRIEgIsoEwU)){:target="_blank"}しました。
+自分も[初インタビュアーに挑戦](https://youtu.be/FRIEgIsoEwU){:target="_blank"}しました。
 
 運営者も来場者もそれぞれ、何かしらの「初」を得られたイベントになったのではないかと自負しています。
 
@@ -23,11 +23,11 @@ categories: kids
 
 もちろん、いいことばかりではなく上手くいかなかったこと、私の進行のまずさで迷惑をかけたところもありましたが、イベント全体としてはとてもよかったと思うので、また開催します。 #子どもプログラミングパーク #ビストロプログラミング この2つの企画は今後も続けていきたい。
 
-
 ## 関連リンク
-- [Maker Faire Kyoto 2021にてオンラインのイベント「子どもプログラミングパーク」開催！](https://pgmsaloon4kids.github.io/kyoto/2021/)
 - [Maker Faire Kyoto 2021](https://makezine.jp/event/mfk2021/){:target="_blank"}
+- [Maker Faire Kyoto 2021にてオンラインのイベント「子どもプログラミングパーク」開催！](https://pgmsaloon4kids.github.io/kyoto/2021/)
 {:target="_blank"}
+- [子どもプログラミングパークスタッフ展示ページ](https://pgmsaloon4kids.github.io/kyoto/exhibition/){:target="_blank"}
 - [Make: Maker Faire Kyoto 2021にて「子どもプログラミングパーク」をオンライン開催します](https://makezine.jp/blog/2021/04/kidsprogramingpark.html){:target="_blank"}
 - [Togtterまとめ](https://togetter.com/li/1708336){:target="_blank"}
 
