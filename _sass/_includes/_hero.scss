@@ -88,7 +88,7 @@
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: linear-gradient(to right, #1471AF, #009ECB);
+	background: linear-gradient(to right, #1471AF 30%, #009ECB 70%);
 	&.note {
 		background: linear-gradient(to right, #79DB71, #009ECB);
 	}
