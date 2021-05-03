@@ -88,7 +88,7 @@
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: linear-gradient(to right, #1471AF 30%, #009ECB 70%);
+	background: linear-gradient(to right, #1471AF, #009ECB);
 	&.note {
 		background: linear-gradient(to right, #79DB71, #009ECB);
 	}
@@ -101,8 +101,10 @@
 	&.business {
 		background: linear-gradient(to right, #00B9CB, #009ECB);
 	}
+	&.top {
+		background: linear-gradient(to right,  rgba(19,41,48,0.9), rgba(128,128, 128,0.9));
+	}
 	&.transparent {
 		background: rgba(255,255,255,0);
-
 	}
 }
