@@ -88,7 +88,7 @@
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: rgba($hero-background-color, $overlay-opacity);
+	background: linear-gradient(to right, #1471AF, #009ECB);
 	&.note {
 		background: linear-gradient(to right, #79DB71, #009ECB);
 	}
