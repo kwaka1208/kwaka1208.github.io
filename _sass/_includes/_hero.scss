@@ -101,4 +101,8 @@
 	&.business {
 		background: linear-gradient(to right, #00B9CB, #009ECB);
 	}
+	&.transparent {
+		background: rgba(255,255,255,0);
+
+	}
 }
