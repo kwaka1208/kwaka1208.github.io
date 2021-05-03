@@ -6,6 +6,7 @@ description: crossroads lab.にできること、みなさまに提供できる�
 permalink: /business/
 featured_image: /assets/images/projects/ourbusiness.png
 image: /assets/images/projects/ourbusiness.png
+cover: business
 ---
 crossroads lab.では以下のような役割でみなさまのお手伝いをしています。
 いずれにおいても、何をするかだけでなく「なぜするのか？」に重きを置いて、みなさまと「なぜ」を共有しながら進めておりますので、お気軽にお問い合わせください。[お問い合わせはこちらから](/contact/)

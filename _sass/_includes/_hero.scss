@@ -90,17 +90,16 @@
 	bottom: 0;
 	left: 0;
 	background: rgba($hero-background-color, $overlay-opacity);
-	// &.talk {
-	// 	background: #79DB71;
-	// 	&.warp {
-	// 		color: black;
-	// 	}
-	// }
-
-	// &.note {
-	// 	background: #D65799;
-	// 	&.warp {
-	// 		color: black;
-	// 	}
-	// }
+	&.note {
+		background: linear-gradient(to right, #79DB71, #009ECB);
+	}
+	&.talk {
+		background: linear-gradient(to right, #D65799, #009ECB);
+	}
+	&.vision {
+		background: linear-gradient(to right, #1471AF, #009ECB);
+	}
+	&.business {
+		background: linear-gradient(to right, #00B9CB, #009ECB);
+	}
 }
