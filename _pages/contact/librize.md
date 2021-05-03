@@ -6,4 +6,4 @@ permalink: /contact/librize/
 ---
 ## Librize ログイン
 
-<img src="/assets/images/contact/librize_login.png" width="100%" height="auto">
+![Librize ログイン](/assets/images/contact/librize_login.png)

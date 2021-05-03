@@ -5,7 +5,7 @@ title: contact me | Facebook
 permalink: /contact/facebook_3sl/
 sitemap: false
 ---
-## 	<h2>Facebook</h2>
+## 	Facebook
 
 QRコードをタップするか、スマートフォンで読み取ってください。
 
