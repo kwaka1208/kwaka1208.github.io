@@ -6,7 +6,7 @@ permalink: /talk/feed.xml
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="{{ site.language }}">
   <channel>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    <link>{{ site.url}}{{site.data.podcast.url}}/</link>
+    <link>{{ site.url}}/{{site.data.podcast.url}}/</link>
     <title>{{ site.data.podcast.title }}</title>
     <description>{{ site.data.podcast.description | xml_escape }}</description>
     <media:keywords>{{ site.keywords }}</media:keywords>
