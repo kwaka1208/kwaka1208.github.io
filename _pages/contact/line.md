@@ -5,8 +5,6 @@ title: contact me | LINE
 permalink: /contact/line_5pe/
 sitemap: false
 ---
-## LINE
-
 QRコードをタップするか、スマートフォンで読み取ってください。
 
 <a href="https://line.me/ti/p/zQKL3JD2zC">

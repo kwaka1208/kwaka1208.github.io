@@ -1,0 +1,48 @@
+---
+layout: null
+permalink: /talk/feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="{{ site.language }}">
+  <channel>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    <link>{{ site.url}}/{{site.data.podcast.url}}/</link>
+    <title>{{ site.data.podcast.title }}</title>
+    <description>{{ site.data.podcast.description | xml_escape }}</description>
+    <media:keywords>{{ site.keywords }}</media:keywords>
+    {% for category in site.data.podcast.category %}
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">{{ category | xml_escape }}</media:category>
+    {% endfor %}
+    <language>{{ site.data.podcast.laungage }}</language>
+    <itunes:subtitle>{{ site.data.podcast.description | xml_escape }}</itunes:subtitle>
+    <itunes:author>{{ site.data.podcast.author }}</itunes:author>
+    <itunes:summary>{{ site.data.podcast.description | xml_escape }}</itunes:summary>
+    <itunes:keywords>{{ site.data.podcast.keywords }}</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>{{ site.data.podcast.author }}</itunes:name>
+      <itunes:email>{{ site.data.podcast.email }}</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ site.url }}/assets/images/podcast/artwork.png" />
+    {% for category in site.data.podcast.category %}
+    <itunes:category text="{{ category | xml_escape }}"/>
+    {% endfor %}
+    <itunes:explicit>no</itunes:explicit>
+    {% for post in site.posts %}
+    {% if post.podcast %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <description>{{ post.content | xml_escape }}</description>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <enclosure url="{{ site.data.podcast.audio_base_url }}{{ post.audio_file }}" length="{{ post.file_size }}" type="audio/mp3"/>
+        <itunes:author>{{ site.data.podcast.author }}</itunes:author>
+        <itunes:subtitle>{{ post.subtitle }}</itunes:subtitle>
+        <itunes:duration>{{ post.duration }}</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="{{ site.url }}/assets/images/podcast/artwork.png"/>
+      </item>
+    {% endif %}
+    {% endfor %}
+  </channel>
+</rss>

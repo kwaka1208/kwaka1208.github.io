@@ -29,7 +29,6 @@
 		@include mq(tabletp) {
 			white-space: pre-line;
 		}
-		font-size: 36px;
 	}
 
 	.date {
@@ -89,18 +88,23 @@
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: rgba($hero-background-color, $overlay-opacity);
-	// &.talk {
-	// 	background: #79DB71;
-	// 	&.warp {
-	// 		color: black;
-	// 	}
-	// }
-
-	// &.note {
-	// 	background: #D65799;
-	// 	&.warp {
-	// 		color: black;
-	// 	}
-	// }
+	background: linear-gradient(to right, #1471AF, #009ECB);
+	&.note {
+		background: linear-gradient(to right, #79DB71, #009ECB);
+	}
+	&.talk {
+		background: linear-gradient(to right, #D65799, #009ECB);
+	}
+	&.vision {
+		background: linear-gradient(to right, #1471AF, #009ECB);
+	}
+	&.business {
+		background: linear-gradient(to right, #00B9CB, #009ECB);
+	}
+	&.top {
+		background: linear-gradient(to right,  rgba(19,41,48,0.9), rgba(128,128, 128,0.9));
+	}
+	&.transparent {
+		background: rgba(255,255,255,0);
+	}
 }
