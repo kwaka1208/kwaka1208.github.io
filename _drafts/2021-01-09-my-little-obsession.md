@@ -2,7 +2,7 @@
 title: 私の小さなこだわり「さん」と「くん」
 date: 2021-01-09T0:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/my-little-obsession/
 image : /assets/images/2021/my-little-obsession.png
 attitude_sidebarlayout: default

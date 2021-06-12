@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 author: kwaka1208
 title: connpass：CoderDojo奈良・生駒
 permalink: /contact/connpass_coderdojo/

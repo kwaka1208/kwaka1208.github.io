@@ -2,7 +2,7 @@
 title: スマートフォンで年賀状
 date: 2013-11-26T22:43:38 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/new-years-card/
 attitude_sidebarlayout: default
 image: /assets/images/2013/11/small_2167028703.jpg

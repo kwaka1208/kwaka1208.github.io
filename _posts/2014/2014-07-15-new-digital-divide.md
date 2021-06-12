@@ -2,7 +2,7 @@
 title: 新種のデジタルディバイド？
 date: 2014-07-15T12:35:45 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/new-digital-divide/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

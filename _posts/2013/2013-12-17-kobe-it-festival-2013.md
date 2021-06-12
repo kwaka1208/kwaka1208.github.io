@@ -2,7 +2,7 @@
 title: 神戸ITフェスティバル2013「自慢したくなるスゴいIT」
 date: 2013-12-17T05:31:23 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/kobe-it-festival-2013/
 attitude_sidebarlayout: default
 image: /assets/images/2013/12/banner_640x280.jpg

@@ -2,7 +2,7 @@
 title: 自分を表現する決意
 date: 2014-06-25T12:59:53 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/spread-my-thought/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

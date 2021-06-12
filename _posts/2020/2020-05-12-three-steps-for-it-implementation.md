@@ -2,7 +2,7 @@
 title: 「ITの導入段階を勝手に雑く3段階に分けてみた」を真似してみた
 date: 2020-05-21T08:15:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/three-steps-for-it-implementation
 image : /assets/images/2020/three-steps-for-it-implementation.png
 attitude_sidebarlayout: default

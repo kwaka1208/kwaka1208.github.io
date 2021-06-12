@@ -2,7 +2,7 @@
 title: 脱プリンタ作戦
 date: 2013-12-03T22:38:07 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/life-without-printer/
 attitude_sidebarlayout: default
 image: /assets/images/2013/12/medium_2794943066.jpg

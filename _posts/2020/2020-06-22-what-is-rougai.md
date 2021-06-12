@@ -2,7 +2,7 @@
 title: 老害ってなんだ
 date: 2020-06-22T18:06:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/what-is-rougai
 image : /assets/images/2020/what-is-rougai.png
 attitude_sidebarlayout: default

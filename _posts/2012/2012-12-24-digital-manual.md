@@ -2,7 +2,7 @@
 title: 取扱説明書をデジタル化してスッキリ片付けよう
 date: 2012-12-24T15:44:34 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/digital-manual/
 image : /assets/images/common/ogp.png
 categories: note

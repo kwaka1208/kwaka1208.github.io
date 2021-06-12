@@ -4,7 +4,7 @@ subtitle:
 description: 
 date: 2019-9-16T19:44:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: page
+layout: single
 permalink: /KidsProgramming/
 ---
 

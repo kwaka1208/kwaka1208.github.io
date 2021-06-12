@@ -2,7 +2,7 @@
 title: とりあえず謝らない
 date: 2021-05-30T22:10:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/apologize-without-a-cause/
 image : /assets/images/2021/apologize-without-a-cause.png
 attitude_sidebarlayout: default

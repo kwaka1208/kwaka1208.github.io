@@ -3,7 +3,7 @@ title: 安全で管理しやすいパスワードを作るためのアイデア
 date: 2012-12-28T18:41:16 UTC+9
 update: 2021-02-19T19:04:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/how-to-create-safe-password/
 image : /assets/images/2012/12/how-to-create-safe-password.png
 categories: note

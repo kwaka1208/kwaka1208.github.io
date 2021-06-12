@@ -2,7 +2,7 @@
 title: 悪意のあるTwitterアカウントにご注意！
 date: 2014-01-19T09:54:04 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/notice-for-malicious-account/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

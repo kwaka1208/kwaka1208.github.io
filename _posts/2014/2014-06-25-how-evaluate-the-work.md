@@ -2,7 +2,7 @@
 title: 成果を時間で評価しない働き方
 date: 2014-06-25T13:10:22 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/how-evaluate-the-work/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

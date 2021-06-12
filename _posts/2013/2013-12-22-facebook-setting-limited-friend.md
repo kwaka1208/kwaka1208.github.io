@@ -2,7 +2,7 @@
 title: Facebook設定:Part5 特定の人に自分の書き込みを読めないようにする
 date: 2013-12-22T22:26:27 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/facebook-setting-limited-friend/
 image: /assets/images/2013/12/medium_4638981545.jpg
 image : /assets/images/common/ogp.png

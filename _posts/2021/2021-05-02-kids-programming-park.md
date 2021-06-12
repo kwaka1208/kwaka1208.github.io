@@ -2,7 +2,7 @@
 title: Maker Faire Kyoto 2021にてオンラインのイベント「子どもプログラミングパーク」を開催しました
 date: 2021-05-02T23:30:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/kids-programming-park-maker-faire-kyoto-2021/
 image : /assets/images/2021/kids-programming-park-maker-faire-kyoto-2021.png
 attitude_sidebarlayout: default

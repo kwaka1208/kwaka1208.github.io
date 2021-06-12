@@ -2,7 +2,7 @@
 title: 専門学校の授業でLTやってみました
 date: 2020-07-24T14:30:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/communication-oriented-classroom
 image : /assets/images/2020/communication-oriented-classroom.png
 attitude_sidebarlayout: default

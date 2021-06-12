@@ -2,7 +2,7 @@
 title: MacでOfficeを使う
 date: 2014-02-23T21:42:11 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/office-with-mac/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

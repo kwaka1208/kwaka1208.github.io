@@ -2,7 +2,7 @@
 title: Facebook設定:Part1プライバシーをコントロールする
 date: 2013-09-16T11:42:10 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/facebook-setting-privacy-control/
 image : /assets/images/common/ogp.png
 categories: note

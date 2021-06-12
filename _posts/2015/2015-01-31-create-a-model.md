@@ -2,7 +2,7 @@
 title: 原型をつくる
 date: 2015-01-31T23:29:09 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/create-a-model/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

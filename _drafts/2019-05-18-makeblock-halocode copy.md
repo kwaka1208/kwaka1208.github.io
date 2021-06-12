@@ -2,7 +2,7 @@
 title: 大卒以外の選択肢
 date: 2019-06-23T18:20:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/no-
 attitude_sidebarlayout: default
 categories: note

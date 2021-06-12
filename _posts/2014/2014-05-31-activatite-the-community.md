@@ -2,7 +2,7 @@
 title: コミュニティを活性化する
 date: 2014-05-31T22:31:23 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/activatite-the-community/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

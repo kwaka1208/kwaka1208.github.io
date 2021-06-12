@@ -2,7 +2,7 @@
 title: オンラインを活用した イベント企画・運営のポイントまとめ
 date: 2020-06-14T011:24:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/how-to-organize-online-event
 image : /assets/images/2020/how-to-organize-online-event.png
 attitude_sidebarlayout: default

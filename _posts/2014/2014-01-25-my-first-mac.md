@@ -2,7 +2,7 @@
 title: 私の初Mac / Macintoshの30周年を祝して
 date: 2014-01-25T13:32:41 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/my-first-mac/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

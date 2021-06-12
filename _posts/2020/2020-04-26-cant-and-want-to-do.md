@@ -2,7 +2,7 @@
 title: 「できない」と「やりたくない」
 date: 2020-04-26T06:29:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/cant-and-want-to-do/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

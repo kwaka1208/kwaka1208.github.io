@@ -2,7 +2,7 @@
 title: みたことがないトイレを作ろう
 date: 2021-04-04T23:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/toilet-never-seen/
 image : /assets/images/2021/toilet-never-seen.png
 attitude_sidebarlayout: default

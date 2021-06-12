@@ -2,7 +2,7 @@
 title: もっと○○しなさいって言わないで
 date: 2020-04-26T06:25:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/dont-tell-me-to-do-more/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

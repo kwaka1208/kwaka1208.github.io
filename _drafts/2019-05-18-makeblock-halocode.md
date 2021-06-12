@@ -2,7 +2,7 @@
 title: Makeblock HaloCodeは子どもたちがIoTのIとTの両方を作ることのできるデバイスでした
 date: 2019-05-06T23:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/halocode
 attitude_sidebarlayout: default
 categories: kids

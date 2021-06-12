@@ -2,7 +2,7 @@
 title: モードを意識させないインターフェース
 date: 2014-01-29T22:53:26 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/modeless-interface/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

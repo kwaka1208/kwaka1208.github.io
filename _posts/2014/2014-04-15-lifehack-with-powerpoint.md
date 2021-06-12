@@ -2,7 +2,7 @@
 title: パワポで画像管理的ライフハック
 date: 2014-04-15T12:42:02 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/lifehack-with-powerpoint/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

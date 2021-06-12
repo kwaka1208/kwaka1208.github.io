@@ -2,7 +2,7 @@
 title: オンライン思考からリモート思考へ
 date: 2020-05-06T12:29:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/not-online-but-remote/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

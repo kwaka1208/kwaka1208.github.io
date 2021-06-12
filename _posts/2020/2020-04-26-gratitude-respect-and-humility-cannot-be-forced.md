@@ -2,7 +2,7 @@
 title: 「感謝・敬意・謙虚さ」を強制しないで
 date: 2020-04-26T06:23:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/gratitude-respect-and-humility-cannot-be-forced/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

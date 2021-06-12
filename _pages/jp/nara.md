@@ -4,7 +4,7 @@ subtitle:
 description: 
 date: 2020-07-11T12:31:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: page
+layout: single
 permalink: /nara/
 attitude_sidebarlayout: default
 ---

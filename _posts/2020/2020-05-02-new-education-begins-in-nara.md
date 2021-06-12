@@ -2,7 +2,7 @@
 title: 教育のIT化は奈良から始まる
 date: 2020-05-02T06:59:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/new-education-begins-in-nara/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

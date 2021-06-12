@@ -2,7 +2,7 @@
 title: WordCamp Kansai 2014に実行委員として参加しました。
 date: 2014-08-10T00:56:51 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/wordcamp-kansai-2014/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

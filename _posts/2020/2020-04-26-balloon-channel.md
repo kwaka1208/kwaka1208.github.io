@@ -2,7 +2,7 @@
 title: Balloon Channelで「プログラミング教育観」をテーマにお話しさせていただきました
 date: 2020-04-26T19:32:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/balloon-channel
 image : /assets/images/2020/balloon-channel.png
 attitude_sidebarlayout: default

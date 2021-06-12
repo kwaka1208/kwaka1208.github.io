@@ -2,7 +2,7 @@
 title: 功罪
 date: 2015-11-14T23:33:55 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/merits-and-demerits/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

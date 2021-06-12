@@ -2,7 +2,7 @@
 title: blogの移転をお手伝いしました。
 date: 2014-10-13T22:27:25 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/hana-blog-move-to-wordpress/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

@@ -2,7 +2,7 @@
 title: blogノススメ
 date: 2014-05-16T08:33:58 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/blog-vs-sns/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

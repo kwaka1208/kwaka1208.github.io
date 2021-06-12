@@ -2,7 +2,7 @@
 title: 「Appleらしさ」とは
 date: 2014-09-24T00:15:24 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/what-is-apple/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

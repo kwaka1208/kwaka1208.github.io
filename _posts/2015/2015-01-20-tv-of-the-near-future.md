@@ -2,7 +2,7 @@
 title: ミライノテレビ
 date: 2015-01-20T12:36:11 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/tv-of-the-near-future/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

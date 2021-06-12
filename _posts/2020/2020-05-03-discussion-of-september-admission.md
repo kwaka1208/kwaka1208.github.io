@@ -2,7 +2,7 @@
 title: 9月入学制議論に対する私の意見
 date: 2020-05-03T12:23:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/discussion-of-september-admission
 image : /assets/images/2020/discussion-of-september-admission.png
 attitude_sidebarlayout: default

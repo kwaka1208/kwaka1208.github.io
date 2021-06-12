@@ -2,7 +2,7 @@
 title: プログラミング教育と論理的思考の関係
 date: 2018-10-12T12:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/programming-education-and-logical-thinking
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

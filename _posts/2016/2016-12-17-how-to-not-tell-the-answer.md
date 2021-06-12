@@ -2,7 +2,7 @@
 title: 答えを教えないためのたったひとつの法則
 date: 2016-12-17T14:26:50 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/how-to-not-tell-the-answer/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

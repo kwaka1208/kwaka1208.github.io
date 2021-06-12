@@ -2,7 +2,7 @@
 title: Maker Faire Kyoto 2019 子どもプログラミング喫茶開催しました！
 date: 2019-05-06T23:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/maker-faire-kyoto-2019
 image : /assets/images/2019/mfk2019.jpg
 attitude_sidebarlayout: default

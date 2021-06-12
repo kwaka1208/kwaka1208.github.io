@@ -2,7 +2,7 @@
 title: インスピレーションの音
 date: 2015-03-12T08:19:23 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/sound-of-inspiration/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

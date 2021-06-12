@@ -2,7 +2,7 @@
 title: 情報管理は「ストック」と「フロー」で考える 
 date: 2020-04-29T015:35:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/stock_and_flow
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

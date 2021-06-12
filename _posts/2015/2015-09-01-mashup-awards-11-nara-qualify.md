@@ -2,7 +2,7 @@
 title: Mashup Awards 11
 date: 2015-09-01T00:23:57 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/mashup-awards-11-nara-qualify/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

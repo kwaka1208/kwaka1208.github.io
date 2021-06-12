@@ -2,7 +2,7 @@
 title: 私流Web検索
 date: 2012-12-13T06:30:06 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/my-web-searching/
 image : /assets/images/common/ogp.png
 categories: note

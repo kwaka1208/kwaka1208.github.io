@@ -2,7 +2,7 @@
 title: 新卒2年目までの覆面座談会をやってみます
 date: 2020-05-09T022:32:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/round-table-discussion
 image : /assets/images/2020/round-table-discussion.png
 attitude_sidebarlayout: default

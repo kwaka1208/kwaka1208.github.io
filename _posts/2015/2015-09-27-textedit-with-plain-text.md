@@ -2,7 +2,7 @@
 title: 「テキストエディット」は「標準フォーマット」で使おう
 date: 2015-09-27T23:51:57 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/textedit-with-plain-text/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

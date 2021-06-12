@@ -2,7 +2,7 @@
 title: GIGAスクールPCを使いたおそう！
 date: 2021-01-13T23:30:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: page
+layout: single
 permalink: /giga_pc/index.html
 image : /assets/images/OGP/giga_pc.png
 ---

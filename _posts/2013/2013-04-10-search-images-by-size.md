@@ -2,7 +2,7 @@
 title: 欲しい大きさの画像を見つける
 date: 2013-04-10T07:37:18 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/search-images-by-size/
 image : /assets/images/common/ogp.png
 categories: note

@@ -2,7 +2,7 @@
 title: 新型コロナウイルスが変える社会
 date: 2020-05-18T011:23:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/covid-19-changes-the-world
 image : /assets/images/2020/covid-19-changes-the-world.png
 attitude_sidebarlayout: default

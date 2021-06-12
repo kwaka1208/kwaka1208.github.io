@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 author: kwaka1208
 title: contact me | Facebook
 permalink: /contact/facebook_3sl/

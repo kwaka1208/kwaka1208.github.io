@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 author: kwaka1208
 title: business card
 permalink: /contact/business_1ws/

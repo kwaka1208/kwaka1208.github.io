@@ -2,7 +2,7 @@
 title: PayPal
 subtitle: 
 description: 
-layout: page
+layout: single
 author: kwaka1208
 permalink: /pay/paypal/
 ---

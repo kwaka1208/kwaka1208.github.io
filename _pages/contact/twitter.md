@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 author: kwaka1208
 title: contact me | Twitter
 permalink: /contact/twitter_1ws/

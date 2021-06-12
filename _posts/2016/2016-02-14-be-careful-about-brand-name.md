@@ -2,7 +2,7 @@
 title: ブランド表記は正しく
 date: 2016-02-14T07:54:13 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/be-careful-about-brand-name/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

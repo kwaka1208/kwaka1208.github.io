@@ -2,7 +2,7 @@
 title: サーバーを引っ越しました
 date: 2014-01-05T14:19:27 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/moved-permanently/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

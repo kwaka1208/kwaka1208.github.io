@@ -2,7 +2,7 @@
 title: 「創造する心」を 大人はみんな読んだ方がいい
 date: 2020-04-25T19:47:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/inventive-minds/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

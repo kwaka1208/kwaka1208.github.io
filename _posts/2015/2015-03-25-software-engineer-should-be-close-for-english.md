@@ -2,7 +2,7 @@
 title: ソフトウェアエンジニアと英語
 date: 2015-03-25T22:34:48 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/software-engineer-should-be-close-for-english/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

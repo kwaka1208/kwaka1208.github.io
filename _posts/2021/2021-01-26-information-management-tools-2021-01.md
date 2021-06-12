@@ -2,7 +2,7 @@
 title: 【2021年1月版】私の情報管理ツール
 date: 2021-01-26T21:33:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/information-management-tools-2021-01/
 image : /assets/images/2021/information-management-tools-2021-01.png
 attitude_sidebarlayout: default

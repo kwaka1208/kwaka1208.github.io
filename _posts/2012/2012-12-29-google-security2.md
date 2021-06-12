@@ -2,7 +2,7 @@
 title: Googleサービスのセキュリティを強化する(その2:アプリケーション固有のパスワードを利用する)
 date: 2012-12-29T10:49:11 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/google-security2/
 image : /assets/images/common/ogp.png
 

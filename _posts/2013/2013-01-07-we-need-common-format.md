@@ -2,7 +2,7 @@
 title: PDFの活用を(世の中Officeユーザーばかりじゃない!!)
 date: 2013-01-07T17:50:30 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/we-need-common-format/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

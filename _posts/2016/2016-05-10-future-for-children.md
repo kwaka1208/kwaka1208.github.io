@@ -2,7 +2,7 @@
 title: 子どもたちの未来予想図
 date: 2016-05-10T07:54:13 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/future-for-children/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

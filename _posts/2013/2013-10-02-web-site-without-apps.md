@@ -2,7 +2,7 @@
 title: アプリを入れなくても使えるスマートフォン向けサービス
 date: 2013-10-02T05:53:42 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/web-site-without-apps/
 image : /assets/images/common/ogp.png
 categories: note

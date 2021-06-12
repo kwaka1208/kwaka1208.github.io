@@ -2,7 +2,7 @@
 title: アンプラグドに対する誤解
 date: 2019-03-31T21:35:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/misunderstanding-about-unplugged
 image : /assets/images/2019/unplugged.png
 attitude_sidebarlayout: default

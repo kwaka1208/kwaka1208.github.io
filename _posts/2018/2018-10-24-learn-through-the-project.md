@@ -2,7 +2,7 @@
 title: プロジェクトを通して学ぶ
 date: 2018-10-24T09:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/learn-through-the-project
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

@@ -2,7 +2,7 @@
 title: undefined
 date: 2018-09-12T20:30:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/undefined
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

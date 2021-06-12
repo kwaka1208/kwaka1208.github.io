@@ -2,7 +2,7 @@
 title: 災害時におけるIT系コミュニティの役割
 date: 2014-09-06T08:35:56 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/role-of-it-community/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

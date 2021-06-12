@@ -2,7 +2,7 @@
 title: iPhoneを好きになる理由。- Why you'll love an iPhone
 date: 2013-04-07T16:48:06 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/why-iphone/
 image : /assets/images/common/ogp.png
 categories: note

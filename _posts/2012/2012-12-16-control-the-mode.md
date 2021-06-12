@@ -2,7 +2,7 @@
 title: モードを扱う (Control the mode)
 date: 2012-12-16T07:54:09 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/control-the-mode/
 image : /assets/images/common/ogp.png
 categories: note

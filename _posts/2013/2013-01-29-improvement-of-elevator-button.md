@@ -2,7 +2,7 @@
 title: エレベーターの開閉ボタン操作性改善案
 date: 2013-01-29T09:26:55 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/improvement-of-elevator-button/
 image : /assets/images/common/ogp.png
 categories: note

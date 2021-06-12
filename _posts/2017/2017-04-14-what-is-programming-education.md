@@ -2,7 +2,7 @@
 title: プログラミング教育と論理的思考
 date: 2017-04-14T00:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/what-is-programming-education/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

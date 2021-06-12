@@ -2,7 +2,7 @@
 title: 記録を残したいならFacebookよりblogを使うべき
 date: 2014-09-24T22:43:16 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/sns-and-blog/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

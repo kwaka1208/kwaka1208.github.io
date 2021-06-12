@@ -2,7 +2,7 @@
 title: Facebook設定:Part3 Facebookをやめる
 date: 2013-09-16T15:25:59 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/facebook-setting-quit/
 image : /assets/images/common/ogp.png
 categories: note

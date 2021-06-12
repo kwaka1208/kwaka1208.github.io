@@ -2,7 +2,7 @@
 title: Facebook設定:Part2アカウントを守る
 date: 2013-09-16T13:55:30 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/facebook-setting-protect-your-account/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

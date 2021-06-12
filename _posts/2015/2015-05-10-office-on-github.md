@@ -2,7 +2,7 @@
 title: Excel用マクロを公開しています
 date: 2015-05-10T01:37:09 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/office-on-github/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

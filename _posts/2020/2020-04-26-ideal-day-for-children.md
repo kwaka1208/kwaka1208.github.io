@@ -2,7 +2,7 @@
 title: 私の思う子どもたちの理想的な一日
 date: 2020-04-26T06:07:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/ideal-day-for-children/
 image : /assets/images/2020/ideal-day-for-children.png
 attitude_sidebarlayout: default

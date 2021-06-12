@@ -2,7 +2,7 @@
 title: CoderDojoのGive & Take
 date: 2017-12-21T23:59:59 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/coderdojo-give-and-take/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

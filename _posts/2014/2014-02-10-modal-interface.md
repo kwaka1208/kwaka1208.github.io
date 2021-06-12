@@ -2,7 +2,7 @@
 title: モードを意識するインターフェース
 date: 2014-02-10T06:36:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/modal-interface/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

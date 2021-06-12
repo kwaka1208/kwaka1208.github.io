@@ -2,7 +2,7 @@
 title: ヒトに優しいキカイをつくる
 date: 2013-11-12T14:30:46 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/machines-for-human/
 image: /assets/images/2013/11/medium_6870614936.jpg
 image : /assets/images/common/ogp.png

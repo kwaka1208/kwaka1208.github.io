@@ -2,7 +2,7 @@
 title: 「inbox zero」を実践するためのメール削除のルール
 date: 2014-04-01T12:40:53 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/inbox-zero-management/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

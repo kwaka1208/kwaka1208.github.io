@@ -2,7 +2,7 @@
 title: 正解のない論理的思考
 date: 2020-04-26T06:27:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/what-is-logical-thinking/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

@@ -2,7 +2,7 @@
 title: 私のWordCamp Kansai 2015
 date: 2015-08-16T22:59:36 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/my-wordcamp-kansai-2015/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

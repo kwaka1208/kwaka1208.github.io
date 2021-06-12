@@ -2,7 +2,7 @@
 title: 情報感度を高めるために実践すべき２つのこと
 date: 2013-09-30T12:57:15 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/sensitivity/
 image : /assets/images/common/ogp.png
 categories: note

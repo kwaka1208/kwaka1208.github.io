@@ -2,7 +2,7 @@
 title: 流れを作って会員登録のモチベーションを上げる
 date: 2013-04-21T10:38:50 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/member-registration/
 image : /assets/images/common/ogp.png
 categories: note

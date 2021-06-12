@@ -2,7 +2,7 @@
 title: iPhoneがスライド操作でロック解除な理由
 date: 2013-02-13T19:58:47 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/iphone-unlock-ui/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

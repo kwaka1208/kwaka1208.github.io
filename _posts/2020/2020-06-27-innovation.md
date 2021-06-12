@@ -2,7 +2,7 @@
 title: イノベーションってなんだ
 date: 2020-06-27T14:33:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/what-is-innovation
 image : /assets/images/2020/what-is-innovation.png
 attitude_sidebarlayout: default

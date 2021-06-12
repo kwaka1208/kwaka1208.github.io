@@ -2,7 +2,7 @@
 title: CoderDojo Meetup & Hackathon@パナソニックスタジアム吹田
 date: 2018-11-14T18:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/coderdojo-meetup-hackathon
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

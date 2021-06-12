@@ -2,7 +2,7 @@
 title: 「モジュール化」これからの機械のカタチ
 date: 2013-11-05T14:30:43 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/modularization/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

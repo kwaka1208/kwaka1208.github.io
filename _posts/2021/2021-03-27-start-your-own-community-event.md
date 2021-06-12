@@ -2,7 +2,7 @@
 title: あなた自身のコミュニティイベントを始めてみよう
 date: 2021-03-27T13:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/start-your-own-community-event/
 image : /assets/images/2021/start-your-own-community-event.png
 attitude_sidebarlayout: default

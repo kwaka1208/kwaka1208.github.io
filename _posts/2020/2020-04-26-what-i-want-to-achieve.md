@@ -2,7 +2,7 @@
 title: 自分が実現していきたいこと
 date: 2020-04-26T06:04:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/what-i-want-to-achieve/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

@@ -2,7 +2,7 @@
 title: 「ブランド」って何だろう?
 date: 2013-04-28T21:59:56 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/what-is-brand/
 image : /assets/images/common/ogp.png
 categories: note

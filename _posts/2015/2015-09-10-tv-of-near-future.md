@@ -2,7 +2,7 @@
 title: 私の考える未来のテレビ
 date: 2015-09-10T12:46:45 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/tv-of-near-future/
 attitude_sidebarlayout: default
 image: /assets/images/2015/09/tv.jpg

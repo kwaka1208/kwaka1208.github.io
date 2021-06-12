@@ -2,7 +2,7 @@
 title: 情報発信メディアとしてのWebの活用(その1:全体俯瞰)
 date: 2012-12-15T14:49:54 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/use-web-as-media1/
 image : /assets/images/common/ogp.png
 categories: note

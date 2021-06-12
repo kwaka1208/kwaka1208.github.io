@@ -2,7 +2,7 @@
 title: 【初心者向け】Windows PCを購入する時に知っておくべきポイント(2020年8月)
 date: 2020-08-06T20:43:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/what-to-look-for-when-buying-a-Windows-PC
 image : /assets/images/2020/what-to-look-for-when-buying-a-Windows-PC.png
 attitude_sidebarlayout: default

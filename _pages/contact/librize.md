@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 author: kwaka1208
 title: Librize ログイン
 permalink: /contact/librize/

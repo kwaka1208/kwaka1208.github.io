@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 author: kwaka1208
 title: Librize：CoderDojo奈良・生駒
 permalink: /contact/librize_coderdojo/

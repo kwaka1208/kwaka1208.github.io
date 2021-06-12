@@ -2,7 +2,7 @@
 title: 学ぶことの意味とロボットの研究（ざっくりまとめ）
 date: 2018-09-01T20:30:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/learn-with-robot/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

@@ -4,7 +4,7 @@ subtitle:
 description: 
 date: 2021-03-07T23:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: page
+layout: single
 permalink: /thanks/
 image : /assets/images/OGP/thanks.png
 ---

@@ -2,7 +2,7 @@
 title: 読む力より書く力
 date: 2019-12-28T06:21:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/ability-to-write
 image : /assets/images/2020/ability-to-write.png
 attitude_sidebarlayout: default

@@ -2,7 +2,7 @@
 title: コンピュータサイエンスアンプラグドに関する雑感
 date: 2017-04-19T00:00:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/computer-science-unplugged/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

@@ -2,7 +2,7 @@
 title: 厳しすぎるパスワードポリシーは逆効果
 date: 2014-01-31T09:55:42 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/too-much-restriction-reduces-security/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

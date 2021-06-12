@@ -2,7 +2,7 @@
 title: 古いと新しいの通訳者
 date: 2020-06-10T22:36:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/translator
 image : /assets/images/2020/translator.png
 attitude_sidebarlayout: default

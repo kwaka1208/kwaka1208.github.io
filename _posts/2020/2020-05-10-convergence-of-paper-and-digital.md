@@ -2,7 +2,7 @@
 title: リモート授業はITのみにあらず
 date: 2020-05-10T23:33:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/convergence-of-paper-and-digital/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

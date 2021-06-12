@@ -2,7 +2,7 @@
 title: デジタルの不便性
 date: 2013-07-15T16:34:47 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/digital-inconvenience/
 image : /assets/images/common/ogp.png
 categories: note

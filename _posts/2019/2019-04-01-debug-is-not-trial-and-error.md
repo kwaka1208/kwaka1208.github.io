@@ -2,7 +2,7 @@
 title: デバッグは試行錯誤ではない
 date: 2019-04-01T0:36:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/debug-is-not-trial-and-error/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

@@ -2,7 +2,7 @@
 title: Firefox Developers Conference 2014 in Kyoto
 date: 2014-05-04T09:28:22 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/firefox-developers-conference-2014-in-kyoto/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

@@ -2,7 +2,7 @@
 title: 第2回 CoderDojo奈良
 date: 2014-12-22T08:15:59 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/coderdojo-nara-2/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

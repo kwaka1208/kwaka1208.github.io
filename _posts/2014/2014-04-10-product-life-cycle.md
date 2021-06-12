@@ -2,7 +2,7 @@
 title: 製品の寿命を考える
 date: 2014-04-10T12:40:48 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/product-life-cycle/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

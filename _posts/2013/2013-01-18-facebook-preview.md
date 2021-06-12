@@ -2,7 +2,7 @@
 title: Facebookの自分の投稿が他の人からどう見えているか確認する方法
 date: 2013-01-18T08:30:23 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/facebook-preview/
 image : /assets/images/common/ogp.png
 categories: note

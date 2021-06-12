@@ -2,7 +2,7 @@
 title: 音声によるインターフェース
 date: 2014-07-24T08:24:41 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/interface-via-voice/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

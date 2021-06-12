@@ -2,7 +2,7 @@
 title: 見たことのない組み合わせを
 date: 2015-04-12T14:47:53 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/the-pattern-that-you-have-never-seen/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

@@ -2,7 +2,7 @@
 title: 第6回HTML5など勉強会
 date: 2013-03-24T10:21:28 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/6th-html5-workshop/
 image : /assets/images/common/ogp.png
 categories: note

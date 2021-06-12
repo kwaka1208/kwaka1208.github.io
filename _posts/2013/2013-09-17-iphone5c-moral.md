@@ -2,7 +2,7 @@
 title: 新しいiPhoneとネットのモラル
 date: 2013-09-17T15:00:50 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/iphone5c-moral/
 image : /assets/images/common/ogp.png
 categories: note

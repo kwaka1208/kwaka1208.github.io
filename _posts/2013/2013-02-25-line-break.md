@@ -2,7 +2,7 @@
 title: スマートフォン時代のメールの改行
 date: 2013-02-25T19:43:34 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/line-break/
 image : /assets/images/common/ogp.png
 attitude_sidebarlayout: default

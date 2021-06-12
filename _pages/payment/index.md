@@ -2,7 +2,7 @@
 title: Pay for me
 subtitle: 
 description: 
-layout: page
+layout: single
 author: Wakabayashi, Kenichi
 permalink: /pay/
 ---

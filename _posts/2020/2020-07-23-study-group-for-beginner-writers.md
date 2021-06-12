@@ -2,7 +2,7 @@
 title: 初心者ライター勉強会に参加しました
 date: 2020-07-23T12:33:00 UTC+9
 author: Wakabayashi, Kenichi
-layout: post
+layout: single
 permalink: /note/study-group-for-beginner-writers
 image : /assets/images/2020/study-group-for-beginner-writers.png
 attitude_sidebarlayout: default
