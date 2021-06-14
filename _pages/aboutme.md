@@ -66,6 +66,7 @@ image: /assets/images/cover/about.png
 他
 
 ### 登壇・メディア出演
+- [ITeens Lab【教育をUPDATE vol.56】『子供たちと作るオンラインイベント設計』](https://youtu.be/RcycnAi0YuQ){:target="_blank"}
 - [NHK奈良「ならナビ」2021年1月20日放送「プログラミングで作ってあそぼ！」でCoderDojoや奈良市美術館で開催したワークショップの様子を取り上げていただきました。](https://www.nhk.or.jp/nara/program/naracolle/index.html){:target="_blank"}
 - [Balloon Channel #17 若林健一さんに聞く「プログラミング教育観」](https://stand.fm/episodes/5e99a4186c967d6a3137ea3c){:target="_blank"}
 - [Future Meeting ―これからの子どもたちに必要な学びとは ―](http://www.kansai-u.ac.jp/umeda/event-seminar/future-meeting/future-meeting181216.html){:target="_blank"}
