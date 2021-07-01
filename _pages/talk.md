@@ -3,6 +3,7 @@ title: crosstalk
 description: crossroads lab.のpodcast
 featured_image: /assets/images/cover/talk.png
 image: /assets/images/cover/talk.png
+permalink: /talk/
 ---
 podcastやってます。Apple Podcast、Spotify、Google Podcastなどでお聞きいただけます。
 
