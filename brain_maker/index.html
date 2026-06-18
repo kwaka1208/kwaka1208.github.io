@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>あなたの脳内、全部見えちゃいました… | Kenichi Wakabayashi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F5F3EE;
+    --surface: #FFFFFF;
+    --border: rgba(0,0,0,0.1);
+    --border-light: rgba(0,0,0,0.06);
+    --text: #1C1C1A;
+    --text-2: #5C5C58;
+    --text-3: #9A9A94;
+    --teal: #2F9C95;
+    --teal-light: #E1F5EE;
+    --teal-dark: #085041;
+    --purple: #534AB7;
+    --purple-light: #EEEDFE;
+    --coral: #C8384A;
+    --coral-light: #FAECE7;
+    --amber: #854f0b;
+    --amber-light: #FAEEDA;
+    --navy: #2B3A55;
+    --orange: #E8894A;
+    --radius: 12px;
+    --radius-sm: 8px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    font-family: 'Noto Sans JP', sans-serif;
+    color: var(--text);
+    min-height: 100vh;
+    padding: 24px 16px 40px;
+  }
+
+  .wrapper {
+    max-width: 1020px;
+    margin: 0 auto;
+  }
+
+  /* ===== HEADER ===== */
+  .header {
+    text-align: center;
+    margin-bottom: 24px;
+    padding: 0 8px;
+  }
+  .header-eyebrow {
+    font-size: 10px;
+    letter-spacing: 3px;
+    color: var(--text-3);
+    margin-bottom: 8px;
+    font-weight: 500;
+  }
+  .header-title {
+    font-size: clamp(20px, 4vw, 30px);
+    font-weight: 900;
+    color: var(--text);
+    line-height: 1.3;
+    letter-spacing: -0.5px;
+  }
+  .header-title span {
+    color: var(--teal);
+  }
+  .header-sub {
+    font-size: 11px;
+    color: var(--text-3);
+    margin-top: 6px;
+  }
+
+  /* ===== GRID ===== */
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 10px;
+  }
+
+  .card {
+    background: var(--surface);
+    border: 0.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .card-label {
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--text-3);
+    margin-bottom: 8px;
+  }
+
+  /* ===== BRAIN MAIN CARD ===== */
+  .brain-card {
+    grid-column: 1 / 3;
+    grid-row: 1 / 3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .brain-svg-wrap {
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .brain-catchcopy {
+    font-size: clamp(16px, 2.5vw, 20px);
+    font-weight: 900;
+    text-align: center;
+    color: var(--text);
+    line-height: 1.4;
+    margin-top: 14px;
+    letter-spacing: -0.3px;
+  }
+
+  .brain-sub {
+    font-size: 11px;
+    color: var(--text-2);
+    text-align: center;
+    margin-top: 5px;
+    line-height: 1.6;
+  }
+
+  .pct-row {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    margin-top: 14px;
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .pct-item {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+  }
+
+  .pct-label {
+    flex: 0 0 130px;
+    font-size: 10px;
+    font-weight: 500;
+    color: var(--text);
+  }
+
+  .pct-bar-bg {
+    flex: 1;
+    height: 8px;
+    background: var(--bg);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .pct-bar {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.8s ease;
+  }
+
+  .pct-val {
+    flex: 0 0 30px;
+    text-align: right;
+    font-size: 10px;
+    color: var(--text-3);
+    font-weight: 500;
+  }
+
+  /* ===== RANK ===== */
+  .rank-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 8px 0;
+    border-bottom: 0.5px solid var(--border-light);
+  }
+  .rank-item:last-child { border-bottom: none; }
+  .rank-num {
+    font-size: 22px;
+    font-weight: 900;
+    min-width: 28px;
+    line-height: 1;
+    font-family: 'Noto Serif JP', serif;
+  }
+  .rank-body {}
+  .rank-title {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 2px;
+  }
+  .rank-desc {
+    font-size: 10px;
+    color: var(--text-2);
+    line-height: 1.6;
+  }
+
+  /* ===== SCENE GRID ===== */
+  .scene-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .scene {
+    background: var(--bg);
+    border-radius: var(--radius-sm);
+    padding: 10px;
+    font-size: 10px;
+    color: var(--text);
+    line-height: 1.7;
+  }
+  .scene-title {
+    font-size: 9px;
+    font-weight: 700;
+    color: var(--text-3);
+    margin-bottom: 4px;
+  }
+
+  /* ===== TAG ===== */
+  .tag {
+    display: inline-block;
+    padding: 2px 9px;
+    border-radius: 999px;
+    font-size: 9px;
+    font-weight: 700;
+    margin: 2px 2px 2px 0;
+  }
+  .tag-teal { background: var(--teal-light); color: var(--teal-dark); }
+  .tag-purple { background: var(--purple-light); color: var(--purple); }
+  .tag-coral { background: var(--coral-light); color: var(--coral); }
+  .tag-amber { background: var(--amber-light); color: var(--amber); }
+
+  /* ===== STICKY NOTE ===== */
+  .sticky {
+    background: #fdf9e3;
+    border: 0.5px solid #e8d87c;
+    border-radius: var(--radius-sm);
+    padding: 8px 10px;
+    font-size: 10px;
+    color: #5a4e0e;
+    line-height: 1.7;
+    position: relative;
+    margin-top: 8px;
+  }
+  .sticky::before {
+    content: '';
+    position: absolute;
+    top: 0; right: 0;
+    width: 14px; height: 14px;
+    background: linear-gradient(135deg, #e8d87c 50%, transparent 50%);
+  }
+
+  /* ===== CHAR ===== */
+  .char-row {
+    display: flex;
+    gap: 4px;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  .char { text-align: center; flex: 1; }
+  .char-avatar {
+    width: 36px; height: 36px;
+    border-radius: 50%;
+    margin: 0 auto 4px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16px;
+  }
+  .char-name { font-size: 9px; font-weight: 700; color: var(--text); }
+  .char-role { font-size: 8px; color: var(--text-3); }
+
+  /* ===== KUCHIGUSE ===== */
+  .kuchiguse-list { display: flex; flex-direction: column; gap: 7px; }
+  .kuchiguse-item { display: flex; align-items: flex-start; gap: 5px; }
+  .kuchiguse-quote { font-size: 22px; color: var(--border); line-height: 0.8; padding-top: 4px; font-family: serif; }
+  .kuchiguse-text { font-size: 11px; color: var(--text); line-height: 1.6; flex: 1; }
+
+  /* ===== FAMOUS ===== */
+  .famous-item {
+    display: flex; align-items: center; gap: 10px;
+    padding: 7px 0;
+    border-bottom: 0.5px solid var(--border-light);
+  }
+  .famous-item:last-child { border-bottom: none; }
+  .famous-icon {
+    width: 34px; height: 34px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16px; flex-shrink: 0;
+  }
+
+  /* ===== EVAL ===== */
+  .eval-item {
+    padding: 7px 0;
+    border-bottom: 0.5px solid var(--border-light);
+  }
+  .eval-item:last-child { border-bottom: none; }
+  .eval-who { font-size: 9px; font-weight: 700; color: var(--text-3); margin-bottom: 2px; }
+  .eval-text { font-size: 11px; color: var(--text); line-height: 1.6; }
+
+  /* ===== GAP CARD ===== */
+  .gap-row {
+    display: flex; gap: 10px; align-items: flex-start; margin-top: 8px;
+  }
+  .gap-col { flex: 1; font-size: 10px; line-height: 1.8; }
+  .gap-col.dim { color: var(--text-2); }
+  .gap-col.bold { color: var(--text); font-weight: 500; }
+  .gap-arrow { font-size: 18px; color: var(--text-3); align-self: center; }
+
+  /* ===== THOUGHT BUBBLE ===== */
+  .bubble-wrap { margin-bottom: 10px; }
+  .bubble-wrap:last-child { margin-bottom: 0; }
+  .bubble {
+    background: var(--bg);
+    border-radius: 10px;
+    padding: 8px 10px;
+    font-size: 10px;
+    color: var(--text);
+    line-height: 1.6;
+    position: relative;
+    margin-bottom: 6px;
+  }
+  .bubble.teal-bg {
+    background: var(--teal-light);
+    color: var(--teal-dark);
+  }
+  .bubble-label {
+    font-size: 9px;
+    font-weight: 700;
+    color: var(--text-3);
+    margin-bottom: 3px;
+  }
+  .bubble-label.real { color: var(--teal); }
+
+  /* ===== RESULT CARD ===== */
+  .result-card {
+    background: linear-gradient(135deg, var(--teal-light) 0%, var(--purple-light) 100%);
+    border: 1px solid var(--teal);
+  }
+  .result-title {
+    font-size: 16px; font-weight: 900;
+    color: var(--teal-dark);
+    margin-bottom: 8px;
+    line-height: 1.4;
+  }
+  .result-body {
+    font-size: 10px; color: var(--teal-dark);
+    line-height: 1.8; margin-bottom: 10px;
+  }
+  .result-copy-box {
+    background: rgba(255,255,255,0.65);
+    border-radius: var(--radius-sm);
+    padding: 10px 12px;
+    font-size: 10px;
+    color: var(--navy);
+    line-height: 1.7;
+  }
+
+  /* ===== RADAR (SVG inline) ===== */
+  .radar-wrap { display: flex; justify-content: center; }
+
+  /* ===== FOOTER ===== */
+  .footer {
+    text-align: center;
+    margin-top: 16px;
+    font-size: 9px;
+    color: var(--text-3);
+  }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 720px) {
+    .grid {
+      grid-template-columns: 1fr 1fr;
+    }
+    .brain-card {
+      grid-column: 1 / 3;
+      grid-row: auto;
+    }
+  }
+  @media (max-width: 500px) {
+    .grid { grid-template-columns: 1fr; }
+    .brain-card { grid-column: 1; }
+    .scene-grid { grid-template-columns: 1fr; }
+    .gap-row { flex-direction: column; }
+    .char-row { flex-wrap: wrap; justify-content: center; }
+  }
+</style>
+</head>
+<body>
+<div class="wrapper">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-eyebrow">BRAIN MAKER DIAGNOSIS — KENICHI WAKABAYASHI</div>
+    <div class="header-title">あなたの脳内、<span>全部</span>見えちゃいました…</div>
+    <div class="header-sub">チャット履歴1,000時間分の思考パターンを完全解析 ／ クロスロード株式会社 代表 若林健一</div>
+  </div>
+
+  <!-- GRID -->
+  <div class="grid">
+
+    <!-- ① 脳内マップ（大） -->
+    <div class="card brain-card">
+      <div class="card-label">脳内占有率マップ</div>
+      <svg viewBox="0 0 380 280" width="100%" class="brain-svg-wrap" role="img" aria-label="健一さんの脳内を占める要素のバブルマップ">
+        <!-- 影 -->
+        <ellipse cx="190" cy="262" rx="64" ry="14" fill="#d3d1c7" opacity="0.4"/>
+        <!-- 頭シルエット -->
+        <path d="M136,260 Q112,218 110,165 Q108,100 145,64 Q165,42 190,42 Q215,42 235,64 Q272,100 270,165 Q268,218 244,260 Q222,276 190,276 Q158,276 136,260Z" fill="#F0EFE9" stroke="#C4C2BA" stroke-width="1.5"/>
+        <!-- 脳のシワ -->
+        <path d="M162,108 Q174,99 186,108 Q198,117 210,108" fill="none" stroke="#C4C2BA" stroke-width="1.2" opacity="0.6"/>
+        <path d="M155,135 Q170,126 185,135 Q200,144 215,135" fill="none" stroke="#C4C2BA" stroke-width="1.2" opacity="0.6"/>
+        <!-- 目 -->
+        <ellipse cx="170" cy="210" rx="8" ry="6" fill="#fff" stroke="#B4B2A9" stroke-width="1"/>
+        <ellipse cx="210" cy="210" rx="8" ry="6" fill="#fff" stroke="#B4B2A9" stroke-width="1"/>
+        <circle cx="171" cy="210" r="3.5" fill="#333"/>
+        <circle cx="211" cy="210" r="3.5" fill="#333"/>
+        <!-- 眉 -->
+        <path d="M163,200 Q170,197 177,200" fill="none" stroke="#888" stroke-width="1.5"/>
+        <path d="M203,200 Q210,197 217,200" fill="none" stroke="#888" stroke-width="1.5"/>
+        <!-- 口（少し笑顔） -->
+        <path d="M178,228 Q190,235 202,228" fill="none" stroke="#888" stroke-width="1.5"/>
+
+        <!-- バブル：仕組み化（主役・大） -->
+        <circle cx="190" cy="120" r="50" fill="#2F9C95" opacity="0.88"/>
+        <text x="190" y="112" text-anchor="middle" font-size="13" fill="white" font-weight="700" font-family="Noto Sans JP, sans-serif">仕組み化</text>
+        <text x="190" y="127" text-anchor="middle" font-size="10" fill="white" opacity="0.85">構造に落とす衝動</text>
+        <text x="190" y="145" text-anchor="middle" font-size="20" fill="white" opacity="0.55" font-weight="700">38%</text>
+
+        <!-- 翻訳衝動 -->
+        <circle cx="98" cy="110" r="32" fill="#534AB7" opacity="0.82"/>
+        <text x="98" y="106" text-anchor="middle" font-size="10" fill="white" font-weight="700">翻訳衝動</text>
+        <text x="98" y="119" text-anchor="middle" font-size="14" fill="white" opacity="0.7" font-weight="700">22%</text>
+
+        <!-- 誠実強迫 -->
+        <circle cx="282" cy="116" r="28" fill="#C8384A" opacity="0.82"/>
+        <text x="282" y="112" text-anchor="middle" font-size="10" fill="white" font-weight="700">誠実強迫</text>
+        <text x="282" y="125" text-anchor="middle" font-size="12" fill="white" opacity="0.7" font-weight="700">18%</text>
+
+        <!-- 観察癖 -->
+        <circle cx="90" cy="172" r="22" fill="#E8894A" opacity="0.82"/>
+        <text x="90" y="168" text-anchor="middle" font-size="9" fill="white" font-weight="700">観察癖</text>
+        <text x="90" y="180" text-anchor="middle" font-size="12" fill="white" opacity="0.7" font-weight="700">11%</text>
+
+        <!-- 先回り -->
+        <circle cx="285" cy="172" r="19" fill="#2B3A55" opacity="0.82"/>
+        <text x="285" y="168" text-anchor="middle" font-size="9" fill="white" font-weight="700">先回り</text>
+        <text x="285" y="180" text-anchor="middle" font-size="11" fill="white" opacity="0.7" font-weight="700">7%</text>
+
+        <!-- 受信者目線 -->
+        <circle cx="190" cy="64" r="14" fill="#854f0b" opacity="0.78"/>
+        <text x="190" y="60" text-anchor="middle" font-size="8" fill="white" font-weight="700">受信者</text>
+        <text x="190" y="70" text-anchor="middle" font-size="8" fill="white" font-weight="700">目線 4%</text>
+
+        <!-- モクモク思考 - 左 -->
+        <circle cx="58" cy="72" r="10" fill="#9FE1CB" opacity="0.55"/>
+        <circle cx="45" cy="60" r="13" fill="#5DCAA5" opacity="0.45"/>
+        <circle cx="58" cy="50" r="10" fill="#2F9C95" opacity="0.35"/>
+        <text x="52" y="56" text-anchor="middle" font-size="7" fill="#085041" font-weight="700">翻訳できるか？</text>
+
+        <!-- モクモク思考 - 中 -->
+        <circle cx="158" cy="16" r="11" fill="#C4C2BA" opacity="0.55"/>
+        <circle cx="175" cy="6" r="14" fill="#B4B2A9" opacity="0.45"/>
+        <circle cx="193" cy="3" r="12" fill="#A4A29A" opacity="0.4"/>
+        <text x="176" y="9" text-anchor="middle" font-size="7" fill="#5a5a55" font-weight="700">整理して→仕組みに</text>
+
+        <!-- モクモク思考 - 右 -->
+        <circle cx="318" cy="68" r="9" fill="#AFA9EC" opacity="0.55"/>
+        <circle cx="330" cy="56" r="11" fill="#7F77DD" opacity="0.45"/>
+        <text x="326" y="60" text-anchor="middle" font-size="7" fill="#3C3489" font-weight="700">これ正確？</text>
+      </svg>
+
+      <div class="brain-catchcopy">「整理すること」が<br>呼吸になっている人</div>
+      <div class="brain-sub">複雑な情報を受け取った瞬間、脳が自動で"構造化モード"に入る</div>
+
+      <div class="pct-row">
+        <div class="pct-item">
+          <div class="pct-label">仕組み化・構造化衝動</div>
+          <div class="pct-bar-bg"><div class="pct-bar" style="width:38%;background:#2F9C95"></div></div>
+          <div class="pct-val">38%</div>
+        </div>
+        <div class="pct-item">
+          <div class="pct-label">翻訳衝動（橋渡し欲）</div>
+          <div class="pct-bar-bg"><div class="pct-bar" style="width:22%;background:#534AB7"></div></div>
+          <div class="pct-val">22%</div>
+        </div>
+        <div class="pct-item">
+          <div class="pct-label">誠実強迫（正確さへの執着）</div>
+          <div class="pct-bar-bg"><div class="pct-bar" style="width:18%;background:#C8384A"></div></div>
+          <div class="pct-val">18%</div>
+        </div>
+        <div class="pct-item">
+          <div class="pct-label">観察・分析癖</div>
+          <div class="pct-bar-bg"><div class="pct-bar" style="width:11%;background:#E8894A"></div></div>
+          <div class="pct-val">11%</div>
+        </div>
+        <div class="pct-item">
+          <div class="pct-label">先回り思考</div>
+          <div class="pct-bar-bg"><div class="pct-bar" style="width:7%;background:#2B3A55"></div></div>
+          <div class="pct-val">7%</div>
+        </div>
+        <div class="pct-item">
+          <div class="pct-label">受信者目線の執念</div>
+          <div class="pct-bar-bg"><div class="pct-bar" style="width:4%;background:#854f0b"></div></div>
+          <div class="pct-val">4%</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ② ここが密かにすごい -->
+    <div class="card">
+      <div class="card-label">ここが密かにすごい</div>
+      <div class="rank-item">
+        <div class="rank-num" style="color:#2F9C95">01</div>
+        <div class="rank-body">
+          <div class="rank-title">「使う人」から逆算する天才性</div>
+          <div class="rank-desc">教材でも、インフラでも、スライドでも、必ず「誰が受け取るか」から設計が始まる。この反射は26年で染みついた筋肉。</div>
+        </div>
+      </div>
+      <div class="rank-item">
+        <div class="rank-num" style="color:#534AB7">02</div>
+        <div class="rank-body">
+          <div class="rank-title">複雑さを「構造」に変換する速度</div>
+          <div class="rank-desc">消費税の仕組みも、インボイスも、法律の比較表も、話を聞いた瞬間に頭の中でフレームワークが立ち上がっている。</div>
+        </div>
+      </div>
+      <div class="rank-item">
+        <div class="rank-num" style="color:#C8384A">03</div>
+        <div class="rank-body">
+          <div class="rank-title">「間違ってるかも」センサーの精度</div>
+          <div class="rank-desc">自分の発言も他者の情報も、一度「本当か？」と通過させてから口にする。この習慣が信頼の根拠になっている。</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ③ 脳内隠し撮り -->
+    <div class="card">
+      <div class="card-label">脳内隠し撮りカット</div>
+      <div class="scene-grid">
+        <div class="scene">
+          <div class="scene-title">クライアントの話を聞いてるとき</div>
+          🧑‍💼「うちのシステムが…」<br>
+          🧠（もう概念図が3パターン浮かんでる）<br>
+          🗣「それって、こういう構造ですか？」
+        </div>
+        <div class="scene">
+          <div class="scene-title">就寝中の脳内</div>
+          😴 zzz...<br>
+          🧠「あのフレームワーク、L4の定義が甘い」<br>
+          😴（3時に起きてメモする）
+        </div>
+        <div class="scene">
+          <div class="scene-title">子どもにプログラミングを教えるとき</div>
+          👦「なんで動くの？」<br>
+          🧠（大人向けの説明、全部リセット中…）<br>
+          🗣「ねえ、料理のレシピって知ってる？」
+        </div>
+        <div class="scene">
+          <div class="scene-title">自分を売り込む場面</div>
+          💬「ここに実績を書いて」<br>
+          🧠（でも押し売りに見えないか？）<br>
+          🧠（仕組みに語らせれば…）<br>
+          ⏳ 20分悩む
+        </div>
+      </div>
+    </div>
+
+    <!-- ④ 思考レーダー -->
+    <div class="card">
+      <div class="card-label">思考レーダーチャート</div>
+      <div class="radar-wrap">
+        <svg viewBox="0 0 220 200" width="220" height="200" role="img" aria-label="思考特性レーダーチャート。誠実さ・構造化・翻訳力が高く、発信力が低い。">
+          <!-- グリッド -->
+          <g opacity="0.12" stroke="#666" fill="none" stroke-width="0.8">
+            <polygon points="110,66 138,82 138,114 110,130 82,114 82,82"/>
+            <polygon points="110,46 154,71 154,121 110,146 66,121 66,71"/>
+            <polygon points="110,26 170,60 170,128 110,162 50,128 50,60"/>
+          </g>
+          <!-- 軸線 -->
+          <g stroke="#ccc" stroke-width="0.5">
+            <line x1="110" y1="94" x2="110" y2="26"/>
+            <line x1="110" y1="94" x2="170" y2="60"/>
+            <line x1="110" y1="94" x2="170" y2="128"/>
+            <line x1="110" y1="94" x2="110" y2="162"/>
+            <line x1="110" y1="94" x2="50" y2="128"/>
+            <line x1="110" y1="94" x2="50" y2="60"/>
+          </g>
+          <!-- データエリア：誠実95,構造90,先回り75,仕組み88,翻訳85,発信28 -->
+          <polygon
+            points="110,28 166,62 164,126 110,156 58,124 58,63"
+            fill="#2F9C95" opacity="0.22" stroke="#2F9C95" stroke-width="1.8"/>
+          <!-- 発信だけ別色で低い点を強調 -->
+          <circle cx="58" cy="63" r="5" fill="#C8384A" opacity="0.8"/>
+          <!-- ラベル -->
+          <text x="110" y="19" text-anchor="middle" font-size="9" fill="#5C5C58" font-family="Noto Sans JP,sans-serif">誠実さ</text>
+          <text x="176" y="58" text-anchor="start" font-size="9" fill="#5C5C58" font-family="Noto Sans JP,sans-serif">構造化</text>
+          <text x="176" y="132" text-anchor="start" font-size="9" fill="#5C5C58" font-family="Noto Sans JP,sans-serif">先回り</text>
+          <text x="110" y="176" text-anchor="middle" font-size="9" fill="#5C5C58" font-family="Noto Sans JP,sans-serif">仕組み化</text>
+          <text x="44" y="132" text-anchor="end" font-size="9" fill="#5C5C58" font-family="Noto Sans JP,sans-serif">翻訳力</text>
+          <text x="44" y="58" text-anchor="end" font-size="9" fill="#C8384A" font-weight="700" font-family="Noto Sans JP,sans-serif">発信↓</text>
+          <!-- 注釈 -->
+          <text x="22" y="53" text-anchor="middle" font-size="7" fill="#C8384A" font-family="Noto Sans JP,sans-serif">低い</text>
+        </svg>
+      </div>
+      <div style="font-size:9px;color:#9A9A94;text-align:center;margin-top:4px;line-height:1.6">
+        誠実さ・構造化・翻訳力が突出。<br>発信力だけ不自然に低い（本人は気づいてる）
+      </div>
+    </div>
+
+    <!-- ⑤ 5人のキャラ -->
+    <div class="card">
+      <div class="card-label">あなたの脳を5人のキャラにしたら</div>
+      <div class="char-row">
+        <div class="char">
+          <div class="char-avatar" style="background:#E1F5EE">🏗️</div>
+          <div class="char-name">設計士</div>
+          <div class="char-role">常駐・発言多め</div>
+        </div>
+        <div class="char">
+          <div class="char-avatar" style="background:#EEEDFE">🔍</div>
+          <div class="char-name">翻訳者</div>
+          <div class="char-role">常駐・影の主役</div>
+        </div>
+        <div class="char">
+          <div class="char-avatar" style="background:#FCEBEB">✅</div>
+          <div class="char-name">事実確認係</div>
+          <div class="char-role">常駐・うるさい</div>
+        </div>
+        <div class="char">
+          <div class="char-avatar" style="background:#FAEEDA">👦</div>
+          <div class="char-name">先生</div>
+          <div class="char-role">午後登場</div>
+        </div>
+        <div class="char">
+          <div class="char-avatar" style="background:#F0EFE9">🤐</div>
+          <div class="char-name">PR係</div>
+          <div class="char-role">いるけど静か</div>
+        </div>
+      </div>
+      <div class="sticky">
+        「PR係、今日も何も言わなかったね」<br>
+        「うん、でも設計士が全部カバーしてくれてるから…」<br>
+        「それ、仕組みに語らせてるって言うんだよ」
+      </div>
+    </div>
+
+    <!-- ⑥ 脳内の口癖 -->
+    <div class="card">
+      <div class="card-label">脳内の口癖</div>
+      <div class="kuchiguse-list">
+        <div class="kuchiguse-item">
+          <div class="kuchiguse-quote">"</div>
+          <div class="kuchiguse-text">これ、もっとシンプルに整理できるはず</div>
+        </div>
+        <div class="kuchiguse-item">
+          <div class="kuchiguse-quote">"</div>
+          <div class="kuchiguse-text">誰が使うかで、全然設計が変わる</div>
+        </div>
+        <div class="kuchiguse-item">
+          <div class="kuchiguse-quote">"</div>
+          <div class="kuchiguse-text">それって本当に正確ですか？（自分にも）</div>
+        </div>
+        <div class="kuchiguse-item">
+          <div class="kuchiguse-quote">"</div>
+          <div class="kuchiguse-text">仕組みにしておけば、また使える</div>
+        </div>
+        <div class="kuchiguse-item">
+          <div class="kuchiguse-quote">"</div>
+          <div class="kuchiguse-text">（自分の価値を言うの、まだ躊躇してる）</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ⑦ 著名人比較 -->
+    <div class="card">
+      <div class="card-label">こんな著名人と同じ思考回路</div>
+      <div class="famous-item">
+        <div class="famous-icon" style="background:#E1F5EE">🏛️</div>
+        <div>
+          <div style="font-size:11px;font-weight:700;color:#1C1C1A">羽生善治</div>
+          <div style="font-size:10px;color:#5C5C58;line-height:1.6">複雑な局面を構造で読む。直感ではなく原理から考える。</div>
+        </div>
+      </div>
+      <div class="famous-item">
+        <div class="famous-icon" style="background:#EEEDFE">📚</div>
+        <div>
+          <div style="font-size:11px;font-weight:700;color:#1C1C1A">山口周</div>
+          <div style="font-size:10px;color:#5C5C58;line-height:1.6">複雑なものをわかりやすく翻訳する。越境型の知性。</div>
+        </div>
+      </div>
+      <div class="famous-item">
+        <div class="famous-icon" style="background:#FAEEDA">🔧</div>
+        <div>
+          <div style="font-size:11px;font-weight:700;color:#1C1C1A">倉本聰（脚本家的発想）</div>
+          <div style="font-size:10px;color:#5C5C58;line-height:1.6">人を観察して、その人の文脈で最適な言葉を選ぶ。</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ⑧ 周りからの評価 -->
+    <div class="card">
+      <div class="card-label">周りからの評価メモ</div>
+      <div class="eval-item">
+        <div class="eval-who">クライアント（中小企業）から</div>
+        <div class="eval-text">「説明が、なぜかすっと入ってくる。押しつけがない。」</div>
+      </div>
+      <div class="eval-item">
+        <div class="eval-who">CoderDojoの子どもたちから</div>
+        <div class="eval-text">「なんで知らないはずなのに、わかってくれるの？」</div>
+      </div>
+      <div class="eval-item">
+        <div class="eval-who">Claudeの観察より</div>
+        <div class="eval-text">「絶対に断言しない。でも絶対にぶれない。これは強さ。」</div>
+      </div>
+    </div>
+
+    <!-- ⑨ ギャップ（横長） -->
+    <div class="card" style="grid-column: 1 / 3">
+      <div class="card-label">意外なギャップ</div>
+      <div class="gap-row">
+        <div class="gap-col dim">
+          🔩 インフラもコードも書ける<br>
+          📊 法律・税務・制度も読み込める<br>
+          🎨 SVGでイラストまで作れる<br>
+          📝 カリキュラムも設計できる<br>
+          🏛️ 複式簿記システムも作れる
+        </div>
+        <div class="gap-arrow">→</div>
+        <div class="gap-col bold">
+          「私、こんなに幅広くできます」<br>と言えない人<br>
+          <span style="font-size:9px;color:#9A9A94;display:block;margin-top:4px">▶ 弱点ではなく、誠実さの裏返し。<br>仕組みに語らせるのが正解。</span>
+        </div>
+        <div class="gap-arrow">→</div>
+        <div class="gap-col bold">
+          一度信頼した相手には<br>圧倒的に手厚くなる人<br>
+          <span style="font-size:9px;color:#9A9A94;display:block;margin-top:4px">▶「Tech Bespoke」とはこのことだった</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ⑩ 本音と建前 -->
+    <div class="card">
+      <div class="card-label">本音と建前、実は違うシーン</div>
+      <div class="bubble-wrap">
+        <div class="bubble-label">建前</div>
+        <div class="bubble">「まずは丁寧に状況を整理しましょう」</div>
+        <div class="bubble-label real">本音</div>
+        <div class="bubble teal-bg">（もう頭の中にシステム構成図が3パターン完成してる）</div>
+      </div>
+      <div class="bubble-wrap">
+        <div class="bubble-label">建前</div>
+        <div class="bubble">「私はまだまだ発信が足りていなくて…」</div>
+        <div class="bubble-label real">本音</div>
+        <div class="bubble teal-bg">（発信しないのは謙虚じゃなくて、質を担保できないのが怖いだけ）</div>
+      </div>
+    </div>
+
+    <!-- ⑪ 診断結果カード -->
+    <div class="card result-card">
+      <div class="card-label" style="color:#0f6e56">診断結果カード</div>
+      <div class="result-title">「複雑を、使えるものに変える人」</div>
+      <div class="result-body">
+        あなたの脳は、情報を受け取った瞬間に<br>
+        「これを誰かが使えるかたちにする」という<br>
+        モードが自動起動します。<br>
+        これはスキルではなく、人格です。
+      </div>
+      <div style="margin-bottom:10px">
+        <span class="tag tag-teal">仕組み化体質</span>
+        <span class="tag tag-purple">翻訳型知性</span>
+        <span class="tag tag-coral">誠実強迫</span>
+        <span class="tag tag-amber">受信者目線</span>
+      </div>
+      <div class="result-copy-box">
+        <strong style="font-size:9px;color:#2B3A55">脳内キャッチコピー</strong><br>
+        「気づけば頭の中に設計図が建ってる。<br>誰かのために使えるかたちで。」
+      </div>
+    </div>
+
+  </div><!-- /grid -->
+
+  <div class="footer">
+    ※ このデータはチャット履歴1,000時間分の完全分析に基づきます。異論は受け付けますが、たぶん当たってます。
+  </div>
+
+</div><!-- /wrapper -->
+</body>
+</html>
