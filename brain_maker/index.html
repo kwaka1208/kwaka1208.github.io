@@ -30,51 +30,50 @@
 }
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+html { font-size: 16px; }
+
 body {
   background: var(--bg);
   font-family: 'Noto Sans JP', sans-serif;
+  font-size: 1rem;
   color: var(--text);
-  padding: 20px 16px 48px;
+  padding: 1.25rem 1rem 3rem;
   -webkit-text-size-adjust: 100%;
+  line-height: 1.7;
 }
 
 .wrap { max-width: 960px; margin: 0 auto; }
 
 /* HEADER */
-.hdr { text-align: center; margin-bottom: 20px; }
-.hdr-eye { font-size: 10px; letter-spacing: 3px; color: var(--text-3); margin-bottom: 6px; font-weight: 500; }
-.hdr-title { font-size: clamp(18px, 5vw, 28px); font-weight: 900; line-height: 1.3; letter-spacing: -0.5px; }
+.hdr { text-align: center; margin-bottom: 1.25rem; }
+.hdr-eye { font-size: 0.625rem; letter-spacing: 3px; color: var(--text-3); margin-bottom: 0.375rem; font-weight: 500; }
+.hdr-title { font-size: clamp(1.25rem, 5vw, 1.875rem); font-weight: 900; line-height: 1.3; letter-spacing: -0.5px; }
 .hdr-title em { color: var(--teal); font-style: normal; }
-.hdr-sub { font-size: 11px; color: var(--text-3); margin-top: 6px; line-height: 1.6; }
+.hdr-sub { font-size: 0.75rem; color: var(--text-3); margin-top: 0.375rem; line-height: 1.6; }
 
 /* CARD BASE */
 .card {
   background: var(--surface);
   border: 0.5px solid var(--border);
   border-radius: var(--r);
-  padding: 16px;
+  padding: 1rem;
   position: relative;
   overflow: hidden;
 }
 .lbl {
-  font-size: 9px; font-weight: 700; letter-spacing: 1.5px;
-  text-transform: uppercase; color: var(--text-3); margin-bottom: 10px;
+  font-size: 0.625rem; font-weight: 700; letter-spacing: 1.5px;
+  text-transform: uppercase; color: var(--text-3); margin-bottom: 0.625rem;
 }
 
 /* ========== LAYOUT SYSTEM ========== */
-/* Mobile-first: single column */
-.layout-main { display: flex; flex-direction: column; gap: 10px; }
-
-/* Row: stacks vertically on mobile, side-by-side on desktop */
-.row { display: flex; flex-direction: column; gap: 10px; }
+.layout-main { display: flex; flex-direction: column; gap: 0.625rem; }
+.row { display: flex; flex-direction: column; gap: 0.625rem; }
 .row > * { flex: 1; min-width: 0; }
 
-/* Tablet+ (600px): 2-col rows unlock */
 @media (min-width: 600px) {
   .row-2 { flex-direction: row; }
   .row-2-rev { flex-direction: row; }
 }
-/* Desktop (900px): 3-col rows unlock */
 @media (min-width: 900px) {
   .row-3 { flex-direction: row; }
   .row-3 > * { flex: 1; min-width: 0; }
@@ -85,38 +84,38 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 20px;
+  padding: 1.25rem;
 }
 .brain-svg-wrap { width: 100%; max-width: 380px; }
 .brain-catchcopy {
-  font-size: clamp(17px, 3vw, 22px);
+  font-size: clamp(1.125rem, 3vw, 1.5rem);
   font-weight: 900; text-align: center;
-  line-height: 1.4; margin-top: 14px; letter-spacing: -0.3px;
+  line-height: 1.4; margin-top: 0.875rem; letter-spacing: -0.3px;
 }
-.brain-sub { font-size: 11px; color: var(--text-2); text-align: center; margin-top: 5px; line-height: 1.6; }
+.brain-sub { font-size: 0.75rem; color: var(--text-2); text-align: center; margin-top: 0.3125rem; line-height: 1.6; }
 
-.pct-row { display: flex; flex-direction: column; gap: 8px; margin-top: 16px; width: 100%; max-width: 380px; }
-.pct-item { display: flex; align-items: center; gap: 8px; }
-.pct-lbl { flex: 0 0 130px; font-size: 10px; font-weight: 500; color: var(--text); }
-.pct-bg { flex: 1; height: 8px; background: var(--bg); border-radius: 4px; overflow: hidden; }
+.pct-row { display: flex; flex-direction: column; gap: 0.5rem; margin-top: 1rem; width: 100%; max-width: 380px; }
+.pct-item { display: flex; align-items: center; gap: 0.5rem; }
+.pct-lbl { flex: 0 0 9rem; font-size: 0.6875rem; font-weight: 500; color: var(--text); }
+.pct-bg { flex: 1; height: 0.5rem; background: var(--bg); border-radius: 4px; overflow: hidden; }
 .pct-fill { height: 100%; border-radius: 4px; }
-.pct-val { flex: 0 0 30px; text-align: right; font-size: 10px; color: var(--text-3); font-weight: 500; }
+.pct-val { flex: 0 0 2rem; text-align: right; font-size: 0.6875rem; color: var(--text-3); font-weight: 500; }
 
 /* ========== RANK ========== */
-.rank-item { display: flex; align-items: flex-start; gap: 10px; padding: 9px 0; border-bottom: 0.5px solid var(--border-light); }
+.rank-item { display: flex; align-items: flex-start; gap: 0.625rem; padding: 0.5625rem 0; border-bottom: 0.5px solid var(--border-light); }
 .rank-item:last-child { border-bottom: none; }
-.rank-num { font-size: 22px; font-weight: 900; min-width: 28px; line-height: 1; font-family: 'Noto Serif JP', serif; }
-.rank-title { font-size: 12px; font-weight: 700; margin-bottom: 3px; }
-.rank-desc { font-size: 10px; color: var(--text-2); line-height: 1.7; }
+.rank-num { font-size: 1.5rem; font-weight: 900; min-width: 1.75rem; line-height: 1; font-family: 'Noto Serif JP', serif; }
+.rank-title { font-size: 0.8125rem; font-weight: 700; margin-bottom: 0.1875rem; }
+.rank-desc { font-size: 0.6875rem; color: var(--text-2); line-height: 1.7; }
 
 /* ========== SCENE ========== */
-.scene-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.scene-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; }
 @media (max-width: 480px) { .scene-grid { grid-template-columns: 1fr; } }
-.scene { background: var(--bg); border-radius: var(--rs); padding: 10px; font-size: 10px; line-height: 1.8; }
-.scene-ttl { font-size: 9px; font-weight: 700; color: var(--text-3); margin-bottom: 4px; }
+.scene { background: var(--bg); border-radius: var(--rs); padding: 0.625rem; font-size: 0.6875rem; line-height: 1.8; }
+.scene-ttl { font-size: 0.625rem; font-weight: 700; color: var(--text-3); margin-bottom: 0.25rem; }
 
 /* ========== TAG ========== */
-.tag { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: 9px; font-weight: 700; margin: 2px 2px 2px 0; }
+.tag { display: inline-block; padding: 0.1875rem 0.625rem; border-radius: 999px; font-size: 0.625rem; font-weight: 700; margin: 0.125rem 0.125rem 0.125rem 0; }
 .t-teal   { background: var(--teal-light);   color: var(--teal-dark); }
 .t-purple { background: var(--purple-light);  color: var(--purple); }
 .t-coral  { background: var(--coral-light);   color: var(--coral); }
@@ -125,8 +124,8 @@ body {
 /* ========== STICKY ========== */
 .sticky {
   background: #fdf9e3; border: 0.5px solid #e8d87c;
-  border-radius: var(--rs); padding: 10px 12px;
-  font-size: 10px; color: #5a4e0e; line-height: 1.8; position: relative; margin-top: 10px;
+  border-radius: var(--rs); padding: 0.625rem 0.75rem;
+  font-size: 0.6875rem; color: #5a4e0e; line-height: 1.8; position: relative; margin-top: 0.625rem;
 }
 .sticky::before {
   content: ''; position: absolute; top: 0; right: 0;
@@ -135,53 +134,53 @@ body {
 }
 
 /* ========== CHAR ========== */
-.char-row { display: flex; gap: 6px; justify-content: space-between; margin-bottom: 10px; flex-wrap: wrap; }
+.char-row { display: flex; gap: 0.375rem; justify-content: space-between; margin-bottom: 0.625rem; flex-wrap: wrap; }
 .char { text-align: center; flex: 1 0 52px; }
 .char-av {
-  width: 38px; height: 38px; border-radius: 50%;
-  margin: 0 auto 4px; display: flex; align-items: center; justify-content: center; font-size: 18px;
+  width: 2.5rem; height: 2.5rem; border-radius: 50%;
+  margin: 0 auto 0.25rem; display: flex; align-items: center; justify-content: center; font-size: 1.25rem;
 }
-.char-name { font-size: 9px; font-weight: 700; }
-.char-role { font-size: 8px; color: var(--text-3); }
+.char-name { font-size: 0.625rem; font-weight: 700; }
+.char-role { font-size: 0.5625rem; color: var(--text-3); }
 
 /* ========== KUCHIGUSE ========== */
-.kuchi-list { display: flex; flex-direction: column; gap: 8px; }
-.kuchi-item { display: flex; align-items: flex-start; gap: 6px; }
-.kuchi-q { font-size: 24px; color: var(--border); line-height: 0.8; padding-top: 4px; font-family: serif; flex-shrink: 0; }
-.kuchi-t { font-size: 11px; line-height: 1.7; flex: 1; }
+.kuchi-list { display: flex; flex-direction: column; gap: 0.5rem; }
+.kuchi-item { display: flex; align-items: flex-start; gap: 0.375rem; }
+.kuchi-q { font-size: 1.625rem; color: var(--border); line-height: 0.8; padding-top: 0.25rem; font-family: serif; flex-shrink: 0; }
+.kuchi-t { font-size: 0.75rem; line-height: 1.7; flex: 1; }
 
 /* ========== FAMOUS ========== */
-.famous-item { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 0.5px solid var(--border-light); }
+.famous-item { display: flex; align-items: center; gap: 0.625rem; padding: 0.5rem 0; border-bottom: 0.5px solid var(--border-light); }
 .famous-item:last-child { border-bottom: none; }
-.famous-ic { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px; flex-shrink: 0; }
-.famous-name { font-size: 11px; font-weight: 700; margin-bottom: 2px; }
-.famous-desc { font-size: 10px; color: var(--text-2); line-height: 1.6; }
+.famous-ic { width: 2.25rem; height: 2.25rem; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.125rem; flex-shrink: 0; }
+.famous-name { font-size: 0.75rem; font-weight: 700; margin-bottom: 0.125rem; }
+.famous-desc { font-size: 0.6875rem; color: var(--text-2); line-height: 1.6; }
 
 /* ========== EVAL ========== */
-.eval-item { padding: 8px 0; border-bottom: 0.5px solid var(--border-light); }
+.eval-item { padding: 0.5rem 0; border-bottom: 0.5px solid var(--border-light); }
 .eval-item:last-child { border-bottom: none; }
-.eval-who { font-size: 9px; font-weight: 700; color: var(--text-3); margin-bottom: 3px; }
-.eval-text { font-size: 11px; line-height: 1.7; }
+.eval-who { font-size: 0.625rem; font-weight: 700; color: var(--text-3); margin-bottom: 0.1875rem; }
+.eval-text { font-size: 0.75rem; line-height: 1.7; }
 
 /* ========== GAP ========== */
-.gap-cols { display: flex; flex-direction: column; gap: 10px; margin-top: 8px; }
+.gap-cols { display: flex; flex-direction: column; gap: 0.625rem; margin-top: 0.5rem; }
 @media (min-width: 600px) {
   .gap-cols { flex-direction: row; align-items: flex-start; }
   .gap-cols > * { flex: 1; min-width: 0; }
   .gap-arrow { align-self: center; flex: 0 0 auto; }
 }
-.gap-col { font-size: 10px; line-height: 1.9; }
+.gap-col { font-size: 0.6875rem; line-height: 1.9; }
 .gap-col.dim { color: var(--text-2); }
 .gap-col.bld { font-weight: 500; }
-.gap-arrow { font-size: 20px; color: var(--text-3); text-align: center; }
-.gap-note { font-size: 9px; color: var(--text-3); display: block; margin-top: 4px; }
+.gap-arrow { font-size: 1.25rem; color: var(--text-3); text-align: center; }
+.gap-note { font-size: 0.625rem; color: var(--text-3); display: block; margin-top: 0.25rem; }
 
 /* ========== BUBBLE ========== */
-.bub-wrap { margin-bottom: 10px; }
+.bub-wrap { margin-bottom: 0.625rem; }
 .bub-wrap:last-child { margin-bottom: 0; }
-.bub-lbl { font-size: 9px; font-weight: 700; color: var(--text-3); margin-bottom: 3px; }
+.bub-lbl { font-size: 0.625rem; font-weight: 700; color: var(--text-3); margin-bottom: 0.1875rem; }
 .bub-lbl.real { color: var(--teal); }
-.bubble { background: var(--bg); border-radius: 10px; padding: 9px 11px; font-size: 10px; line-height: 1.7; margin-bottom: 6px; }
+.bubble { background: var(--bg); border-radius: 10px; padding: 0.5625rem 0.6875rem; font-size: 0.6875rem; line-height: 1.7; margin-bottom: 0.375rem; }
 .bubble.teal { background: var(--teal-light); color: var(--teal-dark); }
 
 /* ========== RESULT ========== */
@@ -189,15 +188,28 @@ body {
   background: linear-gradient(135deg, var(--teal-light) 0%, var(--purple-light) 100%);
   border: 1px solid var(--teal);
 }
-.result-title { font-size: clamp(14px, 2.5vw, 17px); font-weight: 900; color: var(--teal-dark); margin-bottom: 8px; line-height: 1.4; }
-.result-body { font-size: 10px; color: var(--teal-dark); line-height: 1.9; margin-bottom: 10px; }
-.result-copy { background: rgba(255,255,255,0.65); border-radius: var(--rs); padding: 10px 12px; font-size: 10px; color: var(--navy); line-height: 1.8; }
+.result-title { font-size: clamp(0.9375rem, 2.5vw, 1.125rem); font-weight: 900; color: var(--teal-dark); margin-bottom: 0.5rem; line-height: 1.4; }
+.result-body { font-size: 0.6875rem; color: var(--teal-dark); line-height: 1.9; margin-bottom: 0.625rem; }
+.result-copy { background: rgba(255,255,255,0.65); border-radius: var(--rs); padding: 0.625rem 0.75rem; font-size: 0.6875rem; color: var(--navy); line-height: 1.8; }
+
+/* ========== VIZ WRAP（ドーナツ＋バブル） ========== */
+.viz-wrap {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.donut-wrap { flex-shrink: 0; }
+.bubble-map-wrap { flex: 1; min-width: 200px; max-width: 340px; }
 
 /* ========== RADAR ========== */
 .radar-wrap { display: flex; justify-content: center; }
 
 /* ========== FOOTER ========== */
-.footer { text-align: center; margin-top: 16px; font-size: 9px; color: var(--text-3); line-height: 1.8; }
+.footer { text-align: center; margin-top: 1rem; font-size: 0.625rem; color: var(--text-3); line-height: 1.8; }
 </style>
 </head>
 <body>
@@ -215,52 +227,73 @@ body {
     <!-- ① 脳内マップ（常に全幅） -->
     <div class="card brain-card">
       <div class="lbl">脳内占有率マップ</div>
-      <svg viewBox="0 0 380 280" width="100%" class="brain-svg-wrap" role="img" aria-label="健一さんの脳内を占める要素のバブルマップ">
-        <ellipse cx="190" cy="262" rx="64" ry="14" fill="#d3d1c7" opacity="0.4"/>
-        <path d="M136,260 Q112,218 110,165 Q108,100 145,64 Q165,42 190,42 Q215,42 235,64 Q272,100 270,165 Q268,218 244,260 Q222,276 190,276 Q158,276 136,260Z" fill="#F0EFE9" stroke="#C4C2BA" stroke-width="1.5"/>
-        <path d="M162,108 Q174,99 186,108 Q198,117 210,108" fill="none" stroke="#C4C2BA" stroke-width="1.2" opacity="0.6"/>
-        <path d="M155,135 Q170,126 185,135 Q200,144 215,135" fill="none" stroke="#C4C2BA" stroke-width="1.2" opacity="0.6"/>
-        <ellipse cx="170" cy="210" rx="8" ry="6" fill="#fff" stroke="#B4B2A9" stroke-width="1"/>
-        <ellipse cx="210" cy="210" rx="8" ry="6" fill="#fff" stroke="#B4B2A9" stroke-width="1"/>
-        <circle cx="171" cy="210" r="3.5" fill="#333"/>
-        <circle cx="211" cy="210" r="3.5" fill="#333"/>
-        <path d="M163,200 Q170,197 177,200" fill="none" stroke="#888" stroke-width="1.5"/>
-        <path d="M203,200 Q210,197 217,200" fill="none" stroke="#888" stroke-width="1.5"/>
-        <path d="M178,228 Q190,235 202,228" fill="none" stroke="#888" stroke-width="1.5"/>
-        <!-- バブル -->
-        <circle cx="190" cy="120" r="50" fill="#2F9C95" opacity="0.88"/>
-        <text x="190" y="112" text-anchor="middle" font-size="13" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">仕組み化</text>
-        <text x="190" y="127" text-anchor="middle" font-size="10" fill="white" opacity="0.85" font-family="Noto Sans JP,sans-serif">構造に落とす衝動</text>
-        <text x="190" y="145" text-anchor="middle" font-size="20" fill="white" opacity="0.55" font-weight="700" font-family="Noto Sans JP,sans-serif">38%</text>
-        <circle cx="98" cy="110" r="32" fill="#534AB7" opacity="0.82"/>
-        <text x="98" y="106" text-anchor="middle" font-size="10" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">翻訳衝動</text>
-        <text x="98" y="119" text-anchor="middle" font-size="14" fill="white" opacity="0.7" font-weight="700" font-family="Noto Sans JP,sans-serif">22%</text>
-        <circle cx="282" cy="116" r="28" fill="#C8384A" opacity="0.82"/>
-        <text x="282" y="112" text-anchor="middle" font-size="10" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">誠実強迫</text>
-        <text x="282" y="125" text-anchor="middle" font-size="12" fill="white" opacity="0.7" font-weight="700" font-family="Noto Sans JP,sans-serif">18%</text>
-        <circle cx="90" cy="172" r="22" fill="#E8894A" opacity="0.82"/>
-        <text x="90" y="168" text-anchor="middle" font-size="9" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">観察癖</text>
-        <text x="90" y="180" text-anchor="middle" font-size="12" fill="white" opacity="0.7" font-weight="700" font-family="Noto Sans JP,sans-serif">11%</text>
-        <circle cx="285" cy="172" r="19" fill="#2B3A55" opacity="0.82"/>
-        <text x="285" y="168" text-anchor="middle" font-size="9" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">先回り</text>
-        <text x="285" y="180" text-anchor="middle" font-size="11" fill="white" opacity="0.7" font-weight="700" font-family="Noto Sans JP,sans-serif">7%</text>
-        <circle cx="190" cy="64" r="14" fill="#854f0b" opacity="0.78"/>
-        <text x="190" y="60" text-anchor="middle" font-size="8" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">受信者</text>
-        <text x="190" y="70" text-anchor="middle" font-size="8" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">目線 4%</text>
-        <!-- モクモク -->
-        <circle cx="58" cy="72" r="10" fill="#9FE1CB" opacity="0.55"/>
-        <circle cx="45" cy="60" r="13" fill="#5DCAA5" opacity="0.45"/>
-        <circle cx="58" cy="50" r="10" fill="#2F9C95" opacity="0.35"/>
-        <text x="52" y="56" text-anchor="middle" font-size="7" fill="#085041" font-weight="700" font-family="Noto Sans JP,sans-serif">翻訳できるか？</text>
-        <circle cx="158" cy="16" r="11" fill="#C4C2BA" opacity="0.55"/>
-        <circle cx="175" cy="6" r="14" fill="#B4B2A9" opacity="0.45"/>
-        <circle cx="193" cy="3" r="12" fill="#A4A29A" opacity="0.4"/>
-        <text x="176" y="9" text-anchor="middle" font-size="7" fill="#5a5a55" font-weight="700" font-family="Noto Sans JP,sans-serif">整理して→仕組みに</text>
-        <circle cx="318" cy="68" r="9" fill="#AFA9EC" opacity="0.55"/>
-        <circle cx="330" cy="56" r="11" fill="#7F77DD" opacity="0.45"/>
-        <text x="326" y="60" text-anchor="middle" font-size="7" fill="#3C3489" font-weight="700" font-family="Noto Sans JP,sans-serif">これ正確？</text>
-      </svg>
-      <div class="brain-catchcopy">「整理すること」が<br>呼吸になっている人</div>
+
+      <!-- ドーナツ＋バブル 横並びレイアウト -->
+      <div class="viz-wrap">
+
+        <!-- ドーナツチャート -->
+        <div class="donut-wrap">
+          <svg viewBox="0 0 220 220" width="220" height="220" role="img" aria-label="脳内占有率ドーナツチャート">
+            <!-- r=88, circumference=552.9 -->
+            <!-- 仕組み化 38% → 210.1 -->
+            <circle cx="110" cy="110" r="88" fill="none" stroke="#2F9C95" stroke-width="30"
+              stroke-dasharray="210.1 342.8" stroke-dashoffset="138.2" opacity="0.9"/>
+            <!-- 翻訳衝動 22% → 121.6 , offset=138.2-210.1=-71.9→480.3 -->
+            <circle cx="110" cy="110" r="88" fill="none" stroke="#534AB7" stroke-width="30"
+              stroke-dasharray="121.6 431.3" stroke-dashoffset="480.3" opacity="0.85"/>
+            <!-- 誠実強迫 18% → 99.5, offset=480.3-121.6=358.7 -->
+            <circle cx="110" cy="110" r="88" fill="none" stroke="#C8384A" stroke-width="30"
+              stroke-dasharray="99.5 453.4" stroke-dashoffset="358.7" opacity="0.85"/>
+            <!-- 観察癖 11% → 60.8, offset=358.7-99.5=259.2 -->
+            <circle cx="110" cy="110" r="88" fill="none" stroke="#E8894A" stroke-width="30"
+              stroke-dasharray="60.8 492.1" stroke-dashoffset="259.2" opacity="0.85"/>
+            <!-- 先回り 7% → 38.7, offset=259.2-60.8=198.4 -->
+            <circle cx="110" cy="110" r="88" fill="none" stroke="#2B3A55" stroke-width="30"
+              stroke-dasharray="38.7 514.2" stroke-dashoffset="198.4" opacity="0.85"/>
+            <!-- 受信者目線 4% → 22.1, offset=198.4-38.7=159.7 -->
+            <circle cx="110" cy="110" r="88" fill="none" stroke="#854f0b" stroke-width="30"
+              stroke-dasharray="22.1 530.8" stroke-dashoffset="159.7" opacity="0.85"/>
+            <!-- 中央テキスト -->
+            <text x="110" y="103" text-anchor="middle" font-size="13" font-weight="700" fill="#2F9C95" font-family="Noto Sans JP,sans-serif">仕組み化</text>
+            <text x="110" y="120" text-anchor="middle" font-size="26" font-weight="900" fill="#1C1C1A" font-family="Noto Sans JP,sans-serif">38%</text>
+            <text x="110" y="136" text-anchor="middle" font-size="10" fill="#9A9A94" font-family="Noto Sans JP,sans-serif">が最大占有</text>
+          </svg>
+        </div>
+
+        <!-- バブルマップ（割合を面積で表現） -->
+        <div class="bubble-map-wrap">
+          <svg viewBox="0 0 300 220" width="100%" role="img" aria-label="脳内要素バブルマップ">
+            <!-- 仕組み化 38% r=58 -->
+            <circle cx="105" cy="95" r="58" fill="#2F9C95" opacity="0.88"/>
+            <text x="105" y="88" text-anchor="middle" font-size="12" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">仕組み化</text>
+            <text x="105" y="103" text-anchor="middle" font-size="10" fill="white" opacity="0.8" font-family="Noto Sans JP,sans-serif">構造化衝動</text>
+            <text x="105" y="118" text-anchor="middle" font-size="16" fill="white" opacity="0.6" font-weight="700" font-family="Noto Sans JP,sans-serif">38%</text>
+            <!-- 翻訳衝動 22% r=44 -->
+            <circle cx="226" cy="72" r="44" fill="#534AB7" opacity="0.85"/>
+            <text x="226" y="67" text-anchor="middle" font-size="10" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">翻訳衝動</text>
+            <text x="226" y="81" text-anchor="middle" font-size="14" fill="white" opacity="0.7" font-weight="700" font-family="Noto Sans JP,sans-serif">22%</text>
+            <!-- 誠実強迫 18% r=40 -->
+            <circle cx="232" cy="165" r="40" fill="#C8384A" opacity="0.85"/>
+            <text x="232" y="160" text-anchor="middle" font-size="10" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">誠実強迫</text>
+            <text x="232" y="174" text-anchor="middle" font-size="13" fill="white" opacity="0.7" font-weight="700" font-family="Noto Sans JP,sans-serif">18%</text>
+            <!-- 観察癖 11% r=31 -->
+            <circle cx="40" cy="168" r="31" fill="#E8894A" opacity="0.85"/>
+            <text x="40" y="164" text-anchor="middle" font-size="9" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">観察癖</text>
+            <text x="40" y="176" text-anchor="middle" font-size="12" fill="white" opacity="0.7" font-weight="700" font-family="Noto Sans JP,sans-serif">11%</text>
+            <!-- 先回り 7% r=25 -->
+            <circle cx="27" cy="60" r="25" fill="#2B3A55" opacity="0.85"/>
+            <text x="27" y="56" text-anchor="middle" font-size="8" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">先回り</text>
+            <text x="27" y="67" text-anchor="middle" font-size="11" fill="white" opacity="0.7" font-weight="700" font-family="Noto Sans JP,sans-serif">7%</text>
+            <!-- 受信者目線 4% r=19 -->
+            <circle cx="138" cy="196" r="19" fill="#854f0b" opacity="0.85"/>
+            <text x="138" y="193" text-anchor="middle" font-size="8" fill="white" font-weight="700" font-family="Noto Sans JP,sans-serif">受信者</text>
+            <text x="138" y="204" text-anchor="middle" font-size="8" fill="white" opacity="0.7" font-weight="700" font-family="Noto Sans JP,sans-serif">4%</text>
+          </svg>
+        </div>
+
+      </div>
+
+      <div class="brain-catchcopy">「整理すること」が呼吸になっている人</div>
       <div class="brain-sub">複雑な情報を受け取った瞬間、脳が自動で"構造化モード"に入る</div>
       <div class="pct-row">
         <div class="pct-item"><div class="pct-lbl">仕組み化・構造化衝動</div><div class="pct-bg"><div class="pct-fill" style="width:38%;background:#2F9C95"></div></div><div class="pct-val">38%</div></div>
