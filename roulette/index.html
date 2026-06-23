@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>カスタマイズルーレット</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* カスタムアニメーションの定義 */
+        @keyframes popIn {
+            0% { transform: scale(0.5); opacity: 0; }
+            80% { transform: scale(1.1); opacity: 1; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+        .animate-pop-in {
+            animation: popIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+        }
+        /* スクロールバーのカスタマイズ */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f5f9; 
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1; 
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8; 
+        }
+    </style>
+</head>
+<body class="bg-slate-100 text-slate-800 font-sans min-h-screen flex flex-col">
+    <!-- ヘッダー -->
+    <header class="bg-white shadow-sm py-4 px-6 text-center lg:text-left">
+        <h1 class="text-2xl font-black text-slate-700 tracking-tight">おみくじルーレット</h1>
+    </header>
+
+    <main class="flex-grow w-full max-w-6xl mx-auto p-4 flex flex-col lg:flex-row gap-6 items-start">
+        
+        <!-- 左側: ルーレット表示エリア -->
+        <div class="w-full lg:w-1/2 bg-white rounded-2xl shadow-sm border border-slate-200 p-6 flex flex-col items-center">
+            <div class="relative w-full max-w-md aspect-square mb-8 mt-4">
+                <!-- ルーレットの針 (外側の影用と内側の赤い部分の二重構造) -->
+                <div class="absolute -top-2 left-1/2 -translate-x-1/2 z-10 w-0 h-0 border-l-[18px] border-l-transparent border-r-[18px] border-r-transparent border-t-[38px] border-t-slate-800 drop-shadow-md"></div>
+                <div class="absolute -top-1 left-1/2 -translate-x-1/2 z-20 w-0 h-0 border-l-[14px] border-l-transparent border-r-[14px] border-r-transparent border-t-[32px] border-t-red-500"></div>
+                
+                <!-- ルーレットを描画するキャンバス -->
+                <canvas id="rouletteCanvas" width="800" height="800" class="w-full h-full object-contain filter drop-shadow-lg"></canvas>
+            </div>
+            
+            <button id="spinBtn" class="w-full max-w-md bg-gradient-to-r from-red-500 to-rose-500 hover:from-red-600 hover:to-rose-600 text-white font-bold py-5 px-8 rounded-full text-2xl shadow-lg transition-transform active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none flex justify-center items-center gap-2">
+                <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+                ルーレットを回す
+            </button>
+        </div>
+
+        <!-- 右側: 設定エリア -->
+        <div class="w-full lg:w-1/2 bg-white rounded-2xl shadow-sm border border-slate-200 p-6 flex flex-col h-[calc(100vh-8rem)] lg:h-auto max-h-[800px]">
+            <div class="flex justify-between items-center mb-4 border-b border-slate-100 pb-3">
+                <h2 class="text-xl font-bold text-slate-700">項目の設定</h2>
+                <span class="text-xs font-medium bg-blue-100 text-blue-700 px-2 py-1 rounded-full">自動保存</span>
+            </div>
+            
+            <div class="overflow-y-auto flex-grow pr-2 mb-4">
+                <table class="w-full text-left border-collapse">
+                    <thead class="sticky top-0 bg-white z-10 shadow-sm">
+                        <tr class="text-slate-500 text-sm border-b border-slate-200">
+                            <th class="py-2 px-1 font-medium w-10 text-center">色</th>
+                            <th class="py-2 px-2 font-medium">項目名</th>
+                            <th class="py-2 px-2 font-medium w-20 text-center">割合</th>
+                            <th class="py-2 px-2 font-medium w-16 text-center">確率</th>
+                            <th class="py-2 px-1 font-medium w-10 text-center"></th>
+                        </tr>
+                    </thead>
+                    <tbody id="settingsBody">
+                        <!-- JavaScriptで動的に生成されます -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="pt-4 border-t border-slate-100 mt-auto">
+                <button id="addBtn" class="w-full border-2 border-dashed border-slate-300 text-slate-500 hover:border-slate-400 hover:text-slate-700 hover:bg-slate-50 font-medium py-3 rounded-xl transition-colors flex items-center justify-center gap-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path></svg>
+                    新しい項目を追加
+                </button>
+                <p class="mt-4 text-xs text-slate-500 leading-relaxed text-center">
+                    割合（重み）の数値が大きいほど当たる確率が高くなります。<br>
+                    設定内容はブラウザに保存され、次回もそのまま使えます。
+                </p>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- 結果発表モーダル -->
+    <div id="resultModal" class="fixed inset-0 z-50 bg-slate-900/40 hidden flex items-center justify-center backdrop-blur-sm transition-opacity duration-300 opacity-0">
+        <div class="bg-white rounded-[2rem] shadow-2xl p-8 max-w-sm w-full mx-4 text-center transform scale-95 transition-transform duration-300 relative overflow-hidden" id="modalContent">
+            <!-- 背景の装飾 -->
+            <div class="absolute -top-24 -right-24 w-48 h-48 bg-yellow-100 rounded-full mix-blend-multiply filter blur-xl opacity-70"></div>
+            <div class="absolute -bottom-24 -left-24 w-48 h-48 bg-pink-100 rounded-full mix-blend-multiply filter blur-xl opacity-70"></div>
+            
+            <div class="relative z-10">
+                <p class="text-slate-500 font-bold tracking-widest text-sm mb-4">RESULT</p>
+                <div class="min-h-[120px] flex items-center justify-center mb-6">
+                    <h2 id="resultText" class="text-7xl font-black text-slate-800 drop-shadow-sm break-words leading-tight"></h2>
+                </div>
+                <button id="closeModalBtn" class="bg-slate-800 hover:bg-slate-900 text-white font-bold py-4 px-8 rounded-2xl w-full transition-colors shadow-md">
+                    閉じる
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- 状態管理 ---
+        const STORAGE_KEY = 'custom_roulette_data_v1';
+        
+        // デフォルトの項目リスト（おみくじ仕様）
+        const defaultItems = [
+            { id: 1, name: "大吉", weight: 10, color: "#ef4444" }, // red-500
+            { id: 2, name: "中吉", weight: 20, color: "#f97316" }, // orange-500
+            { id: 3, name: "小吉", weight: 30, color: "#eab308" }, // yellow-500
+            { id: 4, name: "末吉", weight: 20, color: "#84cc16" }, // lime-500
+            { id: 5, name: "凶", weight: 15, color: "#3b82f6" },   // blue-500
+            { id: 6, name: "大凶", weight: 5, color: "#a855f7" }   // purple-500
+        ];
+
+        // 追加項目用のカラーパレット
+        const PALETTE = ["#ef4444", "#f97316", "#eab308", "#84cc16", "#22c55e", "#14b8a6", "#0ea5e9", "#3b82f6", "#6366f1", "#a855f7", "#ec4899", "#f43f5e"];
+
+        let items = [];
+        let nextId = 1;
+        let currentRotation = 0;
+        let isSpinning = false;
+        let spinVelocity = 0;
+        let animationFrameId = null;
+        let audioCtx = null; // Web Audio API コンテキスト
+
+        // --- 初期化処理 ---
+        function init() {
+            loadData();
+            setupEventListeners();
+        }
+
+        // --- データ管理 ---
+        function loadData() {
+            const savedData = localStorage.getItem(STORAGE_KEY);
+            if (savedData) {
+                try {
+                    items = JSON.parse(savedData);
+                    // IDの最大値を取得して次回のIDを設定
+                    const maxId = items.reduce((max, item) => Math.max(max, item.id), 0);
+                    nextId = maxId + 1;
+                } catch (e) {
+                    console.error("データの読み込みに失敗しました", e);
+                    items = JSON.parse(JSON.stringify(defaultItems));
+                    nextId = 7;
+                }
+            } else {
+                items = JSON.parse(JSON.stringify(defaultItems));
+                nextId = 7;
+            }
+            
+            // 項目が空になってしまった場合の保護
+            if (items.length === 0) {
+                items = JSON.parse(JSON.stringify(defaultItems));
+                nextId = 7;
+            }
+
+            renderSettings();
+            drawRoulette();
+        }
+
+        function saveData() {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(items));
+        }
+
+        // --- UIレンダリング ---
+        function escapeHtml(str) {
+            if (typeof str !== 'string') return '';
+            return str.replace(/[&<>'"]/g, match => ({
+                '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
+            }[match]));
+        }
+
+        function renderSettings() {
+            const tbody = document.getElementById('settingsBody');
+            tbody.innerHTML = '';
+            
+            const totalWeight = items.reduce((sum, item) => sum + Math.max(0, Number(item.weight)), 0);
+
+            items.forEach((item, index) => {
+                const tr = document.createElement('tr');
+                tr.className = "border-b border-slate-100 last:border-0 hover:bg-slate-50 transition-colors";
+
+                const probability = totalWeight > 0
+                    ? Math.round((Math.max(0, Number(item.weight)) / totalWeight) * 100)
+                    : 0;
+
+                tr.innerHTML = `
+                    <td class="py-2 px-1 text-center">
+                        <input type="color" value="${item.color}"
+                            class="w-8 h-8 rounded cursor-pointer border-0 p-0 bg-transparent"
+                            onchange="updateItem(${item.id}, 'color', this.value)"
+                            ${isSpinning ? 'disabled' : ''}>
+                    </td>
+                    <td class="py-2 px-2">
+                        <input type="text" value="${escapeHtml(item.name)}"
+                            class="w-full bg-white border border-slate-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-shadow shadow-sm"
+                            onchange="updateItem(${item.id}, 'name', this.value)"
+                            ${isSpinning ? 'disabled' : ''}>
+                    </td>
+                    <td class="py-2 px-2">
+                        <input type="number" min="0" value="${item.weight}"
+                            class="w-full bg-white border border-slate-300 rounded-lg px-2 py-2 text-sm text-center focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-shadow shadow-sm"
+                            onchange="updateItem(${item.id}, 'weight', this.value)"
+                            ${isSpinning ? 'disabled' : ''}>
+                    </td>
+                    <td class="py-2 px-2 text-center text-sm font-bold ${probability > 0 ? 'text-slate-600' : 'text-slate-300'}">
+                        ${probability}%
+                    </td>
+                    <td class="py-2 px-1 text-center">
+                        <button onclick="deleteItem(${item.id})" class="text-slate-400 hover:text-red-500 p-2 rounded-lg hover:bg-red-50 transition-colors disabled:opacity-50" title="削除" ${isSpinning ? 'disabled' : ''}>
+                            <svg class="w-5 h-5 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                        </button>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        // --- データ更新アクション ---
+        window.updateItem = function(id, field, value) {
+            if (isSpinning) return;
+            const item = items.find(i => i.id === id);
+            if (item) {
+                if (field === 'weight') {
+                    value = parseInt(value, 10);
+                    if (isNaN(value) || value < 0) value = 0;
+                }
+                item[field] = value;
+                saveData();
+                renderSettings();
+                drawRoulette();
+            }
+        };
+
+        window.deleteItem = function(id) {
+            if (isSpinning) return;
+            if (items.length <= 2) {
+                alert("ルーレットを回すには項目が最低2つ必要です。");
+                return;
+            }
+            items = items.filter(i => i.id !== id);
+            saveData();
+            renderSettings();
+            drawRoulette();
+        };
+
+        document.getElementById('addBtn').addEventListener('click', () => {
+            if (isSpinning) return;
+            // 未使用の色を優先的に選ぶロジック
+            const usedColors = items.map(i => i.color);
+            let nextColor = PALETTE.find(c => !usedColors.includes(c));
+            if (!nextColor) {
+                nextColor = PALETTE[items.length % PALETTE.length];
+            }
+
+            items.push({
+                id: nextId++,
+                name: "新しい項目",
+                weight: 10,
+                color: nextColor
+            });
+            saveData();
+            renderSettings();
+            drawRoulette();
+            
+            // 追加したら一番下までスクロール
+            const tbody = document.getElementById('settingsBody');
+            tbody.parentElement.parentElement.scrollTop = tbody.parentElement.parentElement.scrollHeight;
+        });
+
+        // --- キャンバス描画 ---
+        function drawRoulette() {
+            const canvas = document.getElementById('rouletteCanvas');
+            const ctx = canvas.getContext('2d');
+            const cx = canvas.width / 2;
+            const cy = canvas.height / 2;
+            const radius = cx - 20; // 枠とのマージン
+
+            // キャンバスをクリア
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            const totalWeight = items.reduce((sum, item) => sum + Math.max(0, Number(item.weight)), 0);
+            
+            if (totalWeight <= 0) {
+                // 回せない状態の描画
+                ctx.beginPath();
+                ctx.arc(cx, cy, radius, 0, Math.PI * 2);
+                ctx.fillStyle = "#e2e8f0";
+                ctx.fill();
+                ctx.textAlign = "center";
+                ctx.textBaseline = "middle";
+                ctx.fillStyle = "#94a3b8";
+                ctx.font = "bold 40px sans-serif";
+                ctx.fillText("確率が設定されていません", cx, cy);
+                return;
+            }
+
+            ctx.save();
+            ctx.translate(cx, cy);
+            ctx.rotate(currentRotation);
+
+            let startAngle = 0;
+            for (let i = 0; i < items.length; i++) {
+                const weight = Math.max(0, Number(items[i].weight));
+                if (weight === 0) continue; // 確率0のものは描画しない
+
+                const sliceAngle = (weight / totalWeight) * Math.PI * 2;
+
+                // 扇形の描画
+                ctx.beginPath();
+                ctx.moveTo(0, 0);
+                ctx.arc(0, 0, radius, startAngle, startAngle + sliceAngle);
+                ctx.closePath();
+                ctx.fillStyle = items[i].color;
+                ctx.fill();
+
+                // セグメント間の境界線
+                ctx.lineWidth = 4;
+                ctx.strokeStyle = "#ffffff";
+                ctx.stroke();
+
+                // テキストの描画
+                ctx.save();
+                // 扇形の中央の角度に回転
+                ctx.rotate(startAngle + sliceAngle / 2);
+                ctx.textAlign = "right";
+                ctx.textBaseline = "middle";
+                ctx.fillStyle = "#ffffff";
+                
+                // 視認性を高めるためのテキストシャドウ
+                ctx.shadowColor = "rgba(0,0,0,0.4)";
+                ctx.shadowBlur = 6;
+                ctx.shadowOffsetX = 2;
+                ctx.shadowOffsetY = 2;
+
+                // フォントサイズは項目数が多いと小さくするなどの調整も可能ですが、固定で最大幅指定にする
+                ctx.font = "bold 46px sans-serif";
+                // キャンバスの半径から少し内側に配置、最大幅を指定して文字はみ出しを防ぐ
+                ctx.fillText(items[i].name, radius - 40, 0, radius - 120);
+                ctx.restore();
+
+                startAngle += sliceAngle;
+            }
+
+            // ルーレット中心の装飾（白丸）
+            ctx.beginPath();
+            ctx.arc(0, 0, 40, 0, Math.PI * 2);
+            ctx.fillStyle = "#ffffff";
+            ctx.fill();
+            ctx.lineWidth = 6;
+            ctx.strokeStyle = "#f1f5f9";
+            ctx.stroke();
+
+            // 中心の小さな点
+            ctx.beginPath();
+            ctx.arc(0, 0, 10, 0, Math.PI * 2);
+            ctx.fillStyle = "#cbd5e1";
+            ctx.fill();
+
+            ctx.restore();
+            
+            // 外枠の描画（一番外側）
+            ctx.beginPath();
+            ctx.arc(cx, cy, radius, 0, Math.PI * 2);
+            ctx.lineWidth = 12;
+            ctx.strokeStyle = "#ffffff";
+            ctx.stroke();
+            // 外枠のシャドウ効果っぽく
+            ctx.beginPath();
+            ctx.arc(cx, cy, radius + 6, 0, Math.PI * 2);
+            ctx.lineWidth = 2;
+            ctx.strokeStyle = "rgba(0,0,0,0.05)";
+            ctx.stroke();
+        }
+
+        // --- アニメーションと判定 ---
+        function startSpin() {
+            const totalWeight = items.reduce((sum, item) => sum + Math.max(0, Number(item.weight)), 0);
+            if (isSpinning || items.length === 0 || totalWeight <= 0) return;
+
+            // AudioContextの初期化（ユーザー操作時に初期化する必要があるためここで行います）
+            if (!audioCtx) {
+                audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+            }
+            if (audioCtx.state === 'suspended') {
+                audioCtx.resume();
+            }
+
+            isSpinning = true;
+            
+            // UIの無効化
+            const spinBtn = document.getElementById('spinBtn');
+            spinBtn.disabled = true;
+            spinBtn.innerHTML = '<svg class="animate-spin -ml-1 mr-3 h-6 w-6 text-white inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg> 回転中...';
+            
+            renderSettings(); // 入力欄を無効化するため再レンダリング
+
+            // ランダムな初速を設定（最低でも数周するように）
+            // 約 0.35 〜 0.45 ラジアン/フレーム
+            spinVelocity = 0.35 + Math.random() * 0.1;
+
+            function animate() {
+                currentRotation += spinVelocity;
+                
+                // 摩擦係数による減速
+                if (spinVelocity > 0.04) {
+                    spinVelocity *= 0.985; // なめらかな減速
+                } else {
+                    spinVelocity *= 0.96;  // 止まる直前は少し強めにブレーキ
+                }
+
+                drawRoulette();
+
+                // 停止条件
+                if (spinVelocity < 0.001) {
+                    isSpinning = false;
+                    spinBtn.disabled = false;
+                    spinBtn.innerHTML = '<svg class="w-8 h-8 inline mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg> もう一度回す';
+                    renderSettings(); // 入力欄の無効化解除
+                    determineResult();
+                } else {
+                    animationFrameId = requestAnimationFrame(animate);
+                }
+            }
+            
+            // アニメーション開始
+            animate();
+        }
+
+        function determineResult() {
+            const totalWeight = items.reduce((sum, item) => sum + Math.max(0, Number(item.weight)), 0);
+            if (totalWeight <= 0) return;
+
+            // 針の位置はキャンバスの上部（12時の方向）。
+            // 描画時に currentRotation だけ回転させているため、
+            // 針の位置に相当するローカルの角度を逆算する。
+            // キャンバス座標で上方向は -Math.PI / 2
+            let pointerAngle = (-Math.PI / 2 - currentRotation) % (Math.PI * 2);
+            if (pointerAngle < 0) pointerAngle += Math.PI * 2; // 0 〜 2πの範囲に正規化
+
+            let currentAngle = 0;
+            let selectedItem = null;
+
+            for (let i = 0; i < items.length; i++) {
+                const weight = Math.max(0, Number(items[i].weight));
+                if (weight === 0) continue;
+
+                const sliceAngle = (weight / totalWeight) * Math.PI * 2;
+
+                // 針の角度が現在の扇形の範囲内にあるか判定
+                if (pointerAngle >= currentAngle && pointerAngle < currentAngle + sliceAngle) {
+                    selectedItem = items[i];
+                    break;
+                }
+                currentAngle += sliceAngle;
+            }
+
+            if (selectedItem) {
+                showResultModal(selectedItem);
+            }
+        }
+
+        // --- 音声生成 ---
+        function playFanfare() {
+            if (!audioCtx) return;
+            
+            function playNote(freq, startTime, duration, vol = 0.1) {
+                const osc = audioCtx.createOscillator();
+                const gain = audioCtx.createGain();
+                
+                osc.type = 'triangle'; // 聴きやすい三角波を使用
+                osc.frequency.setValueAtTime(freq, audioCtx.currentTime + startTime);
+                
+                // エンベロープ（音量の変化を制御して自然な音にする）
+                gain.gain.setValueAtTime(0, audioCtx.currentTime + startTime);
+                gain.gain.linearRampToValueAtTime(vol, audioCtx.currentTime + startTime + 0.05);
+                gain.gain.setValueAtTime(vol, audioCtx.currentTime + startTime + duration - 0.1);
+                gain.gain.linearRampToValueAtTime(0, audioCtx.currentTime + startTime + duration);
+                
+                osc.connect(gain);
+                gain.connect(audioCtx.destination);
+                
+                osc.start(audioCtx.currentTime + startTime);
+                osc.stop(audioCtx.currentTime + startTime + duration);
+            }
+
+            const t = 0.15; // テンポ（1音の長さ）
+            
+            // メインメロディ (ソ・ド・ミ・ソ〜)
+            playNote(392.00, 0, t, 0.15);       // G4
+            playNote(523.25, t, t, 0.15);       // C5
+            playNote(659.25, t*2, t, 0.15);     // E5
+            playNote(783.99, t*3, t*4, 0.15);   // G5
+
+            // ハーモニー (ド・ミ・ソ・ド〜)
+            playNote(261.63, 0, t, 0.1);        // C4
+            playNote(329.63, t, t, 0.1);        // E4
+            playNote(392.00, t*2, t, 0.1);      // G4
+            playNote(523.25, t*3, t*4, 0.1);    // C5
+        }
+
+        // --- モーダル制御 ---
+        function showResultModal(item) {
+            const modal = document.getElementById('resultModal');
+            const content = document.getElementById('modalContent');
+            const resultText = document.getElementById('resultText');
+
+            // ファンファーレを鳴らす
+            playFanfare();
+
+            resultText.textContent = item.name;
+            resultText.style.color = item.color;
+            
+            // テキストの長さによってフォントサイズを調整
+            if (item.name.length > 5) {
+                resultText.classList.replace('text-7xl', 'text-5xl');
+            } else {
+                resultText.classList.replace('text-5xl', 'text-7xl');
+            }
+
+            // 表示処理
+            modal.classList.remove('hidden');
+            
+            // 少し遅延させてからトランジションクラスを付与（DOM描画待ち）
+            requestAnimationFrame(() => {
+                modal.classList.replace('opacity-0', 'opacity-100');
+                content.classList.replace('scale-95', 'scale-100');
+                
+                // テキストのポップインアニメーション
+                resultText.classList.remove('animate-pop-in');
+                void resultText.offsetWidth; // リフロー強制
+                resultText.classList.add('animate-pop-in');
+            });
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('resultModal');
+            const content = document.getElementById('modalContent');
+            const resultText = document.getElementById('resultText');
+
+            // 非表示アニメーション
+            modal.classList.replace('opacity-100', 'opacity-0');
+            content.classList.replace('scale-100', 'scale-95');
+            
+            // アニメーション完了後にDOM非表示
+            setTimeout(() => {
+                modal.classList.add('hidden');
+                resultText.classList.remove('animate-pop-in');
+            }, 300);
+        }
+
+        function setupEventListeners() {
+            document.getElementById('spinBtn').addEventListener('click', startSpin);
+            
+            // モーダル閉じるイベント
+            document.getElementById('closeModalBtn').addEventListener('click', closeModal);
+            document.getElementById('resultModal').addEventListener('click', (e) => {
+                if (e.target === document.getElementById('resultModal')) {
+                    closeModal();
+                }
+            });
+        }
+
+        // --- アプリケーション起動 ---
+        window.addEventListener('DOMContentLoaded', init);
+
+    </script>
+</body>
+</html>
